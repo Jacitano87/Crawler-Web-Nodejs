@@ -15,15 +15,17 @@ db.once('open', function callback () {
 });
 
 
+
+
 app.get('/scrape', function(req, res){
     
-    console.log("Param: "+ req.param('url'));
+   // console.log("Param: "+ req.param('url'));
     var seme = req.param('url');
 
     
     
    // async.series([crawler(seme),continueCrawler()]);
-  //  crawler(seme);
+   // crawler(seme);
     continueCrawler();
     
    
@@ -32,34 +34,22 @@ app.get('/scrape', function(req, res){
                           
 })
 
+function done()
+{
+    console.log("Ciao");
+}
+
+
+
 function continueCrawler()
 {
     
-    
-   var query =  Element.find({});
-
-query.where('visited', 'no');
-query.limit(1);
-    query.sort('data');
-
-
-
-query.exec(function (err, docs) {
-  console.log(docs[0].url);
-});
- /*   
-    var query = Element.find({visited:'no'});
-    query.select('url')
-    //query.sort({ date: 1})
-    //query.limit(1)
-    
-    
-    query.exec(function (err, result) {
+ Element.findOne({ visited:'no' },null,{sort: {_id: 1 }}, function (err, result) {
   if (err) return handleError(err);
-  console.log('Result: '+ result.url); 
-})
+  console.log("Result: " + result.urlCrawler); 
 
-*/
+     crawler(result.urlCrawler);
+})
 }
 
 
@@ -77,30 +67,17 @@ function crawler(urlSeme)
       var a = $(this);
       var url = a.attr('href');          
       var urlMod = urlSeme;
-     var tempUrl; 
-              if(url != undefined && urlSeme!=url)
+     var tempUrl = url; 
+               
+              
+              
+                 
+              if(url != undefined && urlSeme != url && url.charAt(0) != '#' && url.charAt(0) == 'h' && url.charAt(1) == 't' && url.charAt(2) == 't' && url.charAt(3) == 'p' )
               {
-                  
-                if (url.charAt(0) == '/')
-                {
-                  urlMod = urlMod +url;
-                   // console.log(urlMod);
-                    tempUrl=urlMod;
-                   // console.log(urlMod.slice(-4));
-                }
-                else
-                {   
-                   if(url.charAt(0) != '#') 
-                   {
-                      // console.log(url);
-                       tempUrl=url;
-                    // console.log(url.slice(-4));
-                   }
-                }
-                  
-                 var urlSave = {
+            
+             var urlSave = {
            pathFile: '-1',
-           url: tempUrl,
+           urlCrawler: tempUrl,
            fatherUrl: urlSeme,
            depth: '-1',
            discoveredUrl: '-1',
@@ -109,17 +86,17 @@ function crawler(urlSeme)
                   
                   
                   
-            Element.find({ url: urlSave.url}, 'url',function (err, elem) {
+            Element.find({ urlCrawler: urlSave.urlCrawler}, 'urlCrawler',function (err, elem) {
                 
                 if(err){console.log('errore'+err)}
 	 
                 if(elem.length == 0)
 	            {
                         var newElement = new Element(urlSave);
-	    	 
+	    	 console.log(urlSave.urlCrawler);
                     newElement.save(function(err, product){
                         if(err){}
-  				          console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " Url:"+ product.url +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" discoveredUrl:"+ product.discoveredUrl + " visited:" + product.visited +" data:"+product.data + "}]");
+  // console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" discoveredUrl:"+ product.discoveredUrl + " visited:" + product.visited +" data:"+product.data + "}]");
                         
   				          //res.write("saved : [{ _id:" + product._id + " mail:"+ product.mail + "}]");
                       }); 

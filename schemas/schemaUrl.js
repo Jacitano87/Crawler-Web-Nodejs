@@ -6,7 +6,7 @@ var url = new  mongoose.Schema({
 	
             
            pathFile: String,
-           url: String,
+           urlCrawler: String,
            fatherUrl: String,
            depth: String,
            discoveredUrl: String,
