@@ -9,7 +9,7 @@ var url = new  mongoose.Schema({
            urlCrawler: String,
            fatherUrl: String,
            depth: String,
-           discoveredUrl: String,
+           id_simulazione: String,
            visited: String,
            data:  { type: Date, default: Date.now },
 
