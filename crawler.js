@@ -8,6 +8,7 @@ var app = express();
 var bodyParser = require('body-parser');
 var mongoose  = require('../Crawler/connectdb/connectMongoDb');
 var Element = require('../Crawler/model/urlModel');
+var mkdirp = require('mkdirp');
 
 var db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
@@ -26,7 +27,7 @@ app.post('/scrape', urlencodedParser , function(req, res){
     crawlerContinue=1;
     var timeInMs = Date.now();
     var sim ="Simulation"+timeInMs;
-   
+    var indiceFile = 1;
     
     var seme = req.param('url1');
     
@@ -60,10 +61,14 @@ app.post('/scrape', urlencodedParser , function(req, res){
     
     var duration = req.param('duration');
     
-   
-    
+    var createPath = "./file/"+sim;
+    mkdirp(createPath, function(err) { 
+
+    // path was created unless there was error
+
+});
   
-   
+    
     
 for(var i=0; i<arrayUrl.length;i++)
 {
@@ -81,13 +86,14 @@ for(var i=0; i<arrayUrl.length;i++)
                     newElement.save(function(err, product){
                         if(err){}
 //  	console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}]");			        
-                        if(arrayUrl.length == i-1)
-                            continueCrawler(sim,arrayKey);
+                        
+                        if(arrayUrl.length == i-1){}
+                         //   continueCrawler(sim,arrayKey,indiceFile,createPath);
                       }); 
    
 }
     
-   continueCrawler(sim,arrayKey);
+   continueCrawler(sim,arrayKey,indiceFile,createPath);
    
    setInterval(function(){
   
@@ -95,7 +101,7 @@ for(var i=0; i<arrayUrl.length;i++)
         console.log("Simulazione finita");
         res.end("Simulazione finita \n");
         process.exit();
-}, 60*1000); 
+}, 60*1000*15); 
                           
 }) //close /scrape
 
@@ -104,7 +110,7 @@ for(var i=0; i<arrayUrl.length;i++)
 
 
 
-function continueCrawler(numSimul,arrayKiavi)
+function continueCrawler(numSimul,arrayKiavi,indice,pathFolder)
 {
     if(crawlerContinue == 1)
     {
@@ -114,7 +120,7 @@ function continueCrawler(numSimul,arrayKiavi)
    {
     if(result.urlCrawler != null )
     {
-      crawler(result.urlCrawler,numSimul,arrayKiavi);
+      crawler(result.urlCrawler,numSimul,arrayKiavi,indice,pathFolder);
    //   console.log("Start Parsing url: " + result.urlCrawler + " idSimulazione: "+result.id_simulazione); 
     }
    }
@@ -128,10 +134,10 @@ function continueCrawler(numSimul,arrayKiavi)
 }
 
 
-function crawler(urlSeme,numSim,arrayKeys)
+function crawler(urlSeme,numSim,arrayKeys,indiceFile,folderPath)
 {
-   
-    
+  var indiceDelFile = indiceFile;
+    var trovato = 0;
    
  request(urlSeme, function(error, response, html){
         if(!error){
@@ -145,6 +151,7 @@ function crawler(urlSeme,numSim,arrayKeys)
                 
             if(regexWord.test(html))
             {
+                trovato = 1;
                 console.log("url:"+urlSeme+" Contiene la stringa "+arrayKeys[i]); 
             }
             else 
@@ -154,7 +161,20 @@ function crawler(urlSeme,numSim,arrayKeys)
                 
             }
             
-           
+           if(trovato==1)
+           {
+                var timeInMs = Date.now();
+    var idFile =numSim+""+timeInMs;
+               
+            
+                var tempPath = folderPath+"/"+idFile+".txt";
+                console.log("Path: "+tempPath);
+                fs = require('fs');
+fs.writeFile(tempPath, html, function (err) {
+  if (err) return console.log(err);
+  indiceDelFile++;
+});   
+           }
             
             /*
             if(html.indexOf("Roma") > -1) {
@@ -207,7 +227,7 @@ if(regex.test(url))
                         if(err){}
  //  console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}]");
                         
-  				          continueCrawler(numSim,arrayKeys);
+  				          continueCrawler(numSim,arrayKeys,indiceDelFile,folderPath);
                       }); 
 	            }	
 	            else
