@@ -16,13 +16,44 @@ db.once('open', function callback () {
 
 });
 
-var crawlerContinue;
-
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 
-app.post('/scrape', urlencodedParser , function(req, res){
+
+
+
+app.post('/print', urlencodedParser , function(req, res){
+
     
-    console.log(req.body);
+    if(req.param('simulazione'))
+        var simulazione =(req.param('simulazione'));
+    console.log("Simulazione:"+simulazione);
+    Element.find({id_simulazione:simulazione}, function (err, result) {
+  if (err) return handleError(err);
+   else
+   {
+       result.forEach(function(product){
+      
+           if(product.pathFile != '-1')
+           {
+      console.log(" Path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}");	
+           }
+    });
+       
+   
+     
+ 	
+    
+   }
+})
+    
+    
+});
+
+
+
+app.post('/crawler', urlencodedParser , function(req, res){
+    
+    
     
     crawlerContinue=1;
     var timeInMs = Date.now();
@@ -30,7 +61,7 @@ app.post('/scrape', urlencodedParser , function(req, res){
     var indiceFile = 1;
     
     var seme = req.param('url1');
-    
+    var durata = req.param('durata');
     var arrayUrl = [];
     var arrayKey = [];
     
@@ -45,6 +76,26 @@ app.post('/scrape', urlencodedParser , function(req, res){
         arrayUrl[3]=(req.param('url4'));
     if(req.param('url5'))
         arrayUrl[4]=(req.param('url5'));
+    if(req.param('url6'))
+        arrayUrl[5]=(req.param('url6'));
+    if(req.param('url7'))
+        arrayUrl[6]=(req.param('url7'));
+    if(req.param('url8'))
+        arrayUrl[7]=(req.param('url8'));
+    if(req.param('url9'))
+        arrayUrl[8]=(req.param('url9'));
+    if(req.param('url10'))
+        arrayUrl[9]=(req.param('url10'));
+    if(req.param('url11'))
+        arrayUrl[10]=(req.param('url11'));
+    if(req.param('url12'))
+        arrayUrl[11]=(req.param('url12'));
+    if(req.param('url13'))
+        arrayUrl[12]=(req.param('url13'));
+    if(req.param('url14'))
+        arrayUrl[13]=(req.param('url14'));
+    if(req.param('url15'))
+        arrayUrl[14]=(req.param('url15'));
     
     
      if(req.param('key1'))
@@ -72,11 +123,12 @@ app.post('/scrape', urlencodedParser , function(req, res){
     
 for(var i=0; i<arrayUrl.length;i++)
 {
+   var salvato = 1;
 
         var urlSave = {
            pathFile: '-1',
            urlCrawler: arrayUrl[i],
-           fatherUrl: arrayUrl[i],
+           fatherUrl: "Initial Seed Url",
            depth: '-1',
            id_simulazione: sim,
            visited:'no',
@@ -85,23 +137,33 @@ for(var i=0; i<arrayUrl.length;i++)
      var newElement = new Element(urlSave);
                     newElement.save(function(err, product){
                         if(err){}
-//  	console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}]");			        
+ // 	console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}]");			        
+                       
                         
-                        if(arrayUrl.length == i-1){}
-                         //   continueCrawler(sim,arrayKey,indiceFile,createPath);
+                         if(salvato == 1)
+                        {
+                          //  console.log("ArrayLenght:"+arrayUrl.length+" i:"+i);
+                          //  continueCrawler(sim,arrayKey,indiceFile,createPath);
+                             salvato =0;
+                        }
+                        
                       }); 
    
 }
     
-   continueCrawler(sim,arrayKey,indiceFile,createPath);
+  //continueCrawler(sim,arrayKey,indiceFile,createPath);
    
+setInterval(function(){   
+    continueCrawler(sim,arrayKey,indiceFile,createPath);
+    }, 3000); //3 sec
+    
    setInterval(function(){
   
         crawlerContinue=0;
         console.log("Simulazione finita");
         res.end("Simulazione finita \n");
         process.exit();
-}, 60*1000*15); 
+}, 60*1000*durata); 
                           
 }) //close /scrape
 
@@ -120,14 +182,17 @@ function continueCrawler(numSimul,arrayKiavi,indice,pathFolder)
    {
     if(result.urlCrawler != null )
     {
-      crawler(result.urlCrawler,numSimul,arrayKiavi,indice,pathFolder);
+        setTimeout(function() {
+    crawler(result.urlCrawler,numSimul,arrayKiavi,indice,pathFolder);
+}, 500); //mezzo  secondo
+      
    //   console.log("Start Parsing url: " + result.urlCrawler + " idSimulazione: "+result.id_simulazione); 
     }
    }
 })
     }
     else
-    {    
+    {   
       console.log("Fine simulazione..");   
     }
  
@@ -138,8 +203,13 @@ function crawler(urlSeme,numSim,arrayKeys,indiceFile,folderPath)
 {
   var indiceDelFile = indiceFile;
     var trovato = 0;
-   
- request(urlSeme, function(error, response, html){
+   var timeInMs = Date.now();
+     var idFile =numSim+""+timeInMs;
+                var tempPath = folderPath+"/"+idFile+".txt";
+    var options = {maxRedirects:10};
+  
+
+ request(urlSeme,options, function(error, response, html){
         if(!error){
             var $ = cheerio.load(html);
           
@@ -156,36 +226,28 @@ function crawler(urlSeme,numSim,arrayKeys,indiceFile,folderPath)
             }
             else 
             {
-          //    console.log("url:"+urlSeme+" NON Contiene la stringa "+arrayKeys[i]);    
+              //console.log("url:"+urlSeme+" NON Contiene la stringa "+arrayKeys[i]);    
             } 
                 
             }
             
            if(trovato==1)
            {
-                var timeInMs = Date.now();
-    var idFile =numSim+""+timeInMs;
-               
-            
-                var tempPath = folderPath+"/"+idFile+".txt";
-                console.log("Path: "+tempPath);
+                
+                //console.log("Path: "+tempPath);
                 fs = require('fs');
 fs.writeFile(tempPath, html, function (err) {
   if (err) return console.log(err);
   indiceDelFile++;
+    
+    
+    
+    
+    
 });   
            }
             
-            /*
-            if(html.indexOf("Roma") > -1) {
-
-             console.log("url:"+urlSeme+" Contiene la stringa Roma");   
-            }
-            else 
-            {
-             console.log("url:"+urlSeme+" NON Contiene la stringa Roma");    
-            }
-            */
+            
           $('a').each(function(i, element){
               
       var a = $(this);
@@ -201,11 +263,11 @@ if(regex.test(url))
                  
               if(url != undefined && urlSeme != url && url.charAt(0) != '#' && url.charAt(0) == 'h' && url.charAt(1) == 't' && url.charAt(2) == 't' && url.charAt(3) == 'p' )
               {
-                  
-                  
-            
+                   if(trovato==0)
+                    tempPath='-1';
+            //console.log("PathFile:"+tempPath);
              var urlSave = {
-           pathFile: '-1',
+           pathFile: tempPath,
            urlCrawler: tempUrl,
            fatherUrl: urlSeme,
            depth: '-1',
@@ -246,7 +308,7 @@ if(regex.test(url))
     })
            
         }
-    })
+    }).setMaxListeners(0)
     
    
 }
