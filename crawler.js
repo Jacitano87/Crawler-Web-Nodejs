@@ -27,7 +27,7 @@ app.post('/print', urlencodedParser , function(req, res){
     if(req.param('simulazione'))
         var simulazione =(req.param('simulazione'));
     console.log("Simulazione:"+simulazione);
-    Element.find({id_simulazione:simulazione}, function (err, result) {
+    Element.find({id_simulazione:simulazione},{},{sort: {pathFile: 1 }}, function (err, result) {
   if (err) return handleError(err);
    else
    {
@@ -35,7 +35,11 @@ app.post('/print', urlencodedParser , function(req, res){
       
            if(product.pathFile != '-1')
            {
-      console.log(" Path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}");	
+      console.log(" Path:"+ product.pathFile + " UrlCrawel:"+ product.urlCrawler );	
+           }
+           else
+           {
+               
            }
     });
        
@@ -123,7 +127,7 @@ app.post('/crawler', urlencodedParser , function(req, res){
     
 for(var i=0; i<arrayUrl.length;i++)
 {
-   var salvato = 1;
+   
 
         var urlSave = {
            pathFile: '-1',
@@ -137,16 +141,10 @@ for(var i=0; i<arrayUrl.length;i++)
      var newElement = new Element(urlSave);
                     newElement.save(function(err, product){
                         if(err){}
- // 	console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}]");			        
+  	console.log("Seed Iniziali : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" id_sim:"+ product.id_simulazione + " visited:" + product.visited);			        
                        
                         
-                         if(salvato == 1)
-                        {
-                          //  console.log("ArrayLenght:"+arrayUrl.length+" i:"+i);
-                          //  continueCrawler(sim,arrayKey,indiceFile,createPath);
-                             salvato =0;
-                        }
-                        
+                       
                       }); 
    
 }
@@ -155,14 +153,15 @@ for(var i=0; i<arrayUrl.length;i++)
    
 setInterval(function(){   
     continueCrawler(sim,arrayKey,indiceFile,createPath);
-    }, 3000); //3 sec
+    }, 300); //300millisec
     
-   setInterval(function(){
+   setTimeout(function(){
   
         crawlerContinue=0;
-        console.log("Simulazione finita");
+        console.log("Simulazione finita!");
         res.end("Simulazione finita \n");
-        process.exit();
+       // process.exit();
+       
 }, 60*1000*durata); 
                           
 }) //close /scrape
@@ -176,24 +175,32 @@ function continueCrawler(numSimul,arrayKiavi,indice,pathFolder)
 {
     if(crawlerContinue == 1)
     {
+        
  Element.findOneAndUpdate({ $and: [ {visited:'no' , id_simulazione:numSimul }]},{$set :{visited:'yes'}},{sort: {_id: 1 }}, function (err, result) {
   if (err) return handleError(err);
    else
    {
-    if(result.urlCrawler != null )
+    if(result != null )
     {
+           
         setTimeout(function() {
+            
     crawler(result.urlCrawler,numSimul,arrayKiavi,indice,pathFolder);
-}, 500); //mezzo  secondo
+        
+}, 5); //mezzo  secondo
       
    //   console.log("Start Parsing url: " + result.urlCrawler + " idSimulazione: "+result.id_simulazione); 
     }
+       else
+       {
+         console.log("No url da controllare nel Database...");   
+       }
    }
 })
     }
     else
     {   
-      console.log("Fine simulazione..");   
+    //  console.log("Fine simulazione...");   
     }
  
 }
@@ -206,11 +213,12 @@ function crawler(urlSeme,numSim,arrayKeys,indiceFile,folderPath)
    var timeInMs = Date.now();
      var idFile =numSim+""+timeInMs;
                 var tempPath = folderPath+"/"+idFile+".txt";
-    var options = {maxRedirects:10};
+    var options = {maxRedirects:0};
   
 
  request(urlSeme,options, function(error, response, html){
-        if(!error){
+ 
+     if(!error){
             var $ = cheerio.load(html);
           
             for(var i=0 ; i< arrayKeys.length ; i++)
@@ -222,11 +230,11 @@ function crawler(urlSeme,numSim,arrayKeys,indiceFile,folderPath)
             if(regexWord.test(html))
             {
                 trovato = 1;
-                console.log("url:"+urlSeme+" Contiene la stringa "+arrayKeys[i]); 
+              //  console.log("UrlTrovata:"+urlSeme+" Contiene:"+arrayKeys[i]); 
             }
             else 
             {
-              //console.log("url:"+urlSeme+" NON Contiene la stringa "+arrayKeys[i]);    
+              //console.log("url:"+urlSeme+" Contiene: "+arrayKeys[i]);    
             } 
                 
             }
@@ -235,21 +243,50 @@ function crawler(urlSeme,numSim,arrayKeys,indiceFile,folderPath)
            {
                 
                 //console.log("Path: "+tempPath);
-                fs = require('fs');
-fs.writeFile(tempPath, html, function (err) {
+              var fs = require('fs');
+               
+Element.find({  $and: [ {urlCrawler: urlSeme , id_simulazione:numSim , visited:'no',pathFile:'-1' }] }, 'urlCrawler',function (err, elem) {
+if(err){console.log('errore'+err)}
+	 
+                if(elem.length == 0)
+	            {
+                  
+Element.findOneAndUpdate({ $and: [ {urlCrawler:urlSeme , id_simulazione:numSim }]},{$set :{pathFile:tempPath}}, function (err, result) {
+  if (err) return handleError(err);
+   else
+   {
+  fs.writeFile(tempPath, html, function (err) {
   if (err) return console.log(err);
-  indiceDelFile++;
+  console.log("Salvato path:"+tempPath+" path:"+urlSeme +" ");
+    trovato=0;
+      
+      }); //closeWriteFile  
+   }
+})                    
+                    
+                    
+                 
     
-    
-    
-    
-    
-});   
+ 
+  
+                    
+                }
+    else
+    {
+         
+     //console.log("elemento duplicato");   
+    }
+                
+
+});
+               
+
+           
+           
            }
-            
-            
+var doppio = 0;            
+var temporaneoUrl = [];            
           $('a').each(function(i, element){
-              
       var a = $(this);
       var url = a.attr('href');          
       var urlMod = urlSeme;
@@ -259,22 +296,33 @@ fs.writeFile(tempPath, html, function (err) {
               
 if(regex.test(url))
 {
-                  
-                 
+                if (temporaneoUrl != null)
+                {
+                     for( var i= 0 ; i < temporaneoUrl.length ; i++)
+                     {
+                         if( temporaneoUrl[i] == url )
+                         {
+                          //console.log("Doppio Url in pagina");
+                             doppio = 1;
+                         }
+                     }
+                }
+               temporaneoUrl.push(url);  
+if(doppio == 0)    
+{
               if(url != undefined && urlSeme != url && url.charAt(0) != '#' && url.charAt(0) == 'h' && url.charAt(1) == 't' && url.charAt(2) == 't' && url.charAt(3) == 'p' )
               {
-                   if(trovato==0)
-                    tempPath='-1';
+                   
             //console.log("PathFile:"+tempPath);
              var urlSave = {
-           pathFile: tempPath,
+           pathFile: '-1',
            urlCrawler: tempUrl,
            fatherUrl: urlSeme,
            depth: '-1',
            id_simulazione: numSim,
            visited:'no',
 };
-                  
+                trovato=0;  
                   
                   
             Element.find({  $and: [ {urlCrawler: urlSave.urlCrawler , id_simulazione:numSim }] }, 'urlCrawler',function (err, elem) {
@@ -286,15 +334,15 @@ if(regex.test(url))
                         var newElement = new Element(urlSave);
 	    	// console.log(urlSave.urlCrawler);
                     newElement.save(function(err, product){
-                        if(err){}
- //  console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" depth:"+ product.depth +" id_sim:"+ product.id_simulazione + " visited:" + product.visited +" data:"+product.data + "}]");
+                        if(err){return handleError(err);}
+ // console.log("saved : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl);
                         
-  				          continueCrawler(numSim,arrayKeys,indiceDelFile,folderPath);
+  				         // continueCrawler(numSim,arrayKeys,indiceDelFile,folderPath);
                       }); 
 	            }	
 	            else
 	           {
-	 	               //    console.log('Url not insered (duplicated)');
+	 	                  // console.log('Url not insered (duplicated)');
                         // res.write('Mail: '+ mailSave.mail +' not insered (duplicated)');
                }
             });      
@@ -303,6 +351,11 @@ if(regex.test(url))
                   //continueCrawler();
                   
               }
+}// if doppio
+ else
+ {
+  doppio = 0;   
+ }
      }//regex
           
     })
