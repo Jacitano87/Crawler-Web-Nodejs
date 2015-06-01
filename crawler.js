@@ -57,8 +57,8 @@ app.post('/print', urlencodedParser , function(req, res){
 
 app.post('/crawler', urlencodedParser , function(req, res){
     
-    
-    
+    var timeStart = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
+    console.log("Start Simulation:"+timeStart);RangeError: 
     crawlerContinue=1;
     var timeInMs = Date.now();
     var sim ="Simulation"+timeInMs;
@@ -141,7 +141,7 @@ for(var i=0; i<arrayUrl.length;i++)
      var newElement = new Element(urlSave);
                     newElement.save(function(err, product){
                         if(err){}
-  	console.log("Seed Iniziali : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" id_sim:"+ product.id_simulazione + " visited:" + product.visited);			        
+  	//console.log("Seed Iniziali : [{ _id:" + product._id + " path:"+ product.pathFile + " UrlCraw:"+ product.urlCrawler +" FatherUrl:"+ product.fatherUrl +" id_sim:"+ product.id_simulazione + " visited:" + product.visited);			        
                        
                         
                        
@@ -151,16 +151,16 @@ for(var i=0; i<arrayUrl.length;i++)
     
   //continueCrawler(sim,arrayKey,indiceFile,createPath);
    
-setInterval(function(){   
+setTimeout(function(){   
     continueCrawler(sim,arrayKey,indiceFile,createPath);
-    }, 300); //300millisec
+    }, 3000); // 1 sec
     
    setTimeout(function(){
-  
+      var timeFine = new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
         crawlerContinue=0;
-        console.log("Simulazione finita!");
+        console.log("Simulazione finita:"+timeFine);
         res.end("Simulazione finita \n");
-       // process.exit();
+        process.exit();
        
 }, 60*1000*durata); 
                           
@@ -183,17 +183,17 @@ function continueCrawler(numSimul,arrayKiavi,indice,pathFolder)
     if(result != null )
     {
            
-        setTimeout(function() {
-            
+        
+         //   console.log("StartParsURL: " + result.urlCrawler);
     crawler(result.urlCrawler,numSimul,arrayKiavi,indice,pathFolder);
         
-}, 5); //mezzo  secondo
+ //mezzo  secondo
       
-   //   console.log("Start Parsing url: " + result.urlCrawler + " idSimulazione: "+result.id_simulazione); 
+       
     }
        else
        {
-         console.log("No url da controllare nel Database...");   
+       //  console.log("No url da controllare nel Database...");   
        }
    }
 })
@@ -208,17 +208,23 @@ function continueCrawler(numSimul,arrayKiavi,indice,pathFolder)
 
 function crawler(urlSeme,numSim,arrayKeys,indiceFile,folderPath)
 {
+    if(crawlerContinue == 1)
+    {
   var indiceDelFile = indiceFile;
     var trovato = 0;
    var timeInMs = Date.now();
      var idFile =numSim+""+timeInMs;
                 var tempPath = folderPath+"/"+idFile+".txt";
-    var options = {maxRedirects:0};
+    var options = {maxRedirects:10 , timeout: 3000};
   
-
+//console.log("Before  Crawlwer Request");
  request(urlSeme,options, function(error, response, html){
- 
+  if(error){ //console.log("errore");
+             continueCrawler(numSim,arrayKeys,indiceFile,folderPath);
+           }
      if(!error){
+         
+         //console.log("Entra  Crawlwer Request");
             var $ = cheerio.load(html);
           
             for(var i=0 ; i< arrayKeys.length ; i++)
@@ -285,8 +291,25 @@ Element.findOneAndUpdate({ $and: [ {urlCrawler:urlSeme , id_simulazione:numSim }
            
            }
 var doppio = 0;            
-var temporaneoUrl = [];            
+var temporaneoUrl = [];  
+         
+         if($('a').length == 0)
+         {
+             continueCrawler(numSim,arrayKeys,indiceFile,folderPath);
+          //  console.log("Chiama Crawlwer lenght = 0");
+         }
+         
+         
           $('a').each(function(i, element){
+            
+            // if(($('a').length -1) == i){
+              if(i == 0){
+            //      console.log("ElementiA:"+($('a').length-1)+" I:"+i);
+             //     console.log("Chiama Crawlwer lenght > 0");
+                 continueCrawler(numSim,arrayKeys,indiceFile,folderPath);
+                  
+             }
+              
       var a = $(this);
       var url = a.attr('href');          
       var urlMod = urlSeme;
@@ -357,12 +380,17 @@ if(doppio == 0)
   doppio = 0;   
  }
      }//regex
-          
+         
+               
+              
+              
+              
     })
            
         }
     }).setMaxListeners(0)
     
+    }//if clawler
    
 }
 
