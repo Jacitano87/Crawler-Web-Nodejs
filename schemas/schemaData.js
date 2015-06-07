@@ -7,6 +7,7 @@ var data = new  mongoose.Schema({
         simulation: String,
               path: String,
             father: String,
+             depth: { type: Number }
 		
 });
 

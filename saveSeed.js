@@ -10,7 +10,8 @@ var UrlParsing = require('../Crawler/model/dataModel');
            visited : false,
            simulation : numSim,
                 path : '-1',
-               father : 'Seed Initial'
+               father : 'Seed Initial',
+                 depth: 0
         };
    
 
@@ -19,7 +20,7 @@ var UrlParsing = require('../Crawler/model/dataModel');
                     newElement.save(function(err, product){
                         if(err){}
                         
-                        console.log("Seed Saved Correctly: "+product.urlParse);
+                        console.log("Seed Saved Correctly: "+product.urlParse + " Deph:"+product.depth);
   
                       
                       }); 

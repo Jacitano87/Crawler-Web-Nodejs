@@ -20,6 +20,12 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false });
     callback();
 }, 10);
 
+
+var q2 = async.queue(function (task, callback) {
+    
+    callback();
+}, 10);
+
 // assign a callback
 q.saturated = function() {
     console.log('Coda saturata');
@@ -47,6 +53,8 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
     arrayKey[0] = req.body.key1;
     arrayKey[1] = req.body.key2;
     
+    var durata = 1000 * 60 * req.body.durata;
+    var startSimulation = new Date();
     var num_simulazione =  Date.now();
     var string_simulazione ="Simulation"+num_simulazione;
     
@@ -58,18 +66,19 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
     _seed.saveSeed(arraySeed[i],num_simulazione);
         
     
-  //  _crawler.CrawlingUrl('http://www.gazzetta.it',num_simulazione);
+  //  _crawler.CrawlingUrl('http://www.gazzetta.it',num_simulazione,arrayKey,0,path_simulazione);
     
  //   _key.getKey('http://www.gazzetta.it',num_simulazione,path_simulazione,["juventus","milan"]);
    
- 
+    
+   
 
 setTimeout(function(){
        
              
-          start(num_simulazione,arrayKey,path_simulazione);   
+          start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata);   
              
-             
+ res.end();
 
     },1000);
 
@@ -87,18 +96,49 @@ setTimeout(function(){
    
 });
 
-function start(num_simulazione,arrayKey,path_simulazione)
+function start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata)
 {
-    q.push(_url.getUrl(num_simulazione,arrayKey,path_simulazione,q));
+    var attualeSimulazione = new Date();
+var difference = attualeSimulazione - startSimulation;
+    if(difference > durata) 
+    {
+    console.log("Simulazione Finita...");
+    }    
+    else
+    {
+       q.push(_url.getUrl(num_simulazione,arrayKey,path_simulazione,q,function(data){
     
-    setTimeout(function(){
         
-    process.nextTick(function () {  
-           
-      start(num_simulazione,arrayKey,path_simulazione); 
-   }) 
+        if(data == 1)
+        {
+            q2.push(start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata));
+        }
+        else
+        {
+            console.log("Database vuoto");
+        setTimeout(function(){
+                   
+                 q2.push(start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata));
+                   },2000);
+        }
         
-    },1000);
+        
+    
+    }));
+       
+    }
+    
+    
+    
+    
+    
+    
+        
+        
+
+    
+        
+    
 }
 
 

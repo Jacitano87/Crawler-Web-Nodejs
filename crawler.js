@@ -6,18 +6,19 @@ var _url = require('../Crawler/getUrls');
 var _updateDb = require('../Crawler/updateDb');
 
    var regex = /(ftp|http):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/; 
- function crawler(url,numSim,arrayKeys,path_simulazione)
+ function crawler(url,numSim,arrayKeys,profondita,path_simulazione)
 {
     
  var options = {maxRedirects:10 , timeout: 3000 };
 var request = require('request');
     request(url,options, function(error, response, html){
         if(error){return}
-        
+        profondita++;
         
         if( response && response.statusCode == 200) 
         { 
            var loadHtml = cheerio.load(html); //Parsing della url
+            
             
             
              var trovataKey = 0;
@@ -40,13 +41,13 @@ var request = require('request');
                 
                 fs.writeFile(tempPath, html, function (err) {
                                     if (err) return console.log(err);
-                                console.log("File Salvato url:"+url);
+                               // console.log("File Salvato url:"+url);
                                 _updateDb.update(url,numSim,tempPath);
                             }); //closeWriteFile  
             } 
             else
             {
-                return false;   
+                   
             }
             
             
@@ -55,7 +56,7 @@ var request = require('request');
             
             if(loadHtml('a').length != 0) // se vi sono a a href
             {
-              
+    var temporaneoUrl = [];            
                 loadHtml('a').each(function(i, element){
                     
                   var a = loadHtml(this);
@@ -65,7 +66,7 @@ var request = require('request');
             {
               
               var doppio = 0;            
-             var temporaneoUrl = [];              
+                         
              
                 if(regex.test(urlTrovata))
                 {
@@ -85,6 +86,7 @@ var request = require('request');
                  if(doppio == 0)
                  {
                  
+                     
                     
   
     UrlParsing.findOne({  $and: [ {urlParse: urlTrovata , simulation:numSim }] }, 'urlCrawler',function (err, elem) {
@@ -99,13 +101,14 @@ var request = require('request');
            visited : false,
                 simulation : numSim,
                        path: '-1',
-                         father: url
+                         father: url,
+                         depth: profondita
         };
                     
                      var newElement = new UrlParsing(urlSave);
                     newElement.save(function(err, result){
                         if( err){return err}
-                   //    console.log("Saved:"+ result.urlParse);
+                       console.log("Saved:"+ result.urlParse + "Depth:"+ result.depth);
                        }); 
                       
                 }
