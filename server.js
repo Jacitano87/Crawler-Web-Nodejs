@@ -1,6 +1,7 @@
 var express = require('express');
 
 
+var fs = require('fs');
 var async = require('async');
 var app = express();
 var bodyParser = require('body-parser');
@@ -13,18 +14,16 @@ var _crawler = require('../Crawler/crawler');
 var _seed = require('../Crawler/saveSeed');
 var _url = require('../Crawler/getUrls');
 
+var _save = require('../Crawler/saveUrlFound');
+
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 
-   var q = async.queue(function (task, callback) {
-    
-    callback();
-}, 10);
+   var q = async.queue(worker, 10);
 
+q.drain = function() {
+    //console.log('all items have been processed');
+}
 
-var q2 = async.queue(function (task, callback) {
-    
-    callback();
-}, 10);
 
 // assign a callback
 q.saturated = function() {
@@ -33,6 +32,8 @@ q.saturated = function() {
 
 app.use('/crawler' , urlencodedParser , function(req, res ,next){
   
+    
+    
     arraySeed = [];
     arrayKey = [];
      arraySeed[0] = req.body.url1;
@@ -62,84 +63,141 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
     mkdirp(path_simulazione, function(err) { 
 
 });
+    
+    
+    console.log("Start Simulation at:"+startSimulation);
+  
+    
     for ( var i = 0 ; i < arraySeed.length ; i++)
-    _seed.saveSeed(arraySeed[i],num_simulazione);
-        
-    
-  //  _crawler.CrawlingUrl('http://www.gazzetta.it',num_simulazione,arrayKey,0,path_simulazione);
-    
- //   _key.getKey('http://www.gazzetta.it',num_simulazione,path_simulazione,["juventus","milan"]);
+    _seed.saveSeed(arraySeed[i],string_simulazione);
+
    
-    
    
 
 setTimeout(function(){
-       
-             
-          start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata);   
+    
+        q.push({simulazione : string_simulazione , arrayChiavi :arrayKey , path : path_simulazione , start : startSimulation , duration : durata},function (err) {
+    //console.log('finished processing item');
+});      
+       //   start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata);   
              
  res.end();
 
     },1000);
 
 
-// add some items to the queue
-   
-
-    
-  //  q.push(_seed.saveSeed('http://www.gazzetta.it',num_simulazione));
-
-
-
-
-    
-   
 });
 
-function start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata)
-{
-    var attualeSimulazione = new Date();
-var difference = attualeSimulazione - startSimulation;
-    if(difference > durata) 
+
+
+
+
+  
+
+
+function worker(task, next){
+   if(task.url != null)
+       {
+    
+     var attualeSimulazione = new Date();
+var difference = attualeSimulazione - task.start;
+    if(difference > task.duration) 
     {
-    console.log("Simulazione Finita...");
+       
+    console.log("Simulazione Finita at:"+attualeSimulazione);
+         next();
     }    
     else
     {
-       q.push(_url.getUrl(num_simulazione,arrayKey,path_simulazione,q,function(data){
+      _crawler.CrawlingUrl(task.url,task.simulazione,task.arrayChiavi,task.profondita,task.path,function(data){
+         
+if(data.length > 0)
+{
+        async.each(data,function(item, callback){
+
+            _save.saveUrlFound(item,task.url,task.profondita,task.simulazione,function(){
+     
+    callback();
+    })
+        },function done(){
     
+           
+            
+            _url.getUrl(task.simulazione,function(data){
+     if(data.length > 0 )
+     {
+        q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita : data[1],path : task.path, start : task.start , duration : task.duration});        
+              
+
+     }
+    else
+    {
+        console.log("No Url nel DB");
         
-        if(data == 1)
-        {
-            q2.push(start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata));
-        }
-        else
-        {
-            console.log("Database vuoto");
-        setTimeout(function(){
-                   
-                 q2.push(start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata));
-                   },2000);
-        }
-        
-        
+    }
+                
+    }) // getUrl
+     
     
-    }));
+  }) //each
+
+} // data lengh >0
+else
+{
+ 
+    _url.getUrl(task.simulazione,function(data){
+     if(data.length > 0 )
+     {
        
+         
+        q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita : data[1],path : task.path, start : task.start , duration : task.duration});        
+              
+     }
+    else
+    {
+        console.log("No Url nel DB");
+        //next();
+    }
+         
+    }) // getUrl
+    
+}
+    }) // CrawlingUrl 
+      next();
     }
     
     
     
-    
-    
-    
-        
-        
+   }//task not null 
+    else
+    {
+     _url.getUrl(task.simulazione,function(data){
+     if(data.length > 0 )
+     {
+       
+         
+        q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita : data[1],path : task.path, start : task.start , duration : task.duration});        
+                
 
-    
+     }
+    else
+    {
+        console.log("No Url nel DB");
         
+    }
+         next();
+    }) // getUrl   
+    }
+       
+       
     
 }
+
+
+
+
+
+
 
 
 app.listen('8081')

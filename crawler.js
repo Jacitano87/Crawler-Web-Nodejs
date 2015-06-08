@@ -1,22 +1,31 @@
 var cheerio = require('cheerio');
+var fs = require('fs');
 var mongoose  = require('../Crawler/connectdb/connectMongoDb');
 var UrlParsing = require('../Crawler/model/dataModel');
-var fs = require('fs');
+
 var _url = require('../Crawler/getUrls');
 var _updateDb = require('../Crawler/updateDb');
 
    var regex = /(ftp|http):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/; 
- function crawler(url,numSim,arrayKeys,profondita,path_simulazione)
+
+
+
+
+function crawler(url,numSim,arrayKeys,profondita,path_simulazione,callback)
 {
-    
+   var arrayUrlTrovate = [];   
  var options = {maxRedirects:10 , timeout: 3000 };
 var request = require('request');
     request(url,options, function(error, response, html){
-        if(error){return}
-        profondita++;
+        if(error){ 
+            
+            callback(arrayUrlTrovate);
+        }
+ 
         
         if( response && response.statusCode == 200) 
         { 
+            
            var loadHtml = cheerio.load(html); //Parsing della url
             
             
@@ -41,7 +50,7 @@ var request = require('request');
                 
                 fs.writeFile(tempPath, html, function (err) {
                                     if (err) return console.log(err);
-                               // console.log("File Salvato url:"+url);
+                                console.log("File Salvato url:"+url);
                                 _updateDb.update(url,numSim,tempPath);
                             }); //closeWriteFile  
             } 
@@ -54,11 +63,13 @@ var request = require('request');
             
             
             
+            
             if(loadHtml('a').length != 0) // se vi sono a a href
             {
+             
     var temporaneoUrl = [];            
                 loadHtml('a').each(function(i, element){
-                    
+                     
                   var a = loadHtml(this);
                 var urlTrovata = a.attr('href');    
                     
@@ -66,7 +77,7 @@ var request = require('request');
             {
               
               var doppio = 0;            
-                         
+                        
              
                 if(regex.test(urlTrovata))
                 {
@@ -86,38 +97,8 @@ var request = require('request');
                  if(doppio == 0)
                  {
                  
-                     
-                    
-  
-    UrlParsing.findOne({  $and: [ {urlParse: urlTrovata , simulation:numSim }] }, 'urlCrawler',function (err, elem) {
-                
-                if(err){console.log('errore'+err)}
-	 
+                     arrayUrlTrovate.push(urlTrovata);
     
-                if(elem == null)
-	            {
-                     var urlSave = {
-           urlParse: urlTrovata,
-           visited : false,
-                simulation : numSim,
-                       path: '-1',
-                         father: url,
-                         depth: profondita
-        };
-                    
-                     var newElement = new UrlParsing(urlSave);
-                    newElement.save(function(err, result){
-                        if( err){return err}
-                       console.log("Saved:"+ result.urlParse + "Depth:"+ result.depth);
-                       }); 
-                      
-                }
-                else
-                {
-                    
-               //  console.log("Not Saved Duplicated");   
-                }
-                 })
                      
                  } //close if doppio     
                  else
@@ -132,16 +113,25 @@ var request = require('request');
                     
                
                 }) // close foreach
-             
+         
+            callback(arrayUrlTrovate);
            
             } //close if href
+            else
+            {
+                callback(arrayUrlTrovate);
+            }
             
-            
+        }
+        else
+        {
+           callback(arrayUrlTrovate); 
         }
             
         
     }).setMaxListeners(0); //chiusura request
     
+     
 }
 
 module.exports.CrawlingUrl = crawler;

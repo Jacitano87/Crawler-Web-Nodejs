@@ -20,7 +20,7 @@ var UrlParsing = require('../Crawler/model/dataModel');
                     newElement.save(function(err, product){
                         if(err){}
                         
-                        console.log("Seed Saved Correctly: "+product.urlParse + " Deph:"+product.depth);
+                        //console.log("Seed Saved Correctly: "+product.urlParse + " Deph:"+product.depth);
   
                       
                       }); 
