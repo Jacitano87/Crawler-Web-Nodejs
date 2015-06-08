@@ -13,22 +13,24 @@ var _updateDb = require('../Crawler/updateDb');
 
 function crawler(url,numSim,arrayKeys,profondita,path_simulazione,callback)
 {
+    var contatore = 0;
    var arrayUrlTrovate = [];   
- var options = {maxRedirects:10 , timeout: 3000 };
+ var options = {maxRedirects:0 , timeout: 3000 };
 var request = require('request');
     request(url,options, function(error, response, html){
         if(error){ 
             
             callback(arrayUrlTrovate);
         }
- 
-        
+  
+                
+       
         if( response && response.statusCode == 200) 
         { 
             
-           var loadHtml = cheerio.load(html); //Parsing della url
-            
-            
+            $ = cheerio.load(html); //Parsing della url
+           
+   
             
              var trovataKey = 0;
             for(var i=0 ; i< arrayKeys.length ; i++)
@@ -53,6 +55,7 @@ var request = require('request');
                                 console.log("File Salvato url:"+url);
                                 _updateDb.update(url,numSim,tempPath);
                             }); //closeWriteFile  
+                            
             } 
             else
             {
@@ -62,23 +65,39 @@ var request = require('request');
             
             
             
-            
-            
-            if(loadHtml('a').length != 0) // se vi sono a a href
+       var temporaneoUrl = [];      
+            var contatore = 0;
+            if($('a').length != 0) // se vi sono a a href
             {
              
-    var temporaneoUrl = [];            
-                loadHtml('a').each(function(i, element){
-                     
-                  var a = loadHtml(this);
-                var urlTrovata = a.attr('href');    
+                $('a').map(function(i, el) {
+  
                     
-                    if(urlTrovata != undefined && urlTrovata.charAt(0) != '#' && urlTrovata.charAt(0) == 'h' && urlTrovata.charAt(1) == 't' && urlTrovata.charAt(2) == 't' && urlTrovata.charAt(3) == 'p' && urlTrovata.charAt(4) != 's') // http consentito https non consentito
-            {
-              
+                   
+                   
+              var urlTrovata =  $(this).attr('href');
+                if(urlTrovata != undefined)
+                {
+                    
+                      var S = require('string');
+          
+            var firstFour =  'http';
+            var lastTwo   =  'http';
+            var lastTree  =  'http';
+            var lastFour  =  'http';        
+           
+            var firstFour =  S(urlTrovata).left(4).s;
+            var lastTwo   =   S(urlTrovata).right(3).s;
+            var lastTree  =  S(urlTrovata).right(3).s;
+            var lastFour  =  S(urlTrovata).right(3).s;
+            var lastOne  =  S(urlTrovata).right(1).s;
+                    
+       if( (firstFour == 'http') &&( (lastFour === "html") || (lastTree === "htm") || (lastFour === "xhtml") || (lastTree === "xml") || (lastTree === "php")  || (lastTree === "txt") || (lastTree === "asp") || (lastFour === "aspx") || (lastTree === "jsp") || (lastFour === "jspx")  || (lastTree === "com") || (lastTree === "org") || (lastTwo === "it") || (lastOne === "/")))
+       {
+           
               var doppio = 0;            
-                        
-             
+                     contatore++;   
+            
                 if(regex.test(urlTrovata))
                 {
                                     if (temporaneoUrl != null)
@@ -96,7 +115,7 @@ var request = require('request');
                     
                  if(doppio == 0)
                  {
-                 
+                     
                      arrayUrlTrovate.push(urlTrovata);
     
                      
@@ -110,10 +129,14 @@ var request = require('request');
               } // close test regex
                             
              } // close if http e non https
+                
                     
-               
-                }) // close foreach
-         
+                }// !undefined
+                      
+                    
+}) //close map
+                
+            console.log("UrlTrovate:"+contatore);
             callback(arrayUrlTrovate);
            
             } //close if href
@@ -129,7 +152,7 @@ var request = require('request');
         }
             
         
-    }).setMaxListeners(0); //chiusura request
+    }).setMaxListeners(20); //chiusura request
     
      
 }

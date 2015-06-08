@@ -18,7 +18,7 @@ var _save = require('../Crawler/saveUrlFound');
 
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 
-   var q = async.queue(worker, 10);
+   var q = async.queue(worker, 3);
 
 q.drain = function() {
     //console.log('all items have been processed');
@@ -27,7 +27,7 @@ q.drain = function() {
 
 // assign a callback
 q.saturated = function() {
-    console.log('Coda saturata');
+    //console.log('Coda saturata');
 }
 
 app.use('/crawler' , urlencodedParser , function(req, res ,next){
@@ -36,7 +36,7 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
     
     arraySeed = [];
     arrayKey = [];
-     arraySeed[0] = req.body.url1;
+    arraySeed[0] = req.body.url1;
     arraySeed[1] = req.body.url2;
     arraySeed[2] = req.body.url3;
     arraySeed[3] = req.body.url4;
@@ -77,7 +77,7 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
 setTimeout(function(){
     
         q.push({simulazione : string_simulazione , arrayChiavi :arrayKey , path : path_simulazione , start : startSimulation , duration : durata},function (err) {
-    //console.log('finished processing item');
+  //  console.log('finished processing item');
 });      
        //   start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata);   
              
@@ -96,100 +96,89 @@ setTimeout(function(){
 
 
 function worker(task, next){
-   if(task.url != null)
-       {
+  
+    var attualeSimulazione = new Date();
+    var difference = attualeSimulazione - task.start;
     
-     var attualeSimulazione = new Date();
-var difference = attualeSimulazione - task.start;
     if(difference > task.duration) 
     {
        
-    console.log("Simulazione Finita at:"+attualeSimulazione);
+         console.log("Simulazione Finita at:"+attualeSimulazione);
          next();
     }    
     else
     {
-      _crawler.CrawlingUrl(task.url,task.simulazione,task.arrayChiavi,task.profondita,task.path,function(data){
-         
-if(data.length > 0)
-{
-        async.each(data,function(item, callback){
-
-            _save.saveUrlFound(item,task.url,task.profondita,task.simulazione,function(){
-     
-    callback();
-    })
-        },function done(){
+                if(task.url == null)
+                {
+                  _url.getUrl(task.simulazione,function(data){
+                        if(data.length > 0 )
+                        {
+                            q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita :                                                             data[1],path : task.path, start : task.start , duration 
+                                                             : task.duration},function (err) {
+                            //console.log('finished processing item');
+                            });             
+                        }
+                        else
+                        {
+                            //  console.log("No Url nel DB");
+                        }
+                        next();
+                    }) // getUrl   
+                    
+                }
+                else
+                {
+                 _crawler.CrawlingUrl(task.url,task.simulazione,task.arrayChiavi,task.profondita,task.path,function(data){  
+                    
+                  if(data.length > 0) // 
+                   {
+                        async.each(data,function(item, callback){
+                            
+                            _save.saveUrlFound(item,task.url,task.profondita,task.simulazione,function(){
+                             callback();
+                            
+                            })
+                        },function done(){
     
-           
+                            _url.getUrl(task.simulazione,function(data){
+                            if(data.length > 0 )
+                            {
+                             q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita :                                         data[1],path : task.path, start : task.start , duration : task.duration},function (err) {
+                                //console.log('finished processing item');
+                              });            
+                            }
+                            else
+                            {
+                            //   console.log("No Url nel DB");
+                            }
+                            }) // getUrl
+     
+                        }) //each
+
+                  } // data lengh >0  
+                   else
+                  {
+                    _url.getUrl(task.simulazione,function(data){
+                            if(data.length > 0 )
+                            {
+                             q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita :                                         data[1],path : task.path, start : task.start , duration : task.duration},function (err) {
+                                //console.log('finished processing item');
+                              });            
+                            }
+                            else
+                            {
+                            //   console.log("No Url nel DB");
+                            }
+                            }) // getUrl    
+                  }
+         }) //close crawling
             
-            _url.getUrl(task.simulazione,function(data){
-     if(data.length > 0 )
-     {
-        q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita : data[1],path : task.path, start : task.start , duration : task.duration});        
-              
-
-     }
-    else
-    {
-        console.log("No Url nel DB");
+                    
+                    next();
         
-    }
-                
-    }) // getUrl
-     
+    }// close else Task
     
-  }) //each
-
-} // data lengh >0
-else
-{
- 
-    _url.getUrl(task.simulazione,function(data){
-     if(data.length > 0 )
-     {
-       
-         
-        q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita : data[1],path : task.path, start : task.start , duration : task.duration});        
-              
-     }
-    else
-    {
-        console.log("No Url nel DB");
-        //next();
-    }
-         
-    }) // getUrl
-    
-}
-    }) // CrawlingUrl 
-      next();
-    }
-    
-    
-    
-   }//task not null 
-    else
-    {
-     _url.getUrl(task.simulazione,function(data){
-     if(data.length > 0 )
-     {
-       
-         
-        q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita : data[1],path : task.path, start : task.start , duration : task.duration});        
-                
-
-     }
-    else
-    {
-        console.log("No Url nel DB");
-        
-    }
-         next();
-    }) // getUrl   
-    }
-       
-       
+    } //close else difference
     
 }
 

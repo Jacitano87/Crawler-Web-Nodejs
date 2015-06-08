@@ -4,7 +4,10 @@ var UrlParsing = require('../Crawler/model/dataModel');
    
  function saveUrl(url,urlFather,profondita,numSim,callback)
 {
- var profonditaUp = profondita;
+ var profonditaUp = profondita+1;
+    
+    
+    
      UrlParsing.findOne({  $and: [ {urlParse: url , simulation:numSim }] }, 'urlCrawler',function (err, elem) {
                 
                 if(err){console.log('errore'+err)}
@@ -25,7 +28,7 @@ var UrlParsing = require('../Crawler/model/dataModel');
                      var newElement = new UrlParsing(urlSave);
                     newElement.save(function(err, result){
                         if( err){return err}
-                      // console.log("Saved:"+ result.urlParse + " Depth:"+ result.depth);
+                       //console.log("Saved:"+ result.urlParse);
                        callback();
                        }); 
                       
