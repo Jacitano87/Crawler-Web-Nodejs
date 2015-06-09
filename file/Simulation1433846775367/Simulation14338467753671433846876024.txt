@@ -1,0 +1,148 @@
+<!DOCTYPE html><html lang="en-US"><head><meta charset="UTF-8" /><meta name="google-site-verification" content="Ly6nKz2b2I9L4FqjNFvUdmv5QoNb90FvYT7QHXFTCD8" /><meta name="keywords" content="Rahul Sarpeshkar, ACBS" /><meta name="description" content="Group research website for Professor Rahul Sarpeshkar" /><title>RLE Analog Circuits and Biological Systems Group | Prof. Rahul Sarpeshkar</title><link rel="profile" href="http://gmpg.org/xfn/11" /><link rel="stylesheet" href="http://www.rle.mit.edu/acbs/wp-content/themes/rahul_acbs/style.css" type="text/css" media="screen" /><link rel="pingback" href="http://www.rle.mit.edu/acbs/xmlrpc.php" /><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script><script type="text/javascript" src="http://use.typekit.com/fhu4wck.js"></script><script type="text/javascript">try{Typekit.load();}catch(e){}</script><script type="text/javascript" src="scripts.js"></script><script type="text/javascript">  var _gaq = _gaq || [];  _gaq.push(['_setAccount', 'UA-15823625-14']);  _gaq.push(['_trackPageview']);  (function() {    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);  })();</script><link rel="alternate" type="application/rss+xml" title="RLE Analog Circuits and Biological Systems Group | Prof. Rahul Sarpeshkar &raquo; Home Comments Feed" href="http://www.rle.mit.edu/acbs/home/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"wpemoji":"http:\/\/www.rle.mit.edu\/acbs\/wp-includes\/js\/wp-emoji.js?ver=4.2.2","twemoji":"http:\/\/www.rle.mit.edu\/acbs\/wp-includes\/js\/twemoji.js?ver=4.2.2"}};
+			( function( window, document, settings ) {
+	var src, ready;
+
+	/**
+	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
+	 * made of two characters, so some browsers (notably, Firefox OS X) don't support them.
+	 *
+	 * @since 4.2.0
+	 *
+	 * @param type {String} Whether to test for support of "simple" or "flag" emoji.
+	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
+	 */
+	function browserSupportsEmoji( type ) {
+		var canvas = document.createElement( 'canvas' ),
+			context = canvas.getContext && canvas.getContext( '2d' );
+
+		if ( ! context || ! context.fillText ) {
+			return false;
+		}
+
+		/*
+		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
+		 * it doesn't work when the font is bolder than 500 weight. So, we
+		 * check for bold rendering support to avoid invisible emoji in Chrome.
+		 */
+		context.textBaseline = 'top';
+		context.font = '600 32px Arial';
+
+		if ( type === 'flag' ) {
+			/*
+			 * This works because the image will be one of three things:
+			 * - Two empty squares, if the browser doesn't render emoji
+			 * - Two squares with 'G' and 'B' in them, if the browser doesn't render flag emoji
+			 * - The British flag
+			 *
+			 * The first two will encode to small images (1-2KB data URLs), the third will encode
+			 * to a larger image (4-5KB data URL).
+			 */
+			context.fillText( String.fromCharCode( 55356, 56812, 55356, 56807 ), 0, 0 );
+			return canvas.toDataURL().length > 3000;
+		} else {
+			/*
+			 * This creates a smiling emoji, and checks to see if there is any image data in the
+			 * center pixel. In browsers that don't support emoji, the character will be rendered
+			 * as an empty square, so the center pixel will be blank.
+			 */
+			context.fillText( String.fromCharCode( 55357, 56835 ), 0, 0 );
+			return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+		}
+	}
+
+	function addScript( src ) {
+		var script = document.createElement( 'script' );
+
+		script.src = src;
+		script.type = 'text/javascript';
+		document.getElementsByTagName( 'head' )[0].appendChild( script );
+	}
+
+	settings.supports = {
+		simple: browserSupportsEmoji( 'simple' ),
+		flag:   browserSupportsEmoji( 'flag' )
+	};
+
+	settings.DOMReady = false;
+	settings.readyCallback = function() {
+		settings.DOMReady = true;
+	};
+
+	if ( ! settings.supports.simple || ! settings.supports.flag ) {
+		ready = function() {
+			settings.readyCallback();
+		};
+
+		if ( document.addEventListener ) {
+			document.addEventListener( 'DOMContentLoaded', ready, false );
+			window.addEventListener( 'load', ready, false );
+		} else {
+			window.attachEvent( 'onload', ready );
+			document.attachEvent( 'onreadystatechange', function() {
+				if ( 'complete' === document.readyState ) {
+					settings.readyCallback();
+				}
+			} );
+		}
+
+		src = settings.source || {};
+
+		if ( src.concatemoji ) {
+			addScript( src.concatemoji );
+		} else if ( src.wpemoji && src.twemoji ) {
+			addScript( src.twemoji );
+			addScript( src.wpemoji );
+		}
+	}
+
+} )( window, document, window._wpemojiSettings );
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.rle.mit.edu/acbs/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.rle.mit.edu/acbs/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='canonical' href='http://www.rle.mit.edu/acbs/' />
+<link rel='shortlink' href='http://www.rle.mit.edu/acbs/' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head><link rel="alternate" type="application/rss+xml" title="RLE Analog Circuits and Biological Systems Group | Prof. Rahul Sarpeshkar &raquo; Home Comments Feed" href="http://www.rle.mit.edu/acbs/home/feed/" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.rle.mit.edu/acbs/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.rle.mit.edu/acbs/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='canonical' href='http://www.rle.mit.edu/acbs/' />
+<link rel='shortlink' href='http://www.rle.mit.edu/acbs/' />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+</head><body><div id="maincontent"><div id="siteheader"><h1>Analog Circuits and Biological Systems Group</h1><h2>Professor Rahul Sarpeshkar</h2></div><!-- NAVIGATION start--><div id="navigation" role="navigation"><ul class="menu" id="nav"><div class="menu-acbs-main-menu-container"><ul id="menu-acbs-main-menu" class="menu"><li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-74"><a href="http://www.rle.mit.edu/acbs/">Home</a></li>
+<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://www.rle.mit.edu/acbs/research/">Research</a></li>
+<li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://www.rle.mit.edu/acbs/people/">People</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://www.rle.mit.edu/acbs/news/">News</a></li>
+<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="http://www.rle.mit.edu/acbs/course-schedule/">Course Schedule</a></li>
+<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://www.rle.mit.edu/acbs/publications/">Publications</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.rle.mit.edu/acbs/contact/">Contact</a></li>
+</ul></div></ul>		</div><!-- NAVIGATION end--><!-- content start--><div id="sitedescriptionbox">Our group performs wet molecular biology experiments in living cells and dry experiments with analog nanoelectronic chips. We create (1) novel analog synthetic biology circuits;   (2) biological and bio-inspired supercomputers based on analog computation in cells; (3) ultra-energy-efficient and energy-harvesting systems  like glucose-powered neural prosthetics; and, (4) ultra-low-power implantable medical devices such as cochlear implants or diagnostic devices.  Our work has wide applications in medicine, biotechnology, electromicrobiology, bioelectronics, ultra-low-power, analog, and bio-inspired systems.
+<div></div>
+<img class="alignnone size-full wp-image-5 clear:left" style="padding-top: 16px;" alt="illustration_bioinspired" src="http://www.rle.mit.edu/acbs/wp-content/uploads/2013/02/illustration_bioinspired.png" width="264" height="209" />
+<ul>
+	<li><span style="color: #ffffff;"><span style="color: #ffffff;"><span style="font-size: medium;">Postdoctoral position in experimental molecular biology or synthetic biology available. CONTACT: rahuls at mit dot edu </span></span></span></li>
+</ul></div><div id="newsitems"><!-- Do stuff... -->  <!-- Do special_cat stuff... --><div id="newsitemline"> <div id="articleleft"><a href="http://www.rle.mit.edu/acbs/analog-bio-inspired-supercomputers/" border="0"><img width="93" height="140" src="http://www.rle.mit.edu/acbs/wp-content/uploads/2013/02/SarpeshkarBook-ForWeb-04-93x140.jpg" class="attachment-thumbnail wp-post-image" alt="SarpeshkarBook-ForWeb-04" /></a></div> <div id="articleright"><a href="http://www.rle.mit.edu/acbs/analog-bio-inspired-supercomputers/">Analog and Bio-inspired Supercomputers</a></div> </div>  <!-- Do special_cat stuff... --><div id="newsitemline"> <div id="articleleft"><a href="http://www.rle.mit.edu/acbs/analog-synthetic-biology/" border="0"><img width="100" height="133" src="http://www.rle.mit.edu/acbs/wp-content/uploads/2013/05/Ecoli-analog-mid-res.jpg" class="attachment-thumbnail wp-post-image" alt="Ecoli-analog-mid-res" /></a></div> <div id="articleright"><a href="http://www.rle.mit.edu/acbs/analog-synthetic-biology/">Analog Synthetic Biology</a></div> </div>  <!-- Do special_cat stuff... --><div id="newsitemline"> <div id="articleleft"><a href="http://www.rle.mit.edu/acbs/glucose-powered-neural-prosthetics/" border="0"><img width="100" height="98" src="http://www.rle.mit.edu/acbs/wp-content/uploads/2013/03/glucose-fuel-cells-e1363015954482.jpg" class="attachment-thumbnail wp-post-image" alt="glucose-fuel-cells" /></a></div> <div id="articleright"><a href="http://www.rle.mit.edu/acbs/glucose-powered-neural-prosthetics/">Glucose-Powered Neural Prosthetics</a></div> </div></div>	<!-- content end--><div id="footer"><div id="footerleft"><div id="footerleftnav" role="navigation"><ul class="menu" id="nav"><div class="menu-acbs-main-menu-container"><ul id="menu-acbs-main-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-74"><a href="http://www.rle.mit.edu/acbs/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="http://www.rle.mit.edu/acbs/research/">Research</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126"><a href="http://www.rle.mit.edu/acbs/people/">People</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://www.rle.mit.edu/acbs/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="http://www.rle.mit.edu/acbs/course-schedule/">Course Schedule</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="http://www.rle.mit.edu/acbs/publications/">Publications</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://www.rle.mit.edu/acbs/contact/">Contact</a></li>
+</ul></div></ul>		</div><div id="logoboxrle"> <a href="http://www.rle.mit.edu"><img src="http://www.rle.mit.edu/acbs/wp-content/themes/rahul_acbs/images/rle_logo.gif" alt="Research Laboratory of Electronics at MIT" border="0" align="absmiddle" /></a></div></div><div id="footerright"><div id="footerrighttext">Copyright © <SCRIPT LANGUAGE="JavaScript">  <!--- Hide from old browsers    document.write(y0);  // end hiding ---></SCRIPT> Massachusetts Institute of Technology</center></div><div id="logoboxmit"> <a href="http://web.mit.edu"><img src="http://www.rle.mit.edu/acbs/wp-content/themes/rahul_acbs/images/mit_logo_color.gif" alt="MIT" border="0" align="absmiddle" /></a></div></div></div></div></body></html>

@@ -1,3 +1,11 @@
+/*
+This file is part of CrawlerNodeJS package.
+Writen by
+	Fischetti Antonio (http://antoniofischetti.it)
+            GitHub (https://github.com/Jacitano87)
+    
+The project is released by GPL3 licence 2015.
+*/
 var mongoose  = require('../Crawler/connectdb/connectMongoDb');
 var UrlParsing = require('../Crawler/model/dataModel');
 
@@ -27,7 +35,7 @@ var UrlParsing = require('../Crawler/model/dataModel');
                     
                      var newElement = new UrlParsing(urlSave);
                     newElement.save(function(err, result){
-                        if( err){return err}
+                        if( err){callback();}
                        //console.log("Saved:"+ result.urlParse);
                        callback();
                        }); 

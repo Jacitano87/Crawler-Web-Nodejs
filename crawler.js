@@ -1,12 +1,20 @@
-var cheerio = require('cheerio');
-var fs = require('fs');
+/*
+This file is part of Crawler NodeJS package.
+Writen by
+	Fischetti Antonio (http://antoniofischetti.it)
+            GitHub (https://github.com/Jacitano87)
+    
+The project is released by GPL3 licence 2015.
+*/
+
+
 var mongoose  = require('../Crawler/connectdb/connectMongoDb');
 var UrlParsing = require('../Crawler/model/dataModel');
 
 var _url = require('../Crawler/getUrls');
 var _updateDb = require('../Crawler/updateDb');
 
-   var regex = /(ftp|http):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/; 
+   
 
 
 
@@ -15,7 +23,7 @@ function crawler(url,numSim,arrayKeys,profondita,path_simulazione,callback)
 {
     var contatore = 0;
    var arrayUrlTrovate = [];   
- var options = {maxRedirects:0 , timeout: 3000 };
+ var options = {maxRedirects:1 , timeout: 3000 };
 var request = require('request');
     request(url,options, function(error, response, html){
         if(error){ 
@@ -27,8 +35,8 @@ var request = require('request');
        
         if( response && response.statusCode == 200) 
         { 
-            
-            $ = cheerio.load(html); //Parsing della url
+            var cheerio = require('cheerio');
+            var $ = cheerio.load(html); //Parsing della url
            
    
             
@@ -49,24 +57,26 @@ var request = require('request');
                 var timeInMs = Date.now();
                   var idFile = numSim+""+timeInMs;
                 var tempPath = path_simulazione+"/"+idFile+".txt";
+                var fs = require('fs');
                 
                 fs.writeFile(tempPath, html, function (err) {
                                     if (err) return console.log(err);
-                                console.log("File Salvato url:"+url);
+                             //   console.log("File Salvato url:"+url);
                                 _updateDb.update(url,numSim,tempPath);
                             }); //closeWriteFile  
                             
             } 
             else
             {
-                   
+            trovataKey = 0;       
             }
             
             
+
             
             
        var temporaneoUrl = [];      
-            var contatore = 0;
+            
             if($('a').length != 0) // se vi sono a a href
             {
              
@@ -96,8 +106,8 @@ var request = require('request');
        {
            
               var doppio = 0;            
-                     contatore++;   
-            
+                       
+          var regex = /(ftp|http):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;   
                 if(regex.test(urlTrovata))
                 {
                                     if (temporaneoUrl != null)
@@ -136,25 +146,30 @@ var request = require('request');
                     
 }) //close map
                 
-            console.log("UrlTrovate:"+contatore);
+            $ = null;
+                
             callback(arrayUrlTrovate);
            
             } //close if href
             else
             {
+                $ = null;
+                 
                 callback(arrayUrlTrovate);
             }
             
         }
         else
         {
+            $ = null;
+             
            callback(arrayUrlTrovate); 
         }
             
         
-    }).setMaxListeners(20); //chiusura request
-    
+    })
      
+    callback(arrayUrlTrovate); 
 }
 
 module.exports.CrawlingUrl = crawler;

@@ -1,0 +1,273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="http://hst.mit.edu/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="alternate" type="application/rss+xml" title="Harvard-MIT Health Sciences and Technology RSS" href="http://hst.mit.edu/rss.xml" />
+  <title>Harvard-MIT Health Sciences and Technology</title>
+  <link type="text/css" rel="stylesheet" href="http://hst.mit.edu/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://hst.mit.edu/sites/default/files/css/css_OvC5IjmcmBbxK8co23368xpq7vvwpy5JvHrzBBp6FiU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://hst.mit.edu/sites/default/files/css/css_MnXiytJtb186Ydycnpwpw34cuUsHaKc80ey5LiQXhSY.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://hst.mit.edu/sites/default/files/css/css_96kDx0IlPxINlNXarAS2l5yFdP5BdFYNs6QmBauPICE.css" media="all" />
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/sites/all/modules/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://hst.mit.edu/sites/default/files/js/js_IkgOrrVZK1UTp2HktvFi5vo1g7b25Muyr5GoySikuic.js"></script>
+<script type="text/javascript" src="http://hst.mit.edu/sites/default/files/js/js_qLexvbIxTrOp__RUEfF_oGWE3TBnlVkG5J6R92JYEZU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"hst","theme_token":"ZcoC7v9PgE5ClIVyewjDDrYXzV_rjTTisyQRZBLxYWs","js":{"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/hst\/js\/jquery.cycle.all.js":1,"sites\/all\/themes\/hst\/js\/scripts.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/calendar\/css\/calendar_multiday.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ckeditor\/css\/ckeditor.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/custom_basic\/css\/main.css":1,"sites\/all\/themes\/hst\/css\/styles.css":1,"sites\/all\/themes\/hst\/css\/font-styles.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in two-sidebars page-node" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page">
+
+    <!-- ___________________________ HEADER ___________________________ -->
+
+    <div id="header">
+
+                    <a href="/" title="Home" rel="home" id="logo">
+                <img src="/sites/all/themes/hst/images/hstlogo.gif" alt="Home" />
+            </a>
+                
+        <div id="school-logos">
+            <a href="http://www.harvard.edu" title="Harvard">
+                    <img src="/sites/all/themes/hst/images/harvardlogo.gif" alt="Harvard" />
+            </a>
+            <a href="http://web.mit.edu" title="MIT" class="mit-s-logo">
+                    <img src="/sites/all/themes/hst/images/mitlogo.gif" alt="MIT" />
+            </a>
+            <a href="http://hms.harvard.edu" title="Harvard Medical School" >
+                    <img src="/sites/all/themes/hst/images/logo_hms.png" alt="HMS" />
+            </a>
+            <a href="http://imes.mit.edu" title="IMES" >
+                    <img src="/sites/all/themes/hst/images/logo_imes-sm.png" alt="IMES" />
+            </a>
+        </div>
+        
+        <ul id="secondary-menu" class="links inline"><li class="menu-350 first"><a href="/user/login" title="">Login</a></li>
+<li class="menu-874"><a href="/news-and-events/events/calendar" title="">Calendar</a></li>
+<li class="menu-313 last"><a href="/search" title="">Search</a></li>
+</ul>        
+        <h1 class="hst-title"><img src="/sites/all/themes/hst/images/pagetitle.jpg" alt="HST - integrating science, engineering, and medicine to solve problems in human health" /></h1>
+    
+    </div> <!-- /#header -->
+         
+        
+    <div id="front-page-wrap">
+    
+    <!-- _________________________ LEFT SIDEBAR _________________________ -->
+
+                    <div id="sidebar-left" class="column sidebar">
+                  <div class="region region-sidebar-first">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+    
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><a href="/about">About</a><ul class="menu"><li class="first leaf"><a href="/about/directors-message">Directors&#039; Message</a></li>
+<li class="leaf"><a href="/about/mission">Mission</a></li>
+<li class="leaf"><a href="/about/hst-credo-professionalism">HST Credo of Professionalism</a></li>
+<li class="leaf"><a href="/about/maps-directions">Maps &amp; Directions</a></li>
+<li class="last leaf"><a href="/about/contact-us">Contact Us</a></li>
+</ul></li>
+<li class="expanded"><a href="/academics">Academics</a><ul class="menu"><li class="first leaf"><a href="/academics/admissions">Admissions</a></li>
+<li class="leaf"><a href="/academics/courses">Courses</a></li>
+<li class="collapsed"><a href="/academics/md" title="">HST MD Program</a></li>
+<li class="collapsed"><a href="/academics/memp">MEMP PhD Program</a></li>
+<li class="collapsed"><a href="/academics/shbt" title="">SHBT PhD Program</a></li>
+<li class="collapsed"><a href="/academics/gems" title="Graduate Education in Medical Sciences">GEMS Certificate</a></li>
+<li class="collapsed"><a href="/academics/summer-institute">Summer Institute</a></li>
+<li class="leaf"><a href="/academics/advising">Advising</a></li>
+<li class="leaf"><a href="/academics/registration">Registration</a></li>
+<li class="collapsed"><a href="/academics/financial-support">Financial Support</a></li>
+<li class="leaf"><a href="/academics/policies-and-forms">Policies and Forms</a></li>
+<li class="leaf"><a href="/academics/academic-calendar">Academic Calendar</a></li>
+<li class="last leaf"><a href="/academics/additional-resources">Additional Resources</a></li>
+</ul></li>
+<li class="expanded"><a href="/people">People</a><ul class="menu"><li class="first collapsed"><a href="/people/faculty" title="">Faculty</a></li>
+<li class="collapsed"><a href="/people/students">Students</a></li>
+<li class="collapsed"><a href="/people/alumni">Alumni</a></li>
+<li class="last leaf"><a href="/people/staff">Staff</a></li>
+</ul></li>
+<li class="collapsed"><a href="/research">Research</a></li>
+<li class="collapsed"><a href="/administrative-resources">Administrative Resources</a></li>
+<li class="expanded"><a href="/news-and-events">News and Events</a><ul class="menu"><li class="first leaf"><a href="/news-and-events/news">News</a></li>
+<li class="leaf"><a href="/news-and-events/events/calendar" title="">Calendar</a></li>
+<li class="leaf"><a href="/news-and-events/connector/archive">Connector Archives</a></li>
+<li class="leaf"><a href="/news-and-events/forum/hst-forum-2015">HST Forum</a></li>
+<li class="leaf"><a href="/academics/graduation/graduation-2015">Graduation</a></li>
+<li class="last leaf"><a href="/news-and-events/twihst/current">TWiHST</a></li>
+</ul></li>
+<li class="last collapsed"><a href="/giving">Giving</a></li>
+</ul>  </div>
+</div>
+<div id="block-menu-menu-second-menu" class="block block-menu">
+
+    <h2>Information for:</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/prospective-students" title="">Prospective Students</a></li>
+<li class="leaf"><a href="/students" title="">Students</a></li>
+<li class="leaf"><a href="/faculty" title="">Faculty</a></li>
+<li class="leaf"><a href="/alumni" title="">Alumni</a></li>
+<li class="last leaf"><a href="/staff" title="">Staff</a></li>
+</ul>  </div>
+</div>
+<div id="block-block-2" class="block block-block social-links">
+
+    
+  <div class="content">
+    <p><a href="https://www.facebook.com/groups/2418196159/" target="_blank" title="Friend us on Facebook"><img alt="Friend us on Facebook" src="/sites/all/themes/hst/images/social/facebook-32.png" /></a> <a href="https://twitter.com/#!/mit_hst" target="_blank" title="Follow us on Twitter"><img alt="Follow us on Twitter" src="/sites/all/themes/hst/images/social/twitter-32.png" /></a> <a href="http://www.linkedin.com/groups?gid=136425" target="_blank" title="Join us on LinkedIn"><img alt="Join us on LinkedIn" src="/sites/all/themes/hst/images/social/linkedin-32.png" /></a></p>
+  </div>
+</div>
+  </div>
+            </div> <!-- /#sidebar-left -->
+        
+
+    <!-- _______________________ MAIN (CONTENT) _______________________ -->
+
+
+  	<div id="content" class="column">
+                        <a id="main-content"></a>
+              <div class="region region-front-content">
+    <div id="block-views-spotlight-block-1" class="block block-views spotlight">
+
+    <h2>Spotlight</h2>
+  
+  <div class="content">
+    <div class="view view-spotlight view-id-spotlight view-display-id-block_1 view-dom-id-47de4982442654bce2122b7c3ce15560">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+        <div class="views-field views-field-title"><span class="field-content">Paper Test Diagnoses Ebola in 10 Minutes</span></div>    <div class="views-field views-field-field-sl-ext-summary"><div class="field-content"><p><img alt="Ebola Test Image" src="/sites/default/files/MIT-Ebola-Detection-01_0.jpg_2.png" /></p>
+<p>When diagnosing a case of Ebola, time is of the essence. However, existing diagnostic tests take at least a day or two to yield results, preventing health care workers from quickly determining whether a patient needs immediate treatment and isolation.</p>
+<p>A new test from MIT researchers could change that: The device, a simple paper strip similar to a pregnancy test, can rapidly diagnose Ebola, as well as other viral hemorrhagic fevers such as yellow fever and dengue fever.</p>
+</div></div>    <div class="views-field views-field-field-sl-ext-link"><div class="field-content"><a href="https://hst.mit.edu/news-and-events/news/paper-test-diagnoses-ebola-10-minutes" title="Read More" target="_blank">Read More &gt;</a></div></div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+        <div class="views-field views-field-field-sl-img"><div class="field-content"><img src="http://hst.mit.edu/sites/default/files/styles/spotlight/public/website_winner_image.png?itok=j_78WIiH" width="264" height="129" alt="" /></div></div>    <div class="views-field views-field-title"><span class="field-content">Langer Wins Queen Elizabeth Prize for Engineering</span></div>    <div class="views-field views-field-field-sl-ext-summary"><div class="field-content"><p>Robert Langer, the Koch Institute Professor at MIT, has been named the winner of the Queen Elizabeth Prize for Engineering (<a href="http://qeprize.org">http://qeprize.org</a>). The organization cites his revolutionary advances and leadership in engineering at the interface of chemistry and medicine. The award credits Langer for improving over 2 billion lives worldwide with disease treatments created by his lab. Langer will receive the prize from the queen in a ceremony later this year.</p>
+<p>Langer, who holds appointments in the departments of chemical engineering and biological engineering, and at the Institute of Medical Engineering and Science and the Koch Institute for Integrative Cancer Research, is cited as “the first person to engineer polymers to control the delivery of large molecular weight drugs for the treatment of diseases such as cancer and mental illness.”</p>
+</div></div>    <div class="views-field views-field-field-sl-ext-link"><div class="field-content"><a href="http://imes.mit.edu/about/news/langer-wins-queen-elizabeth-prize-engineering" title="Read More" target="_blank">Read More &gt;</a></div></div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+        <div class="views-field views-field-field-sl-img"><div class="field-content"><img src="http://hst.mit.edu/sites/default/files/styles/spotlight/public/Forbes_30_blc.png?itok=sQ8lkHB6" width="264" height="139" alt="" /></div></div>    <div class="views-field views-field-title"><span class="field-content">Forbes 30 under 30</span></div>    <div class="views-field views-field-field-sl-ext-summary"><div class="field-content"><p> </p>
+<p>HST is extremely proud to have three current students and one recent alum named to 2015 Forbes 30 Under 30.</p>
+<p>Congratulations to <strong><a href="http://www.forbes.com/pictures/mkg45effdk/alex-bick-26/" target="_blank">Alex Bick</a></strong>, MD-PhD student, <strong><a href="http://www.forbes.com/pictures/mkg45effdk/alison-hill-29/" target="_blank">Alison Hill</a></strong>, MEMP PhD ’13, and <strong><a href="http://www.forbes.com/pictures/mkg45effdk/christopher-lee-24/" target="_blank">Chris Lee</a></strong>, MEMP PhD student — acknowledged for contributions to Healthcare — as well as <strong><a href="http://www.forbes.com/pictures/ggik45ekh/eran-hodis-29/" target="_blank">Eran Hodis</a></strong>, an MD-PhD student recognized in the Science category.</p>
+</div></div>    <div class="views-field views-field-field-sl-ext-link"><div class="field-content"><a href="http://www.forbes.com/30under30/" title="Read More" target="_blank">Read More &gt;</a></div></div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+        <div class="views-field views-field-field-sl-img"><div class="field-content"><img src="http://hst.mit.edu/sites/default/files/styles/spotlight/public/MIT-Center-MicroBiome.jpg?itok=-ZBXkxvY" width="180" height="180" alt="" /></div></div>    <div class="views-field views-field-title"><span class="field-content">New interdisciplinary center at MIT to focus on the microbiome and human health</span></div>    <div class="views-field views-field-field-sl-ext-summary"><div class="field-content"><p class="caption"><em>Clostridium difficile (shown here) is a bacteria in the intestines that has been successfully treated through microbiome manipulation.</em><br /><em>Courtesy of the Centers for Disease Control and Prevention</em></p>
+<p>More than 90 percent of the genes in our bodies do not come from our own cells. Instead, the vast majority of this genetic material is found within the trillions of microorganisms that call our bodies home. Collectively known as the microbiome, these communities of bacteria and other microbes play a significant role in the functioning of the digestive tract, immune system, skin, and other body systems.</p>
+<p>In recent years, the microbiome has attracted increasing attention for its role in health and disease. This week, MIT and Massachusetts General Hospital (MGH) announce the launch of the <a href="http://imes.mit.edu/microbiome">Center for Microbiome Informatics and Therapeutics</a>, a new interdisciplinary center dedicated to advancing the understanding of the microbiome’s role in human biology and harnessing this knowledge to develop treatments for related illnesses.</p>
+<p> </p>
+</div></div>    <div class="views-field views-field-field-sl-ext-link"><div class="field-content"><a href="http://newsoffice.mit.edu/2014/new-mit-center-microbiome-and-human-health-1106" title="Read More" target="_blank">Read More &gt;</a></div></div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+        </div> <!-- /content -->
+
+
+    <!-- ________________________ RIGHT SIDEBAR _________________________ -->
+
+                    <div id="sidebar-right" class="column sidebar">
+                  <div class="region region-sidebar-second">
+    <div id="block-views-news-block" class="block block-views">
+
+    <h2>News at HST</h2>
+  
+  <div class="content">
+    <div class="view view-news view-id-news view-display-id-block front-news-block view-dom-id-fc1c74eb05312ccdc4282d0af1765123">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+        <div class="views-field views-field-field-news-type"><div class="field-content">News</div></div>    <div class="views-field views-field-title"><span class="field-content"><a href="/news-and-events/news/pbs-news-hour-lee-gehrke-and-hst-alumni-anita-goel-discuss-ebola-paper-test"> On PBS News Hour: Lee Gehrke and HST Alumni Anita Goel Discuss the Ebola Paper Test</a></span></div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+        <div class="views-field views-field-field-news-type"><div class="field-content">News</div></div>    <div class="views-field views-field-title"><span class="field-content"><a href="/news-and-events/news/hst-memp-student-winning-team-mit-100k-entrepreneurship-competition">HST MEMP student on winning team in MIT $100K Entrepreneurship Competition</a></span></div>  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+        <div class="views-field views-field-field-news-type"><div class="field-content">News</div></div>    <div class="views-field views-field-title"><span class="field-content"><a href="/news-and-events/news/hst-faculty-member-dava-newman-confirmed-nasa-deputy-administrator">HST Faculty Member Dava Newman Confirmed as NASA Deputy Administrator</a></span></div>  </div>
+    </div>
+  
+  
+  
+      
+<div class="more-link">
+  <a href="/news-and-events/news">
+    more  </a>
+</div>
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-events-block" class="block block-views">
+
+    <h2>Events at HST</h2>
+  
+  <div class="content">
+    <div class="view view-events view-id-events view-display-id-block view-block-events view-events-block view-dom-id-7eec48b8b89a3355fa8f050f78d5e2f1">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">    <span class="views-field views-field-field-date-time"><span class="field-content"><span class="date-display-single">6/12</span></span></span>       -     <span class="views-field views-field-title"><span class="field-content"><a href="/news-and-events/events/memp-thesis-defense-meena-siddiqui">MEMP Thesis Defense - Meena Siddiqui</a></span></span></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-13" class="block block-block">
+
+    
+  <div class="content">
+    <p> </p>
+<p><span style="font-size:10px;"><span style="color: rgb(178, 34, 34); "><span style=""><span style=""><strong>OF INTEREST</strong></span></span></span></span></p>
+<p><a href="/news-and-events/twihst/current">This Week in HST (TWiHST) Newsletter</a></p>
+<p><a href="https://imes.mit.edu/about/news" target="_blank">News at IMES</a></p>
+<p><a href="https://imes.mit.edu/about/events">Events at IMES</a></p>
+<p> </p>
+  </div>
+</div>
+  </div>
+            </div> <!-- /#sidebar-second -->
+        
+    </div>
+                          
+<!-- ____________________________ FOOTER ____________________________ -->
+
+    <div id="footer"><div class="section">
+        <div class="region region-footer">
+    <div id="block-block-1" class="block block-block">
+
+    
+  <div class="content">
+    <p>77 Massachusetts Avenue, E25-519, Cambridge, MA 02139</p>
+  </div>
+</div>
+  </div>
+    </div></div> <!-- /.section, /#footer -->
+        
+ </div> <!-- /page -->
+  </body>
+</html>

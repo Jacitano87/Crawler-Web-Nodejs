@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<title>Michelle Chang Physical Biosciences Division</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Producing World-Class Science">
+	<meta name="author" content="Physical Biosciences">
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://pbd.lbl.gov/xmlrpc.php">
+	<link rel="shortcut icon" href="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/pbd_leaf.png" />
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Ubuntu:400,500' rel='stylesheet' type='text/css'>
+	<!-- IE8 needs support for these things...
+		background-image-sizing, border-radius, multiple-backgrounds, history, canvas, canvas text, rem
+	-->
+	<link rel="stylesheet" href="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/style.css" type="text/css">
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<!-- start wordpress-head -->
+	<link rel='stylesheet' id='ai1ec_style-css'  href='//pbd.lbl.gov/wp-content/plugins/all-in-one-event-calendar/cache/3201c632_ai1ec_parsed_css.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-qtip-css'  href='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/css/jquery.qtip.min.css?ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-public-css'  href='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/css/gce-style.css?ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-styles-css'  href='http://pbd.lbl.gov/wp-content/plugins/font-awesome/assets/css/font-awesome.min.css?ver=3.2.1' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://pbd.lbl.gov/wp-content/plugins/font-awesome/assets/css/font-awesome-ie7.min.css?ver=3.2.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='http://pbd.lbl.gov/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=1'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/js/modernizr.custom.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/respond/respond.min.js?ver=4.1.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pbd.lbl.gov/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pbd.lbl.gov/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='John-Marc Chandonia' href='http://pbd.lbl.gov/scientists/john-marc-chandonia/' />
+<link rel='next' title='Jhih-Wei Chu' href='http://pbd.lbl.gov/scientists/jhih-wei-chu/' />
+<link rel='canonical' href='http://pbd.lbl.gov/scientists/michelle-chang/' />
+<link rel='shortlink' href='http://pbd.lbl.gov/?p=814' />
+
+	<!-- end wordpress-head -->
+		</head>
+
+<body class="single single-scientists postid-814 single-format-standard" data-source="base">
+
+	<header id="main_header" class="main_header" role="banner">
+					<nav id="main_header" class="navbar navbar--green">
+  <div class="nav__left">
+    <h1 class="navbar__brand">
+          <br/>
+          <a href="/" class="show-for-xlarge-up">
+            <i class="icon-leaf"></i> Physical Biosciences Division
+          </a>
+          <a href="/" class="hide-for-xlarge-up">
+            <i class="icon-leaf"></i> PBD
+          </a>
+    </h1>
+  </div>
+  <div class="nav__right__logo large-3 medium-6 small-12 columns">
+      <a href="http://www.lbl.gov/" target="_blank"><img src="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/lbnl.png" width="100"></a> 
+  </div>
+</nav>
+
+<nav id="main_nav" class="navbar navbar--green">
+  <div class="nav__menu">
+    <button id="openNavButton" class="nav__button">Menu</button>
+  </div>
+
+  <div class="nav__search js-search">
+    <a href="#" class="nav__link">
+      <b class="icon-search icon-large"></b>
+    </a>
+  </div>
+
+	<ul class="nav__right">
+			    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/about/pbd/">
+						About PBD <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/pbd/science-overview/">
+              	<li class="subnav__item">
+              		Science Overview
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/pbd/leadership/">
+              	<li class="subnav__item">
+              		Leadership
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/people/">
+						People <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/people/scientists/">
+              	<li class="subnav__item">
+              		Scientists
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/people/affiliates/">
+              	<li class="subnav__item">
+              		Affiliates
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/people/pbd_operations/">
+              	<li class="subnav__item">
+              		PBD Operations
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/press-room/">
+						Press Room <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/news/">
+              	<li class="subnav__item">
+              		News
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/featured-news/">
+              	<li class="subnav__item">
+              		Featured News
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/theater/">
+              	<li class="subnav__item">
+              		Webcast Theater
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/science/">
+						Science <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/science/">
+              	<li class="subnav__item">
+              		Programs
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/careers/">
+              	<li class="subnav__item">
+              		Careers
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/onestop/">
+						One Stop <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/onestop/ergonomics/">
+              	<li class="subnav__item">
+              		Ergonomics
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/facilities/">
+              	<li class="subnav__item">
+              		Facilities
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/hr/">
+              	<li class="subnav__item">
+              		Human Resources
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/posters/">
+              	<li class="subnav__item">
+              		Poster Printing
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/procurement/">
+              	<li class="subnav__item">
+              		Procurement
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/property/">
+              	<li class="subnav__item">
+              		Property
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/proposals-and-finance/">
+              	<li class="subnav__item">
+              		Proposals & Finance
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/safety/">
+              	<li class="subnav__item">
+              		Safety
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/timekeeping/">
+              	<li class="subnav__item">
+              		Timekeeping
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/travel/">
+              	<li class="subnav__item">
+              		Travel
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+              <li class="nav__item nav__close">
+      <a href="#" id="closeNavButton" class="nav__link">
+        <i class="icon-remove"></i> Close
+      </a>
+    </li>
+	</ul>
+</nav>
+
+<div class="wp_search">
+  <form role="search" method="get" id="searchform" class="searchform" action="/">
+    <label class="sr-only" for="s">Search PBD for:</label>
+    <div class="wp_search__field">
+      <input type="search" class="wp_search__input" name="s" placeholder="Search PBD">
+    </div>
+  </form>
+</div>
+			</header>
+
+		<div class="profile__headContainer">
+		<section class="profile__head container--foundation" style="">
+			<div class="row">
+				<figure class="small-7 medium-6 large-5 columns">
+					<img src="http://pbd.lbl.gov/wp-content/uploads/2013/11/chang_m.jpg"
+					     alt=""
+					     class="profile__img">
+				</figure>
+
+				<div class="profile__name small-5 medium-6 large-7 columns">
+					<h1> Michelle Chang</h1>
+					<h4></h4>
+										<article class="profile__titles hidden-xs">
+						<ul>
+															<li>Biological Faculty Engineer</li>
+															<li>Associate Professor of Chemistry, UC Berkeley</li>
+													</ul>
+					</article>
+					<article class="profile__websites hidden-xs">
+						<h4>Websites:</h4>
+						<ul>
+															<li><a target="_blank" href="http://www.cchem.berkeley.edu/mccgrp/">Chang Group, UC Berkeley</a></li>
+													</ul>
+					</article>
+				</div>
+
+				
+			</div>
+		</section>
+	</div>
+
+	<div class="container-wrap">
+		<main role="main">
+			<div class="row">
+				<div class="tabs--palm">
+	<nav class="tab-nav row">
+		<div class="tab-nav__item small-4 columns">
+			<a href="#profile_bio" class="tab-nav__link">Bio</a>
+		</div>
+		<div class="tab-nav__item small-4 columns">
+			<a href="#profile_websites" class="tab-nav__link">Websites</a>
+		</div>
+		<div class="tab-nav__item small-4 columns">
+			<a href="#profile_contact" class="tab-nav__link">Contact</a>
+		</div>
+	</nav>
+
+	<section id="profile_contact" class="tab profile__contact medium-12 large-4 columns">
+	
+		<article class="profile__address medium-6 small-12 large-12 columns">
+			<h2 class="c-left">Location Information</h2>
+			Physical Biosciences Division<br>			
+			Lawrence Berkeley National Laboratory<br>
+			One Cyclotron Rd.  Mailstop: Lewis Hall<br>
+			Berkeley, CA 94716 USA
+		</article>
+	
+		<article class="profile__location medium-6 small-12 large-12 columns">
+			<h2 class="c-left">Contact Information</h2>
+			Primary Number: 510-642-8545<br>
+						E-Mail: <a href="mailto:MCChang@lbl.gov">MCChang@lbl.gov</a><br>
+            		    		</article>
+		
+                        		<article class="profile__location medium-6 small-12 large-12 columns">
+			<h2 class="c-left">Publication Links</h2>
+			<ul>
+													<li><a target="_blank" href="http://www.cchem.berkeley.edu/mccgrp/publications.html">Berkeley The Chang Group Publications </a></li>
+							</ul>
+		</article>
+		
+        	
+	</section>
+
+	<section id="profile_websites" class="tab tab--palm small-12 columns">
+		<h2 class="c-left">Websites:</h2>
+		<ul>
+							<li><a target="_blank" href="http://www.cchem.berkeley.edu/mccgrp/">Chang Group, UC Berkeley</a></li>
+					</ul>
+	</section>
+	
+	<section id="profile_bio" class="tab tab--default profile__bio large-8 medium-12 small-12 columns">
+	
+		<article class="profile__emphasis">
+			<h2>Research Emphasis</h2>
+			<hr>
+			<p>
+				Our research laboratory utilizes the approaches of mechanistic biochemistry, molecular and cell biology, metabolic engineering, and synthetic biology to address problems in energy and human health. We design and create new biosynthetic pathways in microbial hosts for in vivo production of biofuels from abundant crop feedstocks and pharmaceuticals from natural products or natural product scaffolds. A unifying theme of all of our projects is a focus on gaining a detailed molecular understanding of how living cells control enzymatic processes within the context of the entire metabolic network. Specific projects under current investigation include (i) the in vivo production of biofuels from plant biomass, and (ii) the development of new biosynthetic methods for selective, catalytic C-F bond formation under mild conditions.
+<h4>Biofuels</h4>
+Sustainable energy is a significant challenge facing our planet and securing carbon-neutral sources of energy is essential to meeting growing energy demands while addressing environmental concerns. Energy and fuels produced from plant biomass offer an important renewable solution to this problem and also allow reduction in the overall release of greenhouse gases. We are constructing new biosynthetic pathways in bacterial hosts that can convert plant biomass into fuel molecules. Using synthetic biology methods, we can draw enzymes from a variety of different environmental organisms and combine them in a single genetically-engineered host. This mix-and-match approach allows us to create and tailor new biological tools for multi-step, multi-enzyme chemical synthesis.
+<h4></h4>
+<h4>Enzymatic Fluorinations</h4>
+Natural products and their scaffolds continue to provide a rich source for the discovery and development of new therapeutics to treat human conditions ranging from cancer to neurodegeneration to microbial infections. In this regard, halogenated natural products (vancomycin and chloramphenicol) as well as synthetic drugs (Prozac, Lipitor, Cipro) encompass a growing class of important organohalogen-based pharmaceuticals. Organofluorine compounds are of particular interest as the introduction of C-F bonds can tune drug activity and specificity as well as in vivo metabolism of drugs. However, one of the major limitations in drug development is ability to selectively form C-F bonds as the available chemical methods for fluorination are difficult and typically carried out with harsh reagents without sufficient control over regio- or stereospecificity. We are developing new biocatalysts for selective and efficient C-F bond formation under mild conditions through the isolation, characterization, and mechanistic investigation of new enzymes involved in biological halogenations. These designer enzymes will have broad impact as synthetic tools for drug discovery and development.
+			</p>
+		</article>
+	
+			
+	</section>
+
+</div>
+
+											</div>
+		</main>
+	</div>
+
+	<footer id="mainFooter" class="mainFooter" role="contentinfo">
+	<div class="row">
+		<div class="large-3 medium-6 small-12 columns">
+							<article class="mainFooter__linkGroup">
+					<h4 class="mainFooter__subheader">More News</h4>
+											<a target="_blank" href="/featured-news/" class="mainFooter__link">Featured News</a><br>
+											<a target="_blank" href="/press-room/" class="mainFooter__link">Press Room</a><br>
+									</article>
+					</div>
+		<div class="large-3 medium-6 small-12 columns">
+							<article class="mainFooter__linkGroup">
+					<h4 class="mainFooter__subheader">Useful Links</h4>
+											<a target="_blank" href="/onestop/" class="mainFooter__link">One Stop</a><br>
+											<a target="_blank" href="/people/scientists/" class="mainFooter__link">Scientists</a><br>
+											<a target="_blank" href="/people/affiliates/" class="mainFooter__link">Affiliates</a><br>
+										<a href="mailto:PBDwebmaster@lbl.gov" class="mainFooter__link">Contact Us</a><br>
+				</article>
+					</div>
+		<div class="large-3 medium-6 small-12 columns">
+							<article class="mainFooter__linkGroup">
+					<h4 class="mainFooter__subheader">Related Links</h4>
+											<a target="_blank" href="http://energy.gov/" class="mainFooter__link">Department of Energy</a><br>
+											<a target="_blank" href="http://lbl.gov" class="mainFooter__link">Berkeley Lab</a><br>
+											<a target="_blank" href="http://biosciences.lbl.gov/" class="mainFooter__link">Berkeley Lab Biosciences</a><br>
+											<a target="_blank" href="http://www.lbl.gov/disclaimers/" class="mainFooter__link">Privacy & Security Notice</a><br>
+									</article>
+					</div>
+		<div class="large-3 medium-6 small-12 columns">
+			<article class="mainFooter__linkGroup">
+				<div class="mainFooter__img">
+				    <a href="http://www.lbl.gov/" target="_blank"><img src="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/lbnl.png" Class="mainFooter__lab_logo"></a> 
+				</div>
+				<div class="mainFooter__img">
+					<a href="http://energy.gov/" target="_blank"><img src="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/full_doe_logo_white.png" width="150"></a>
+				</div>
+			</article>
+		</div>
+	</div>
+	<div class="site-info">
+		<?php do_action( 'bioscience_credits' ); ?>
+	</div><!-- .site-info -->
+</footer><!-- #colophon -->
+<script>
+// ghetto tabs, revisit when possible
+(function($){
+	$(".tab-nav").on("click", ".tab-nav__link", function(event) {
+		event.preventDefault();
+		var tabSelected = $(event.target).attr("href");
+		$(".tab").slideUp(400);
+		$(tabSelected).slideDown(400);
+	});
+})(jQuery);
+</script>
+
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/js/imagesloaded.pkg.min.js?ver=2.2.4'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/js/jquery.qtip.min.js?ver=2.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gce_grid = null;
+var gce = {"script_debug":"","ajaxurl":"http:\/\/pbd.lbl.gov\/wp-admin\/admin-ajax.php","ajaxnonce":"7dacaeb07c","loadingText":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/js/gce-script.js?ver=2.2.4'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/hammerjs/hammer.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/fastclick/lib/fastclick.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/js/responsive_slides.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/webshims-stable/js-webshim/minified/polyfiller.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/js/main.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524'></script>
+
+</body>
+</html>

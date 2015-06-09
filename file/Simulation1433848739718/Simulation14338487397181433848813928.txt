@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<title>Featured News Physical Biosciences Division</title>
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Producing World-Class Science">
+	<meta name="author" content="Physical Biosciences">
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://pbd.lbl.gov/xmlrpc.php">
+	<link rel="shortcut icon" href="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/pbd_leaf.png" />
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed:700italic,400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Ubuntu:400,500' rel='stylesheet' type='text/css'>
+	<!-- IE8 needs support for these things...
+		background-image-sizing, border-radius, multiple-backgrounds, history, canvas, canvas text, rem
+	-->
+	<link rel="stylesheet" href="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/style.css" type="text/css">
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<!-- start wordpress-head -->
+	<link rel='stylesheet' id='ai1ec_style-css'  href='//pbd.lbl.gov/wp-content/plugins/all-in-one-event-calendar/cache/3201c632_ai1ec_parsed_css.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-qtip-css'  href='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/css/jquery.qtip.min.css?ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-calendar-events-public-css'  href='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/css/gce-style.css?ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-styles-css'  href='http://pbd.lbl.gov/wp-content/plugins/font-awesome/assets/css/font-awesome.min.css?ver=3.2.1' type='text/css' media='all' />
+<!--[if lte IE 7]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://pbd.lbl.gov/wp-content/plugins/font-awesome/assets/css/font-awesome-ie7.min.css?ver=3.2.1' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='jetpack_css-css'  href='http://pbd.lbl.gov/wp-content/plugins/jetpack/css/jetpack.css?ver=3.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=1'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/js/modernizr.custom.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/respond/respond.min.js?ver=4.1.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pbd.lbl.gov/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pbd.lbl.gov/wp-includes/wlwmanifest.xml" /> 
+
+	<!-- end wordpress-head -->
+		</head>
+
+<body class="page page-id-49249 page-template-default" data-source="base">
+
+	<header id="main_header" class="main_header" role="banner">
+					<nav id="main_header" class="navbar navbar--green">
+  <div class="nav__left">
+    <h1 class="navbar__brand">
+          <br/>
+          <a href="/" class="show-for-xlarge-up">
+            <i class="icon-leaf"></i> Physical Biosciences Division
+          </a>
+          <a href="/" class="hide-for-xlarge-up">
+            <i class="icon-leaf"></i> PBD
+          </a>
+    </h1>
+  </div>
+  <div class="nav__right__logo large-3 medium-6 small-12 columns">
+      <a href="http://www.lbl.gov/" target="_blank"><img src="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/lbnl.png" width="100"></a> 
+  </div>
+</nav>
+
+<nav id="main_nav" class="navbar navbar--green">
+  <div class="nav__menu">
+    <button id="openNavButton" class="nav__button">Menu</button>
+  </div>
+
+  <div class="nav__search js-search">
+    <a href="#" class="nav__link">
+      <b class="icon-search icon-large"></b>
+    </a>
+  </div>
+
+	<ul class="nav__right">
+			    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/about/pbd/">
+						About PBD <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/pbd/science-overview/">
+              	<li class="subnav__item">
+              		Science Overview
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/pbd/leadership/">
+              	<li class="subnav__item">
+              		Leadership
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/people/">
+						People <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/people/scientists/">
+              	<li class="subnav__item">
+              		Scientists
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/people/affiliates/">
+              	<li class="subnav__item">
+              		Affiliates
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/people/pbd_operations/">
+              	<li class="subnav__item">
+              		PBD Operations
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/press-room/">
+						Press Room <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/news/">
+              	<li class="subnav__item">
+              		News
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/featured-news/">
+              	<li class="subnav__item">
+              		Featured News
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/theater/">
+              	<li class="subnav__item">
+              		Webcast Theater
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/science/">
+						Science <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/science/">
+              	<li class="subnav__item">
+              		Programs
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/careers/">
+              	<li class="subnav__item">
+              		Careers
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+          	    				<li class="nav__item">
+					<a class="nav__link js-navDropdown" href="/onestop/">
+						One Stop <b class="icon-double-angle-down"></b>
+					</a>
+					<ul class="subnav">
+						              <a class="subnav__link" href="http://pbd.lbl.gov/onestop/ergonomics/">
+              	<li class="subnav__item">
+              		Ergonomics
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/facilities/">
+              	<li class="subnav__item">
+              		Facilities
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/hr/">
+              	<li class="subnav__item">
+              		Human Resources
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/posters/">
+              	<li class="subnav__item">
+              		Poster Printing
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/procurement/">
+              	<li class="subnav__item">
+              		Procurement
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/property/">
+              	<li class="subnav__item">
+              		Property
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/proposals-and-finance/">
+              	<li class="subnav__item">
+              		Proposals & Finance
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/safety/">
+              	<li class="subnav__item">
+              		Safety
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/timekeeping/">
+              	<li class="subnav__item">
+              		Timekeeping
+              	</li>
+              </a>
+                          <a class="subnav__link" href="http://pbd.lbl.gov/onestop/travel/">
+              	<li class="subnav__item">
+              		Travel
+              	</li>
+              </a>
+                          <li class="subnav__item subnav__close">
+                <a href="#" class="subnav__link js-closeSubNav">
+                  <i class="icon-double-angle-left icon-large"></i> Back
+                </a>
+              </li>
+					 </ul>
+        </li>
+              <li class="nav__item nav__close">
+      <a href="#" id="closeNavButton" class="nav__link">
+        <i class="icon-remove"></i> Close
+      </a>
+    </li>
+	</ul>
+</nav>
+
+<div class="wp_search">
+  <form role="search" method="get" id="searchform" class="searchform" action="/">
+    <label class="sr-only" for="s">Search PBD for:</label>
+    <div class="wp_search__field">
+      <input type="search" class="wp_search__input" name="s" placeholder="Search PBD">
+    </div>
+  </form>
+</div>
+			</header>
+
+		
+	<div class="container-wrap">
+		<main role="main">
+			<div class="row">
+					<h1 class="small-12 columns page__header">Featured News</h1>
+			<div class="small-12 columns articleContainer">
+			<article class="tease tease--post" id="tease-49958">
+	<div class="tease-container tease-container--post clearfix">
+		<hgroup>
+			<h3 class="tease__title"><a href="/extending-the-reach-of-x-ray-scattering/">Extending the Reach of X-ray Scattering</a></h3>
+			<h4 class="tease__date">Tuesday, May 26th 2015</h4>
+		</hgroup>
+		<div class="tease__content">
+							<img src="http://pbd.lbl.gov/wp-content/uploads/2014/12/lcls_undulator-magnets-300x0-c-default.jpg" class="tease__thumbnail" >
+						<p>In biology, materials science, and the energy sciences, structural information provides important insights into the understanding of matter. The link between a structure and its properties can suggest new avenues for designed improvements of synthetic materials or provide new fundamental insights in biology and medicine at the molecular level.</p>
+<p>During standard X-ray solution scattering experiments, molecules scatter X-rays as they tumble around during exposures, resulting in a diffraction pattern with matching measurements along all angles due to the full orientational averaging. When X-ray snapshots are collected at timescales shorter than a few nanoseconds, such that molecules are virtually frozen in space and time during the scattering experiment, X-ray diffraction patterns are obtained that are no longer equal along all angles. These measurements are collected using a method called fluctuation X-ray scattering, typically performed on an X-ray free electron laser or on a ultra-bright synchrotron. This technique can provide fundamental understanding of biomacromolecular structure, engineered nanoparticles, or energy-related intermediate-scale materials not attainable via standard scattering methods.</p>
+<div id="attachment_49959" style="width: 760px" class="wp-caption alignright"><a href="http://pbd.lbl.gov/wp-content/uploads/2015/05/Zwart-figure-051815.png"><img class="wp-image-49959" src="http://pbd.lbl.gov/wp-content/uploads/2015/05/Zwart-figure-051815-1024x550.png" alt="Zwart figure 051815" width="750" height="403" /></a><p class="wp-caption-text">Ab initio unconstrained shape reconstructions from model virus data. The reference density (left) shows significant detail in the core of the virus, which is largely absent when only SAXS data are used (middle) but which is reproduced when FXS data is used (top right). The top row images depict density slices through the center of the virus (bottom left). The graphs show the agreement between the data (black circles) and the simulated annealing expansion coefficients for SAXS (bottom middle) and fluctuation scattering (bottom right).</p></div>
+<p>Recently, Physical Biosciences Division researchers Erik Malmerberg, Cheryl Kerfeld, and Peter Zwart published an <a href="http://journals.iucr.org/m/issues/2015/03/00/dc5005/index.html" target="_blank">article</a> in <em>IUCrJ </em>offering an intuitive view of the nature of fluctuation X-ray scattering data and their properties. The scientists have shown that fluctuation scattering is a natural extension of traditional small-angle X-ray scattering and that a number of fundamental operational properties translate from small- and wide-angle X-ray scattering (SAXS and WAXS) into fluctuation scattering. In addition, they found that even with a fairly limited fluctuation scattering dataset, the amount of recoverable structural detail is greatly increased as compared to what can be obtained from standard SAXS/WAXS experiments.</p>
+<p>”Although fluctuation scattering experiments are not standard or routine at the moment, this work enables us to assess the quality of experimental data and allows us to validate our experimental protocols and data reduction routines,” Zwart says. This will help mainstream this technique, which is gaining popularity as a result of two factors: high-quality structural models can be obtained from fluctuation scattering data and relevant X-ray sources increasingly are available. The PBD scientists expect that fluctuation scattering experiments will become routine in the future and intend that their foundational work will help researchers take full advantage of this technique.</p>
+<p><strong> </strong></p>
+
+		</div>
+			</div>
+</article>
+		</div>
+			<div class="small-12 columns articleContainer">
+			<article class="tease tease--post" id="tease-49621">
+	<div class="tease-container tease-container--post clearfix">
+		<hgroup>
+			<h3 class="tease__title"><a href="/first-bioprocess-pilot-scale-production-of-malonic-acid-from-renewable-resources/">First Bioprocess Pilot-Scale Production of Malonic Acid from Renewable Resources</a></h3>
+			<h4 class="tease__date">Monday, March 2nd 2015</h4>
+		</hgroup>
+		<div class="tease__content">
+							<img src="http://pbd.lbl.gov/wp-content/uploads/2015/03/lygos-abpdu-logos-300x0-c-default.jpg" class="tease__thumbnail" >
+						<h4>Lygos and Lawrence Berkeley National Lab&#8217;s Advanced Biofuels Process Demonstration Unit have collaborated to scale up production of biomass-derived specialty chemical.</h4>
+<p><a href="http://www.lygos.com" target="_blank">Lygos, Inc.</a>, announced today that it has successfully achieved pilot scale production of malonic acid from sugar. Lygos&#8217; novel manufacturing technology decreases CO<sub>2</sub> emissions, eliminates toxic inputs and could replace the existing petroleum production process for malonic acid at lower cost and less energy.</p>
+<div id="attachment_49624" style="width: 586px" class="wp-caption alignright"><a href="http://pbd.lbl.gov/wp-content/uploads/2015/02/ABPDU-Lygos-65.jpg"><img class="wp-image-49624 " src="http://pbd.lbl.gov/wp-content/uploads/2015/02/ABPDU-Lygos-65.jpg" alt="ABPDU and Lygos team members in the ABPDU facility. Back Row: Stephen Hubbard (ABPDU), Eric Steen (Lygos), David Melis (Lygos), Todd Pray (ABPDU), Scott Akers (ABPDU) Middle Row: Eric Gates (Lygos), Clayton McSpadden (Lygos), Will Holtz (Lygos), Jeffrey Dietrich (Lygos CTO), Rogelio Denegri III (ABPDU) Front Row: Deepti Tanjore (ABPDU), Azadeh Alikhani (Lygos), Kristy Hawkins (Lygos), Tina Mahatdejkul-Meadows (Lygos), Firehiwot Tachea (ABPDU)" width="576" height="417" /></a><p class="wp-caption-text">ABPDU and Lygos team members in the ABPDU facility. From left to right, Back Row: Stephen Hubbard (ABPDU), Eric Steen (Lygos), David Melis (Lygos), Todd Pray (ABPDU), Scott Akers (ABPDU). Middle: Eric Gates (Lygos), Clayton McSpadden (Lygos), Will Holtz (Lygos), Jeffrey Dietrich (Lygos CTO), Rogelio Denegri III (ABPDU). Front: Deepti Tanjore (ABPDU), Azadeh Alikhani (Lygos), Kristy Hawkins (Lygos), Tina Mahatdejkul-Meadows (Lygos), Firehiwot Tachea (ABPDU). (Credit: Roy Kaltschmidt/Berkeley Lab)</p></div>
+<p>Malonic acid is currently a high-value specialty chemical useful for production of a variety of pharmaceuticals, flavors, fragrances, and specialty materials. The petrochemical process to produce malonic acid requires chloroacetic acid and sodium cyanide, and is both costly and environmentally hazardous. Lygos’ fermentation technology is environmentally benign, scalable, and enables production of malonic acid at a lower cost than the current petrochemical manufacturing process.</p>
+<p>A versatile compound, malonic acid was identified by the U.S. Department of Energy as one of the &#8220;Top 30 Value Added Chemicals&#8221; to be produced from biomass-derived sugar, instead of petroleum. Lygos has identified over $1 billion in derivative specialty and commodity chemicals that can be accessed from malonic acid, and developing its fermentation technology is key to enabling these opportunities.</p>
+<div id="attachment_49641" style="width: 233px" class="wp-caption alignleft"><a href="http://pbd.lbl.gov/wp-content/uploads/2015/03/Founders-and-Fermenter.jpg"><img class="size-medium wp-image-49641" src="http://pbd.lbl.gov/wp-content/uploads/2015/03/Founders-and-Fermenter-223x300.jpg" alt="Top: ABPDU head, Todd Pray with Lygos co-founders. From left: Leonard Katz, Todd Pray, Eric Steen, Jeffrey Dietrich, and Jay Keasling. Bottom: This fermenter at the ABPDU production facility was used in the scale-up of malonic acid. Photographs by Roy Kaltschmidt/Berkeley Lab." width="223" height="300" /></a><p class="wp-caption-text">Top: Lygos co-founders with Todd Pray, head of the ABPDU. From left: Leonard Katz, Pray, Eric Steen, Jeffrey Dietrich, and Jay Keasling. Bottom: Fermenter used in the scale-up of malonic acid. (Credit: Roy Kaltschmidt/Berkeley Lab)</p></div>
+<p>&#8220;This is an exciting achievement for our team &#8211; it&#8217;s the first time malonic acid has been produced in meaningful quantities from renewable materials instead of petroleum,” said Dr. Eric Steen, CEO of Lygos. “The process metrics we observed at lab scale were successfully transitioned to pilot scale. With this manufacturing run, we are able to provide samples of high quality malonic acid to customers and partners. As we move forward with commercialization, we&#8217;re seeking additional partners to accelerate larger scale manufacturing and unlock new product applications.&#8221;</p>
+<p>The scale-up was performed at Berkeley Lab&#8217;s Advanced Biofuels Process Demonstration Unit (<a href="http://abpdu.lbl.gov" target="_blank">ABPDU</a>), which is located in Emeryville, CA. &#8220;Lygos&#8217; process transfer went smoothly and proved to be robust. We look forward to further scale-up activities with our partner,&#8221; said <a href="mailto:tpray@lbl.gov">Todd Pray</a>, head of ABPDU.</p>
+<p>The successful achievement of pilot scale manufacturing was completed in the research phase of a program funded in part by the Bioenergy Technologies Office, in the U.S. Department of Energy&#8217;s Office of Energy Efficiency and Renewable Energy (<a href="http://www.energy.gov/eere/bioenergy" target="_blank">EERE</a>).</p>
+<p>For more information about Lygos, go <a href="http://www.lygos.com">here</a> or contact <a href="mailto:steen@lygos.com">Eric J. Steen, PhD</a>, CEO of Lygos, Inc.</p>
+<p style="text-align: center;"># # #</p>
+<p>Lygos is an industrial biotechnology company developing fermentation processes for cost effective production of bio-chemicals. Learn more at <a href="http://www.lygos.com">www.lygos.com</a>.</p>
+<p>The Advanced Biofuels Process Demonstration Unit (ABPDU) is a state-of-the-art facility at Lawrence Berkeley National Laboratory available to industry, national laboratories, and academic institutions for the demonstration of biomass deconstruction and advanced biofuel/bio-based chemical production processes, The facility was built and is operated with funds from the BioEnergy Technologies Office within the U.S. Department of Energy’s Office of Energy Efficiency and Renewable Energy, and was also funded by the American Recovery and Reinvestment Act. Visit <a href="http://abpdu.lbl.gov/">www.abpdu.lbl.gov</a> for more information.</p>
+<p>Lawrence Berkeley National Laboratory addresses the world’s most urgent scientific challenges by advancing sustainable energy, protecting human health, creating new materials, and revealing the origin and fate of the universe. Founded in 1931, Berkeley Lab’s scientific expertise has been recognized with 13 Nobel prizes. The University of California manages Berkeley Lab for the U.S. Department of Energy’s Office of Science. For more, visit <a href="http://www.lbl.gov/">www.lbl.gov</a>.</p>
+
+		</div>
+			</div>
+</article>
+		</div>
+			<div class="small-12 columns articleContainer">
+			<article class="tease tease--post" id="tease-49631">
+	<div class="tease-container tease-container--post clearfix">
+		<hgroup>
+			<h3 class="tease__title"><a href="/ldrd-update-six-pbd-researchers-awarded-fy15-funding-and-fy16-announcement/">LDRD Update: Six PBD Researchers Awarded FY15 Funding and FY16 Announcement</a></h3>
+			<h4 class="tease__date">Wednesday, February 25th 2015</h4>
+		</hgroup>
+		<div class="tease__content">
+							<img src="http://pbd.lbl.gov/wp-content/uploads/2015/02/microbes-to-biomes-300x0-c-default.jpg" class="tease__thumbnail" >
+						<p>The projects of six Physical Biosciences Scientists and Engineers received funding through the FY2015 Laboratory Directed Research and Development (LDRD) program. These projects cover a broad range of topics, including energy, biomanufacturing, and technology and tool development. Together, these efforts account for nearly 15% of the $24.9 million allocated. Eighty-two proposals were selected from a field of 169. There was an equal distribution of new and continuing projects among the selected PBD proposals.</p>
+<div id="attachment_49637" style="width: 310px" class="wp-caption alignright"><a href="http://pbd.lbl.gov/wp-content/uploads/2015/02/ajo-franklin_chang_white-border.png"><img class="wp-image-49637 size-medium" src="http://pbd.lbl.gov/wp-content/uploads/2015/02/ajo-franklin_chang_white-border-300x212.png" alt="ajo-franklin_chang_white border" width="300" height="212" /></a><p class="wp-caption-text">Caroline Ajo-Franklin (left) and Michelle Chang</p></div>
+<p>The Division’s crop of research endeavors range from studies of femtoscale phenomena to building macroscale components for manipulating microscopic processes. Anchoring the small end of this scale are two projects that focus on energy conversion on sub-molecular and molecular levels. Continuing her efforts from last year, Caroline Ajo-Franklin, Staff Scientist and member of the Molecular Foundry, will be probing dynamics of electron transfer for microbial-based energy interconversion. A newly funded proposal by Biological Faculty Engineer, Michelle Chang, involves interfacing chemical and biological catalysis for solar-to-fuel conversion.</p>
+<div id="attachment_829" style="width: 169px" class="wp-caption alignleft"><a href="http://pbd.lbl.gov/wp-content/uploads/2013/09/padams0.jpg"><img class="wp-image-829" src="http://pbd.lbl.gov/wp-content/uploads/2013/09/padams0-214x300.jpg" alt="Paul Adams" width="159" height="224" /></a><p class="wp-caption-text">Paul Adams</p></div>
+<p>To improve methods for studying macromolecular entities and cells, PBD Deputy Division Director for Science Paul Adams received support for the development of advanced computational tools for high-resolution cryo-electron microscopy. Determining the structures of subcellular and cellular components will help scientists answer questions in the realms of energy, environment, and health using structural information.</p>
+<div id="attachment_49636" style="width: 310px" class="wp-caption alignright"><a href="http://pbd.lbl.gov/wp-content/uploads/2015/02/aindrilla_deutschbauer.jpg"><img class="wp-image-49636 size-medium" src="http://pbd.lbl.gov/wp-content/uploads/2015/02/aindrilla_deutschbauer-300x208.jpg" alt="aindrilla_deutschbauer" width="300" height="208" /></a><p class="wp-caption-text">Aindrila Mukhopadhyay (left) and Adam Deutschbauer</p></div>
+<p>Two projects, led by Adam Deutschbauer and Aindrila Mukhopadhyay, operate on the microbial scale. Deutschbauer, Biologist Research Scientist and Deputy Director of Biotechnology Development for ENIGMA, will be continuing his collaborative project, Functional Genomic Encyclopedia of Bacteria and Archaea: Evidence-Based Annotation of the Microbial Tree of Life. In a new effort to tame a recalcitrant host organism for use in the lab, Mukhopadhyay, Staff Scientist and Director of Host Engineering, Fuels Synthesis Division at the Joint BioEnergy Institute (JBEI), received funding to develop a CRISPR/Cas9 knockout system for <em>Streptomyces venezuelae</em>.</p>
+<p>Nathan Hillson, biochemist staff scientist and Director of Synthetic Biology Informatics, Fuels Synthesis and Technologies Divisions at JBEI, will be working to further the Division’s biomanufacturing efforts on a macroscale. His proposal, Enhancing the Design-Build-Test-Learn Cycle for Metabolic Engineering, will focus on building the infrastructure necessary to automate design, construction, and optimization of engineered systems.</p>
+<div id="attachment_830" style="width: 170px" class="wp-caption alignleft"><a href="http://pbd.lbl.gov/wp-content/uploads/2013/11/nhillson0.jpg"><img class=" wp-image-830" src="http://pbd.lbl.gov/wp-content/uploads/2013/11/nhillson0-214x300.jpg" alt="Nathan Hillson" width="160" height="225" /></a><p class="wp-caption-text">Nathan Hillson</p></div>
+<p>One of the Biosciences Area foci for <a href="http://www2.lbl.gov/DIR/LDRD/cfp/director-memo.html">FY16 LDRDs</a> continues to be developing scalable and flexible biomanufacturing technologies for energy and environment. Projects focusing on fundamental advances in synthetic biology that relate to energy and environment are also encouraged. Other topics of interest are research on biological responses to environmental challenges and ecosystem resilience to environmental change and methods to improve environmental quality and resource utilization.</p>
+<p>LDRDs also provide the opportunity for researchers to work on projects related to <a href="http://www.lbl.gov/programs/our-vision/" target="_blank">Lab-wide initiatives</a>. One of these, Microbes to Biomes (<a href="http://m2b.lbl.gov" target="_blank">M2B</a>), concentrates on the interactions of microbes with one another and their environment, uncovering those that are critical to the health and well being of their host biome, whether it is cropland, fresh water, or the human body. M2B has been launched with <a href="http://m2b.lbl.gov/m2b-launches-with-fy15-ldrd-funding/" target="_blank">five FY15 LDRD-funded projects</a>; two of these are inter-Divisional collaborations that include PBD scientists Adam Deutschbauer and Trent Northen.</p>
+<p>Researchers in PBD are encouraged to develop M2B-related project proposals that will advance Lab strategy in the following areas:<a href="http://pbd.lbl.gov/wp-content/uploads/2014/02/MicrobesToBiomes.png"><img class="alignright wp-image-49592 " src="http://pbd.lbl.gov/wp-content/uploads/2014/02/MicrobesToBiomes-300x244.png" alt="MicrobesToBiomes" width="236" height="192" /></a></p>
+<ol>
+<li>Environmental simulation,</li>
+<li><em>In situ</em> characterization and imaging,</li>
+<li>Microbiome manipulation,</li>
+<li>Microbe/Plant interaction, and</li>
+<li>Functional assessment of microbiome members.</li>
+</ol>
+<p>Further discussion will be encouraged at PBD’s Open Mic Science event on Thursday, February 26, from 3-5:30 PM in the Building 66 Auditorium.</p>
+<p><strong>Proposals for FY16 LDRDs are due Monday, March 30, 2015.</strong> Please consider collaborating with others in one of these Lab-wide or Area-wide initiatives. If you have any questions about the LDRD process or would like help facilitating connections, please <a href="mailto:klmontgomery@lbl.gov">email</a> or call Kelly Montgomery at 486-7245.</p>
+
+		</div>
+			</div>
+</article>
+		</div>
+			<div class="small-12 columns articleContainer">
+			<article class="tease tease--post" id="tease-49468">
+	<div class="tease-container tease-container--post clearfix">
+		<hgroup>
+			<h3 class="tease__title"><a href="/instrumentation-advances-expand-the-reach-of-x-ray-free-electron-lasers/">Instrumentation Advances Expand the Reach of X-ray Free Electron Lasers</a></h3>
+			<h4 class="tease__date">Monday, January 5th 2015</h4>
+		</hgroup>
+		<div class="tease__content">
+							<img src="http://pbd.lbl.gov/wp-content/uploads/2014/12/lcls_undulator-magnets-300x0-c-default.jpg" class="tease__thumbnail" >
+						<p>Femtosecond crystallography (FX) is especially suitable for studying radiation sensitive enzymes that require metals for their function, as the extremely short and bright X-ray pulses can produce a diffraction image before any atomic motions can occur in the crystal. This cutting edge method is capable of extending our capacity to study smaller, more fragile crystals and determine the catalytic structures of biologically relevant macromolecules.</p>
+<p>In conventional X-ray crystallography experiments, one crystal is mounted on a goniometer, which is then used to rotate the sample in the X-ray beam. The short and bright X-ray pulses produced by the free-electron laser (XFEL) at the SLAC National Acceleratory Laboratory’s Linac Coherent Light Source (LCLS) damage or destroy crystals nearly instantaneously, requiring tens of thousands of crystals to be used in experiments. Recently, researchers in the Physical Biosciences Division (PBD) of the Lawrence Berkeley National Laboratory (Berkeley Lab) collaborated on a technique that will extend the ability of scientists to perform efficient and flexible FX experiments.</p>
+<div id="attachment_862" style="width: 150px" class="wp-caption alignright"><a href="http://pbd.lbl.gov/wp-content/uploads/2013/11/jholton0.jpg"><img class="wp-image-862 size-full" src="http://pbd.lbl.gov/wp-content/uploads/2013/11/jholton0.jpg" alt="James Holton" width="140" height="150" /></a><p class="wp-caption-text">James Holton</p></div>
+<p>Currently, most FX researchers use injectors to deliver a continuous stream of crystals to the beam, which wastes a large portion of material. Alternate methods are being developed to expose a single drop of the crystalline material to the beam at one time, but these have not been perfected. In an <a href="http://www.pnas.org/content/111/48/17122">article</a> published on December 2, 2014 in <em>PNAS</em>, lead author Aina Cohen of SLAC describes an experiment using a goniometer-based method to mount samples in the path of the FEL. <a href="http://pbd.lbl.gov/scientists/james-holton/" target="_blank">James Holton</a>, PBD Biophysicist Faculty Scientist and the director of Beamline 8.3.1 at the Advanced Light Source (ALS), assisted in designing the experiment, which utilized equipment that was developed previously at SLAC’s LCLS and Stanford Synchrotron Radiation Light Source (SSRL). “Ever since the Braggs did their original X-ray crystallography work in 1914, crystals have been rotated during data collection to smooth over a myriad of difficulties. Now that XFEL pulses are far too fast to do this, Dr. Cohen and I had to return to these first principles in designing the data collection protocol,” Holton said. The resulting highly automated system uses specialized sample containers and customized software, allowing for efficient data collection and decreased crystalline sample consumption.</p>
+<div id="attachment_49469" style="width: 260px" class="wp-caption alignleft"><a href="http://pbd.lbl.gov/wp-content/uploads/2014/12/Sauter-CRYSTAL-DATA-SLAC.jpg"><img class="wp-image-49469" src="http://pbd.lbl.gov/wp-content/uploads/2014/12/Sauter-CRYSTAL-DATA-SLAC-300x200.jpg" alt="Nicholas Sauter, middle, pointing to a monitor during an experiment at SLAC. Photo by Fabricio Sousa/SLAC." width="250" height="167" /></a><p class="wp-caption-text">Nicholas Sauter, middle, pointing to a monitor during an experiment at SLAC. Photo by Fabricio Sousa/SLAC.</p></div>
+<p>To compare the utility of this setup, researchers collected data from two types of protein crystals (two macromolecular complexes and two metalloenzymes) using both goniometer- and injector-based delivery. <a href="http://pbd.lbl.gov/scientists/nicholas-sauter/">Nicholas Sauter</a>, Computational Staff Scientist in PBD, along with two postdoctoral researchers in his group, Aaron Brewster and <a href="http://pbd.lbl.gov/scientists/johan-hattne/">Johan Hattne</a> (now a Research Specialist at Janelia Farm Research Campus), were part of the team that analyzed these data. “Most of the FX experiments were done with a moving stream of crystals, but that made it hard to collect and process data,” said Sauter. “Goniometer methods are familiar to all crystallographers. The fact that they work with femtosecond X-ray pulses makes this technique accessible to everyone’s protein crystals.” <a href="http://viper.lbl.gov/cctbx.xfel/index.php/Main_Page">cctbx.xfel</a>, open-source software for free-electron laser data processing previously developed by Sauter and his group, was used during the experiment for quasi-real time data analysis.</p>
+<p>Aside from SLAC and Berkeley Lab, Cohen’s research team was made up of participants from the Stanford University School of Medicine, the University of Pittsburgh School of Medicine, Howard Hughes Medical Institute, Montana State University, and the University of California, San Francisco. Employing automated goniometer-based instrumentation allowed researchers to determine high-resolution structures of four molecules using FX on just a fraction of the crystals typically required using injector-based methods. “In doing this, we sparked a revolution in how we think about X-ray diffraction data all around the world, and processing software has been improving by leaps and bounds ever since,” said Holton. “The original protocol we developed is already obsolete, and soon even synchrotron-based data collection may follow suit, taking advantage of the fundamentally superior data quality from non-rotating crystals for the first time in 100 years.” By reducing both crystalline material sample and data processing requirements, the team has effectively decreased the overall cost and time needed to perform these cutting-edge scientific experiments and has taken steps that will eventually lead to wider use of this technology.</p>
+
+		</div>
+			</div>
+</article>
+		</div>
+			<div class="small-12 columns articleContainer">
+			<article class="tease tease--post" id="tease-49457">
+	<div class="tease-container tease-container--post clearfix">
+		<hgroup>
+			<h3 class="tease__title"><a href="/microbes-to-biomes-m2b-initiative-launches/">Microbes-to-Biomes (M2B) Initiative Launches</a></h3>
+			<h4 class="tease__date">Monday, December 15th 2014</h4>
+		</hgroup>
+		<div class="tease__content">
+							<img src="http://pbd.lbl.gov/wp-content/uploads/2014/12/M2B-Logo-300x0-c-default.png" class="tease__thumbnail" >
+						<p>The Labwide initiative, Microbes-to-Biomes (M2B), has kicked off with five projects funded through the Laboratory Directed Research and Development (<a href="http://www2.lbl.gov/DIR/LDRD/" target="_blank">LDRD</a>) program, and a new <a href="http://m2b.lbl.gov/" target="_blank">website</a> to chronicle news and advancements in M2B’s research mission. The M2B initiative is designed to explore and reveal the interactions of microbes with one another and with their environment – interactions that are vital to the Earth’s future. To jumpstart the discovery process, M2B is targeting two key systems: the soil-plant biome and the gut microbiome. Research areas include Food and Fuel Production, Carbon Management, Environmental Stewardship, and Health and Environment.</p>
+<p>Two PBD scientists, Adam Deutschbauer and Trent Northen, are co-PIs on separate projects within the Soil-Plant Biome portion of M2B. Deutschbauer will be partnering with Matthew Blow (Genomics Division &amp; Joint Genome Institute) to <a href="http://m2b.lbl.gov/engineering-phosphate-solubilizing-plant-associated-bacteria/" target="_blank">engineer phosphate solubilizing plan<img class="alignright wp-image-832" src="http://pbd.lbl.gov/wp-content/uploads/2013/11/adeutschbauer0-214x300.jpg" alt="Adam Deutschbauer" width="107" height="150" />t-associated bacteria</a>. This would allow the bacteria that are already co-localized with plants to convert existing phosphorus sources in the soil to soluble forms, thereby making it available for plant uptake. Increasing the amount of soluble phosphorus in the soil would mean decreasing the use of costly and environmentally damaging phosphate fertilizers in high yield agriculture. Northen and Javier Ceja Navarro (Earth Sciences Division) will be leading a project looking at uncovering the <a href="http://m2b.lbl.gov/soil-metazoan-microbiome/" target="_blank">Soil Metazoan Microbiome</a>, a key compartment that is important for plant health and root carbon fixation. Metazoans are multicellular organisms of the Kingdom Animalia (also called Metazoa); <img class="alignleft wp-image-48966 size-full" src="http://pbd.lbl.gov/wp-content/uploads/2014/05/050814_Trent_NorthenHeadshot2-150x150.jpg" alt="050814_Trent_NorthenHeadshot2-150x150" width="150" height="150" />two sub-groups of this Kingdom, arthropods (animals with an exoskeleton and segmented body) and nematodes (worms), function as ecosystem engineers. Through both physical and chemical transformation of soil they provide modified habitats for soil microorganisms, thereby playing an important role in the cycling of nutrients. Northen and Navarro will study metazoan-associated microorganisms with a specific focus on plant associated arthropods and nematodes with an eye to characterizing of the contribution of soil metazoans, and their microbiomes to nutrient cycling, and gaining a better understanding of the regulation of microbial activity by their environment, i.e. the metazoan host.</p>
+<p><a href="http://pbd.lbl.gov/wp-content/uploads/2014/12/Steve-Singer.jpg"><img class="alignright size-thumbnail wp-image-49459" src="http://pbd.lbl.gov/wp-content/uploads/2014/12/Steve-Singer-150x150.jpg" alt="Steve Singer" width="150" height="150" /></a>Steve Singer, a scientist in the Earth Sciences Division and Director of Microbial Communities at the Joint BioEnergy Institute, will be working with Tanja Woyke and Natalia Ivanova, both of the Genomics Division and Joint Genome Institute, to use function-driven genomics to capture carbon degrading microbes with fluorescent substrate bait. Together, they will apply novel approaches to experimentally capture bacteria that degrade plant-derived biopolymers (e.g., cellulose) for sequence-based characterization. Singer and his colleagues intend to greatly advance our understanding of soil carbon cycling, which will have implications on below-ground carbon storage and atmospheric C flux. This same information and microbial functional potential can also be harnessed to improve the breakdown of plants for the production of biofuels.</p>
+<p>&nbsp;</p>
+
+		</div>
+			</div>
+</article>
+		</div>
+	    <div class="pagination">
+                            <a href="">1</a>
+                    <a href="http://pbd.lbl.gov/featured-news/page/2">2</a>
+                    <a href="http://pbd.lbl.gov/featured-news/page/3">3</a>
+                    <a href="http://pbd.lbl.gov/featured-news/page/4">4</a>
+                            <a href="http://pbd.lbl.gov/featured-news/page/2" class="next ">Next</a>
+            </div>
+
+											</div>
+		</main>
+	</div>
+
+			<footer id="mainFooter" class="mainFooter" role="contentinfo">
+	<div class="row">
+		<div class="large-3 medium-6 small-12 columns">
+							<article class="mainFooter__linkGroup">
+					<h4 class="mainFooter__subheader">More News</h4>
+											<a target="_blank" href="/featured-news/" class="mainFooter__link">Featured News</a><br>
+											<a target="_blank" href="/press-room/" class="mainFooter__link">Press Room</a><br>
+									</article>
+					</div>
+		<div class="large-3 medium-6 small-12 columns">
+							<article class="mainFooter__linkGroup">
+					<h4 class="mainFooter__subheader">Useful Links</h4>
+											<a target="_blank" href="/onestop/" class="mainFooter__link">One Stop</a><br>
+											<a target="_blank" href="/people/scientists/" class="mainFooter__link">Scientists</a><br>
+											<a target="_blank" href="/people/affiliates/" class="mainFooter__link">Affiliates</a><br>
+										<a href="mailto:PBDwebmaster@lbl.gov" class="mainFooter__link">Contact Us</a><br>
+				</article>
+					</div>
+		<div class="large-3 medium-6 small-12 columns">
+							<article class="mainFooter__linkGroup">
+					<h4 class="mainFooter__subheader">Related Links</h4>
+											<a target="_blank" href="http://energy.gov/" class="mainFooter__link">Department of Energy</a><br>
+											<a target="_blank" href="http://lbl.gov" class="mainFooter__link">Berkeley Lab</a><br>
+											<a target="_blank" href="http://biosciences.lbl.gov/" class="mainFooter__link">Berkeley Lab Biosciences</a><br>
+											<a target="_blank" href="http://www.lbl.gov/disclaimers/" class="mainFooter__link">Privacy & Security Notice</a><br>
+									</article>
+					</div>
+		<div class="large-3 medium-6 small-12 columns">
+			<article class="mainFooter__linkGroup">
+				<div class="mainFooter__img">
+				    <a href="http://www.lbl.gov/" target="_blank"><img src="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/lbnl.png" Class="mainFooter__lab_logo"></a> 
+				</div>
+				<div class="mainFooter__img">
+					<a href="http://energy.gov/" target="_blank"><img src="http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/img/full_doe_logo_white.png" width="150"></a>
+				</div>
+			</article>
+		</div>
+	</div>
+	<div class="site-info">
+		<?php do_action( 'bioscience_credits' ); ?>
+	</div><!-- .site-info -->
+</footer><!-- #colophon -->
+	
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/js/imagesloaded.pkg.min.js?ver=2.2.4'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/js/jquery.qtip.min.js?ver=2.2.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gce_grid = null;
+var gce = {"script_debug":"","ajaxurl":"http:\/\/pbd.lbl.gov\/wp-admin\/admin-ajax.php","ajaxnonce":"7dacaeb07c","loadingText":"Loading..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/plugins/google-calendar-events/js/gce-script.js?ver=2.2.4'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/hammerjs/hammer.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/fastclick/lib/fastclick.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/js/responsive_slides.min.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/vendor/webshims-stable/js-webshim/minified/polyfiller.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://pbd.lbl.gov/wp-content/themes/wptimber-biosciences/assets/js/main.js?ver=4.1.2'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524'></script>
+
+</body>
+</html>

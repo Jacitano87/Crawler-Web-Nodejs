@@ -1,0 +1,653 @@
+<html>
+<head>
+    <title>ATG:biosynthetics GmbH - your reliable partner for synthetic biology</title>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
+    <meta name="description" content="Synthetic genes and gene assemblies, multi-protein/peptide expression systems, bioinformatics expertise from ATG:biosynthetics" />
+    <meta name="author" content="" />
+    <meta name="keywords" content="" />
+<!-- Beschreibubng Ende -->
+
+
+<!-- #########################################
+
+    Include Menue   & scripte
+
+ ############################################ -->
+
+<!-- Scripte, Css, etc. Anfang -->
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<link rel="stylesheet" type="text/css" href="../css/formate.css">
+	<link rel="stylesheet" type="text/css" href="../css/cssmenue.css">
+	<link rel="stylesheet" type="text/css" href="../css/hoverbox.css">
+	<link rel="stylesheet" type="text/css" href="../css/hoverbox_cal.css">
+	<link rel="stylesheet" type="text/css" href="../css/lytebox.css" media="screen" />
+	<style type="text/css"></style>
+	<script type="text/javascript" src="../js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="../js/jquery.expander.js"></script>
+	<script type="text/javascript" src="../js/expander.js"></script>
+	<script type="text/javascript" src="../js/collapse.js"></script>
+	<script type="text/javascript" language="javascript" src="../js/lytebox.js"></script>
+	<link href="../css/jquery-ui-atg.css" rel="stylesheet" type="text/css"/>
+	<script src="../js/jquery-ui.min.js"></script>
+	
+    
+<!-- script f�r tabbing Anfang -->
+	<link rel="stylesheet" href="../css/lightbox.css" type="text/css" media="screen" />
+	<script src="js/lightbox.js"></script>
+	<script>
+	  $(document).ready(function() {
+		$("#tabs").tabs();
+	  });
+	</script>
+<!-- script f�r tabbing Ende -->
+
+<!-- Scripte, Css, etc. Ende -->
+
+</head>
+
+<body style="margin: 0pt; padding: 0pt; width: 100%; height: 100%;" class="p180">
+
+
+<div id="main" class="shadow">
+<!--#####################
+    #                  ##
+    #  TopMen� Anfang  ##
+    #                  ##
+    ##################### -->
+
+<table border="0" cellpadding="0" cellspacing="0" summary="" >
+    <tr>
+    <td width="920">
+          <div id="top_menu">
+
+		  <div class="item" style="font:normal 14px Arial;color: #808080; text-align:right;">
+        	<a href="https://www.atg-biosynthetics.com/dna_order.php5">
+			<img src="http://www.atg-biosynthetics.com/bilder/q.png"><span>Customer Sign In</span>
+			</a>
+		  </div>
+
+          <div class="item">
+        	<img src="http://www.atg-biosynthetics.com/bilder/spacer_type1.png"  width="400px" height="18px" />
+        	 <!--<img src="http://www.atg-biosynthetics.com/bilder/spacer_type1.png">-->
+        	<!-- Um Verschiebubgen bei der Nummerierung von mousover Bildern zu vermeiden -->
+          </div>
+          <div class="item">
+        	<a href="http://www.atg-biosynthetics.com/Home.html">
+        	<img src="http://www.atg-biosynthetics.com/bilder/q.png"><span>Home</span></a>
+          </div>
+         
+          <div class="item">
+        	<a href="https://www.atg-biosynthetics.com/Company/ContactSec.html">
+        	<img src="http://www.atg-biosynthetics.com/bilder/q.png"><span>Contact Us</span></a>
+          </div>
+          <div class="item">
+		  <img src="http://www.atg-biosynthetics.com/bilder/q.png"><a>Follow us</a></div>
+          </div>
+   </td>
+   <td></td>
+   <td width="40">
+      <div class="link_ln" title="LinkedIn">
+        <a href="http://www.linkedin.com/company/atg-biosynthetics-gmbh?trk=hb_tab_compy_id_3039773" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp; </a>
+      </div>
+  </td>
+  <td width="40">
+      <div class="link_google" title="Google+">
+        <a href="https://plus.google.com/101480558630115472001/posts" target="_blank"> &nbsp; &nbsp; &nbsp; &nbsp;</a>
+  </div>
+
+
+        </td>
+    </tr>
+</table>
+
+
+<!--#####################
+    #                  ##
+    #  TopMen� Anfang  ##
+    #                  ##
+    ##################### -->
+<!--####################
+    #                 ##
+    #  Banner Anfang  ##
+    #                 ##
+    #################### -->
+<div id="header">
+	<a href="http://www.atg-biosynthetics.com/">
+	<img src="http://www.atg-biosynthetics.com/bilder/Startgraphik_V1.png" border="0">
+	</a>
+</div>
+<!--####################
+    #                 ##
+    #  Banner Ende    ##
+    #                 ##
+    #################### -->
+<!-- �berMen� Products &amp; Services mit Gradient -->
+<div id="ubermenue" style="z-index:100; font:normal 22px Arial; color:white;
+background-image: -moz-linear-gradient(top left, #043d6d 50%, #0c61a8 76%);
+background-image: -webkit-linear-gradient(top left, #043d6d 50%, #0c61a8 76%);
+background-image: -ms-linear-gradient(top left, #043d6d 50%, #0c61a8 76%);
+background-image: -o-linear-gradient(top left, #043d6d 50%, #0c61a8 76%);">
+<!--
+<table border="0" cellpadding="0" cellspacing="0" summary="">
+    <tr>
+        <td style="height:50px auto; width: 700px; font:normal 22px Arial; color:white;" align="center">Products &amp; Services</td>
+        <td style="width: 300px;" align="right">
+
+        &nbsp;</td>
+    </tr>
+</table>
+ "hr" mit Gradient 
+<div style="width:720px; height: 3px; background-image: -moz-linear-gradient(top left, #4091D4 30%, #a4cbef 44%,  #c6def5 50%, #a4cbef 56%,#4091D4 70%);
+background-image: -webkit-linear-gradient(top left, #4091D4 30%, #a4cbef 44%,  #c6def5 50%, #a4cbef 56%,#4091D4 70%);
+background-image: -ms-linear-gradient(top left, #4091D4 30%, #a4cbef 44%,  #c6def5 50%, #a4cbef 56%,#4091D4 70%);
+background-image: -o-linear-gradient(top left, #4091D4 30%, #a4cbef 44%,  #c6def5 50%, #a4cbef 56%,#4091D4 70%);">
+</div>-->
+<!-- "hr" mit Gradient Ende-->
+</div>
+<!-- �berMen� Products &amp; Services mit Gradient Ende-->
+<!--#########################
+    #                      ##
+    #  PureCSSMenu Anfang  ##
+    #                      ##
+    ######################### -->
+<div id="menu">
+<!--style="z-index:100; border:thin solid red"-->
+<ul class="pureCssMenu pureCssMenum">
+	<li class="pureCssMenui0"><a class="pureCssMenui0" href="http://www.atg-biosynthetics.com/GeneSynthesis/GeneSynthesis.html"><span>&nbsp; &nbsp; &nbsp; Gene Synthesis</span><![if gt IE 6]></a><![endif]><!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul class="pureCssMenum">
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/GeneSynthesis/SimpleGenes.html">Simple Genes</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/GeneSynthesis/ComplexGenes.html">Complex Genes</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/GeneSynthesis/GeneClusters.html">Gene Clusters</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/GeneSynthesis/Modules.html">Modules</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="https://www.atg-biosynthetics.com/dna_ordeSA.php">Inquiry &amp; Order</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+	<li class="pureCssMenui0"><a class="pureCssMenui0" href="http://www.atg-biosynthetics.com/Optimizations/Optimizations.html"><span>Optimizations</span><![if gt IE 6]></a><![endif]><!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul class="pureCssMenum">
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Optimizations/EvoMag.html">DNA Optimization (EvoMag)</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Optimizations/ClusterDesign.html">Cluster Design</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="https://www.atg-biosynthetics.com/Optimizations/InfoRequestOpt.html">Inquiry DNA optimization</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+	<li class="pureCssMenui0"><a class="pureCssMenui0" href="http://www.atg-biosynthetics.com/Libraries/Libraries.html"><span>Libraries</span><![if gt IE 6]></a><![endif]><!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul class="pureCssMenum">
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Libraries/PepID.html">PepID</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Libraries/Tags.html">Tags</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="https://www.atg-biosynthetics.com/Libraries/InfoRequestLib.html">PepLib inquiry</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+	<li class="pureCssMenui0"><a class="pureCssMenui0" href="http://www.atg-biosynthetics.com/ExpressionConstruction/Expression.html"><span>Expression &amp; Construction</span><![if gt IE 6]></a><![endif]><!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul class="pureCssMenum">
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/ExpressionConstruction/MultiGene.html">MultiGene</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/ExpressionConstruction/MultiLabel.html">MultiLabel</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/ExpressionConstruction/Toggle.html">Toggle</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/ExpressionConstruction/FlexTec.html"><i>flex</i>TEC</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/ExpressionConstruction/Pricing.html">Pricing</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="https://www.atg-biosynthetics.com/ExpressionConstruction/InfoRequestExp.html">Inquiry</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+	<li class="pureCssMenui0"><a class="pureCssMenui0" href="http://www.atg-biosynthetics.com/Company/Company.html"><span>Company</span><![if gt IE 6]></a><![endif]><!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul class="pureCssMenum">
+		<li class="pureCssMenui"><a class="pureCssMenui" href="https://www.atg-biosynthetics.com/Company/ContactSec.html">Contact</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/Consulting3.html">Consulting</a></li>
+        <li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/Team.html">Team</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/Partners.html">Partners/Distributors</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/PartnerWithUs.html">Partner/Collaborate with us</a></li>
+        <li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/Reference.html">Our Customers</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/Jobs.html">Jobs</a></li>
+        <li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/Downloads.html">Downloads</a></li>
+        <li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/Company/Terms.html">Terms &amp; Conditions</a></li>
+	</ul>
+	<!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+	<li class="pureCssMenui0"><a class="pureCssMenui0" href="http://www.atg-biosynthetics.com/News/News.html"><span>News</span><![if gt IE 6]></a><![endif]><!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul class="pureCssMenum">
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/News/CompanyNews.html">CompanyNews</a></li>
+        <li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/News/Newsletter.html">CodonNewsLetter</a></li>
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/News/Events.html">Events</a></li>
+    <!--    <li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/FollowUs">Follow Us</a></li> -->
+		<li class="pureCssMenui"><a class="pureCssMenui" href="http://www.atg-biosynthetics.com/News/SynBio.html">Synthetic Biology</a></li>
+	</ul>
+
+</ul>
+</div>
+<!--#######################
+    #                    ##
+    #  PureCSSMenu Ende  ##
+    #                    ##
+    ####################### -->
+<!-- ########################
+     #             ##
+	 # Header Ende ##
+	 #             ##
+	 #################-->
+
+<div style="font-size:20px; background-color:#C4E4FF;"> 
+<!--  " border:thin solid red;">-->
+
+<script type="text/javascript">
+Normal1 = new Image();
+Normal1.src = "http://www.atg-biosynthetics.com/bilder/3.png";     /* erste Standard-Grafik */
+Highlight1 = new Image();
+Highlight1.src = "http://www.atg-biosynthetics.com/bilder/3a.png"; /* erste Highlight-Grafik */
+
+Normal2 = new Image();
+Normal2.src = "http://www.atg-biosynthetics.com/bilder/3.png";     /* zweite Standard-Grafik */
+Highlight2 = new Image();
+Highlight2.src = "http://www.atg-biosynthetics.com/bilder/3b.png"; /* zweite Highlight-Grafik */
+
+Normal3 = new Image();
+Normal3.src = "http://www.atg-biosynthetics.com/bilder/3.png";     /* dritte Standard-Grafik */
+Highlight3 = new Image();
+Highlight3.src = "http://www.atg-biosynthetics.com/bilder/3c.png"; /* dritte Highlight-Grafik */
+
+Normal4 = new Image();
+Normal4.src = "http://www.atg-biosynthetics.com/bilder/3d.png";     /* vierte Standard-Grafik */
+Highlight4 = new Image();
+Highlight4.src = "http://www.atg-biosynthetics.com/bilder/3dh.png"; /* vierte Highlight-Grafik */
+
+Normal5 = new Image();
+Normal5.src = "http://www.atg-biosynthetics.com/bilder/3.png";     /* erste Standard-Grafik */
+Highlight5 = new Image();
+Highlight5.src = "http://www.atg-biosynthetics.com/bilder/3a.png"; /* erste Highlight-Grafik */
+
+Normal6 = new Image();
+Normal6.src = "http://www.atg-biosynthetics.com/bilder/3.png";     /* zweite Standard-Grafik */
+Highlight6 = new Image();
+Highlight6.src = "http://www.atg-biosynthetics.com/bilder/3b.png"; /* zweite Highlight-Grafik */
+
+Normal7 = new Image();
+Normal7.src = "http://www.atg-biosynthetics.com/bilder/3.png";     /* dritte Standard-Grafik */
+Highlight7 = new Image();
+Highlight7.src = "http://www.atg-biosynthetics.com/bilder/3c.png"; /* dritte Highlight-Grafik */
+
+Normal8 = new Image();
+Normal8.src = "http://www.atg-biosynthetics.com/bilder/3d.png";     /* vierte Standard-Grafik */
+Highlight8 = new Image();
+Highlight8.src = "http://www.atg-biosynthetics.com/bilder/3dh.png"; /* vierte Highlight-Grafik */
+
+
+/* usw. fuer alle weiteren zu benutzenden Grafiken */
+
+function Bildwechsel (Bildnr, Bildobjekt) {
+  window.document.images[Bildnr].src = Bildobjekt.src;
+}
+</script>
+
+<table border="0" style="background-color:#C4E4FF" width="1000px" cellpadding="0" cellspacing="0">
+
+    <tr>
+        <td width="30">&nbsp;</td>
+        <td width="100">&nbsp;</td>
+        <td width="140">&nbsp;</td>
+        <td width="160">&nbsp;</td>
+        <td align="center" width="0">&nbsp;</td>
+        <td width="160">&nbsp;</td>
+        <td width="140">&nbsp;</td>
+        <td width="100">&nbsp;</td>
+        <td width="30">&nbsp;</td>
+    </tr>
+    <!-- Anfang Mousover Men� Boxen-->
+    <!-- 3er Zeile -->
+    <tr>
+    	<td>&nbsp;</td>
+    	<td>&nbsp;</td>
+    
+        <td align="center" colspan="5">
+        <img src="http://www.atg-biosynthetics.com/bilder/3.png" width="500" height="62" border="0" alt="img" usemap="#3b" />
+        <map name="3b">
+         <area shape="rect" coords="0,0,166,62"
+              href="http://www.atg-biosynthetics.com/ExpressionConstruction/Expression.html" alt="System_logo" title="System"
+              onmouseover="Bildwechsel(6, Highlight1)"
+    			onmouseout="Bildwechsel(6, Normal1)"
+              />
+        <area shape="rect" coords="167,0,333,62"
+              href="http://www.atg-biosynthetics.com/GeneSynthesis/GeneSynthesis.html" alt="Services_logo" title="Services"
+              onmouseover="Bildwechsel(6, Highlight2)"
+    			onmouseout="Bildwechsel(6, Normal2)"
+              />
+        <area shape="rect" coords="334,0,500,62"
+              href="http://www.atg-biosynthetics.com/Optimizations/Optimizations.html" alt="Solutions_logo" title="Solutions"
+              onmouseover="Bildwechsel(6, Highlight3)"
+    		  onmouseout="Bildwechsel(6, Normal3)"
+              />
+        </map>
+        </td>
+    
+        <td>&nbsp;</td>
+    	<td>&nbsp;</td>
+    </tr>
+    <!-- 1er Zeile -->
+    <tr>
+    	<td>&nbsp;</td>
+    	<td>&nbsp;</td>
+    
+        <td align="center" colspan="5">
+            <img src="http://www.atg-biosynthetics.com/bilder/3d.png" width="500" height="62" border="0"
+            alt="SynBio_logo" title="SynBio"
+            onmouseover="Bildwechsel(7, Highlight4)"
+            onmouseout="Bildwechsel(7, Normal4)" />
+        </td>
+    
+        <td>&nbsp;</td>
+    	<td>&nbsp;</td>
+    </tr>
+    <!-- Ende Mousover Men� Boxen-->
+
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp; </td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>        
+    </tr>
+	
+<tr>
+    <td>&nbsp;</td><!-- #1 -->
+<!--################################################# 
+###
+###     obere Box links Anfang 
+###
+#####################################################
+-->
+    <td  colspan="2" align="center" valign="top" width=""><!-- #2&3 -->
+    <div id="home_box">
+        <a href="http://www.atg-biosynthetics.com/GeneSynthesis/GeneSynthesis.html">
+        <table border="0" cellpadding="0" cellspacing="0" width="280px">
+        <tr>
+            <td valign="top" colspan="2">
+            <img src="http://www.atg-biosynthetics.com/bilder/button_50_dna.png" width="50" height="50" style="border: 0px;" alt="DNA_icon" title="DNAsynthesis" /> &nbsp;
+            </td>
+            <td>&nbsp;</td>
+            <td>
+            <h4><b>Synthetic DNA:</b> gene design, gene optimization, gene synthesis</h4>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td colspan="3">
+                    <ul>
+                    <li>oligos</li>
+                    <li>synthetic genes</li>
+                    <li>gene cassettes</li>
+                    <li>gene assemblies</li>
+                    <li>gene clusters</li>
+                    </ul>
+                    <b>fast, reliable, affordable, work-saving</b>
+            </td>
+        </tr>
+        <tr>
+        <td style="padding-bottom: 15px;"><br />&nbsp;</td>
+        <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+        </table> 
+        </a>
+    </div>
+    </td>
+<!--#################################################
+###
+###     Box oben, links Ende
+###
+#####################################################
+-->    
+<!--#################################################
+###
+###     Box oben, mitte Anfang
+###
+#####################################################
+-->
+    <td  colspan="3" align="center" valign="top" style="padding-left: 10px; padding-right: 10px;"> 
+    <div id="home_box">
+        <a href="http://www.atg-biosynthetics.com/Company/Consulting3.html">
+        <table border="0" cellpadding="0" cellspacing="0" width="280px">
+        <tr>
+            <td valign="top" colspan="2">
+            <img src="http://www.atg-biosynthetics.com/bilder/button_50_evomag.png" width="50" height="50" style="border: 0px;" alt="DNA_icon" title="DNAsynthesis" /> &nbsp;
+            </td>
+            <td>&nbsp;</td>
+            <td>
+            <h2><b>SynBio consulting</b></h2>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td colspan="3" style="padding-bottom: 1px;">
+                    <ul>
+                    <li style="padding-bottom: 10px;">Computational Molecular Biology � <i>Analytical Genomics</i></li>
+                    <li style="padding-bottom: 10px;">Synthetic Molecular Biology � <i>Gene Function Oriented Computation</i></li>
+                    <li style="padding-bottom: 20px;">Constructional DNA � Design Projects</li>
+                    
+                    </ul>
+            </td>
+        </tr>
+        </table>
+        </a>
+    </div>
+    </td>
+<!--#################################################
+###
+###     Box oben, mitte Ende
+###
+#####################################################
+-->
+<!--#################################################
+###
+###     Box oben, rechts Anfang
+###
+#####################################################
+-->
+    <td  colspan="2" align="center" valign="top" width="">
+        <div id="home_box" class="shadow_blue">
+        <a href="http://www.atg-biosynthetics.com/Libraries/Libraries.html">
+        <table border="0" cellpadding="0" cellspacing="0" width="280px">
+        <tr>
+            <td valign="top" colspan="2">
+            <img src="http://www.atg-biosynthetics.com/bilder/button_50_pepident.png" width="50" height="50" style="border: 0px;" alt="PepIdent_icon" title="PepIdent" /> &nbsp;
+            </td>
+            <td>&nbsp;</td>
+            <td>
+            <h4>BioPeptide Construction &amp; Expression Technology
+            PepID</h4>
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td colspan="4">
+            <ul>
+            <li>design</li>
+            <li>construct</li>
+            <li>express</li>
+            </ul>
+            rational, compact biohost-derived peptide libraries
+            from your target sequence of choice  
+            <br /><br />
+            <b>the smart and economical alternative to chemical synthesis</b>
+            </td>
+        </tr>
+        <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+        </table>
+        </a>
+        </div>
+    </td>
+<!--#################################################
+###
+###     Box oben, rechts Ende
+###
+#####################################################
+-->    
+    <td>&nbsp;</td><!-- #9 -->
+</tr>
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+</tr>
+
+
+<tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+<!--#################################################
+###
+###     Box unten, links Anfang
+###
+#####################################################
+-->
+    <td colspan="2" valign="top"> 
+        <div id="home_box">
+        <a href="http://www.atg-biosynthetics.com/ExpressionConstruction/Expression.html">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top" colspan="2">
+            <img src="http://www.atg-biosynthetics.com/bilder/MultiBac_icon.png" width="50" height="50"  alt="MultiBac_icon" title="MultiBac" /> &nbsp;
+            </td>
+            <td>&nbsp;</td>
+            <td>
+            <h4>Multi-Gene/Protein Expression Systems</h4>
+            </td>
+        </tr>
+        <tr>
+        <td>&nbsp;</td>
+        <td colspan="3">            
+            <ul>
+            <li>ready-to-use or tailor-made to your specifications </li>
+            <li>for <i>E.coli</i>, insect cells, mammalian cells</li>
+            <li>and many more on demand</li>
+            <li>design and synthesis of DNA inserts: host-optimized, re-usable, smart</li> 
+            </ul>
+            <b>flexible, modular, time-saving</b> 
+            </td>
+        </tr>
+        <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+        </table>
+        </a> 
+        </div>     
+    </td>    
+    <td>&nbsp;</td>
+<!--#################################################
+###
+###     Box unten, links Ende
+###
+#####################################################
+-->
+<!--#################################################
+###
+###     Box unten, rechts Anfang
+###
+#####################################################
+-->    
+    <td colspan="2">
+        <div id="home_box">
+        <a href="http://www.atg-biosynthetics.com/Optimizations/Optimizations.html">
+        <table border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top" colspan="2">
+            <img src="http://www.atg-biosynthetics.com/bilder/button_50_evomag.png" width="50" height="50" alt="EvoMag_icon" title="EvoMag" />
+            &nbsp;
+            </td>
+            <td>&nbsp;</td>
+            <td>
+            <h4>Synthetic and Analytical Bioinformatics</h4>
+            
+            </td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td colspan="3">
+            <ul>
+            <li>highly parallel,multi-parametric design and optimization of single and multi-genic DNA sequences </li>
+            <li>in silico analysis and identification of optimal promoters/enhancers for your in vitro experiments</li>
+            </ul>
+            <b>powerful, fast, effective, intelligent</b>
+            </td>
+        </tr>
+        <tr><td><br />&nbsp; </td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+        </table>
+        </a>
+        </div>    
+    </td>
+<!--#################################################
+###
+###     Box unten, rechts Ende
+###
+#####################################################
+-->    
+        
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+</tr>
+ 
+<tr>
+
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+</tr>
+ 
+<tr>
+
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+</tr>
+</table>
+<div align="center" style="background-color:#d6ffff;">
+<!-- 
+
+<div id="news_in">
+<center>
+</center>
+</div>
+ -->
+</div>
+<br/>
+</div>
+
+<!-- Content Ende -->
+<div style="clear:both">
+</div>
+</div>
+</div>
+<div id="footer">
+<span class="link_anders">
+<b>ATG:biosynthetics GmbH - your reliable partner for synthetic biology</b>
+</span>
+<span>
+<img src="http://www.atg-biosynthetics.com/bilder/spacer_type1.png">
+</span>
+<span class="link_anders">
+<a href="http://www.atg-biosynthetics.com/Impress.html">Impress</a>
+</span>
+<span>
+<img src="http://www.atg-biosynthetics.com/bilder/spacer_type1.png">
+</span>
+<span class="link_anders">
+<a href="http://www.atg-biosynthetics.com/sitemap.html">sitemap</a>
+</span>
+&nbsp; &nbsp; 
+
+</div>
+<div>
+</body>
+</html>

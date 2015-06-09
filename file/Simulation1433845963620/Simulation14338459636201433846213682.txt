@@ -1,0 +1,541 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,200,300,200italic,300italic,900italic,900,700italic,600italic,600,400italic,700' rel='stylesheet' type='text/css'>
+<meta charset="UTF-8" />
+
+<title>SB6.0 Organizers | BioBricks Foundation SB6.0: The Sixth International Meeting on Synthetic Biology</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" href="http://sb6.biobricks.org/wp-content/themes/sb6-v2/style.css?1370057585" type="text/css" media="all" />
+
+<!-- iPhone viewport -->
+<meta name="apple-mobile-web-app-title" content="BioBricks SB6.0">
+<!--[if lte IE 8]>
+<![endif]-->
+
+<link rel="pingback" href="http://sb6.biobricks.org/xmlrpc.php" />
+<link rel="shortcut icon" type="image/x-icon" href="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/favicon.ico">
+<link rel="apple-touch-icon" href="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/apple-touch-icon-precomposed.png" />
+
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="The preeminent meeting in Synthetic Biology, covering biotechnologies, biosafety, biosecurity &amp; bioethics, July 9-11, 2013 at Imperial College in London UK."/>
+<link rel="canonical" href="http://sb6.biobricks.org/about/sb6-organizers/" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/sb6.biobricks.org\/","name":"BioBricks Foundation SB6.0: The Sixth International Meeting on Synthetic Biology"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/sb6.biobricks.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='http://sb6.biobricks.org/?mcsf_action=main_css&#038;ver=4.2.2' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://sb6.biobricks.org/wp-content/plugins/mailchimp/css/ie.css?ver=4.2.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='espresso_themeroller_base-css'  href='http://sb6.biobricks.org/wp-content/plugins/event-espresso/templates/css/themeroller/themeroller-base.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='espresso_themeroller-css'  href='http://sb6.biobricks.org/wp-content/plugins/event-espresso/templates/css/themeroller/smoothness/style.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://sb6.biobricks.org/wp-content/plugins/lightbox-plus/css/black/colorbox.css?ver=2.7.1' type='text/css' media='screen' />
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-content/plugins/mailchimp/js/scrollTo.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-includes/js/jquery/jquery.form.min.js?ver=3.37.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"http:\/\/sb6.biobricks.org\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.4.2'></script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-content/plugins/countdown-timer/js/webtoolkit.sprintf.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.8'></script>
+<link rel='shortlink' href='http://sb6.biobricks.org/?p=2091' />
+<meta name='generator' content='Event Espresso Version 3.1.29.1P' /><!-- Google Analytics Tracking by Google Analyticator 6.4.8: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-16053531-3']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+<meta name="google-site-verification" content="pEP4bPhfX1Z_h_1UBboboRwHYnNmm1UFc28otxXLoec" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div class="inner cf">
+			<div id="logo" class="cf">
+				<div id="logo-main" class="sub-page">
+											<a href="/" title="Visit the home page"><img src="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/logo-sb6.png" alt="logo" class="sub-page" /></a>
+									</div>
+									<div id="logo-butterfly">
+						<a href="/" title="Visit the home page"><img src="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/logo-sb6-butterfly.png" alt="09-11 July 2013" /></a>
+					</div>
+							</div>
+			<div id="search-hashtags">
+				<div id="search-container" class="cf">
+					<div id="search">
+	<form method="get" id="searchform" action="http://sb6.biobricks.org/">
+		<input type="text" value="" name="s" id="s" />
+		<input type="submit" id="searchsubmit" value="" />
+	</form>
+</div>				</div>
+				<div id="hashtags" class="cf">
+					<a class="hashtag" href="https://twitter.com/search/realtime?q=sb6conf" target="_blank" title="See our hashtag live on Twitter">#sb6conf</a> <a class="twitter-username" href="http://twitter.com/biobricks" target="_blank" title="Follow us on Twitter">@biobricks</a>
+				</div>
+				<div id="hosted">
+					<a href="http://www3.imperial.ac.uk/" target="_blank" title="Visit Imperial College London's website"><img src="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/text-hosted-by.png" alt="Hosted by: Imperial College London" /></a>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<div id="menu-main-wrapper">
+		<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-2114" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-2114"><a href="http://sb6.biobricks.org/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-2142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2142"><a href="http://sb6.biobricks.org/about/series/">About the SBx.0 Conference Series</a></li>
+	<li id="menu-item-2116" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2091 current_page_item menu-item-2116"><a href="http://sb6.biobricks.org/about/sb6-organizers/">SB6.0 Organizers</a></li>
+	<li id="menu-item-2143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2143"><a href="http://sb6.biobricks.org/about/about-biobricks-foundation/">About the BioBricks Foundation</a></li>
+	<li id="menu-item-2144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2144"><a href="http://sb6.biobricks.org/about/newsletter-archive/">Newsletter Archive</a></li>
+</ul>
+</li>
+<li id="menu-item-2145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2145"><a href="http://sb6.biobricks.org/program/">Program</a>
+<ul class="sub-menu">
+	<li id="menu-item-2146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2146"><a href="http://sb6.biobricks.org/program/sessions/">Sessions</a></li>
+	<li id="menu-item-2147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2147"><a href="http://sb6.biobricks.org/program/lightning-talks/">Lightning Talks</a></li>
+	<li id="menu-item-2148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2148"><a href="http://sb6.biobricks.org/program/poster-presentations/">Poster Presentations</a></li>
+	<li id="menu-item-2149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149"><a href="http://sb6.biobricks.org/program/related-events/">Related Events</a></li>
+</ul>
+</li>
+<li id="menu-item-2124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2124"><a href="http://sb6.biobricks.org/attending/">Attending</a>
+<ul class="sub-menu">
+	<li id="menu-item-2243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="http://sb6.biobricks.org/attending/registration-info/">Registration</a></li>
+	<li id="menu-item-2150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="http://sb6.biobricks.org/attending/accommodations/">Accommodations</a></li>
+	<li id="menu-item-2127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2127"><a href="http://sb6.biobricks.org/attending/travel/">Travel</a></li>
+	<li id="menu-item-2151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2151"><a href="http://sb6.biobricks.org/attending/volunteers/">Volunteers</a></li>
+	<li id="menu-item-2103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2103"><a href="http://sb6.biobricks.org/whiteboard/">Whiteboard</a></li>
+</ul>
+</li>
+<li id="menu-item-2129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2129"><a href="http://sb6.biobricks.org/speakers/">Speakers</a></li>
+<li id="menu-item-2089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2089"><a href="http://sb6.biobricks.org/sponsors/">Sponsors</a>
+<ul class="sub-menu">
+	<li id="menu-item-2152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2152"><a href="http://sb6.biobricks.org/sponsors/sponsor-list/">Sponsors and Exhibitors</a></li>
+	<li id="menu-item-2153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2153"><a href="http://sb6.biobricks.org/sponsors/sponsorship-opportunities/">Sponsorship, Exhibition and Advertising Opportunities</a></li>
+</ul>
+</li>
+<li id="menu-item-2155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2155"><a href="http://sb6.biobricks.org/press/">Press</a></li>
+<li id="menu-item-2165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2165"><a href="http://sb6.biobricks.org/digital-conference/">Video</a>
+<ul class="sub-menu">
+	<li id="menu-item-2166" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2166"><a href="http://sb6.biobricks.org/digital-conference/">Digital Conference</a></li>
+</ul>
+</li>
+</ul></div>	</div><div id="content" class="page cf">
+	<div class="inner cf">
+		<div class="post">
+			<div class="inner">
+				<h1>SB6.0 Organizers</h1>
+				<h2>BioBricks Foundation SB6.0 Co-Chairs</h2>
+<ul>
+<li><a href="#drew-endy">Drew Endy</a>, Ph.D., BioBricks Foundation Board President</li>
+<li><a href="#paul-freemont">Paul Freemont</a>, Ph.D., Co-Director, EPSRC and Department of Bioengineering, Imperial College</li>
+<li><a href="#richard-kitney">Dick Kitney</a>, Ph.D., Co-Director, EPSRC and Department of Bioengineering, Imperial College</li>
+</ul>
+<h2>Executive Program Team</h2>
+<ul>
+<li><a href="#tom-ellis">Tom Ellis</a>, Ph.D., Lecturer, Department of Bioengineering, Imperial College</li>
+<li><a href="#michael-jewett">Michael Jewett</a>, Ph.D., Assistant Professor, Chemical &amp; Biological Engineering, Northwestern University</li>
+<li><a href="#chueh-loo-poh">Chueh Loo Poh</a>, Ph.D., Assistant Professor, Division of Bioengineering, Nanyang Technological University, Singapore</li>
+<li><a href="#susan-rosser">Susan Rosser</a>, Ph.D., Professor, Institute of Molecular, Cell &amp; Systems Biology, University of Glasgow</li>
+<li><a href="#jane-calvert">Jane Calvert</a>, Ph.D., Reader, Science &amp; Technology Studies, University of Edinburgh</li>
+<li><a href="#emma-frow">Emma Frow</a>, Ph.D., Lecturer and Associate Director, ESRC Genomics Policy &amp; Research Forum, University of Edinburgh</li>
+</ul>
+<h2>International Program Team</h2>
+<ul>
+<li><a href="#travis-bayer">Travis Bayer</a>, Ph.D., Lecturer, Imperial College</li>
+<li><a href="#patrick-cai">&#8220;Patrick&#8221; Yizhi Cai</a>, Ph.D., Autodesk Distinguished Scholar, Johns Hopkins University School of Medicine, Baltimore, USA</li>
+</ul>
+<h2>About Imperial College</h2>
+<p>Consistently rated amongst the world&#8217;s best universities, <a href="http://www3.imperial.ac.uk/">Imperial College London</a> is a science-based institution with a reputation for excellence in teaching and research.  The Faculty of Natural Sciences employs over 1,200 staff, teaches 3,000 undergraduates and 1,200 postgraduate students, and has a research income total of £57 million (2008-09 figures).</p>
+<p>SB6.0 will be at the Sherfield Building at Imperial College&#8217;s South Kensington Campus.  <a href="http://www3.imperial.ac.uk/campusinfo/southkensington" target="_blank">View location information and directions.</a></p>
+<hr />
+<h2>BioBricks Foundation SB6.0 Co-Chairs</h2>
+<h3><a name="drew-endy"></a>Drew Endy, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-334" alt="board-endy" src="http://sb6.biobricks.org/files/board-endy.jpg" width="150" height="200" />Assistant Professor, Department of Biological Engineering</em><br /> <em>Stanford University, USA</em></p>
+<p><strong>Drew Endy</strong> is one of the leaders in the field of synthetic biology. His work continues to shape the development of the field, both in terms of its creation of BioBrick™ standard parts but also in terms of its human side. The BioBricks Foundation was created by Drew and several close colleagues. Drew earned degrees in civil, environmental, and biochemical engineering at Lehigh and Dartmouth. He studied genetics and microbiology as a postdoc at UT Austin and UW Madison. From 1998 through 2001 he helped to start the Molecular Sciences Institute, an independent not-for-profit biological research lab in Berkeley, CA. He joined the MIT faculty in 2004 and then the Stanford faculty in 2008. Drew’s research interests are the engineering of integrated biological systems and error detection and correction in reproducing machines.</p>
+<h3><a name="paul-freemont"></a>Paul Freemont, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-336" alt="Paul Freemont" src="http://sb6.biobricks.org/files/Paul-Freemont.jpg" width="150" height="200" />EPSRC Centre for Synthetic Biology &amp; Innovation</em><br /> <em>Imperial College London, UK</em></p>
+<p><strong></strong>Professor Paul Freemont is co-founder and co-director of the EPSRC Centre for Synthetic Biology and Innovation at Imperial College London. The Centre is the first of its kind in the UK and aims to develop an foundational technologies to enable synthetic biology research in application areas like biosensors, bioprocessing, metabolic and genome engineering. Previous to this he was head of the Division of Molecular Biosciences, and head of the Centre for Structural Biology having joined Imperial from Cancer Research UK London Research Institute where he was a Principal Scientist and director of the Macromolecular Structure and Function laboratory. His research interests focuses on understanding the molecular mechanisms of macromolecular assemblies associated with human disease and is author of over 150 peer-reviewed scientific publications. His research in synthetic biology focuses on in vitro foundational technologies and biosensing.  He is co-founder of a spin out company Equinox Pharma Ltd and holds a number of external positions including chair of the Diamond Light Source Scientific Advisory Committee and member MRC Molecular and Cellular Medicines Board.</p>
+<h3><a name="richard-kitney"></a>Richard I Kitney, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-337" alt="DickKitney_Dec2010" src="http://sb6.biobricks.org/files/DickKitney_Dec2010.jpg" width="150" height="200" />Professor of BioMedical Systems Engineering, Imperial College, London; Chairman of the Institute of Systems and Synthetic Biology; and Co-Director of the EPSRC National Centre for Synthetic Biology and Innovation</em></p>
+<p><strong>Professor Kitney</strong> is Professor of BioMedical Systems Engineering; Chairman of the Institute of Systems and Synthetic Biology; and Co-Director of the EPSRC National Centre for Synthetic Biology and Innovation.  He has published over 300 papers in the fields of synthetic biology, mathematical modelling, biomedical information systems, and medical imaging. Kitney was Chair of The Royal Academy of Engineering Inquiry into Synthetic Biology – Synthetic Biology: scope, applications and implications, published in May 2009. Kitney was a member of the British Government’s working group on the development of a Roadmap for synthetic biology for the UK and a member of The Royal Society’s Working Party on Synthetic Biology.  He is a member of the British Government’s Leadership Council for Synthetic Biology and a member of the group developing a strategy for synthetic biology for the EU. With Professor Paul Freemont and other colleagues, he has been responsible for six highly successful Imperial College iGEM teams.</p>
+<h2> </h2>
+<h2>Executive Program Team</h2>
+<h3><a name="tom-ellis"></a>Tom Ellis, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-338" alt="Tom Ellis" src="http://sb6.biobricks.org/files/Tom-Ellis.jpg" width="150" height="200" />Lecturer, Department of Bioengineering</em><br /> <em>Imperial College London, UK</em></p>
+<p><strong>Tom Ellis</strong> is a lecturer (Assistant Professor) in the Department of Bioengineering at Imperial College London and leads the Ellis Lab at the Centre for Synthetic Biology and Innovation (CSynBI). His research focuses on developing the tools and methods to rewire gene expression and to enable the future design and assembly of synthetic microbial genomes.  This research is being utilised in CSynBI on projects on intrinsic containment and for biofuel and antibiotic biosynthesis. Ellis was an undergraduate at Oxford University and received his PhD from the University of Cambridge. Following two years in commercial drug discovery, he was a postdoctoral fellow with James J Collins at Boston University. At Imperial College, he leads the UK contribution to the Sc2.0 Synthetic Yeast genome project and co-organises undergraduate synthetic biology teaching.</p>
+<h3><a name="michael-jewett"></a>Michael Jewett, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-339" alt="Mike Jewett" src="http://sb6.biobricks.org/files/Mike-Jewett.jpg" width="150" height="200" />Assistant Professor, Chemical &amp; Biological Engineering</em><br /> <em>Northwestern University, USA</em></p>
+<p><strong>Michael Jewett</strong> is an Assistant Professor of Chemical and Biological Engineering and Member of the Chemistry of Life Processes Institute at Northwestern University. He received his PhD in 2005 at Stanford University.  After completing postdoctoral studies as an NSF International Research Fellow at the Center for Microbial Biotechnology in Denmark and as an NIH Pathway to Independence Fellow at the Harvard Medical School, he joined Northwestern in 2009.  Mike is developing cell-free biology as an enabling technology for biomanufacturing lifesaving therapeutics, sustainable chemicals, and novel materials, both quickly and on-demand. He focuses on designing, constructing, and modifying biological systems involved in protein synthesis and metabolism, with promise to advance new paradigms for synthetic biology. In 2011, he was honored with a David and Lucile Packard Fellowship in Science and Engineering, the DARPA Young Faculty Award, and the Agilent Early Career Professor Award.</p>
+<h3><a name="chueh-loo-poh"></a>Chueh Loo Poh, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-340" alt="Cheuh Loo Poh" src="http://sb6.biobricks.org/files/Cheuh-Loo-Poh.jpg" width="150" height="200" />Assistant Professor, Division of Bioengineering</em><br /> <em>Nanyang Technological University, Singapore</em></p>
+<p><strong>Dr. Chueh Loo Poh</strong> is an Assistant Professor with the Division of Bioengineering at Nanyang Technological University (NTU), Singapore since 2007. He obtained his PhD in Bioengineering from Imperial College London and B.Eng. in Electrical and Electronic Engineering from NTU Singapore. After completing his B.Eng., he joined Accenture Pte Ltd and specialized in Information Technology Consulting. He was awarded NTU overseas PhD scholarship in 2003 to pursue a PhD at Imperial College. His current research interests in synthetic biology include biomedical informatics, biomodels of standard parts, development of modeling techniques and computer aided system to aid the design of complex biological system and engineering ofbeneficial microbes with novel functions for human health. He has also been actively involved in international synthetic biology competition (iGEM) since 2006. He was awarded NTU Excellence in Teaching award in 2010 and he has been a member of IEEE since 2007.</p>
+<h3><a name="susan-rosser"></a>Susan Rosser, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-342" alt="Susan Rosser 1" src="http://sb6.biobricks.org/files/Susan-Rosser-1.jpg" width="150" height="200" />Professor, Institute of Molecular, Cell &amp; Systems Biology</em><br /> <em>University of Glasgow</em></p>
+<p><strong>Susan Rosser</strong> is a Professor in the Institute of Molecular, Cell and Systems Biology at the University of Glasgow and an EPSRC Leadership Fellow focused on Synthetic Biology. Susan studied microbiology and genetics at the university of Dundee before a PhD working on the mechanisms of multiple antibiotic resistance. Susan then moved to the Institute of Biotechnology at the University of Cambridge to work on biotransformations of cocaine and high explosives. She then became a lecturer in biotechnology at the University of Glasgow before being promoted to Professor in 2012. She is the programme coordinator and PI of a large transatlantic synthetic biology project co-funded by the EPSRC and NSF which aims to develop synthetic biology tools for rapid generation, evolution and optimisation of genetic circuits and metabolic pathways. Her synthetic biology research interests focus on developing tools for rapid pathway assembly and modification, microbial fuel cells, logic gates and biocomputing, and tools for rapid industrial strain improvement.</p>
+<h3><a name="jane-calvert"></a>Jane Calvert</h3>
+<p><em><img class="alignright size-full wp-image-343" alt="Jane Calvert" src="http://sb6.biobricks.org/files/Jane-Calvert.jpg" width="150" height="200" />Reader, Science &amp; Technology Studies</em><br /> <em>University of Edinburgh, UK</em></p>
+<p><strong>Jane Calvert</strong> is a Reader in Science, Technology and Innovation Studies at the University of Edinburgh. She is particularly interested in the social dimensions of synthetic biology, including the role of social scientists in the field, attempts to make biology into an engineering discipline, and intellectual property and open source. Jane is part of the interdisciplinary EPSRC/NSF ‘Synthetic Aesthetics’ project, which brings together synthetic biology, social science, art and design. She was a member of the Royal Academy of Engineering’s Working Party on Synthetic Biology, and the UK Synthetic Biology Roadmap Coordination Group. She is currently a member of the Nuffield Council of Bioethics Working Party on Emerging Biotechnologies, the Hastings Center Working Group on Ethical Issues in Synthetic Biology, and the BBSRC’s Bioscience and Society Panel.</p>
+<h3><a name="emma-frow"></a>Emma Frow, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-344" alt="Emma Frow" src="http://sb6.biobricks.org/files/Emma-Frow.jpg" width="150" height="200" />Lecturer and Associate Director, ESRC Genomics Policy &amp; Research Forum<br /> University of Edinburgh</em></p>
+<p><strong>Emma Frow</strong> is a Lecturer in Science &amp; Technology Studies at the University of Edinburgh, and Associate Director of the ESRC Genomics Policy &amp; Research Forum. She is a sociologist of science, and one of her core research interests relates to how standards are developed and used as tools of governance in contemporary biosciences. Emma is a Principal Investigator for the European Commission ST-FLOW project on standardization in synthetic biology, and a researcher in the UK Flowers Consortium concerned with developing infrastructure for synthetic biology. Emma was also a coordinator of the UK Synthetic Biology Standards Network from 2008-2011, and has been a Human Practices advisor and judge for the iGEM competition since 2008. Originally trained as a bioscientist, she has a PhD in biochemistry from the University of Cambridge, and worked at Nature before moving up to Edinburgh in 2006.</p>
+<h2> </h2>
+<h2>International Program Team</h2>
+<h3><a name="travis-bayer"></a>Travis Bayer, Ph.D.<em></em></h3>
+<p><em><img class="alignright size-full wp-image-345" alt="Travis Bayer" src="http://sb6.biobricks.org/files/Travis-Bayer.jpg" width="100" height="125" />Imperial College London, UK</em></p>
+<p><strong>Travis Bayer</strong> is a member of the faculty at Imperial College London where his group works in metabolic engineering, biocatalysis, and synthetic biology. The Bayer group is interested in understanding the evolution of metabolism and genetic regulation, interfacing living and non-living systems, and using biological technologies to enhance global health and sustainability. Travis received a BS in Molecular Biology from the University of Texas at Austin, a PhD in Biochemistry from the California Institute of Technology, and was a postdoctoral scholar at the University of California, San Francisco before starting his group at Imperial in 2010. Travis has strong industrial collaborations and sits on the scientific advisory boards of synthetic biology startup companies.</p>
+<h3><a name="patrick-cai"></a>&#8220;Patrick&#8221; Yizhi Cai, Ph.D.</h3>
+<p><em><img class="alignright size-full wp-image-346" alt="Patrick Cai" src="http://sb6.biobricks.org/files/Patrick-Cai.jpg" width="150" height="200" />Autodesk Distinguished Scholar, Johns Hopkins University School of Medicine, Baltimore, USA</em><br /> <em>Chancellor Fellow &amp; Group Leader, University of Edinburgh, Scotland, UK</em></p>
+<p><strong>&#8220;Patrick&#8221; Yizhi Cai</strong> received a bachelor degree in Computer Science in China, a master degree in Bioinformatics from University of Edinburgh in the UK, and a PhD in Genetics, Bioinformatics and Computational Biology from Virginia Tech in the USA. Cai has his postdoctoral fellowship under Jef Boeke in the Johns Hopkins University School of Medicine. Cai serves as a senior scientific consultant to Beijing Genomics Institute, and is the first Autodesk Distinguished Scholar. Starting summer 2013, Cai will start his own research group at the University of Edinburgh with a prestigious Chancellor&#8217;s Fellowship, and his lab focus on Computer Assisted Design for Synthetic Biology, NeoChromosome design and synthesis in the yeast, and DNA assembly automation.</p>
+				<a href="/" title="Visit the homepage"><img src="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/icon-butterfly-flourish.png" /></a>
+			</div>
+		</div>	
+		<div id="sidebar">
+	<div id="sticky-anchor-section-nav"></div>
+		<div id="section-nav">
+		<div class="widget-container-nav-menu"><ul id="section-nav-menu" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-2114"><a href="http://sb6.biobricks.org/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2142"><a href="http://sb6.biobricks.org/about/series/">About the SBx.0 Conference Series</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2091 current_page_item menu-item-2116"><a href="http://sb6.biobricks.org/about/sb6-organizers/">SB6.0 Organizers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2143"><a href="http://sb6.biobricks.org/about/about-biobricks-foundation/">About the BioBricks Foundation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2144"><a href="http://sb6.biobricks.org/about/newsletter-archive/">Newsletter Archive</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2145"><a href="http://sb6.biobricks.org/program/">Program</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2146"><a href="http://sb6.biobricks.org/program/sessions/">Sessions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2147"><a href="http://sb6.biobricks.org/program/lightning-talks/">Lightning Talks</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2148"><a href="http://sb6.biobricks.org/program/poster-presentations/">Poster Presentations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149"><a href="http://sb6.biobricks.org/program/related-events/">Related Events</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2124"><a href="http://sb6.biobricks.org/attending/">Attending</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="http://sb6.biobricks.org/attending/registration-info/">Registration</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="http://sb6.biobricks.org/attending/accommodations/">Accommodations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2127"><a href="http://sb6.biobricks.org/attending/travel/">Travel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2151"><a href="http://sb6.biobricks.org/attending/volunteers/">Volunteers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2103"><a href="http://sb6.biobricks.org/whiteboard/">Whiteboard</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2129"><a href="http://sb6.biobricks.org/speakers/">Speakers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2089"><a href="http://sb6.biobricks.org/sponsors/">Sponsors</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2152"><a href="http://sb6.biobricks.org/sponsors/sponsor-list/">Sponsors and Exhibitors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2153"><a href="http://sb6.biobricks.org/sponsors/sponsorship-opportunities/">Sponsorship, Exhibition and Advertising Opportunities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2155"><a href="http://sb6.biobricks.org/press/">Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2165"><a href="http://sb6.biobricks.org/digital-conference/">Video</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2166"><a href="http://sb6.biobricks.org/digital-conference/">Digital Conference</a></li>
+</ul>
+</li>
+</ul></div>	
+	</div>
+	<script type="text/javascript">
+	/*	jQuery(document).ready(function($){
+			function sticky_relocate() {
+				var window_top = $(window).scrollTop();
+				var div_top = $('#sticky-anchor-section-nav').offset().top;
+				if (window_top > ( div_top - 24 ) ) {
+					$('#section-nav').addClass('sticky-section-nav');
+					$('.post').addClass('sticky-post');
+				} else {
+					$('#section-nav').removeClass('sticky-section-nav');
+					$('.post').removeClass('sticky-post');
+				}
+			};
+			
+			$(function() {
+				$(window).scroll(sticky_relocate);
+				sticky_relocate();
+			});
+		});		
+	*/</script>
+	<div id="twitter-2" class="widget-container widget_twitter"><div><span class='twitterwidget twitterwidget-title'><div class="twitter-name">BioBricks Foundation</div><div class="twitter-username"><a href="http://twitter.com/biobricks">@biobricks</a></div></span><div class="twitter-avatar"><a href="http://twitter.com/biobricks" title="BioBricks Foundation"><img alt='BioBricks Foundation' src='https://pbs.twimg.com/profile_images/1205254541/logo-bbf-twitter_normal.jpg' /></a></div><ul><li><span class='entry-content'>RT <a href="http://twitter.com/LindaKahl" class="twitter-user">@LindaKahl</a>: Law students partner with <a href="http://twitter.com/search?q=%23iGEM" class="twitter-hashtag">#iGEM</a> for <a href="http://twitter.com/search?q=%23synbio" class="twitter-hashtag">#synbio</a> policy&amp;practice <a href="http://t.co/3fwpQFDAVm">http://t.co/3fwpQFDAVm</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/606521129751199744">4 Jun 2015</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=606521129751199744" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=606521129751199744" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=606521129751199744" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li><li><span class='entry-content'>Thank you Dr. Jerome Bonnet of <a href="http://t.co/k98iAYxQ2F">http://t.co/k98iAYxQ2F</a> for <a href="https://t.co/9NPiDgmFr1">https://t.co/9NPiDgmFr1</a> free DNA tools to detect diabetes  <a href="http://t.co/Khrjf9VadL">http://t.co/Khrjf9VadL</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/604036880959590400">28 May 2015</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=604036880959590400" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=604036880959590400" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=604036880959590400" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li><li><span class='entry-content'><a href="http://twitter.com/search?q=%23iGEM" class="twitter-hashtag">#iGEM</a> is awesome.  <a href="http://twitter.com/search?q=%23CloudLabs" class="twitter-hashtag">#CloudLabs</a> are cool.  What if iGEM &amp; more happened everywhere all the time?  Let's make a bionet <a href="http://t.co/P476oXy1xn">http://t.co/P476oXy1xn</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/604033574543601664">28 May 2015</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=604033574543601664" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=604033574543601664" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=604033574543601664" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li><li><span class='entry-content'>Ever wonder what the "a" stands for in BioBrick part numbers? E.g., <a href="http://t.co/x58VqXAygO">http://t.co/x58VqXAygO</a>.  a = alpha.  Get ready for beta. <a href="http://twitter.com/search?q=%23synthbio" class="twitter-hashtag">#synthbio</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/604031803578408960">28 May 2015</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=604031803578408960" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=604031803578408960" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=604031803578408960" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li><li><span class='entry-content'>Photos from <a href="http://twitter.com/search?q=%23sb6conf" class="twitter-hashtag">#sb6conf</a> Day 3 (July 11): <a href="https://t.co/LSlEB3SJAj">https://t.co/LSlEB3SJAj</a> <a href="http://twitter.com/search?q=%23synbio" class="twitter-hashtag">#synbio</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/373218099039723520">29 Aug 2013</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=373218099039723520" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=373218099039723520" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=373218099039723520" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li><li><span class='entry-content'>Photos from <a href="http://twitter.com/search?q=%23sb6conf" class="twitter-hashtag">#sb6conf</a> Day 2 (July 10): <a href="https://t.co/sUBWCO0upg">https://t.co/sUBWCO0upg</a> <a href="http://twitter.com/search?q=%23synbio" class="twitter-hashtag">#synbio</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/373217638672896000">29 Aug 2013</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=373217638672896000" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=373217638672896000" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=373217638672896000" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li></ul><div class="follow-button"><a href="http://twitter.com/biobricks" class="twitter-follow-button" title="Follow @biobricks" data-lang="en">@biobricks</a></div></div></div><div id="black-studio-tinymce-2" class="widget-container widget_black_studio_tinymce"><div class="textwidget"><iframe style="overflow: hidden; height: 453px; width:362px;" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fbiobricks&amp;height=500&amp;width=362px&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=false&amp;force_wall=true&amp;show_border=false" frameborder="0" scrolling="no"></iframe></div></div></div>	</div>
+</div>
+	<div id="footer">
+		<div class="inner cf">
+			<div id="organizer-logos" class="cf">
+				<div class="inner">
+					<div class="organizer-logo">
+						<a href="http://biobricks.org" title="Visit the BioBricks Foundation website" target="_blank"><img src="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/logo-bbf.png" /></a>
+					</div>
+					<div class="organizer-logo">
+						<a href="http://www3.imperial.ac.uk/" title="Visit the Imperial College website" target="_blank"><img src="http://sb6.biobricks.org/wp-content/themes/sb6-v2/images/logo-imperial-college.png" /></a>
+					</div>
+				</div>
+			</div>
+			<div id="mailing-list">
+				<div class="inner">
+					<div class="mc_custom_border_hdr">Join the SB6 Mailing List</div><!-- /mc_custom_border_hdr -->
+<style>
+	.widget_mailchimpsf_widget .widget-title {
+		line-height: 1.4em;
+		margin-bottom: 0.75em;
+	}
+	#mc_subheader {
+		line-height: 1.25em;
+		margin-bottom: 18px;
+	}
+	.mc_merge_var {
+		margin-bottom: 1.0em;
+	}
+	.mc_var_label,
+	.mc_interest_label {
+		display: block;
+		margin-bottom: 0.5em;
+	}
+	.mc_input {
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	.mc_input.mc_phone {
+		width: auto;
+	}
+	select.mc_select {
+		margin-top: 0.5em;
+		width: 100%;
+	}
+	.mc_address_label {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+		display: block;
+	}
+	.mc_address_label ~ select {
+		width: 100%;		
+	}
+	.mc_list li {
+		list-style: none;
+		background: none !important;
+	}
+	.mc_interests_header {
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_interest label,
+	.mc_interest input {
+		margin-bottom: 0.4em;
+	}
+	#mc_signup_submit {
+		margin-top: 1.5em;
+		width: 80%;
+	}
+	#mc_unsub_link a {
+		font-size: 0.75em;
+	}
+	#mc_unsub_link {
+		margin-top: 1.0em;
+	}
+	.mc_header_address,
+	.mc_email_format {
+		display: block;
+		font-weight: bold;
+		margin-top: 1.0em;
+		margin-bottom: 0.5em;
+	}
+	.mc_email_options {
+		margin-top: 0.5em;
+	}
+	.mc_email_type {
+		padding-left: 4px;
+	}
+</style>
+
+<div id="mc_signup">
+	<form method="post" action="#mc_signup" id="mc_signup_form">
+		<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html" />
+		<input type="hidden" name="mcsf_action" value="mc_submit_signup_form" />
+		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="9cdce5f352" />		
+		
+	<div class="mc_form_inside">
+		
+		<div class="updated" id="mc_message">
+					</div><!-- /mc_message -->
+
+		
+<div class="mc_merge_var">
+		<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address<span class="mc_required">*</span></label>
+	<input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input"/>
+</div><!-- /mc_merge_var -->
+<div class="mc_merge_var">
+		<label for="mc_mv_FNAME" class="mc_var_label mc_header mc_header_text">First Name<span class="mc_required">*</span></label>
+	<input type="text" size="18" placeholder="" name="mc_mv_FNAME" id="mc_mv_FNAME" class="mc_input"/>
+</div><!-- /mc_merge_var -->
+<div class="mc_merge_var">
+		<label for="mc_mv_LNAME" class="mc_var_label mc_header mc_header_text">Last Name<span class="mc_required">*</span></label>
+	<input type="text" size="18" placeholder="" name="mc_mv_LNAME" id="mc_mv_LNAME" class="mc_input"/>
+</div><!-- /mc_merge_var --><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div><div style="display:none;"></div>			<div id="mc-indicates-required">
+				* = required field			</div><!-- /mc-indicates-required -->
+										<div class="mc_interest" style="display: none;">
+									
+
+					
+				<input type="checkbox" name="group[6297][1]" id="mc_interest_6297_group name" class="mc_interest" value="group name" />
+				<label for="mc_interest_6297_group name" class="mc_interest_label">group name</label>				
+					</div><!-- /mc_interest -->
+			
+					
+		<div class="mc_signup_submit">
+			<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe" class="button" />
+		</div><!-- /mc_signup_submit -->
+	
+	
+				
+	</div><!-- /mc_form_inside -->
+	</form><!-- /mc_signup_form -->
+</div><!-- /mc_signup_container -->
+					</div>
+			</div>
+		</div>
+	</div>
+	<div id="sitemap">
+		<div class="inner">
+			<div class="footer-menu cf"><ul id="menu-sitemap" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-2114"><a href="http://sb6.biobricks.org/about/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2142"><a href="http://sb6.biobricks.org/about/series/">About the SBx.0 Conference Series</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2091 current_page_item menu-item-2116"><a href="http://sb6.biobricks.org/about/sb6-organizers/">SB6.0 Organizers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2143"><a href="http://sb6.biobricks.org/about/about-biobricks-foundation/">About the BioBricks Foundation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2144"><a href="http://sb6.biobricks.org/about/newsletter-archive/">Newsletter Archive</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2145"><a href="http://sb6.biobricks.org/program/">Program</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2146"><a href="http://sb6.biobricks.org/program/sessions/">Sessions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2147"><a href="http://sb6.biobricks.org/program/lightning-talks/">Lightning Talks</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2148"><a href="http://sb6.biobricks.org/program/poster-presentations/">Poster Presentations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2149"><a href="http://sb6.biobricks.org/program/related-events/">Related Events</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2124"><a href="http://sb6.biobricks.org/attending/">Attending</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2243"><a href="http://sb6.biobricks.org/attending/registration-info/">Registration</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2150"><a href="http://sb6.biobricks.org/attending/accommodations/">Accommodations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2127"><a href="http://sb6.biobricks.org/attending/travel/">Travel</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2151"><a href="http://sb6.biobricks.org/attending/volunteers/">Volunteers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2103"><a href="http://sb6.biobricks.org/whiteboard/">Whiteboard</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2129"><a href="http://sb6.biobricks.org/speakers/">Speakers</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2089"><a href="http://sb6.biobricks.org/sponsors/">Sponsors</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2152"><a href="http://sb6.biobricks.org/sponsors/sponsor-list/">Sponsors and Exhibitors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2153"><a href="http://sb6.biobricks.org/sponsors/sponsorship-opportunities/">Sponsorship, Exhibition and Advertising Opportunities</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2155"><a href="http://sb6.biobricks.org/press/">Press</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2165"><a href="http://sb6.biobricks.org/digital-conference/">Video</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2166"><a href="http://sb6.biobricks.org/digital-conference/">Digital Conference</a></li>
+</ul>
+</li>
+<div class="clear"></div></ul></div>			<div id="credits">
+				&copy; 2015 <a href="http://biobricks.org">BioBricks Foundation</a> | <a href="http://biobricks.org/privacy-policy/">Privacy Policy</a> | <a href="http://biobricks.org/terms-of-use/">Terms of Use</a> | <a href="http://biobricks.org/dmca-takedown-notice/">DMCA Takedown</a> | Illustration by <a href="http://www.kn-studio.com" target="_blank">Koby Barhad</a> | Web Design by <a href="http://www.jeffbrockstudio.com" target="_blank">Jeff Brock Studio</a>
+			</div>
+		</div>
+	</div>
+</div> <!-- wrapper -->
+<!-- Lightbox Plus Colorbox v2.7.1/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({width:false,height:false,innerWidth:false,innerHeight:false,initialWidth:false,initialHeight:false,maxWidth:false,maxHeight:false,scalePhotos:false,opacity:0.8,preloading:false,current:" {current}  {total}",previous:"",next:"",close:"",loop:false,scrolling:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fergcorp_countdown_timer_js_lang = {"year":"%d year,","years":"%d years,","month":"%d month,","months":"%d months,","week":"%d week,","weeks":"%d weeks,","day":"%d day,","days":"%d days,","hour":"%d hour,","hours":"%d hours,","minute":"%d minute,","minutes":"%d minutes,","second":"%d second,","seconds":"%d seconds,","agotime":"%s ago","intime":"in %s"};
+var fergcorp_countdown_timer_jsEvents = [];
+var fergcorp_countdown_timer_options = {"showYear":"1","showMonth":"1","showWeek":"0","showDay":"1","showHour":"0","showMinute":"0","showSecond":"0","stripZero":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-content/plugins/countdown-timer/js/fergcorp_countdownTimer_java.js?ver=3.0.6'></script>
+<script type='text/javascript' src='http://sb6.biobricks.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=1.0.0'></script>
+<!-- 51 queries in 0.897 seconds, using 49.79MB memory -->
+<script type="text/javascript" language="javascript">
+	jQuery(document).ready(function($){
+
+		
+			// Enable smooth scrolling to anchors
+			$('a[href*=#]:not([href=#])').click(function() {
+				if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') 
+					|| location.hostname == this.hostname) {
+			
+					var target = $(this.hash);
+					target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+					   if (target.length) {
+						 $('html,body').animate({
+							 scrollTop: target.offset().top
+						}, 500);
+						return false;
+					}
+				}
+			});		
+			
+		// Hide address bar on devices like the iPhone 
+		function hideAddressBar(bPad) { 
+			// Big screen. Fixed chrome likely. 
+			if(screen.width > 980 || screen.height > 980) return; 
+			
+			// Standalone (full screen webapp) mode 
+			if(window.navigator.standalone === true) return; 
+			
+			// Page zoom or vertical scrollbars 
+			if(window.innerWidth !== document.documentElement.clientWidth) {
+				// Sometimes one pixel too much. Compensate. 
+				if((window.innerWidth - 1) !== document.documentElement.clientWidth) return; 
+			} 
+			
+			setTimeout(function() { 
+				// Already scrolled? 
+				if(window.pageYOffset !== 0) return; 
+				
+				// Perform autoscroll 
+				window.scrollTo(0, 1); 
+				
+				// Reset body height and scroll 
+				if(bodyTag !== undefined) bodyTag.style.height = window.innerHeight + 'px'; 
+				window.scrollTo(0, 0);
+			}, 1000); 
+		}	
+		hideAddressBar();
+	});
+</script>
+
+</body>
+</html>

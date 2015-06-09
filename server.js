@@ -1,3 +1,13 @@
+/*
+This file is part of CrawlerNodeJS package.
+Writen by
+	Fischetti Antonio (http://antoniofischetti.it)
+            GitHub (https://github.com/Jacitano87)
+    
+The project is released by GPL3 licence 2015.
+*/
+
+
 var express = require('express');
 
 
@@ -18,7 +28,7 @@ var _save = require('../Crawler/saveUrlFound');
 
 var urlencodedParser = bodyParser.urlencoded({ extended: false });
 
-   var q = async.queue(worker, 3);
+   var q = async.queue(worker, 2);
 
 q.drain = function() {
     //console.log('all items have been processed');
@@ -27,7 +37,7 @@ q.drain = function() {
 
 // assign a callback
 q.saturated = function() {
-    //console.log('Coda saturata');
+//    console.log('Coda saturata');
 }
 
 app.use('/crawler' , urlencodedParser , function(req, res ,next){
@@ -74,18 +84,30 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
    
    
 
-setTimeout(function(){
+var timers =setInterval(function(){
     
-        q.push({simulazione : string_simulazione , arrayChiavi :arrayKey , path : path_simulazione , start : startSimulation , duration : durata},function (err) {
-  //  console.log('finished processing item');
-});      
-       //   start(num_simulazione,arrayKey,path_simulazione,startSimulation,durata);   
-             
- res.end();
+    var attualeSimulazione = new Date();
+    var difference = attualeSimulazione - startSimulation;
+    var noUrl = 0;
+    if(difference > durata) 
+    {
+       
+         console.log("Simulazione Finita at:"+attualeSimulazione);
+         clearInterval(timers);
+    }    
+    else
+    {
+        q.push({simulazione : string_simulazione , arrayChiavi :arrayKey , path : path_simulazione },function (err) {
+ 
+});  
+
+       
+    }
+ 
 
     },1000);
 
-
+res.end();
 });
 
 
@@ -95,98 +117,71 @@ setTimeout(function(){
   
 
 
-function worker(task, next){
-  
-    var attualeSimulazione = new Date();
-    var difference = attualeSimulazione - task.start;
+function worker(task, nextCall){
+
     
-    if(difference > task.duration) 
-    {
-       
-         console.log("Simulazione Finita at:"+attualeSimulazione);
-         next();
-    }    
-    else
-    {
-                if(task.url == null)
+    
+        var urlTemp =[];
+        async.series([
+        
+            function(next)
+            {
+                
+            _url.getUrl(task.simulazione,function(data){
+                
+                urlTemp = data;
+                next();
+            });
+         
+            },
+            function(next)
+            {
+                            
+                if(urlTemp.length > 0)
                 {
-                  _url.getUrl(task.simulazione,function(data){
-                        if(data.length > 0 )
+        _crawler.CrawlingUrl(urlTemp[0],task.simulazione,task.arrayChiavi,urlTemp[1],task.path,function(data){ 
+                        if(data.length != 0)
                         {
-                            q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita :                                                             data[1],path : task.path, start : task.start , duration 
-                                                             : task.duration},function (err) {
-                            //console.log('finished processing item');
-                            });             
+                                async.each(data,function(item, callback){
+                            
+                                _save.saveUrlFound(item,task.url,urlTemp[1],task.simulazione,function(){
+                                callback();
+                            
+                                })
+                                },function done()
+                                {
+                                    next();
+                                }) 
+                
                         }
                         else
                         {
-                            //  console.log("No Url nel DB");
+                         next();
                         }
-                        next();
-                    }) // getUrl   
-                    
+        })  
                 }
                 else
                 {
-                 _crawler.CrawlingUrl(task.url,task.simulazione,task.arrayChiavi,task.profondita,task.path,function(data){  
                     
-                  if(data.length > 0) // 
-                   {
-                        async.each(data,function(item, callback){
-                            
-                            _save.saveUrlFound(item,task.url,task.profondita,task.simulazione,function(){
-                             callback();
-                            
-                            })
-                        },function done(){
-    
-                            _url.getUrl(task.simulazione,function(data){
-                            if(data.length > 0 )
-                            {
-                             q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita :                                         data[1],path : task.path, start : task.start , duration : task.duration},function (err) {
-                                //console.log('finished processing item');
-                              });            
-                            }
-                            else
-                            {
-                            //   console.log("No Url nel DB");
-                            }
-                            }) // getUrl
-     
-                        }) //each
-
-                  } // data lengh >0  
-                   else
-                  {
-                    _url.getUrl(task.simulazione,function(data){
-                            if(data.length > 0 )
-                            {
-                             q.push({url: data[0], simulazione: task.simulazione,arrayChiavi : task.arrayChiavi , profondita :                                         data[1],path : task.path, start : task.start , duration : task.duration},function (err) {
-                                //console.log('finished processing item');
-                              });            
-                            }
-                            else
-                            {
-                            //   console.log("No Url nel DB");
-                            }
-                            }) // getUrl    
-                  }
-         }) //close crawling
-            
+                    noUrl = 1;
                     
-                    next();
+                }
         
-    }// close else Task
+            }], function()
+                {
+                
+                })
+                nextCall();
     
-    } //close else difference
+
     
 }
 
 
-
-
-
-
+/*
+q.push({ simulazione: task.simulazione,arrayChiavi : task.arrayChiavi,path : task.path, start : task.start , duration : task.duration},function (err) {
+})
+*/
 
 
 app.listen('8081')

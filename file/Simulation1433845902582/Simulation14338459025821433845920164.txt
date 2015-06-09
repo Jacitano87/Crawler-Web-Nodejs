@@ -1,0 +1,525 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="http://www.synberc.org/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="canonical" href="/welcome" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortlink" href="/node/6" />
+  <title>Welcome to Synberc | Synberc</title>  
+  <link type="text/css" rel="stylesheet" href="http://www.synberc.org/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.synberc.org/sites/default/files/css/css_eISdd3z80CZVRjssxjkX4XTZ1E_SJQZCgds68VMAFpo.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.synberc.org/sites/default/files/css/css_Tl2wGv9LJiET5osATwv1_94k9Mf7CRuf0mUT8vR0vwA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.synberc.org/sites/default/files/css/css_3ES9zEVQZaA8Mj-RdqgjKit5y11PvtDXFUm-FFv7gIY.css" media="all" />
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<link type="text/css" rel="stylesheet" href="http://www.synberc.org/sites/default/files/css/css_ZbfNrKhloO47WXcxf4GDMeUauKsa3R6fnmHlQlazJc8.css" media="all" />
+<![endif]-->
+
+<!--[if gte IE 9]><!-->
+<link type="text/css" rel="stylesheet" href="http://www.synberc.org/sites/default/files/css/css_zeKwur2728n7mZ_sLnYIIWIEqSvBPdxo5ECh36c1NNA.css" media="all" />
+<!--<![endif]-->
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+document.cookie = 'adaptive_image=' + Math.max(screen.width, screen.height) + '; path=/';
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.synberc.org/sites/default/files/js/js_xAPl0qIk9eowy_iS9tNkCWXLUVoat94SQT48UBCFkyQ.js"></script>
+<script type="text/javascript" src="http://www.synberc.org/sites/default/files/js/js_5sTJxqXf-8i0fHePJh1qm0bES5JwQyCkQvXe8_C9g-c.js"></script>
+<script type="text/javascript" src="http://www.synberc.org/sites/default/files/js/js_-hMqvsjECtoqX89X-Oms3Nmywwctvr3777ovkfoedLo.js"></script>
+<script type="text/javascript" src="http://www.synberc.org/sites/all/modules/lightbox2/js/lightbox.js?1433845910"></script>
+<script type="text/javascript" src="http://www.synberc.org/sites/default/files/js/js_zP4za20_yHpd8FEaDv0U7Q3VxWrXbKawaesl0eW9Sdo.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-8586032-1"]);_gaq.push(["_setDomainName", ".synberc.org"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.synberc.org/sites/default/files/js/js_WFXf8dQ7f2maUg07rpucvKTjdNr9YkP7T9dgBv8Mdao.js"></script>
+<script type="text/javascript" src="http://www.synberc.org/sites/default/files/js/js_43n5FBy8pZxQHxPXkf-sQF7ZiacVZke14b0VlvSA554.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"synberc","theme_token":"mEP5F_xHzKLKKemY74S1lu6i0_T0I13QSmh0MsuzEoQ","js":{"sites\/all\/modules\/flexslider\/assets\/js\/flexslider.load.js":1,"0":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.bgiframe.js":1,"sites\/all\/modules\/nice_menus\/js\/jquery.hoverIntent.js":1,"sites\/all\/modules\/nice_menus\/js\/superfish.js":1,"sites\/all\/modules\/nice_menus\/js\/nice_menus.js":1,"sites\/all\/modules\/context_breakpoint\/context_breakpoint.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/libraries\/flexslider\/jquery.flexslider-min.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1,"sites\/all\/themes\/synberc\/js\/scripts.js":1,"sites\/all\/themes\/omega\/omega\/js\/jquery.formalize.js":1,"sites\/all\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/adaptive_image\/css\/adaptive-image.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"sites\/all\/modules\/date\/date_repeat_field\/date_repeat_field.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/nice_menus\/css\/nice_menus.css":1,"sites\/all\/themes\/synberc\/css\/nicemenu-skin-mda.css":1,"sites\/all\/modules\/panels\/plugins\/layouts\/flexible\/flexible.css":1,"public:\/\/ctools\/css\/92bff4eb4d31378ce2c9edd663b2d4e5_3.css":1,"sites\/all\/modules\/flexslider\/assets\/css\/flexslider_img.css":1,"sites\/all\/libraries\/flexslider\/flexslider.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-reset.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"sites\/all\/themes\/omega\/alpha\/css\/alpha-alpha.css":1,"sites\/all\/themes\/omega\/omega\/css\/formalize.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-text.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-branding.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-menu.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-forms.css":1,"sites\/all\/themes\/omega\/omega\/css\/omega-visuals.css":1,"sites\/all\/themes\/synberc\/css\/global.css":1,"ie::normal::sites\/all\/themes\/synberc\/css\/synberc-alpha-default.css":1,"ie::normal::sites\/all\/themes\/synberc\/css\/synberc-alpha-default-normal.css":1,"ie::normal::sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1,"fluid::sites\/all\/themes\/synberc\/css\/synberc-alpha-default.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/fluid\/alpha-default-fluid-12.css":1,"narrow::sites\/all\/themes\/synberc\/css\/synberc-alpha-default.css":1,"narrow::sites\/all\/themes\/synberc\/css\/synberc-alpha-default-narrow.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/narrow\/alpha-default-narrow-12.css":1,"normal::sites\/all\/themes\/synberc\/css\/synberc-alpha-default.css":1,"normal::sites\/all\/themes\/synberc\/css\/synberc-alpha-default-normal.css":1,"sites\/all\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"context_breakpoint":{"settings":{"save_resolution":false,"breakpoints_in_url":false,"admin_disable_reload":false},"contexts":[],"is_admin":false},"jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":true,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":false,"disable_resize":false,"disable_zoom":false,"force_show_nav":false,"show_caption":true,"loop_items":false,"node_link_text":"View Image Details","node_link_target":false,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":false},"nice_menus_options":{"delay":"500","speed":"fast"},"flexslider":{"optionsets":{"default":{"namespace":"flex-","selector":".slides \u003E li","easing":"swing","direction":"horizontal","reverse":false,"smoothHeight":false,"startAt":0,"animationSpeed":600,"initDelay":0,"useCSS":true,"touch":true,"video":false,"keyboard":true,"multipleKeyboard":false,"mousewheel":0,"controlsContainer":".flex-control-nav-container","sync":"","asNavFor":"","itemWidth":0,"itemMargin":0,"minItems":0,"maxItems":0,"move":0,"animation":"fade","slideshow":true,"slideshowSpeed":"7000","directionNav":true,"controlNav":true,"prevText":"Previous","nextText":"Next","pausePlay":false,"pauseText":"Pause","playText":"Play","randomize":false,"thumbCaptions":false,"thumbCaptionsBoth":false,"animationLoop":true,"pauseOnAction":true,"pauseOnHover":false,"manualControls":""}},"instances":{"flexslider-1":"default"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"},"omega":{"layouts":{"primary":"normal","order":["fluid","narrow","normal"],"queries":{"fluid":"all and (min-width: 420px) and (min-device-width: 420px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+<script type="text/javascript">Drupal.behaviors.contextBreakpoint.preInit();</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body class="html front not-logged-in page-node page-node- page-node-6 node-type-page">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  
+  <div id="zone-user" class="zone zone-user clearfix container-12">
+    <div class="grid-8 region region-user-first" id="region-user-first">
+  <div class="region-inner region-user-first-inner">
+    <div class="block block-block block-18 block-block-18 odd block-without-title" id="block-block-18">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="mobile-logo"><a href="/"><img src="/sites/all/themes/synberc/images/biglogo.png" alt="" /></a></div>
+    </div>
+  </div>
+</div><div class="block block-block block-1 block-block-1 even block-without-title" id="block-block-1">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div id="centername">Synthetic Biology Engineering Research Center</a></div><div id="centerlinks"><a href="/news">news</a> | <a href="http://intranet.synberc.org">intranet</a></div>    </div>
+  </div>
+</div>  </div>
+</div><div class="grid-4 region region-user-second" id="region-user-second">
+  <div class="region-inner region-user-second-inner">
+    <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="image" id="edit-submit" name="submit" src="/sites/all/themes/synberc/css/images/searchbutton.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-Io2flQwj-Te5dkz-EpEiglUVfW58het-VXHt4l-h0lg" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>    </div>
+  </div>
+</div><div class="block block-block block-13 block-block-13 even block-without-title" id="block-block-13">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <script language="javascript">
+var box = document.getElementById("edit-search-block-form--2");
+box.onclick = clearBox;
+function clearBox() {
+var box = document.getElementById("edit-search-block-form--2");
+if (box.value=="Search") box.value="";
+}
+</script>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <div class="grid-12 region region-branding" id="region-branding">
+  <div class="region-inner region-branding-inner">
+        <div class="branding-data clearfix">
+            <div class="logo-img">
+        <a href="/" rel="home" title="" class="active"><img src="http://www.synberc.org/sites/all/themes/synberc/logo.png" alt="" id="logo" /></a>      </div>
+                </div>
+        <section class="block block-nice-menus block-1 block-nice-menus-1 odd" id="block-nice-menus-1">
+  <div class="block-inner clearfix">
+              <h2 class="block-title"><span class="nice-menu-hide-title">Main menu</span></h2>
+            
+    <div class="content clearfix">
+      <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-1"><li class="menu-233 menuparent  menu-path-node-37 first odd "><a href="/about">About Us</a><ul><li class="menu-618 menu-path-node-37 first odd "><a href="/about">Vision and History</a></li>
+<li class="menu-623 menu-path-node-43  even "><a href="/investigators">Our PIs</a></li>
+<li class="menu-624 menu-path-node-44  odd "><a href="/affiliates">Our Affiliated PIs</a></li>
+<li class="menu-731 menu-path-node-97  even "><a href="/sab">Strategic Advisory Board</a></li>
+<li class="menu-621 menu-path-node-41  odd "><a href="/staff">Staff</a></li>
+<li class="menu-732 menu-path-node-111  even "><a href="/spa">Student &amp; Postdoc Assoc.</a></li>
+<li class="menu-862 menuparent  menu-path-node-197  odd "><a href="/socialmedia">Synberc Social Media</a><ul><li class="menu-866 menu-path-stwittercom-synberc first odd "><a href="https://twitter.com/synberc">Twitter</a></li>
+<li class="menu-863 menu-path-youtubecom-synberc  even "><a href="http://www.youtube.com/synberc">YouTube</a></li>
+<li class="menu-865 menu-path-sfacebookcom-synberc  odd "><a href="https://www.facebook.com/synberc">Facebook</a></li>
+<li class="menu-864 menu-path-linkedincom-groups-synberc-4685122gid4685122trkhb-side-g  even "><a href="http://www.linkedin.com/groups/Synberc-4685122?gid=4685122&amp;trk=hb_side_g">LinkedIn</a></li>
+<li class="menu-867 menu-path-pinterestcom-synberc-  odd last"><a href="http://pinterest.com/synberc/">Pinterest</a></li>
+</ul></li>
+<li class="menu-563 menu-path-node-5  even "><a href="/blog">Blog</a></li>
+<li class="menu-728 menu-path-node-8  odd last"><a href="/contact">Contact Us</a></li>
+</ul></li>
+<li class="menu-559 menuparent  menu-path-node-1  even "><a href="/content/resources">Resources</a><ul><li class="menu-730 menu-path-node-96 first odd "><a href="/what-is-synbio">What is synthetic biology?</a></li>
+<li class="menu-1348 menu-path-node-198  even "><a href="/white-papers" title="Synthetic biology reports">White papers</a></li>
+<li class="menu-793 menu-path-node-116  odd "><a href="/safety-and-security-resources">Safety &amp; security resources</a></li>
+<li class="menu-962 menu-path-intranetsynbercorg  even last"><a href="http://intranet.synberc.org">Intranet (login required)</a></li>
+</ul></li>
+<li class="menu-562 menuparent  menu-path-node-4  odd "><a href="/research">Research</a><ul><li class="menu-625 menu-path-node-45 first odd "><a href="/content/overview">Overview</a></li>
+<li class="menu-690 menuparent  menu-path-node-56  even "><a href="/research-resources">Research tools &amp; resources</a><ul><li class="menu-1346 menu-path-sregistrysynbercorg first odd "><a href="https://registry.synberc.org">Synberc Registry</a></li>
+<li class="menu-1637 menu-path-biofabsynbercorg-  even "><a href="http://biofab.synberc.org/" target="_blank">BIOFAB</a></li>
+<li class="menu-1640 menu-path-clothocadorg-  odd "><a href="http://www.clothocad.org/" target="_blank">ClothoCAD</a></li>
+<li class="menu-1639 menu-path-ssalispsuedu-software-  even "><a href="https://salis.psu.edu/software/" target="_blank">RBS Calculator</a></li>
+<li class="menu-1638 menu-path-skortemmelabucsfedu-backrub-cgi-bin-rosettawebpyqueryindex  odd last"><a href="https://kortemmelab.ucsf.edu/backrub/cgi-bin/rosettaweb.py?query=index" target="_blank">RosettaBackrub</a></li>
+</ul></li>
+<li class="menu-626 menu-path-node-46  odd "><a href="/content/parts">Parts</a></li>
+<li class="menu-691 menu-path-node-57  even "><a href="/content/devices">Devices</a></li>
+<li class="menu-692 menu-path-node-58  odd "><a href="/content/chassis">Chassis</a></li>
+<li class="menu-693 menuparent  menu-path-node-59  even "><a href="/policy-and-practices">Policy and practices</a><ul><li class="menu-700 menu-path-node-66 first odd "><a href="/content/safety-security">Safety &amp; Security</a></li>
+<li class="menu-694 menu-path-node-60  even "><a href="/content/beyond-containment">Beyond Containment</a></li>
+<li class="menu-695 menu-path-node-61  odd "><a href="/content/ownership-sharing">Ownership &amp; Sharing</a></li>
+<li class="menu-697 menu-path-node-63  even last"><a href="/content/community-leadership">Community &amp; Leadership</a></li>
+</ul></li>
+<li class="menu-2008 menu-path-node-302  odd last"><a href="/agriculture">Synbio and agriculture</a></li>
+</ul></li>
+<li class="menu-561 menuparent  menu-path-node-3  even "><a href="/industry">Industry</a><ul><li class="menu-1464 menu-path-synbercorg-industry first odd "><a href="http://synberc.org/industry">Industry program</a></li>
+<li class="menu-1342 menu-path-node-179  even "><a href="/industry/benefits">Membership benefits</a></li>
+<li class="menu-1341 menu-path-node-178  odd "><a href="/industry/members">Member companies</a></li>
+<li class="menu-1465 menu-path-node-207  even "><a href="/industry/events">Upcoming events</a></li>
+<li class="menu-1345 menu-path-node-182  odd "><a href="/industry/join">How to join</a></li>
+<li class="menu-1466 menu-path-intranetsynbercorg-  even last"><a href="http://intranet.synberc.org/">Intranet (members-only)</a></li>
+</ul></li>
+<li class="menu-560 menuparent  menu-path-node-2  odd "><a href="/education">Education</a><ul><li class="menu-568 menuparent  menu-path-node-12 first odd "><a href="/education/precollege">Pre-College Programs</a><ul><li class="menu-714 menu-path-node-80 first odd "><a href="/beret">BERET</a></li>
+<li class="menu-715 menu-path-node-81  even "><a href="/biobuilder">BioBuilder</a></li>
+<li class="menu-716 menu-path-node-82  odd "><a href="/iclem">iCLEM</a></li>
+<li class="menu-717 menu-path-node-83  even "><a href="/seed">SEED</a></li>
+<li class="menu-718 menu-path-node-84  odd last"><a href="/ucsf-igem">UCSF iGEM</a></li>
+</ul></li>
+<li class="menu-1312 menuparent  menu-path-node-174  even "><a href="/education/college">College programs</a><ul><li class="menu-708 menu-path-node-74 first odd "><a href="/certificate">Synthetic Biology Certificate</a></li>
+<li class="menu-1313 menu-path-node-175  even "><a href="/iGEM">iGEM</a></li>
+<li class="menu-707 menu-path-node-73  odd "><a href="/igem-uc-berkeley">iGEM at UC Berkeley</a></li>
+<li class="menu-704 menu-path-node-70  even "><a href="/reu">Research Experiences for Undergraduates</a></li>
+<li class="menu-705 menu-path-node-71  odd "><a href="/lab-fundamentals-bootcamp">Lab Fundamentals Bootcamp</a></li>
+<li class="menu-709 menu-path-node-75  even "><a href="/internships">Biotech Internships</a></li>
+<li class="menu-1889 menu-path-synbercorg-phd-for-me  odd "><a href="http://www.synberc.org/phd-for-me">Is a Ph.D. for Me? Symposium</a></li>
+<li class="menu-1314 menu-path-node-111  even last"><a href="/spa">Student &amp; Postdoc Assn</a></li>
+</ul></li>
+<li class="menu-1315 menuparent  menu-path-node-177  odd last"><a href="/teaching-resources">Teaching Resources</a><ul><li class="menu-1311 menu-path-node-171 first odd "><a href="/featured-courses" title="Featured courses and curricula developed by Synberc for the community">Featured courses &amp; curricula</a></li>
+<li class="menu-1317 menu-path-node-78  even "><a href="/college-courses-curricula">College resources</a></li>
+<li class="menu-1316 menu-path-node-79  odd last"><a href="/pre-college-courses-curricula">Pre-college resources</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-1318 menuparent  menu-path-node-155  even last"><a href="/diversity">Diversity</a><ul><li class="menu-1467 menu-path-node-192 first odd "><a href="/speaker-diversity">Encourage diverse speakers</a></li>
+<li class="menu-1634 menuparent  menu-path-node-290  even "><a href="/expanding-potential">Expanding Potential</a><ul><li class="menu-2004 menu-path-node-292 first odd "><a href="/expanding-potential-meetup">EP Meet-Up</a></li>
+<li class="menu-2006 menu-path-node-255  even "><a href="/expanding-potential-seed-projects">EP Seed Projects &amp; Funding</a></li>
+<li class="menu-2007 menu-path-node-300  odd "><a href="/expanding-potential-seed-projects-awardees">EP Seed Project Awardees</a></li>
+<li class="menu-2005 menu-path-node-223  even last"><a href="/expanding-potential-2014">EP 2014 Workshop</a></li>
+</ul></li>
+<li class="menu-1635 menu-path-node-194  odd "><a href="/diversity/education-partnerships">Education partners in diversity</a></li>
+<li class="menu-688 menu-path-pinterestcom-synberc-women-in-synbercsynthetic-biology-  even "><a href="http://pinterest.com/synberc/women-in-synbercsynthetic-biology/" title="Synberc Women Pinterest Board" target="_blank">Celebrate Women in Synbio</a></li>
+<li class="menu-1636 menu-path-node-226  odd last"><a href="/content/diversity-related-resources">Diversity Related Resources</a></li>
+</ul></li>
+</ul>
+    </div>
+  </div>
+</section><div class="block block-panels-mini block-mobile-header block-panels-mini-mobile-header even block-without-title" id="block-panels-mini-mobile-header">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="panel-flexible panels-flexible-1 clearfix" id="mini-panel-mobile_header">
+<div class="panel-flexible-inside panels-flexible-1-inside">
+<div class="panels-flexible-row panels-flexible-row-1-1 panels-flexible-row-first clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-1-1-inside panels-flexible-row-inside-first clearfix">
+<div class="panels-flexible-region panels-flexible-region-1-left_region panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-left_region-inside panels-flexible-region-inside-first">
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-1-social_region panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-social_region-inside panels-flexible-region-inside-last">
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-1-main-row clearfix header1">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-1-main-row-inside clearfix">
+<div class="panels-flexible-region panels-flexible-region-1-menu_toggle panels-flexible-region-first ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-menu_toggle-inside panels-flexible-region-inside-first">
+<div class="panel-pane pane-custom pane-1"   class="panel-pane pane-custom pane-1">
+  
+      
+  
+  <div class="pane-content">
+    <div id="menu_btn">&nbsp;</div>  </div>
+
+  
+  </div>
+  </div>
+</div>
+<div class="panels-flexible-region panels-flexible-region-1-center panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-center-inside panels-flexible-region-inside-last">
+<div class="panel-pane pane-block pane-search-form"   class="panel-pane pane-block pane-search-form">
+  
+      
+  
+  <div class="pane-content">
+    <form action="/" method="post" id="search-block-form--2" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--4">Search </label>
+ <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--4" name="search_block_form" value="Search" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="image" id="edit-submit--2" name="submit" src="/sites/all/themes/synberc/css/images/searchbutton.png" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-nbopglRwytJQyzaDsUNuCIbV27eWBE3BAUGYHs8tcl0" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+
+  
+  </div>
+  </div>
+</div>
+  </div>
+</div>
+<div class="panels-flexible-row panels-flexible-row-1-2 panels-flexible-row-last clearfix ">
+  <div class="inside panels-flexible-row-inside panels-flexible-row-1-2-inside panels-flexible-row-inside-last clearfix">
+<div class="panels-flexible-region panels-flexible-region-1-branding panels-flexible-region-first panels-flexible-region-last ">
+  <div class="inside panels-flexible-region-inside panels-flexible-region-1-branding-inside panels-flexible-region-inside-first panels-flexible-region-inside-last">
+  </div>
+</div>
+  </div>
+</div>
+</div>
+</div>
+    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  
+  <div id="zone-menu" class="zone zone-menu clearfix container-12">
+    <div class="grid-12 region region-menu" id="region-menu">
+  <div class="region-inner region-menu-inner">
+        <div class="block block-nice-menus block-2 block-nice-menus-2 odd block-without-title" id="block-nice-menus-2">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <ul class="nice-menu nice-menu-down nice-menu-main-menu" id="nice-menu-2"><li class="menu-233 menuparent  menu-path-node-37 first odd "><a href="/about">About Us</a><ul><li class="menu-618 menu-path-node-37 first odd "><a href="/about">Vision and History</a></li>
+<li class="menu-623 menu-path-node-43  even "><a href="/investigators">Our PIs</a></li>
+<li class="menu-624 menu-path-node-44  odd "><a href="/affiliates">Our Affiliated PIs</a></li>
+<li class="menu-731 menu-path-node-97  even "><a href="/sab">Strategic Advisory Board</a></li>
+<li class="menu-621 menu-path-node-41  odd "><a href="/staff">Staff</a></li>
+<li class="menu-732 menu-path-node-111  even "><a href="/spa">Student &amp; Postdoc Assoc.</a></li>
+<li class="menu-862 menuparent  menu-path-node-197  odd "><a href="/socialmedia">Synberc Social Media</a><ul><li class="menu-866 menu-path-stwittercom-synberc first odd "><a href="https://twitter.com/synberc">Twitter</a></li>
+<li class="menu-863 menu-path-youtubecom-synberc  even "><a href="http://www.youtube.com/synberc">YouTube</a></li>
+<li class="menu-865 menu-path-sfacebookcom-synberc  odd "><a href="https://www.facebook.com/synberc">Facebook</a></li>
+<li class="menu-864 menu-path-linkedincom-groups-synberc-4685122gid4685122trkhb-side-g  even "><a href="http://www.linkedin.com/groups/Synberc-4685122?gid=4685122&amp;trk=hb_side_g">LinkedIn</a></li>
+<li class="menu-867 menu-path-pinterestcom-synberc-  odd last"><a href="http://pinterest.com/synberc/">Pinterest</a></li>
+</ul></li>
+<li class="menu-563 menu-path-node-5  even "><a href="/blog">Blog</a></li>
+<li class="menu-728 menu-path-node-8  odd last"><a href="/contact">Contact Us</a></li>
+</ul></li>
+<li class="menu-559 menuparent  menu-path-node-1  even "><a href="/content/resources">Resources</a><ul><li class="menu-730 menu-path-node-96 first odd "><a href="/what-is-synbio">What is synthetic biology?</a></li>
+<li class="menu-1348 menu-path-node-198  even "><a href="/white-papers" title="Synthetic biology reports">White papers</a></li>
+<li class="menu-793 menu-path-node-116  odd "><a href="/safety-and-security-resources">Safety &amp; security resources</a></li>
+<li class="menu-962 menu-path-intranetsynbercorg  even last"><a href="http://intranet.synberc.org">Intranet (login required)</a></li>
+</ul></li>
+<li class="menu-562 menuparent  menu-path-node-4  odd "><a href="/research">Research</a><ul><li class="menu-625 menu-path-node-45 first odd "><a href="/content/overview">Overview</a></li>
+<li class="menu-690 menuparent  menu-path-node-56  even "><a href="/research-resources">Research tools &amp; resources</a><ul><li class="menu-1346 menu-path-sregistrysynbercorg first odd "><a href="https://registry.synberc.org">Synberc Registry</a></li>
+<li class="menu-1637 menu-path-biofabsynbercorg-  even "><a href="http://biofab.synberc.org/" target="_blank">BIOFAB</a></li>
+<li class="menu-1640 menu-path-clothocadorg-  odd "><a href="http://www.clothocad.org/" target="_blank">ClothoCAD</a></li>
+<li class="menu-1639 menu-path-ssalispsuedu-software-  even "><a href="https://salis.psu.edu/software/" target="_blank">RBS Calculator</a></li>
+<li class="menu-1638 menu-path-skortemmelabucsfedu-backrub-cgi-bin-rosettawebpyqueryindex  odd last"><a href="https://kortemmelab.ucsf.edu/backrub/cgi-bin/rosettaweb.py?query=index" target="_blank">RosettaBackrub</a></li>
+</ul></li>
+<li class="menu-626 menu-path-node-46  odd "><a href="/content/parts">Parts</a></li>
+<li class="menu-691 menu-path-node-57  even "><a href="/content/devices">Devices</a></li>
+<li class="menu-692 menu-path-node-58  odd "><a href="/content/chassis">Chassis</a></li>
+<li class="menu-693 menuparent  menu-path-node-59  even "><a href="/policy-and-practices">Policy and practices</a><ul><li class="menu-700 menu-path-node-66 first odd "><a href="/content/safety-security">Safety &amp; Security</a></li>
+<li class="menu-694 menu-path-node-60  even "><a href="/content/beyond-containment">Beyond Containment</a></li>
+<li class="menu-695 menu-path-node-61  odd "><a href="/content/ownership-sharing">Ownership &amp; Sharing</a></li>
+<li class="menu-697 menu-path-node-63  even last"><a href="/content/community-leadership">Community &amp; Leadership</a></li>
+</ul></li>
+<li class="menu-2008 menu-path-node-302  odd last"><a href="/agriculture">Synbio and agriculture</a></li>
+</ul></li>
+<li class="menu-561 menuparent  menu-path-node-3  even "><a href="/industry">Industry</a><ul><li class="menu-1464 menu-path-synbercorg-industry first odd "><a href="http://synberc.org/industry">Industry program</a></li>
+<li class="menu-1342 menu-path-node-179  even "><a href="/industry/benefits">Membership benefits</a></li>
+<li class="menu-1341 menu-path-node-178  odd "><a href="/industry/members">Member companies</a></li>
+<li class="menu-1465 menu-path-node-207  even "><a href="/industry/events">Upcoming events</a></li>
+<li class="menu-1345 menu-path-node-182  odd "><a href="/industry/join">How to join</a></li>
+<li class="menu-1466 menu-path-intranetsynbercorg-  even last"><a href="http://intranet.synberc.org/">Intranet (members-only)</a></li>
+</ul></li>
+<li class="menu-560 menuparent  menu-path-node-2  odd "><a href="/education">Education</a><ul><li class="menu-568 menuparent  menu-path-node-12 first odd "><a href="/education/precollege">Pre-College Programs</a><ul><li class="menu-714 menu-path-node-80 first odd "><a href="/beret">BERET</a></li>
+<li class="menu-715 menu-path-node-81  even "><a href="/biobuilder">BioBuilder</a></li>
+<li class="menu-716 menu-path-node-82  odd "><a href="/iclem">iCLEM</a></li>
+<li class="menu-717 menu-path-node-83  even "><a href="/seed">SEED</a></li>
+<li class="menu-718 menu-path-node-84  odd last"><a href="/ucsf-igem">UCSF iGEM</a></li>
+</ul></li>
+<li class="menu-1312 menuparent  menu-path-node-174  even "><a href="/education/college">College programs</a><ul><li class="menu-708 menu-path-node-74 first odd "><a href="/certificate">Synthetic Biology Certificate</a></li>
+<li class="menu-1313 menu-path-node-175  even "><a href="/iGEM">iGEM</a></li>
+<li class="menu-707 menu-path-node-73  odd "><a href="/igem-uc-berkeley">iGEM at UC Berkeley</a></li>
+<li class="menu-704 menu-path-node-70  even "><a href="/reu">Research Experiences for Undergraduates</a></li>
+<li class="menu-705 menu-path-node-71  odd "><a href="/lab-fundamentals-bootcamp">Lab Fundamentals Bootcamp</a></li>
+<li class="menu-709 menu-path-node-75  even "><a href="/internships">Biotech Internships</a></li>
+<li class="menu-1889 menu-path-synbercorg-phd-for-me  odd "><a href="http://www.synberc.org/phd-for-me">Is a Ph.D. for Me? Symposium</a></li>
+<li class="menu-1314 menu-path-node-111  even last"><a href="/spa">Student &amp; Postdoc Assn</a></li>
+</ul></li>
+<li class="menu-1315 menuparent  menu-path-node-177  odd last"><a href="/teaching-resources">Teaching Resources</a><ul><li class="menu-1311 menu-path-node-171 first odd "><a href="/featured-courses" title="Featured courses and curricula developed by Synberc for the community">Featured courses &amp; curricula</a></li>
+<li class="menu-1317 menu-path-node-78  even "><a href="/college-courses-curricula">College resources</a></li>
+<li class="menu-1316 menu-path-node-79  odd last"><a href="/pre-college-courses-curricula">Pre-college resources</a></li>
+</ul></li>
+</ul></li>
+<li class="menu-1318 menuparent  menu-path-node-155  even last"><a href="/diversity">Diversity</a><ul><li class="menu-1467 menu-path-node-192 first odd "><a href="/speaker-diversity">Encourage diverse speakers</a></li>
+<li class="menu-1634 menuparent  menu-path-node-290  even "><a href="/expanding-potential">Expanding Potential</a><ul><li class="menu-2004 menu-path-node-292 first odd "><a href="/expanding-potential-meetup">EP Meet-Up</a></li>
+<li class="menu-2006 menu-path-node-255  even "><a href="/expanding-potential-seed-projects">EP Seed Projects &amp; Funding</a></li>
+<li class="menu-2007 menu-path-node-300  odd "><a href="/expanding-potential-seed-projects-awardees">EP Seed Project Awardees</a></li>
+<li class="menu-2005 menu-path-node-223  even last"><a href="/expanding-potential-2014">EP 2014 Workshop</a></li>
+</ul></li>
+<li class="menu-1635 menu-path-node-194  odd "><a href="/diversity/education-partnerships">Education partners in diversity</a></li>
+<li class="menu-688 menu-path-pinterestcom-synberc-women-in-synbercsynthetic-biology-  even "><a href="http://pinterest.com/synberc/women-in-synbercsynthetic-biology/" title="Synberc Women Pinterest Board" target="_blank">Celebrate Women in Synbio</a></li>
+<li class="menu-1636 menu-path-node-226  odd last"><a href="/content/diversity-related-resources">Diversity Related Resources</a></li>
+</ul></li>
+</ul>
+    </div>
+  </div>
+</div>  </div>
+</div>
+  </div>
+</div><div id="zone-header-wrapper" class="zone-wrapper zone-header-wrapper clearfix">  
+  <div id="zone-header" class="zone zone-header clearfix container-12">
+    <div class="grid-12 region region-header-first" id="region-header-first">
+  <div class="region-inner region-header-first-inner">
+    <div class="block block-views block-home-page-flexslider-block block-views-home-page-flexslider-block odd block-without-title" id="block-views-home-page-flexslider-block">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-home-page-flexslider view-id-home_page_flexslider view-display-id-block view-dom-id-93c94fded95e16de067d40d921c1c680">
+        
+  
+  
+      <div class="view-content">
+      <div  id="flexslider-1" class="flexslider">
+  <ul class="slides"><li>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="billboard"><a href="http://www.synberc.org/one-year"><div class="billboard_image"><img class="adaptive-image" typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/billboard/adaptive-image/public/annual-banner_0.png?itok=uhath5tz" alt="" /></div><div class="billboard_text"><span class="billboard_headline">What can Synberc do in a year?:</span> A snapshot of our research, education, and broader achievements in 2014-2015</div><div class="billboard_readmore">Read more</div></a></div></span>  </div></li>
+<li>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="billboard"><a href="http://www.synberc.org/about"><div class="billboard_image"><img class="adaptive-image" typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/billboard/adaptive-image/public/genes-in-cell_1_0.jpg?itok=nUaI_NGg" alt="" /></div><div class="billboard_text"><span class="billboard_headline">Building the Future with Biology:</span> Synberc brings together biologists, engineers and other scientists from world-class institutions to produce the tools…</div><div class="billboard_readmore">Read more</div></a></div></span>  </div></li>
+<li>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="billboard"><a href="http://synberc.org/capitol-hill-engineering-biology-initiative"><div class="billboard_image"><img class="adaptive-image" typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/billboard/adaptive-image/public/keasling-peters_0.jpg?itok=HxjLaN28" alt="" /></div><div class="billboard_text"><span class="billboard_headline">A national initiative in biological engineering:</span> On Capitol Hill, Keasling calls for federal strategy to ensure scientists can achieve their aims</div><div class="billboard_readmore">Read more</div></a></div></span>  </div></li>
+<li>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="billboard"><a href="http://www.synberc.org/expanding-potential-seed-projects"><div class="billboard_image"><img class="adaptive-image" typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/billboard/adaptive-image/public/Expanding-Potential-Square-Graphic-Bluex960.png?itok=QA5vs-cQ" alt="" /></div><div class="billboard_text"><span class="billboard_headline">Got diversity?:</span> A new Expanding Potential program can provide the funding and support to start an innovative diversity project in your area</div><div class="billboard_readmore">Read more</div></a></div></span>  </div></li>
+<li>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><div class="billboard"><a href="http://www.synberc.org/news/gene-drives"><div class="billboard_image"><img class="adaptive-image" typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/billboard/adaptive-image/public/gene-drive-invasive-species-billboard2.jpg?itok=AvsdWFtp" alt="" /></div><div class="billboard_text"><span class="billboard_headline">Gene drives could address ecological-scale challenges:</span> Powerful genetic technology could eradicate diseases and improve agriculture, but well-informed public discussions needed</div><div class="billboard_readmore">Read more</div></a></div></span>  </div></li>
+</ul></div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+        <div class="grid-8 region region-content" id="region-content">
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                <h1 class="title" id="page-title">Welcome to Synberc</h1>
+                        <div class="block block-block block-15 block-block-15 odd block-without-title" id="block-block-15">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <!-- Go to www.addthis.com/dashboard to customize your tools --><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-543be9f71177784e">
+<!--//--><![CDATA[// ><!--
+// <![CDATA[
+
+// ]]]]><![CDATA[>
+//--><!]]>
+</script><script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+// <![CDATA[
+var addthis_share = addthis_share || {}
+addthis_share = {
+passthrough : {
+twitter: {
+via: "synberc"
+}
+}
+}
+// ]]]]><![CDATA[>
+//--><!]]>
+</script>    </div>
+  </div>
+</div><div class="block block-system block-main block-system-main even block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <article about="/welcome" typeof="foaf:Document" class="node node-page node-published node-not-promoted node-not-sticky author-dave-beck odd clearfix" id="node-page-6">
+        <span property="dc:title" content="Welcome to Synberc" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>    
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Synberc is a major U.S. research program to make biology safer and easier to engineer.&nbsp;Our research center includes some of <a title="What is synthetic biology?" href="what-is-synbio">synthetic biology</a>'s leading academic and industrial scientists and researchers. Synberc strives to build the foundational tools and technologies needed to create innovative solutions to some of the most challenging problems of our time – including health care, energy and the environment. Watch this video to learn more about us:&nbsp;</p><iframe  src="//www.youtube.com/embed/u0t2Syo97cA" frameborder="0" allowfullscreen></iframe><p>Synberc is a multi-university research center established in 2006 with a grant from the National Science Foundation (NSF) to help lay the foundation for synthetic biology Our mission is threefold: 1) to develop the foundational understanding and technology needed to increase the speed, scale, and precision with which we design and build biological solutions; 2) to train a new cadre of engineers who will specialize in synthetic biology; and 3) to engage policymakers and the public about the responsible advance of synthetic biology. </p>
+<p>In our work, we apply engineering principles to biology to develop tools that improve how fast — and how well — we can go through the design-test-build cycle. These include <a class="alpha" title="Smart organisms" href="http://www.ncbi.nlm.nih.gov/pubmed/23041931" target="_blank">smart fermentation organisms</a>&nbsp;that can sense their environment and adjust accordingly, and <a class="alpha" title="MAGE" href="http://www.nature.com/nature/journal/v460/n7257/full/nature08187.html" target="_blank">multiplex automated genome engineering, or MAGE</a>, designed for large-scale programming and evolution of cells. We also pursue the discovery of applications that can lead to significant public benefit, such as <a class="alpha" title="Artemisinin" href="http://www.nature.com/nature/journal/v440/n7086/full/nature04640.html" target="_blank">synthetic artemisinin,</a> an anti-malaria drug that costs less and is more effective than the current plant-derived treatment.</p>
+</div></div></div>  </div>
+  
+  <div class="clearfix">
+          <nav class="links node-links clearfix"></nav>
+    
+      </div>
+</article>    </div>
+  </div>
+</div>      </div>
+</div><aside class="grid-4 region region-sidebar-second" id="region-sidebar-second">
+  <div class="region-inner region-sidebar-second-inner">
+    <div class="block block-views block-da47309bdf5ab12e0b887b16507de849 block-views-da47309bdf5ab12e0b887b16507de849 odd block-without-title" id="block-views-da47309bdf5ab12e0b887b16507de849">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="view view-home-page-news-items-display view-id-home_page_news_items_display view-display-id-block view-dom-id-27952e5eb03ab810b33b4c890a36875c">
+            <div class="view-header">
+      <p><a href="/news">NEWS</a></p>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1">  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="news_item_home" id="news_item_1"><div class="news_item_image"><img typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/news_item/public/FT-140904-Vanilla.jpg.CROP_.jpg?itok=p_sgK732" width="109" height="125" alt="" /></div><div class="news_item_cover"><a href="http://www.slate.com/blogs/future_tense/2014/09/04/no_one_should_be_afraid_of_synthetic_biology_produced_vanilla.html" target="_blank"><img src="/sites/default/files/design_elements/news_item_cover_blank.png" /></a></div><div class="news_item_text"><div class="news_item_internal"><a href="http://www.slate.com/blogs/future_tense/2014/09/04/no_one_should_be_afraid_of_synthetic_biology_produced_vanilla.html" target="_blank">No One Should be Afraid of Synthetic Biology-Produced Vanilla</a></div></div></div></span>  </div></li>
+          <li class="views-row views-row-2">  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="news_item_home" id="news_item_2"><div class="news_item_image"><img typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/news_item/public/capitol.jpg?itok=0xQ6ub60" width="109" height="125" alt="" /></div><div class="news_item_cover"><a href="http://thehill.com/blogs/congress-blog/technology/214854-will-the-real-synthetic-biology-please-stand-up" target="_blank"><img src="/sites/default/files/design_elements/news_item_cover_blank.png" /></a></div><div class="news_item_text"><div class="news_item_internal"><a href="http://thehill.com/blogs/congress-blog/technology/214854-will-the-real-synthetic-biology-please-stand-up" target="_blank">Will the real synthetic biology please stand up?</a></div></div></div></span>  </div></li>
+          <li class="views-row views-row-3">  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="news_item_home" id="news_item_3"><div class="news_item_image"><img typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/news_item/public/Capture_5.PNG?itok=deWn5CnS" width="109" height="125" alt="" /></div><div class="news_item_cover"><a href="http://phys.org/news/2014-05-bioengineered-gut-bacteria-glory.html" target="_blank"><img src="/sites/default/files/design_elements/news_item_cover_blank.png" /></a></div><div class="news_item_text"><div class="news_item_internal"><a href="http://phys.org/news/2014-05-bioengineered-gut-bacteria-glory.html" target="_blank">Smart probiotics could sense and treat many diseases</a></div></div></div></span>  </div></li>
+          <li class="views-row views-row-4">  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="news_item_home" id="news_item_4"><div class="news_item_image"><img typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/news_item/public/silk_leaf_project.si_.jpg?itok=ZSu31GT6" width="109" height="125" alt="" /></div><div class="news_item_cover"><a href="http://rt.com/usa/176860-synthetic-biological-leaf-created/" target="_blank"><img src="/sites/default/files/design_elements/news_item_cover_blank.png" /></a></div><div class="news_item_text"><div class="news_item_internal"><a href="http://rt.com/usa/176860-synthetic-biological-leaf-created/" target="_blank">First synthetic biological leaf could allow humans to colonize space</a></div></div></div></span>  </div></li>
+          <li class="views-row views-row-5">  
+  <div class="views-field views-field-title">        <span class="field-content"><div class="news_item_home" id="news_item_5"><div class="news_item_image"><img typeof="foaf:Image" src="http://www.synberc.org/sites/default/files/styles/news_item/public/Capture_4.PNG?itok=yMA1jqw7" width="109" height="125" alt="" /></div><div class="news_item_cover"><a href="http://blogs.nature.com/news/2014/06/public-opinion-key-to-harnessing-synthetic-biology.html" target="_blank"><img src="/sites/default/files/design_elements/news_item_cover_blank.png" /></a></div><div class="news_item_text"><div class="news_item_internal"><a href="http://blogs.nature.com/news/2014/06/public-opinion-key-to-harnessing-synthetic-biology.html" target="_blank">Public opinion key to harnessing synthetic biology</a></div></div></div></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  </div>
+</div><div class="block block-block block-14 block-block-14 even block-without-title" id="block-block-14">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div style="margin-top:5em;"><a class="twitter-timeline"  href="https://twitter.com/synberc"  data-widget-id="479321102762520576">Tweets by @synberc</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+    </div>
+  </div>
+</div>  </div>
+</aside>  </div>
+</div><div id="zone-postscript-wrapper" class="zone-wrapper zone-postscript-wrapper clearfix">  
+  <div id="zone-postscript" class="zone zone-postscript clearfix container-12">
+    <div class="grid-3 region region-postscript-first" id="region-postscript-first">
+  <div class="region-inner region-postscript-first-inner">
+      </div>
+</div>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    <div class="grid-12 region region-footer-first" id="region-footer-first">
+  <div class="region-inner region-footer-first-inner">
+    <div class="block block-block block-3 block-block-3 odd block-without-title" id="block-block-3">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <p><img title="" src="/sites/default/files/logos/partners.png" alt="" /><a href="http://www.nsf.gov"><img title="" src="/sites/default/files/logos/hex-nsf-desat.png" alt="" /></a><a href="http://www.berkeley.edu"><img title="" src="/sites/default/files/logos/hex-logo-ucb.png" alt="" /></a><a href="http://www.stanford.edu"><img title="" src="/sites/default/files/logos/hex-logo-stanford.png" alt="" /></a><a href="http://www.harvard.edu"><img title="" src="/sites/default/files/logos/hex-logo-harvard.png" alt="" /></a><a href="http://www.mit.edu"><img title="" src="/sites/default/files/logos/hex-logo-mit.png" alt="" /></a><a href="http://www.ucsf.edu"><img title="" src="/sites/default/files/logos/hex-logo-ucsf.png" alt="" /></a><a href="http://www.qb3.org"><img title="" src="/sites/default/files/logos/hex-logo-qb3.png" alt="" /></a></p>
+    </div>
+  </div>
+</div><div class="block block-block block-5 block-block-5 even block-without-title" id="block-block-5">
+  <div class="block-inner clearfix">
+                
+    <div class="content clearfix">
+      <div class="footerlink"><a href="/contact">Contact Us</a></div><div class="footerlink"><a href="/sitemap">Sitemap</a></div><div class="footerlink"><a href='/user'>Log in</a></div><div class="footerlink">&copy; 2006 - 2015</div>    </div>
+  </div>
+</div>  </div>
+</div>  </div>
+</div></footer>  </div>  <script type="text/javascript" src="http://www.synberc.org/sites/default/files/js/js_5idECjjAo-X5YdkT65CaIiodkWmZlZv-WjSkHlWhoYk.js"></script>
+  <script type='text/javascript' src='/sites/all/themes/synberc/js/scripts.js'></script>
+</body>
+</html>

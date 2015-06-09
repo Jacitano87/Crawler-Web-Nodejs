@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html lang="en-US"> <!--<![endif]-->
+<head>
+	<meta name="viewport" content="width=device-width; initial-scale=1.0">
+    <!-- START /asuthemes/4.0-rsp.1/heads/default.shtml -->
+
+<link type="text/css" rel="stylesheet" media="all" href="//www.asu.edu/asuthemes/4.0-rsp.1/css/asu_header.css" />
+<!--[if lte IE 8]>
+<style type="text/css">
+	#asu_hdr.asu_responsive {min-width:938px;}
+  #asu_search_module input.asu_search_box { line-height: 19px; }
+  #asu_universal_nav ul li:hover > ul {top: 25px;}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style type="text/css">
+  #asu_search_module {height:17px;float:none; text-align:right; top:3px;}
+  .asu_search_selection {position:relative; top:-2px;}
+  #asu_universal_nav ul li.parent ul {display: none;}
+  #asu_universal_nav > ul > li.parent > a {background-image: none; padding-right: 8px;}
+  #asu_universal_nav > ul > li.parent:hover > a {background-image: none; background-color: transparent; color: #903; filter: none;}
+</style>
+</style>
+<![endif]-->
+<!--[if lte IE 6]>
+<style type="text/css">
+  #asu_hdr.asu_hdr_maroon {background: #903;}
+</style>
+<![endif]-->
+
+<!--[if IE 9]>
+<style type="text/css">
+  #asu_universal_nav ul ul {filter: none; box-shadow: 0px 6px 6px 0px #999;}
+  #asu_universal_nav > ul > li.parent:hover > a {filter: none; box-shadow: 6px 0px 6px -6px #999, -6px 0px 6px -6px #999;}
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];
+_gaq.push(['asu._setAccount', 'UA-2392647-1'], ['asu._setDomainName', '.asu.edu']);
+_gaq.push(['asu._trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = 'https://ssl.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//--><!]]>
+</script>
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ASUHeader = ASUHeader || {};
+//--><!]]>
+</script>
+
+<script type="text/javascript" src="//www.asu.edu/asuthemes/4.0-rsp.1/js/asu_header.js"></script>
+
+<!-- END /asuthemes/4.0-rsp.1/heads/default.shtml -->
+
+	<!-- Basic Page Needs
+  ================================================== -->
+	<meta charset="utf-8" />
+	<title>School of Biological and Health Systems Engineering  </title>
+
+	<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+	<!-- CSS
+  ================================================== -->
+	<link rel="stylesheet" href="http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/style.css" type="text/css" />
+	
+				<link rel="stylesheet" href="http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/skeleton.css">
+		<link rel="stylesheet" href="http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/layout.css">	
+		
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/ie-style.php?path=http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06" type="text/css" media="screen, projection" /> 
+		<style type="text/css">
+			div.social-icon{
+				background-color: #990033 !important;
+			}
+		</style>
+	<![endif]-->
+	<!--[if IE 7]>
+		<link rel="stylesheet" href="http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/ie7-style.css" /> 
+	<![endif]-->
+
+	
+	<!-- Favicon
+   ================================================== -->
+	
+	<!-- Start WP_HEAD
+   ================================================== -->
+		
+	<link rel="alternate" type="application/rss+xml" title="School of Biological and Health Systems Engineering &raquo; Feed" href="http://sbhse.engineering.asu.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="School of Biological and Health Systems Engineering &raquo; Comments Feed" href="http://sbhse.engineering.asu.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/sbhse.engineering.asu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='jflow-slider-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/jflow-plus/jflow.style.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='WPTF_Tectite_Form_Styles-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/tectite-forms/css/styles.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='WPTF_Tectite_Form_UserStyles-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/tectite-forms/css/formdesigneruser.css?ver=9' type='text/css' media='all' />
+<link rel='stylesheet' id='sfstst_css-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/wp-testimonials/css/wp-testimonials-style.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='style-custom-css'  href='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/style-custom.php?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='Google-Font-css'  href='http://fonts.googleapis.com/css?family=Droid+Sans%3Asubset%3Dlatin%3An%2Ci%2Cb%2Cbi%7CDroid+Serif%3Asubset%3Dlatin%3An%2Ci%2Cb%2Cbi%7C&#038;ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='A5-framework-css'  href='http://sbhse.engineering.asu.edu/?A5_file=wp_css&#038;ver=1.0beta20150131CLP' type='text/css' media='all' />
+<link rel='stylesheet' id='events-manager-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/events-manager/includes/css/events_manager.css?ver=5.53' type='text/css' media='all' />
+<link rel='stylesheet' id='spiffycal-styles-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/spiffy-calendar/spiffycal.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-for-wp-checkbox-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/mailchimp-for-wp/assets/css/checkbox.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_image_widget-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/jetpack/modules/widgets/image-widget/style.css?ver=20140808' type='text/css' media='all' />
+<link rel='stylesheet' id='wpgform-css-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/wpgform/css/wpgform.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimp-for-wp-form-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/mailchimp-for-wp/assets/css/form.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://sbhse.engineering.asu.edu/wp-content/plugins/jetpack/css/jetpack.css?ver=3.5.3' type='text/css' media='all' />
+<link rel='stylesheet' id='superfish-css'  href='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/superfish.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/prettyPhoto.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo-slider-css'  href='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/nivo-slider.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nivo-slider-style-css'  href='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/nivo-slider-style.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='flex-slider-css'  href='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/stylesheet/flexslider.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/cufon.js?ver=1.0'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/button.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var EM = {"ajaxurl":"https:\/\/sbhse.engineering.asu.edu\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/sbhse.engineering.asu.edu\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"0","locale":"en","dateFormat":"mm\/dd\/yy","ui_css":"http:\/\/sbhse.engineering.asu.edu\/wp-content\/plugins\/events-manager\/includes\/css\/ui-lightness.css","show24hours":"0","is_ssl":"","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"https:\/\/sbhse.engineering.asu.edu\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_reschedule_warning":"Are you sure you want to reschedule this recurring event? If you do this, you will lose all booking information and the old recurring events will be deleted.","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=5.53'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/plugins/jflow-plus/jflow.plus.js?ver=4.2.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var URL = {"goodlayers":"http:\/\/sbhse.engineering.asu.edu\/wp-content\/themes\/grandcollege_v1-06"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/jquery.preloader.js?ver=1.0'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://sbhse.engineering.asu.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://sbhse.engineering.asu.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<link rel='canonical' href='http://sbhse.engineering.asu.edu/' />
+<link rel='shortlink' href='http://wp.me/P2S1CK-nB' />
+	
+<!-- Begin jFlow Plus WordPress Plugin -->
+<script language="javascript"> 
+	$(document).ready(function(){
+	    $("#jFlowController").jFlow({
+			controller: ".jFlowControl", // must be class, use . sign
+			slideWrapper : "#jFlowSlider", // must be id, use # sign
+			slides: "#jFlow",  // the div where all your sliding divs are nested in
+			selectedWrapper: "jFlowSelected",  // just pure text, no sign
+			timer_slider: 10000, // time in miliseconds to display one slide		
+			width: "800px",  // this is the width for the content-slider
+			height: "350px",  // this is the height for the content-slider
+			duration: 400,  // time in miliseconds to transition one slide
+			prev: ".jFlowPrev", // must be class, use . sign
+			next: ".jFlowNext", // must be class, use . sign
+			auto: false    });
+});
+</script> 
+<style type="text/css">
+#jFlowcontainer{
+	width: 800px;
+	height: 350px;
+}
+</style>
+<!-- End jFlow Plus WordPress Plugin -->
+			<link rel='alternate' type='application/rss+xml' title="Forums RSS" href="http://sbhse.engineering.asu.edu/wp-content/plugins/mingle-forum/feed.php?topic=all" /> <style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="School of Biological and Health Systems Engineering" />
+<meta property="og:description" content="SBHSE" />
+<meta property="og:url" content="http://sbhse.engineering.asu.edu/" />
+<meta property="og:site_name" content="School of Biological and Health Systems Engineering" />
+<meta property="og:image" content="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/01/Frow-Emma-0574b-2.jpg" />
+<meta property="og:image" content="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/05/2014_SBHSE_Annual_Report_v6_toPRINT_Web.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:image" content="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/01/Frow-Emma-0574b-2.jpg?w=240" />
+<meta name="twitter:card" content="summary" />
+<style type="text/css">.mc4wp-form input[name="_mc4wp_required_but_not_really"] { display: none !important; }</style>
+<style id="custom-css-css">/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/</style>
+	
+	<!-- FB Thumbnail
+   ================================================== -->
+		
+</head>
+<body class="home page page-id-1463 page-template-default">
+
+<!-- START /asuthemes/4.0-rsp.1/headers/fulton_engineering_white.shtml -->
+
+<div id="asu_hdr" class=" asu_hdr_white">
+		<div id="asu_mobile_hdr">
+				<div id="asu_logo">
+						<a target="_top" href="http://engineering.asu.edu" title="Arizona State University - Ira A. Fulton Schools of Engineering">
+								<img src="//www.asu.edu/asuthemes/4.0-rsp.1/images/logos/engineering_logo.png" alt="Arizona State University - Ira A. Fulton Schools of Engineering" height="36" width="227" style="margin-top:12px" title="Arizona State University - Ira A. Fulton Schools of Engineering" />
+						</a>
+				</div><!-- /#asu_logo  -->
+	
+				<img src="//www.asu.edu/asuthemes/4.0-rsp.1/images/logos/engineering_logo.png" height="36" width="227" id="asu_print_logo" />
+    
+    		<div id="asu_mobile_button" class="asuhide"><a href="javascript:toggleASU();">Menu</a></div>
+    
+		</div><!-- /#asu_mobile_header  -->
+   
+		<div id="asu_mobile_menu" class="asutoggle_off">	
+				<div id="asu_nav_wrapper">
+        
+            <h2 class="hidden">Sign In / Sign Out</h2>
+            <ul id="asu_login_module">
+                              <li id="asu_hdr_ssi" class="end">
+                   <a target="_top" href="https://weblogin.asu.edu/cgi-bin/login"
+                        onmouseover="this.href = ASUHeader.alterLoginHref(this.href);"
+                        onfocus="this.href = ASUHeader.alterLoginHref(this.href);"
+                        onclick="this.href = ASUHeader.alterLoginHref(this.href);">Sign In</a>
+                 </li>
+                         </ul>	
+          
+						<div id="asu_nav_menu">
+              	<h2 class="hidden">Menu</h2>
+              	<div id="asu_universal_nav">
+                    <ul>
+                      <li><a target="_top" href="http://www.asu.edu/">ASU Home</a></li>				
+                      <li><a target="_top" href="https://my.asu.edu/">My ASU</a></li>			
+                      <li class="parent"><a target="_top" href="http://www.asu.edu/colleges/">Colleges &amp; Schools</a>
+                          <ul>
+                            <li><a target="_top" class="first" href="http://artsandsciences.asu.edu/" title="Arts and Sciences website">Arts and Sciences</a></li>     
+                            <li><a target="_top" href="http://wpcarey.asu.edu/" title="W. P. Carey School of Business Web  and Morrison School of Agribusiness website">Business</a></li>          
+                            <li><a target="_top" href="http://herbergerinstitute.asu.edu" title="Herberger Institute for Design and the Arts website">Design and the Arts</a></li>
+                            <li><a target="_top" href="http://education.asu.edu/" title="Mary Lou Fulton Teachers College website">Education </a></li>
+                            <li><a target="_top" href="http://engineering.asu.edu/" title="Engineering website">Engineering</a></li>
+                            <li><a target="_top" href="http://graduate.asu.edu" title="Graduate College website">Graduate</a></li>
+                            <li><a target="_top" href="https://chs.asu.edu/" title="Health Solutions website">Health Solutions</a></li>
+                            <li><a target="_top" href="http://honors.asu.edu/" title="Barrett, The Honors College website">Honors</a></li>
+                            <li><a target="_top" href="http://cronkite.asu.edu" title="Walter Cronkite School of Journalism and Mass Communication website">Journalism</a></li>
+                            <li><a target="_top" href="http://www.law.asu.edu/" title="Sandra Day O' Connor College of Law website">Law</a></li>
+                            <li><a target="_top" href="http://nursingandhealth.asu.edu/" title="College of Nursing and Health Innovation website">Nursing and Health Innovation</a></li>
+                            <li><a target="_top" href="http://copp.asu.edu" title="College of Public Programs website">Public Service and Community Solutions</a></li>
+                            <li><a target="_top" href="http://schoolofsustainability.asu.edu" title="School of Sustainability website">Sustainability</a></li>
+                            <li><a target="_top" href="http://uc.asu.edu/" title="University College website">University College</a></li>
+			    <li><a target="_top" href="http://www.thunderbird.edu/" title="Thunderbird School of Global Management website">New: Thunderbird School of Global Management</a></li>
+                          </ul>
+                        </li>				
+                        <li class="parent"><a target="_top" href="http://www.asu.edu/map/">Map &amp; Locations</a>
+                          <ul>
+                            <li><a target="_top" class="border first" href="http://www.asu.edu/map/">Map</a></li>
+                            <li><a target="_top" href="http://campus.asu.edu/tempe/" title="Tempe campus">Tempe</a></li>
+                            <li><a target="_top" href="http://campus.asu.edu/west/" title="West campus">West</a></li>
+                            <li><a target="_top" href="http://campus.asu.edu/polytechnic/" title="Polytechnic campus">Polytechnic</a></li>
+                            <li><a target="_top" href="http://campus.asu.edu/downtown/" title="Downtown Phoenix campus">Downtown Phoenix</a></li>
+                            <li><a target="_top" href="http://asuonline.asu.edu/" title="Online and Extended campus">Online and Extended</a></li>
+                            <li><a target="_top" class="border" href="http://havasu.asu.edu/">Lake Havasu</a></li>
+                            <li><a target="_top" href="http://www.thunderbird.edu/about-thunderbird/locations/phoenix-arizona">Thunderbird</a></li>
+			    <li><a target="_top" href="http://skysong.asu.edu/">Skysong</a></li>
+                            <li><a target="_top" href="http://asuresearchpark.com/">Research Park</a></li>
+                            <li><a target="_top" href="http://washingtoncenter.asu.edu/">Washington D.C.</a></li>
+                            <li><a target="_top" href="http://wpcarey.asu.edu/mba/china-program/english/">China</a></li>
+			  </ul>
+                        </li>
+                        <li><a target="_top" href="http://www.asu.edu/contactasu/" title="Directory, Index and other info">Directory</a></li>						
+                    </ul>
+                
+										<img class="asu_touch" src="//www.asu.edu/asuthemes/4.0-rsp.1/images/ipad_close.gif" alt="" />
+								</div><!-- /#asu_universal_nav -->
+						</div><!-- /#asu_nav_menu -->    
+				</div><!-- /#asu_nav_wrapper -->
+      
+								<div id="asu_search">
+						<h2 class="hidden">Search</h2>
+						<div id="asu_search_module"><form target="_top" action="https://search.asu.edu/search" method="get" name="gs">
+	<label class="hidden" for="asu_search_box">Search</label>
+			<fieldset class="asu_search_selection">
+			<label for="engineering_collection"><input type="radio" checked="checked" value="engineering_collection" id="engineering_collection" name="site" onclick="ASUHeader.searchSwitch('Engineering')"/>Engineering</label>
+			<label for="asu_collection"><input type="radio" value="default_collection" id="asu_collection" name="site" onclick="ASUHeader.searchSwitch('ASU')"/>ASU</label>
+		</fieldset>
+		<input type="text" name="q" size="32" value="Search Engineering" id="asu_search_box" class="asu_search_box" onfocus="ASUHeader.searchFocus(this)" onblur="ASUHeader.searchBlur(this)" /> 
+	<input type="submit" value="Search" title="Search" class="asu_search_button" />
+	<input name="sort" value="date:D:L:d1" type="hidden" /> 
+	<input name="output" value="xml_no_dtd" type="hidden" /> 
+	<input name="ie" value="UTF-8" type="hidden" /> 
+	<input name="oe" value="UTF-8" type="hidden" /> 
+	<input name="client" value="asu_frontend" type="hidden" /> 
+	<input name="proxystylesheet" value="asu_frontend" type="hidden" />
+</form></div><!-- /#asu_search_module -->
+				</div><!-- /#asu_search -->    
+				           
+		</div><!-- /#asu_mobile_menu -->
+</div><!-- /#asu_hdr -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ASUHeader.default_search_text = "Search Engineering";
+ASUHeader.default_search_alttext = "Search Engineering";
+if (typeof ASUHeader.signin_callback_url == "undefined") {
+	ASUHeader.signin_callback_url = '';
+}
+if (typeof ASUHeader.signin_url == "undefined") {
+	ASUHeader.signin_url = '';
+}
+if (typeof ASUHeader.signout_url == "undefined") {
+	ASUHeader.signout_url = 'https://webapp4.asu.edu/myasu/Signout';
+}
+if (typeof ASUHeader.user_signedin == "undefined" ||
+		(ASUHeader.user_signedin != false && typeof ASUHeader.user_displayname == "undefined")) {
+	ASUHeader.checkSSOCookie();
+}
+if (ASUHeader.user_signedin == true) {
+	ASUHeader.setSSOLink();
+}if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+		document.getElementById('asu_hdr').className = document.getElementById('asu_hdr').className+" chrome";
+}
+//--><!]]>
+</script>
+<div style="clear:both;"></div>
+<!-- END /asuthemes/4.0-rsp.1/headers/fulton_engineering_white.shtml -->
+	<div id="custom-full-background"><img src="http://sbhse.engineering.asu.edu/wp-content/uploads/2012/11/twinkle_twinkle_@2X.png" alt="" /></div><div class="body-wrapper">
+
+	
+		
+	<div class="top-navigation container">
+		<div class="top-navigation-wrapper">
+						<div class="top-navigation-left">
+								<br class="clear">
+			</div>			
+		</div>
+	</div>
+
+	
+	<div class="container">
+		<div class="header-wrapper">
+			<div class="inner-header-wrapper">
+				<!-- Get Logo -->
+				<div class="logo-wrapper">
+					<a href="http://sbhse.engineering.asu.edu/"><img src="http://sbhse.engineering.asu.edu/wp-content/uploads/2012/11/sbhse31.png" alt="logo"/></a>				</div>
+				
+				<!-- Get Search -->
+								<div class="search-wrapper"><form method="get" id="searchform" action="http://sbhse.engineering.asu.edu/">
+	<div id="search-text">
+				<input type="text" value="Type your keywords..." name="s" id="s" autocomplete="off" data-default="Type your keywords..." />
+	</div>
+	<input type="submit" id="searchsubmit" value="Search"/>
+	<br class="clear">
+</form>
+</div> 
+								
+				<br class="clear">
+			</div> <!-- Inner header wrapper -->
+			<!-- Navigation -->
+			<div class="sixteen columns mb0">
+								<div class="navigation-wrapper">
+					<!-- Get Navigation -->
+					<div id="main-superfish-wrapper" class="menu-wrapper"><ul id="menu-main" class="sf-menu"><li id="menu-item-1433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1433"><a href="http://sbhse.engineering.asu.edu/academics/">Students</a>
+<ul class="sub-menu">
+	<li id="menu-item-1423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1423"><a href="http://sbhse.engineering.asu.edu/join/">Prospective</a></li>
+	<li id="menu-item-3340" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3340"><a>Current</a>
+	<ul class="sub-menu">
+		<li id="menu-item-2858" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2858"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/graduate/">Graduate</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2959"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/graduate/newgrad/">Getting Started</a></li>
+			<li id="menu-item-2979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2979"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/graduate/curriculum/">Graduate Program Curriculum</a>
+			<ul class="sub-menu">
+				<li id="menu-item-2980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2980"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/graduate/curriculum/phdstudent/">Ph.D. in Biomedical Engineering</a></li>
+				<li id="menu-item-6688" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6688"><a href="http://sbhse.engineering.asu.edu/biologicaldesignoverview/">Ph.D. in Biological Design</a></li>
+				<li id="menu-item-2981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2981"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/graduate/curriculum/msinfo/">M.S. in Biomedical Engineering</a></li>
+			</ul>
+</li>
+			<li id="menu-item-2957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2957"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/advising/">Graduate Student Advising</a></li>
+		</ul>
+</li>
+		<li id="menu-item-2861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2861"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/accelerated/">Accelerated</a></li>
+		<li id="menu-item-2859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2859"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/undergraduate/">Undergraduate</a>
+		<ul class="sub-menu">
+			<li id="menu-item-2513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2513"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/undergraduate/curriculum/">Curriculum</a></li>
+			<li id="menu-item-3106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3106"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/undergraduate/undergraduate-student-advising/">Undergraduate Academic Advising</a></li>
+			<li id="menu-item-3449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3449"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/undergraduate/parents/">Undergraduate Parent Resources</a></li>
+		</ul>
+</li>
+	</ul>
+</li>
+	<li id="menu-item-1444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1444"><a href="http://sbhse.engineering.asu.edu/academics/studentlife/">Student Life</a></li>
+	<li id="menu-item-1453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1453"><a href="http://sbhse.engineering.asu.edu/academics/careers-and-employment/">Internships, Careers, and Employment</a></li>
+</ul>
+</li>
+<li id="menu-item-1422" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1422"><a href="http://sbhse.engineering.asu.edu/research/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-1427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1427"><a href="http://sbhse.engineering.asu.edu/research/labs/">Laboratories</a></li>
+	<li id="menu-item-1425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1425"><a href="http://sbhse.engineering.asu.edu/research/partners/">Partners</a></li>
+</ul>
+</li>
+<li id="menu-item-2950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2950"><a>Faculty and Staff</a>
+<ul class="sub-menu">
+	<li id="menu-item-1429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1429"><a href="http://sbhse.engineering.asu.edu/faculty-and-staff/faculty/">Teaching and Research Faculty</a></li>
+	<li id="menu-item-5326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5326"><a href="http://sbhse.engineering.asu.edu/faculty-and-staff/graduate-faculty/">Graduate Faculty</a></li>
+	<li id="menu-item-5966" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5966"><a href="http://sbhse.engineering.asu.edu/faculty-and-staff/emeriti-faculty/">Emeriti Faculty</a></li>
+	<li id="menu-item-1428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1428"><a href="http://sbhse.engineering.asu.edu/faculty-and-staff/adjunct-faculty/">Adjunct Faculty</a></li>
+	<li id="menu-item-1434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1434"><a href="http://sbhse.engineering.asu.edu/faculty-and-staff/staff/">Staff</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4643"><a href="http://sbhse.engineering.asu.edu/business-services/">Business Services</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1626"><a href="http://sbhse.engineering.asu.edu/newsevents/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-5411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5411"><a href="http://sbhse.engineering.asu.edu/events/categories/sbhse-seminar-series/">Seminars</a></li>
+	<li id="menu-item-5547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5547"><a href="http://sbhse.engineering.asu.edu/events/categories/tuesday-talk/">Tuesday Talks</a></li>
+</ul>
+</li>
+<li id="menu-item-2933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2933"><a>Outreach</a>
+<ul class="sub-menu">
+	<li id="menu-item-1447" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1447"><a href="http://sbhse.engineering.asu.edu/alumni/">Alumni</a></li>
+	<li id="menu-item-1452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1452"><a href="http://sbhse.engineering.asu.edu/k-12/">K-12</a></li>
+	<li id="menu-item-1446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1446"><a href="http://sbhse.engineering.asu.edu/design-center/">Design Studio</a></li>
+	<li id="menu-item-2095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2095"><a href="http://sbhse.engineering.asu.edu/research/partners/">Partners</a></li>
+	<li id="menu-item-1449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1449"><a href="http://sbhse.engineering.asu.edu/partner-with-us/">Partner with Us</a></li>
+</ul>
+</li>
+<li id="menu-item-7179" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7179"><a href="http://sbhse.engineering.asu.edu/academics/careers-and-employment/">Internships</a></li>
+<li id="menu-item-1646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1646"><a href="http://sbhse.engineering.asu.edu/contact-us/">Contact Us</a></li>
+</ul></div>
+					<div class="social-wrapper">
+						<div class="social-icon-wrapper">
+							<div class="social-icon"><a href="http://www.facebook.com/pages/Sbhse-at-ASU/101216316712676" target="_blank"><img src="http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/images/icon/dark/social/facebook.png" alt="facebook"/></a></div><div class="social-icon"><a href="http://www.linkedin.com/groups/ASU-Biomedical-Engineering-1900900/about" target="_blank"><img src="http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/images/icon/dark/social/linkedin.png" alt="linkedin"/></a></div>						</div>
+					</div>
+					
+					<br class="clear">
+				</div>
+			</div>
+			<br class="clear">
+		</div> <!-- header-wrapper -->
+				<div class="content-wrapper sidebar-included right-sidebar">
+			
+		<div class="page-wrapper">
+			<div class="sixteen columns mb0"><div class="slider-wrapper fullwidth"><div id="slider" class="nivoSlider" style="width:940px; height:410px;"><a href="http://sbhse.engineering.asu.edu/news/asu-student-develops-sensing-technology-for-visually-hearing-impaired/" ><img class="no-preload" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/03/hand_robo-940x410.png" title="#nivo-caption0" alt="" /></a><a href="http://sbhse.engineering.asu.edu/on-campus-news/workshop-helps-to-spark-pursuit-of-rehabilitation-robotics-progress/" ><img class="no-preload" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/01/rehabrobot1-940x410.png" title="#nivo-caption1" alt="" /></a><a href="http://sbhse.engineering.asu.edu/on-campus-news/nih-grants-reflect-vibrant-biomedical-engineering-research-environment/" ><img class="no-preload" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/01/nih_grant-940x410.png" title="#nivo-caption2" alt="" /></a><a href="http://sbhse.engineering.asu.edu/on-campus-news/7246/" ><img class="no-preload" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2014/11/RosBanner-copy-940x410.png" title="#nivo-caption3" alt="" /></a><a href="http://sbhse.engineering.asu.edu/on-campus-news/advances-in-robotics-technology-promise-performance-boost-in-prosthetic-hands/" ><img class="no-preload" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2014/11/SantelloBanner-copy-940x410.png" title="#nivo-caption4" alt="" /></a><a href="http://sbhse.engineering.asu.edu/events/categories/tuesday-talk/" ><img class="no-preload" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2013/09/tuesdaytalks2-940x410.png" alt="" /></a></div><div class='nivo-caption gdl-slider-caption' id='nivo-caption0' ><div class='gdl-slider-title gdl-title'>ASU student develops sensing technology for visually, hearing impaired</div>A sensing glove was the first device ASU graduate Shantanu Bala worked on at ASU’s Center for Cognitive Ubiquitous Computing (CUbiC). A camera picks up a person’s facial expression and the glove provides different sensations based off what the camera sees.</div><div class='nivo-caption gdl-slider-caption' id='nivo-caption1' ><div class='gdl-slider-title gdl-title'>Workshop helps to spark pursuit of rehabilitation robotics progress</div>ASU’s biomedical engineering program is aiding efforts to expand the potential for robotic technologies to enhance physical rehabilitation options.</div><div class='nivo-caption gdl-slider-caption' id='nivo-caption2' ><div class='gdl-slider-title gdl-title'>NIH grants reflect vibrant biomedical engineering research environment</div>Growing support from the National Institutes of Health shows research by ASU biomedical engineering faculty is tackling major medical challenges.</div><div class='nivo-caption gdl-slider-caption' id='nivo-caption3' ><div class='gdl-slider-title gdl-title'>Mapping flow of bio-electrical current to reveal brain’s inner workings</div>Arizona State University biomedical engineer Rosalind Sadleir is leading research to develop methods of producing images of the most fundamental signatures of brain activity. Employing her expertise in bio-electricity and neural engineering, she’s pursuing the goal by devising techniques to reveal the electrical properties of these cells.
+</div><div class='nivo-caption gdl-slider-caption' id='nivo-caption4' ><div class='gdl-slider-title gdl-title'>Advances in robotics technology promise performance boost in prosthetic hands</div>Work on the design, development and testing of next-generation prosthetic hand technology by a team of researchers from Arizona State University, Mayo Clinic and the Italian Institute of Technology will proceed with support from the National Institutes of Health (NIH).</div><div class='slider-top-shadow slider-gimmick'></div><div class='slider-bottom-shadow slider-gimmick'></div><div class='slider-bottom-gimmick slider-gimmick'></div></div></div><div class="clear"></div><div class="sixteen columns wrapper overflow-hidden"></div><div class='gdl-page-float-left'><div class='gdl-page-item'><div class="eight columns "><h3><span class="Apple-style-span" style="background-color: #e3e3e3; font-size: medium;"><span style="font-size: medium;">Faculty Spotlight: Dr. Emma Frow</span><br />
+</span></h3>
+<p><a href="http://sbhse.engineering.asu.edu/emma-frow/"><img class="alignleft wp-image-7230 size-thumbnail" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/01/Frow-Emma-0574b-2.jpg" alt="SBHSE-Karmella-Haynes-Lab-portrait-9995a" width="125" height="175" /></a></p>
+<p><span style="color: #666666;">Emma Frow joined Arizona State University in February 2015 as an assistant professor with a joint appointment in the School of Biological and Health Systems Engineering, and the Consortium for Science, Policy and Outcomes.</span> <span style="color: #666666;">Her research focuses on standards and governance in contemporary life sciences, with a particular focus on synthetic biology.</span> <a href="http://sbhse.engineering.asu.edu/emma-frow/">Learn more&#8230;</a></p>
+<div></div>
+<h3></h3>
+<h3><span style="background-color: #e3e3e3;"><span style="font-size: medium;">Annual Report                                            </span><br />
+</span></h3>
+<h3><img class="aligncenter" src="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/05/2014_SBHSE_Annual_Report_v6_toPRINT_Web.jpg" alt="" width="224" height="224" /></h3>
+<p style="text-align: center;">Click to view a <a href="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/05/2014_SBHSE_Annual_Report_v6_toPRINT_Web.pdf">pdf</a> version of the report.</p>
+</div><div class="eight columns wrapper mb0"><h3 class="blog-header-title title-color gdl-title">On Campus News</h3><div class="clear"></div><div id="blog-item-holder" class="blog-item-holder"><div class="blog-item0 gdl-divider  mb15"><div class="blog-thumbnail-image"><a href="http://sbhse.engineering.asu.edu/on-campus-news/outstanding-fso-biomedical-engineering-society/"><img src="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/05/bmesofficershearts2014_2015-300x199-60x60.jpg" alt=""/></a></div><div class="blog-thumbnail-inside"><h2 class="blog-thumbnail-title post-widget-title-color gdl-title"><a href="http://sbhse.engineering.asu.edu/on-campus-news/outstanding-fso-biomedical-engineering-society/">Outstanding FSO: Biomedical Engineering Society</a></h2><div class="blog-thumbnail-info post-widget-info-color gdl-divider"><div class="blog-thumbnail-date">Posted on 06 May 2015</div><div class="clear"></div></div><div class="blog-thumbnail-context"><div class="blog-thumbnail-content">The Biomedical Engineering Society took home the title of 2014-2015 Outstanding FSO at the annual Student Organization Awards &amp; Recognition (SOAR) ceremony on Tuesday, April 21. BMES is a professional, educational, and social organization that aims to build and support the biomedical engineering</div></div><div class="clear"></div></div></div><div class="blog-item0 gdl-divider  mb15"><div class="blog-thumbnail-image"><a href="http://sbhse.engineering.asu.edu/on-campus-news/sbhse-grad-student-named-arcs-scholar/"><img src="http://sbhse.engineering.asu.edu/wp-content/uploads/2015/03/JOSH-ARCS-60x60.jpg" alt=""/></a></div><div class="blog-thumbnail-inside"><h2 class="blog-thumbnail-title post-widget-title-color gdl-title"><a href="http://sbhse.engineering.asu.edu/on-campus-news/sbhse-grad-student-named-arcs-scholar/">SBHSE grad student named ARCS scholar</a></h2><div class="blog-thumbnail-info post-widget-info-color gdl-divider"><div class="blog-thumbnail-date">Posted on 27 Mar 2015</div><div class="clear"></div></div><div class="blog-thumbnail-context"><div class="blog-thumbnail-content">Josh Cutts, a SBHSE PhD graduate student in the laboratory of Dr. David Brafman, was named an Achievement Rewards for College Scientists (ARCS) Scholar by the ARCS Foundation Phoenix Chapter. The ARCS Foundation provides support for early stage scientists pursuing graduate degrees in science and tec</div></div><div class="clear"></div></div></div><div class="clear"></div></div><div class="pagination gdl-divider"><span class="current">1</span><a href='http://sbhse.engineering.asu.edu/page/2/' class="inactive">2</a><a href='http://sbhse.engineering.asu.edu/page/3/' class="inactive">3</a><a href='http://sbhse.engineering.asu.edu/page/4/' class="inactive">4</a><a href='http://sbhse.engineering.asu.edu/page/5/' class="inactive">5</a><a href="http://sbhse.engineering.asu.edu/page/2/">Next &rsaquo;</a><a href='http://sbhse.engineering.asu.edu/page/43/'>Last &raquo;</a></div>
+</div></div></div><div class='five columns mt0 gdl-right-sidebar'><div class='right-sidebar-wrapper'><div class="custom-sidebar gdl-divider"><div class="jetpack-image-container"><a href="http://sbhse.engineering.asu.edu/academics/join/"><img src="http://sbhse.engineering.asu.edu/wp-content/uploads/2013/08/prospective1.jpg" class="aligncenter" width="272" height="67" /></a></div>
+</div><div class="custom-sidebar gdl-divider"><div class="jetpack-image-container"><a href="http://engineering.asu.edu/hiring/"><img src="http://sbhse.engineering.asu.edu/wp-content/uploads/2013/10/faculty1.jpg" class="alignnone" width="272" height="67" /></a></div>
+</div><div class="custom-sidebar gdl-divider">			<div class="textwidget"><h2>subscribe to our quarterly newsletter</h2>
+<p><!-- MailChimp for WordPress v2.3.2 - https://wordpress.org/plugins/mailchimp-for-wp/ -->
+<div id="mc4wp-form-1" class="form mc4wp-form">
+<form method="post" role="form"><center></p>
+<p>
+	<input type="email" id="mc4wp_email" name="EMAIL" placeholder="Please enter your email address" required />
+</p>
+<p>
+	<input type="submit" value="Subscribe" />
+</p>
+<p></center><input type="text" name="_mc4wp_required_but_not_really" value="" /><input type="hidden" name="_mc4wp_timestamp" value="1433847186" /><input type="hidden" name="_mc4wp_form_id" value="0" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><input type="hidden" name="_mc4wp_form_submit" value="1" /><input type="hidden" name="_mc4wp_form_nonce" value="9790ee596f" /></form>
+</div>
+<p><!-- / MailChimp for WordPress Plugin --></p>
+</div>
+		</div><div class="custom-sidebar gdl-divider"><h3 class="custom-sidebar-title sidebar-title-color gdl-title">Upcoming Events</h3><ul><li>No events</li></ul></div><div class='pt30'></div></div></div>		
+						
+			<br class="clear">
+		</div>
+	</div> <!-- content-wrapper -->
+	
+			<div class="clear"></div>
+			<div class="content-bottom-gimmick"></div>
+		</div> <!-- container -->
+		<div class="footer-wrapper">
+			<div class="footer-blank-space"></div>
+					
+
+			<div class="container mt0">
+			<!-- Get Footer Widget -->
+							<div class="footer-widget-wrapper">
+					<div class="eight columns mb0"><div class="custom-sidebar gdl-divider">			<div class="textwidget"><p><a href='http://engineering.asu.edu/contacts/'>Contact engineering</a><br><br />
+School of Biological and Health Systems Engineering, Ira A. Fulton Schools of Engineering<br />
+480-965-3028 | Fax: 480-727-7624<br />
+Mailing Address: P.O. Box 879709, Tempe, AZ 85287-9709<br />
+Physical Location: Engineering Center G Wing 334 [<a href="http://www.asu.edu/map/interactive/?campus=tempe&#038;building=ECG">map</a>]</p>
+</div>
+		</div></div><div class="four columns mb0"></div><div class="four columns mb0"></div><div class="display-none mb0"><div class="custom-sidebar gdl-divider"><div class="menu-achievement-container"><ul id="menu-achievement" class="menu"><li id="menu-item-6811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6811"><a href="http://sbhse.engineering.asu.edu/achievement/">BME Student Achievements</a></li>
+<li id="menu-item-6794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6794"><a href="http://sbhse.engineering.asu.edu/join/">Prospective Students</a></li>
+<li id="menu-item-6789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6789"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/graduate/curriculum/phdstudent/">Ph.D. in Biomedical Engineering</a></li>
+<li id="menu-item-6790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6790"><a href="http://sbhse.engineering.asu.edu/academics/currentstudents/graduate/curriculum/msinfo/">M.S. in Biomedical Engineering</a></li>
+<li id="menu-item-6788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6788"><a href="http://sbhse.engineering.asu.edu/biologicaldesign/">Graduate Degree in Biological Design</a></li>
+</ul></div></div></div>					<br class="clear">
+				</div>
+						
+						
+			<!-- Get Copyright Text -->
+							<div class="copyright-wrapper gdl-divider">
+					<div class="copyright-left">
+											</div> 
+					<div class="copyright-right">
+											</div> 
+					<div class="clear"></div>
+				</div>
+						</div> 
+            	
+	<div style="display:none">
+	</div>
+	<script>
+		var getElementsByClassName=function(a,b,c){if(document.getElementsByClassName){getElementsByClassName=function(a,b,c){c=c||document;var d=c.getElementsByClassName(a),e=b?new RegExp("\\b"+b+"\\b","i"):null,f=[],g;for(var h=0,i=d.length;h<i;h+=1){g=d[h];if(!e||e.test(g.nodeName)){f.push(g)}}return f}}else if(document.evaluate){getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e="",f="http://www.w3.org/1999/xhtml",g=document.documentElement.namespaceURI===f?f:null,h=[],i,j;for(var k=0,l=d.length;k<l;k+=1){e+="[contains(concat(' ', @class, ' '), ' "+d[k]+" ')]"}try{i=document.evaluate(".//"+b+e,c,g,0,null)}catch(m){i=document.evaluate(".//"+b+e,c,null,0,null)}while(j=i.iterateNext()){h.push(j)}return h}}else{getElementsByClassName=function(a,b,c){b=b||"*";c=c||document;var d=a.split(" "),e=[],f=b==="*"&&c.all?c.all:c.getElementsByTagName(b),g,h=[],i;for(var j=0,k=d.length;j<k;j+=1){e.push(new RegExp("(^|\\s)"+d[j]+"(\\s|$)"))}for(var l=0,m=f.length;l<m;l+=1){g=f[l];i=false;for(var n=0,o=e.length;n<o;n+=1){i=e[n].test(g.className);if(!i){break}}if(i){h.push(g)}}return h}}return getElementsByClassName(a,b,c)},
+			dropdowns = getElementsByClassName( 'dropdown-menu' );
+		for ( i=0; i<dropdowns.length; i++ )
+			dropdowns[i].onchange = function(){ if ( this.value != '' ) window.location.href = this.value; }
+	</script>
+	<script type='text/javascript'>
+/* <![CDATA[ */
+var tectite_form_environ = {"img_url":"http:\/\/sbhse.engineering.asu.edu\/wp-content\/plugins\/tectite-forms\/images\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/plugins/tectite-forms/js/formval.js?ver=7'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/cufon/Museo_Sans_500.font.js?ver=1.0'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/superfish.js?ver=1.0'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/supersub.js?ver=1.0'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/hoverIntent.js?ver=1.0'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/gdl-scripts.js?ver=1.0'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/jquery.easing.js?ver=1.0'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/jquery.prettyPhoto.js?ver=1.0'></script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/jquery.cycle.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var NIVO = {"effect":"sliceDown","pauseOnHover":"enable","controlNav":"enable","directionNav":"enable","directionNavHide":"enable","animSpeed":"500","pauseTime":"8000","captionOpacity":"0.68"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/jquery.nivo.slider.pack.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var FLEX = {"animation":"fade","pauseOnHover":"disable","controlNav":"enable","directionNav":"enable","animationDuration":"700","slideshowSpeed":"13000","pauseOnAction":"disable","controlsContainer":".flexslider"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://sbhse.engineering.asu.edu/wp-content/themes/grandcollege_v1-06/javascript/jquery.flexslider.js?ver=1.0'></script>
+<script type="text/javascript">
+			(function() {
+				function addSubmittedClassToFormContainer(e) {
+					var form = e.target.form.parentNode;
+					var className = 'mc4wp-form-submitted';
+					(form.classList) ? form.classList.add(className) : form.className += ' ' + className;
+				}
+
+				function hideHoneypot(h) {
+					var n = document.createElement('input');
+					n.type = 'hidden';
+					n.name = h.name;
+					n.style.display = 'none';
+					n.value = h.value;
+					h.parentNode.replaceChild(n,h);
+				}
+
+				var forms = document.querySelectorAll('.mc4wp-form');
+				for (var i = 0; i < forms.length; i++) {
+					(function(f) {
+
+						// make sure honeypot is hidden
+						var h = f.querySelector('input[name="_mc4wp_required_but_not_really"]');
+						if(h) {
+							hideHoneypot(h);
+						}
+
+						// add class on submit
+						var b = f.querySelector('[type="submit"]');
+						if(b.addEventListener) {
+							b.addEventListener('click', addSubmittedClassToFormContainer);
+						} else {
+							b.attachEvent('click', addSubmittedClassToFormContainer);
+						}
+
+					})(forms[i]);
+				}
+			})();
+
+					</script><script type='text/javascript' src='http://stats.wp.com/e-201524.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'42428630',post:'1463',tz:'-7',srv:'sbhse.engineering.asu.edu'} ]);
+	_stq.push([ 'clickTrackerInit', '42428630', '1463' ]);
+</script>
+
+<script type="text/javascript"> 	
+	jQuery(document).ready(function(){
+	Cufon.replace(jQuery('h1, h2, h3, h4, h5, h6, .gdl-title').not('.nivo-caption .gdl-title'), {fontFamily: 'Museo Sans' , hover: true});Cufon.replace('.stunning-text-title', {fontFamily: 'Museo Sans'});});</script>
+<!-- START FOOTER /asuthemes/3.1/includes/footer.html -->   
+<ul id="asu_footer" class="asu_black_footer">
+  <li><a href="http://www.asu.edu/copyright/">Copyright &amp; Trademark</a></li>
+  <li><a href="http://www.asu.edu/accessibility/">Accessibility</a></li>
+  <li><a href="http://www.asu.edu/privacy/">Privacy</a></li>
+  <li><a href="https://cfo.asu.edu/hr-applicant">jobs@asu</a></li>
+  <li><a href="http://www.asu.edu/emergency/">Emergency</a></li>
+  <li class="no-border"><a href="http://www.asu.edu/contactasu/">Contact ASU</a></li>
+</ul>
+<!-- END FOOTER -->
+</body>
+</html>

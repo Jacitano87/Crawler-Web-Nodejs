@@ -1,0 +1,214 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+		<title>Board Members || </title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" media="all" href="http://biobuilder.org/wp-content/themes/BioBuilder/style.css" />
+		<link rel="shortcut icon" href="http://biobuilder.org/wp-content/themes/BioBuilder/favicon.ico" />		
+						
+  		<link rel="pingback" href="http://biobuilder.org/xmlrpc.php">
+		<link rel="alternate" type="application/rss+xml" title="BioBuilder &raquo; Board Members Comments Feed" href="http://biobuilder.org/board-members/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/biobuilder.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='collapseomatic-css-css'  href='http://biobuilder.org/wp-content/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://biobuilder.org/wp-content/plugins/lightbox-plus/css/fancypants/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
+<script type='text/javascript' src='http://biobuilder.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://biobuilder.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://biobuilder.org/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.5.16'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://biobuilder.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://biobuilder.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.2" />
+<link rel='canonical' href='http://biobuilder.org/board-members/' />
+<link rel='shortlink' href='http://biobuilder.org/?p=43' />
+<script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+</script>
+<!-- BEGIN GADWP v4.7.4 Classic Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-46213779-1']);
+  _gaq.push(['_trackPageview'], ['_gat._anonymizeIp']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- END GADWP Classic Tracking -->
+
+</head>
+<body class="page page-id-43 page-template page-template-foundation-page page-template-foundation-page-php board-members">
+
+<div class="wrapper topBand fixed">
+	<header>
+		<section id="site-name" class="group">
+    		<h1><span>BioBuilder</span></h1>
+    		<nav id="top-right">
+    			<ul>
+					<li  ><a href="http://biobuilder.org/contact/">Contact</a></li>        			
+        			
+        	<li  ><a href="http://biobuilder.org/about-the-foundation/">About</a></li>
+        			
+          <li  ><a href="http://biobuilder.org">Home</a></li>
+        		
+        	<li><span class="social facebook"><a href="http://www.facebook.com/pages/BioBuilder/166478093394068?v=wall">facebook</a></span></li>
+        	<li><span class="social twitter"><a href="http://twitter.com/SystemsSally">twitter</a></span></li>
+		
+				</ul>
+    		</nav>
+    	</section>
+	</header>
+</div><!--wrapper-->
+
+<div class="wrapper shadow fixed blueBand">
+	
+		<nav id="main">
+		<ul>
+			<li><a href="for-teachers" ><span>for</span><br />Teachers</a></li>
+        	<li><a href="for-students" ><span>for</span><br />Students</a></li>
+ 	     	<li><a href="about-the-foundation" class="here"><span>about the</span><br />Foundation</a></li>
+     </ul>
+	</nav>
+</div><!--wrapper-->
+
+<div class="wrapper shadow foundation-menu">
+
+ 
+ <nav id="foundationNav" class="foundation-nav"><ul id="menu-foundation" class="menu"><li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="http://biobuilder.org/about-the-foundation/">Foundation</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47"><a href="http://biobuilder.org/impact/">Impact</a></li>
+<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-43 current_page_item menu-item-46"><a href="http://biobuilder.org/board-members/">Board Members</a></li>
+<li id="menu-item-45" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45"><a href="http://biobuilder.org/partners/">Partners</a></li>
+<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="http://biobuilder.org/donate/">Donate</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="http://biobuilder.org/news/">News</a></li>
+<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="http://biobuilder.org/articles-about-biobuilder/">Published</a></li>
+</ul></nav>
+</div><!--wrapper for foundation menu -->
+
+<div class="wrapper foundation foundation-bg">
+<section id="mainContent">
+
+			
+		<article id="foundation">
+		<div id="foundationLogo"><img src="http://biobuilder.org/wp-content/themes/BioBuilder/i/bioBuilderFoundation.png" width="150" alt="BioBuilder Foundation Logo" /></div>
+
+		<h1>Board Members </h1>
+		<h2>Board of Directors</h2>
+    
+<p class="intro">We are a diverse group of professionals who remember that learning new things can inspire both hard work and excitement. Drawing on our personal experiences and professional networks, we are getting fresh content into the hands of teachers, engaging students as problem solvers in the process.</p>
+
+<div class="members">
+		<figure class="float-l space-b2"><img src="http://biobuilder.org/wp-content/uploads/2013/11/Natalie-Kuldell.jpg" alt="Natalie Kuldell, BioBuilder founder and board member" /></figure>
+		<p><strong>Natalie Kuldell</strong> teaches in the Department of Biological Engineering at the Massachusetts Institute of Technology. She develops discovery-based curricula drawn from the current literature to engage undergraduate students in structured, reasonably authentic laboratory and project-based experiences. She completed her doctoral and post-doctoral work at Harvard Medical School, and taught at Wellesley College before joining the faculty at MIT.</p> 
+		</div>
+<div class="members">
+<figure class="float-r"><img src="http://biobuilder.org/wp-content/uploads/2013/11/Sherry-Annee.jpg" alt="Sherry Annee, BioBuilder board member" /></a></figure>
+<p><strong>Sherry Annee</strong> has been teaching high school science since 1991 and currently teaches Honors Biotechnology at Brebeuf Jesuit Preparatory School in Indianapolis. She is the recipient of the 2001 Milken National Educator Award, 2005 Outstanding Biology Teacher Award for Indiana, and 2009 Butler University Distinguished Alumni Award and has served as the Brebeuf Jesuit Science Department Chairperson as well as President of both the Hoosier Association of Science Teachers, Inc., and Indiana Association of Biology Teachers.</p>
+		<p>As a highly active teaching professional, she attended the 2011 and 2012 BioBuilder Workshops at MIT and co-hosted a 2012 BioBuilder workshop at Purdue University. Sherry earned a B.S. in Biological Sciences and Biology/Chemistry Secondary Education from Purdue University and a M.S. in Effective Teaching from Butler University.</p>
+		</div>
+<div class="members">
+		<p><strong>Isadora Deese</strong> is a freelance writer and editor, an administrative assistant at MIT, and mother of three. She helped coordinate some of the first iGEM competitions at MIT, and co-wrote Adventures in Synthetic Biology with Drew Endy and the Synthetic Biology Working Group, illustrated by Chuck Wadey. Past projects have been with SynBERC, BioBuilder, MIT Press, WHO, and the Los Angeles Police Protective League.</p>
+		<p>Isadora received her Masters in Creative Writing from Boston University&#8217;s Playwriting Program. She is a represented screenwriter with over twelve years of experience in pre-production, and she believes there is great opportunity for engaging the public in meaningful thought on new technologies through movies, comics, and graphic novels.</p>
+		</div>
+		
+		<div class="members">
+		<figure class="float-l"><img src="http://biobuilder.org/wp-content/uploads/2013/11/Karen-Katz.jpg" alt="Karen Katz, BioBuilder board member" /></a>
+
+
+</figure>
+		<p><strong>Karen Katz</strong> is the regional manager of the Venture Pipeline group, a DLA Piper business unit specifically focused on enhancing the funding prospects of early stage ventures. Led by business professionals with experience in technology, startups and capital markets, the Venture Pipeline actively advises on strategic business issues that are critical to funding. Ms. Katz works directly with the Corporate and Securities practice group and with the global investment community, leveraging DLA Piper’s experience in the emerging growth and venture capital sectors while screening and scrubbing deal flow to match investors&#8217; specific needs with appropriately targeted funding sources.</p>
+		<p>Ms. Katz has advised hundreds of emerging growth companies on various aspects of their business plans, including management and recruiting issues, market development, strategic partnerships and financing strategies. She has helped more than 50 firms raise capital through DLA Piper&#8217;s collective global network of angel, venture, institutional and strategic investors.</p> 
+		</div>
+
+		<div class="members">
+		<figure class="float-r"><img src="http://biobuilder.org/wp-content/uploads/2013/11/Rebecca-Millman.jpg" alt="Rebecca Millman, BioBuilder board member" /></figure>
+		<p><strong>Rebecca Millman</strong> is a Marketing and Sales Knowledge Expert in McKinsey’s Boston office. She focuses on marketing and sales in today’s digital world with specific emphasis on: digital business growth strategy, multichannel strategy, organizing for digital, ROI optimization, digital insight and analytics, and capability building.</p>
+		<p>Rebecca also serves as the global Practice Manager for the Digital Marketing and Sales Practice, and is responsible for helping guide the development of McKinsey knowledge base and IP in this area across the Americas, Europe, and Asia. Rebecca graduated from Harvard in Special Concentrations and holds an MBA from the Tuck School of Business at Dartmouth, where she was a Tuck Scholar. She is an avid skier and youth ski coach.</p> 
+		</div>
+
+
+<h2>Advisory Board</h2>
+		<div class="members">
+		<p><strong>Gayle Allen</strong>, Ed.D., MBA, is currently the Chief Learning Officer and Director of BrightBytes Labs at BrightBytes, an educational software company in San Francisco. She has 15 years of experience as a teacher, school leader, and entrepreneur in the field of education. Gayle is the founder of two professional development institutes, including the McCord Grauer Center for Excellence in Teaching, and she is the former Associate Head of two independent schools. She earned her Ed.D. from Teachers College, Columbia University, where she focused her research on teachers’ experiences with web 2.0 technologies and where she also served as an adjunct professor. Gayle also earned her MBA from MIT’s Sloan Fellows Program in Innovation and Global Leadership.</p>
+		</div>
+
+		<div class="members">
+		<p><strong>David Birnbach</strong> is a mentor in MIT’s Venture Mentoring Service and former CEO of a leading mobile technology firm. A strong advocate for education, David is a three-term member of the School Board in Andover, Massachusetts and a member of MIT Sloan School of Management&#8217;s executive education assessment committee. David holds an M.S. from MIT’s Sloan School and a B.S. in Mathematics from University of Arizona.</p> 
+		</div>
+		
+		<div class="members">
+		<p><strong>Drew Endy</strong>, PhD, is an Assistant Professor of bioengineering at Stanford University, CA. Drew’s work in synthetic biology aims to engineer biology through the use of standardized biological components, devices, and parts. He is one of several founders of the Registry of Standard Biological Parts. He invented an abstraction hierarchy for integrated genetic systems, and, as President of the Biobricks Foundation, he works to unburden the ownership and sharing framework around biology. 
+	</div>
+
+		<div class="members">
+		<p><strong>Donald Shobrys</strong> has a career centered on helping people make better decisions more rapidly, with a particular focus on managing the supply chain of manufacturing companies. He has engineering degrees from MIT and Northwestern and a PhD in Operations Research from Johns Hopkins. His career started at Exxon.</p> 
+		</div>
+	
+		</article>
+
+				
+
+			
+</section><!--mainContent-->  
+</div><!--wrapper-->
+
+<footer>
+<div class="float-l"><p>&copy; 2015 BioBuilder. All Rights Reserved. &nbsp;  <strong>BioBuilder Educational Foundation</strong> &nbsp;  77 Mass Ave, 16-325, Cambridge, MA 02139 &nbsp; &nbsp; <a href="mailto:
+&#105;&#110;&#102;&#111;&#064;&#098;&#105;&#111;&#098;&#117;&#105;&#108;&#100;&#101;&#114;&#046;&#111;&#114;&#103;"><img src="http://biobuilder.org/wp-content/themes/BioBuilder/i/email.png" alt="email icon" /> Email BioBuilder</a></p></div>
+<div class="float-r"><p>Design: <a href="http://visual-velocity.com">Visual Velocity</a></p></div>
+</footer>
+
+<!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 1-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $(".lbp_primary").each(function(){
+    $(this).colorbox({rel:$(this).attr("data-lightboxplus"),speed:400,initialWidth:false,initialHeight:false,opacity:0.75,scrolling:false,top:"20%"});
+  });
+  $(".lbp_secondary").each(function(){
+    $(this).colorbox({rel:$(this).attr("data-lightboxplus"),speed:400,width:"480",height:"360",innerWidth:"50%",innerHeight:"50%",initialWidth:"30%",initialHeight:"40%",maxWidth:"90%",maxHeight:"90%",opacity:0.75,iframe:true});
+  });
+  $(".lbp-inline-link-1").colorbox({transition:"elastic", speed:"300", width:"350px", height:"320px", innerWidth:false, innerHeight:false, maxWidth:"80%", maxHeight:"80%", top:false, right:false, bottom:false, left:false, fixed:false, open:false, opacity:"0.8", inline:true, href:"#lbp-inline-href-1"});
+  $(".lbp-inline-link-2").colorbox({transition:"elastic", speed:"300", width:"80%", height:"80%", innerWidth:false, innerHeight:false, maxWidth:"80%", maxHeight:"80%", top:false, right:false, bottom:false, left:false, fixed:false, open:false, opacity:"0.8", inline:true, href:"#lbp-inline-href-2"});
+  $(".lbp-inline-link-3").colorbox({transition:"elastic", speed:"300", width:"80%", height:"80%", innerWidth:false, innerHeight:false, maxWidth:"80%", maxHeight:"80%", top:false, right:false, bottom:false, left:false, fixed:false, open:false, opacity:"0.8", inline:true, href:"#lbp-inline-href-3"});
+  $(".lbp-inline-link-4").colorbox({transition:"elastic", speed:"300", width:"80%", height:"80%", innerWidth:false, innerHeight:false, maxWidth:"80%", maxHeight:"80%", top:false, right:false, bottom:false, left:false, fixed:false, open:false, opacity:"0.8", inline:true, href:"#lbp-inline-href-4"});
+  $(".lbp-inline-link-5").colorbox({transition:"elastic", speed:"300", width:"80%", height:"80%", innerWidth:false, innerHeight:false, maxWidth:"80%", maxHeight:"80%", top:false, right:false, bottom:false, left:false, fixed:false, open:false, opacity:"0.8", inline:true, href:"#lbp-inline-href-5"});
+});
+</script>
+<script type='text/javascript' src='http://biobuilder.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='http://biobuilder.org/wp-content/plugins/lightbox-plus/css/fancypants/helper.min.js?ver=2.7.2'></script>
+  
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46213779-1', 'biobuilder.org');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+</html>

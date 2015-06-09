@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+
+
+<head>
+<title>Synthetic Biology Institute at UC Berkeley - Home</title>
+
+
+ 
+<base href="http://synbio.berkeley.edu/" />
+<meta name="Generator" content="CMS Made Simple - Copyright (C) 2004-9 Ted Kulp. All rights reserved." />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ 
+
+
+ <link rel="stylesheet" type="text/css" href="http://synbio.berkeley.edu/tmp/cache/stylesheet_combined_9062b3fff116e06079bfe54e11c1b751.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="http://synbio.berkeley.edu/tmp/cache/stylesheet_combined_12becbe786f76033e350a962110e1b4e.css" media="print" />
+<link rel="stylesheet" type="text/css" href="http://synbio.berkeley.edu/tmp/cache/stylesheet_combined_c787e164b07316d11c1b9e940fe615f6.css" media="all" />
+<link rel="stylesheet" type="text/css" href="http://synbio.berkeley.edu/tmp/cache/stylesheet_combined_84f89c9ab4e07b78cd6afcf392e83cf2.css" />
+
+
+
+ <link rel="start" title="Home Page, shortcut key=1" href="http://synbio.berkeley.edu/" />
+ 
+ <link rel="next" title="About Us" href="http://synbio.berkeley.edu/index.php?page=about-us" />
+
+
+
+ 
+<script type="text/JavaScript">
+<!--
+//pass min and max - measured against window width
+function P7_MinMaxW(a,b){
+var nw="auto",w=document.documentElement.clientWidth;
+if(w>=b){nw=b+"px";}if(w<=a){nw=a+"px";}return nw;
+}
+//-->
+</script>
+    <!--[if lte IE 6]>
+    <style type="text/css">
+    #pagewrapper {width:expression(P7_MinMaxW(923,923));}
+    #container {height: 1%;}
+    </style>
+    <![endif]-->
+    
+
+
+    <!--[if lte IE 6]>
+    <script type="text/javascript" src="modules/MenuManager/CSSMenu.js"></script>
+    <![endif]--> 
+
+
+  </head>  <body>
+  
+<!-- Save for Web Slices (sub2.psd) -->
+<div id="outerWrapper">
+<div id="mainWrapper">
+	<div id="header"><img src="images/header.jpg" width="923" height="106" alt=""></div>
+	<div id="leftCol">
+    <div id="menuborderleft">
+    <div id="menuwrapper">
+    
+            <h2 class="accessibility">Navigation</h2>
+            
+
+<div id="menuwrapper">
+<ul id="primary-nav">
+
+        <li class="menuactive"><a class="menuactive" 
+
+ href="http://synbio.berkeley.edu/"><span>Home</span></a>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=about-us"><span>About Us</span></a>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=research-themes"><span>Research Themes</span></a>
+</li>
+
+  <li class="menuparent"><a class="menuparent" 
+
+ href="http://synbio.berkeley.edu/index.php?page=people"><span>People</span></a>
+<ul class="unli">
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=leadership"><span>Leadership</span></a>
+</li></ul>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=alias-2"><span>Industry</span></a>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=partners"><span>Partners</span></a>
+</li>
+
+  <li class="menuparent"><a class="menuparent" 
+
+ href="http://synbio.berkeley.edu/index.php?page=news-events"><span>News &amp; Events</span></a>
+<ul class="unli">
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=bio-based-future"><span>A Bio-Based Future</span></a>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=sbi-forum"><span>2010 SBI forum</span></a>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=sbi-launch"><span>New SynBio Institute</span></a>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=news-archive"><span>News Archive</span></a>
+</li></ul>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=contact-us"><span>Contact Us</span></a>
+</li>
+
+  <li>
+  <a 
+
+ href="http://synbio.berkeley.edu/index.php?page=enews"><span>Sign up for E-News</span></a>
+
+</li>
+</ul>
+<div class="clearb"></div>
+</div>
+
+
+            <hr class="accessibility" />
+
+</div>
+      <div class="clearb"></div>
+</div>
+
+      <div id="search"><div id="searchborder"><form id="cntnt01moduleform_1" method="get" action="http://synbio.berkeley.edu/" class="cms_form">
+<div class="hidden">
+<input type="hidden" name="mact" value="Search,cntnt01,dosearch,0" />
+<input type="hidden" name="cntnt01returnid" value="15" />
+</div>
+
+
+<input type="text" class="search-input" id="cntnt01searchinput" name="cntnt01searchinput" size="20" maxlength="50" value="Enter Search..." onfocus="if(this.value==this.defaultValue) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;"/>
+<input type="image" name="submit" src="images/btn-search.jpg" width="25" height="25" value="Submit" type="submit" id="submitbutton" />
+
+</form>
+</div></div>
+<br /><br /><br />
+<div align="center">
+<img src="uploads/images/seal.png" width="100" height="100" alt="UC Berkeley Seal">
+</div>
+
+    </div>
+    <div id="contentwrapper">
+	<div id="sub-img">
+		<img src="uploads/images/sub-header.jpg" alt="" width="711" height="197" />  </div>
+	<div id="subContent"><div id="lcolcontent"><div id="lcolcontentwrapper">
+	 <h1>The Synthetic Biology Institute at UC Berkeley (SBI)</h1>
+<p class="opening">is working to make the engineering of new complex function in cells vastly more efficient, reliable, predictable, and safe. Its breakthroughs will speed the development of biologically engineered solutions to pressing global problems related to health, materials, energy, environment, and security.<br /> <a href="http://synbio.berkeley.edu/index.php?page=about-us">Read more</a> <img src="uploads/images/linkarrow.jpg" alt="" width="11" height="11" /></p>
+<h1>Recent News</h1>
+<h1>SBI in the News</h1>
+<h3><a title="lawrence award" href="http://newscenter.lbl.gov/news-releases/2014/04/16/adam-arkin-wins-2013-lawrence-award/">Arkin receives Ernest Orlando Lawrence Award</a><br />LBNL | 4.16.14 </h3>
+<p>SBI Director Adam Arkin has been named one of six recipients of the 2013 Ernest Orlando Lawrence Award by U.S. Energy Secretary Ernest Moniz. The E.O. Lawrence Award, the Department of Energy (DOE)’s highest scientific honor, is recognizing Arkin “for his work advancing biological and environmental sciences." <a title="lawrence award" href="http://newscenter.lbl.gov/news-releases/2014/04/16/adam-arkin-wins-2013-lawrence-award/">More &gt;</a></p>
+<h3><a title="CEN Tullman" href="http://cen.acs.org/articles/91/web/2013/09/Helping-Bacteria-Tolerate-Biofuels.html">Tullman-Ercek engineers bacteria that pump out butanol</a><br />C&amp;EN | 9.17.2013</h3>
+<p>CBE professor Danielle Tullman-Ercek has used directed evolution to develop a strain of E. Coli that can pump out butanol, increasing its potential as a biofuel factory. <a title="CEN Tullman" href="http://cen.acs.org/articles/91/web/2013/09/Helping-Bacteria-Tolerate-Biofuels.html">More &gt;</a></p>
+<h3><a title="Science Chang" href="http://www.sciencemag.org/content/341/6150/1052.1.full">Science magazine touts breakthrough from Michelle Chang lab</a><br />Science | 9.6.2013</h3>
+<p>Berkeley chemist Michelle Chang and co-workers engineered E. coli bacteria to make fluorine-containing compounds that can serve as the starting point for powerful new therapeutics. <a title="Science Chang" href="http://www.sciencemag.org/content/341/6150/1052.1.full">More &gt;</a></p>
+<h3><a title="arkin microbiology" href="http://newscenter.lbl.gov/feature-stories/2013/06/19/expressly-unfit-for-the-laboratory/">Expressly unfit for the laboratory</a><br />LBNL | 6.19.2013</h3>
+<p>A new study by Adam Arkin and  his colleagues challenges the orthodoxy of microbiology, which holds  that in response to environmental changes, bacterial genes will boost  production of needed proteins and decrease production of those that  aren’t. The study found that for bacteria in the laboratory there was  little evidence of adaptive genetic response. <a title="arkin microbiology" href="http://newscenter.lbl.gov/feature-stories/2013/06/19/expressly-unfit-for-the-laboratory/">More &gt;</a></p>
+<h3><img src="uploads/images/CLARK.jpg" alt="" align="right" border="1" /><a title="Doug Clark Dean" href="http://chemistry.berkeley.edu/publications/news/2013/clark_tapped_to_be_chemistry_dean.php">SBI's Doug Clark name dean of UC Berkeley's College of Chemistry</a><br />College of Chemistry News | 5.9.13</h3>
+<p>SBI co-director Douglas S. Clark, a pioneering researcher in the field of biochemical engineering, has been named dean of UC Berkeley's College of Chemistry, effective July 1, 2013, pending formal approval by the UC Regents. Clark, professor and chair of the Department of Chemical and Biomolecular Engineering, succeeds Richard A. Mathies, who is also an SBI faculty member. <a title="Doug Clark Dean" href="http://chemistry.berkeley.edu/publications/news/2013/clark_tapped_to_be_chemistry_dean.php">More&gt;</a></p>
+<h3><a title="synberc biofab" href="http://synberc.org/bootstrapping-biotechnology">Synthetic biologists standardize genetic parts to engineer cells</a><br />SynBERC| 3.12.2013</h3>
+<p>A team of scientists has produced high-quality standardized biological parts that can be mixed and matched by biotech researchers creating new drugs, fuels or chemicals. The DNA sequences that encode all the parts are free and available online. The project, detailed in three research papers, is the work of researchers at the International Open Facility Advancing Biotechnology (BIOFAB), a collaboration led by UC Berkeley and Stanford University and funded by the National Science Foundation. <a title="synberc biofab" href="http://synberc.org/bootstrapping-biotechnology">More&gt;</a></p>
+<h3><a title="R&amp;D Magazine" href="http://www.rdmag.com/news/2013/02/scientists-engineer-bacterial-live-wires">Scientists engineer bacterial live wires</a><br />R&amp;D Magazine Online | 2.28.2013</h3>
+<p>Just like electronics, living cells use electrons for energy and information transfer, but living cells cannot "speak" to our technological world. Important new advances in understanding cellular-electrode communication have been made by a team led by SBI's Caroline Ajo-Franklin, a synthetic biologist at LBNL. <a title="r&amp;d magazine" href="http://www.rdmag.com/news/2013/02/scientists-engineer-bacterial-live-wires"><strong>More&gt;</strong></a></p>
+<h3><a title="Mercury News" href="http://www.mercurynews.com/breaking-news/ci_22602860/synthetic-biology-stanford-uc-berkeley-engineering-new-frontier">Synthetic biology: Stanford, UC Berkeley engineering a new frontier</a><br />Silicon Valley Mercury News.com | 2.17.2013</h3>
+<p>One gene at a time, elite teams of Bay Area synthetic biologists are striving to design and build organisms unlike anything made by Mother Nature. Synthetic biology works because biological creatures are, in essence, programmable manufacturing systems. The DNA instruction manual buried inside every cell -- its software, in a sense -- can be replaced with a man-made version, giving us the ability to tell it what to make. <a title="Mercury News" href="http://www.mercurynews.com/breaking-news/ci_22602860/synthetic-biology-stanford-uc-berkeley-engineering-new-frontier">More&gt;</a></p>
+<h3><a title="UC Berkeley NewsCenter" href="http://newscenter.berkeley.edu/2013/01/07/cheap-and-easy-technique-to-snip-dna-could-revolutionize-gene-therapy/">Cheap and easy technique to snip DNA could revolutionize gene therapy</a><br />UC Berkeley NewsCenter | 1.7.2013</h3>
+<p>A simple, precise and inexpensive method for cutting DNA to insert genes into human cells could transform genetic medicine, making routine what now are expensive, complicated and rare procedures for replacing defective genes in order to fix genetic disease or even cure AIDS. SBI's Jennifer Doudna, one of two UC Berkeley professors who discovered the new method, said it is will remove a huge bottleneck in both research and the development of human therapeutics. <a title="UC Berkeley NewsCenter" href="http://newscenter.berkeley.edu/2013/01/07/cheap-and-easy-technique-to-snip-dna-could-revolutionize-gene-therapy/">More&gt;</a></p>
+<h3><a href="http://www.buzzfeed.com/atmccann/how-to-code-a-life">How to Code a Life</a><br />BuzzFeed | 11.19.2012</h3>
+<p>Synthetic biology, the newer, cooler branch of genetic engineering, still struggles in one key area where the software industry excels: open access to information. A more open-source model within synthetic biology could expedite the experimentation process, allowing researchers to focus on the engineering aspects and not time-consuming DNA synthesis. <a href="http://www.buzzfeed.com/atmccann/how-to-code-a-life">More &gt;</a></p>
+<h3><a href="http://newscenter.lbl.gov/feature-stories/2012/11/12/a-better-route-to-xylan/">A Better Route to Xylan</a><br />LBNL News Center | 11.12.2012</h3>
+<p>After cellulose, xylan is the most abundant biomass material on Earth, representing an enormous potential source of stored solar energy for the production of advance biofuels. A major roadblock, however, has been extracting xylan from plant cell walls. Researchers with the Joint BioEnergy Institute -- including SBI's Henrik Scheller -- taken a significant step toward removing this roadblock. <a href="http://newscenter.lbl.gov/feature-stories/2012/11/12/a-better-route-to-xylan/">More&gt;</a></p>
+<h3><a href="http://newscenter.lbl.gov/feature-stories/2012/10/23/par-par/">Training Your Robot the PaR-PaR Way</a><br />LBNL News Center | 10.23.2012</h3>
+<p>Teaching a robot a new trick is a challenge. For researchers in the biological sciences, however, the future training of robots has been made much easier thanks to a new program called “PaR-PaR.” SBI's Nathan Hillson, a biochemist at the Joint BioEnergy Institute, led the development of PaR-PaR, which stands for Programming a Robot. <a href="http://newscenter.lbl.gov/feature-stories/2012/10/23/par-par/">More&gt;</a></p>
+<h3><a href="http://qb3.berkeley.edu/qb3/news/news12/news-12-10-18.cfm">Berkeley iGEM Team Wins Regional Jamboree on Its Way to World Championship</a><br />QB3 Berkeley News | 10.4.2012</h3>
+<p>The UC Berkeley team for the International Genetically Engineered Machine competition (iGEM) -- the premiere undergraduate synthetic biology competition -- won first place and the best presentation award at the Americas West Regional Jamboree, ensuring their participation at the World Championships at MIT in November. SBI is among the team's supporters. <a href="http://qb3.berkeley.edu/qb3/news/news12/news-12-10-18.cfm">More&gt;</a></p>
+<h3><a href="http://www.sciencedaily.com/releases/2012/10/121009112427.htm"><strong>New Tool for Making Genetic Engineering of Microbial Circuits Reliably Predictable<br /></strong></a>Science Daily | 10.8.12</h3>
+<p>For synthetic biology to reach its promise, the design and construction of biological systems must be as predictable as the assembly of computer hardware. An important step has been taken SBI director Adam Arkin and a team of researchers who have developed an "adaptor" that makes the genetic engineering of microbial components easier and more predictable by converting regulators of translation into regulators of transcription. <a href="http://www.sciencedaily.com/releases/2012/10/121009112427.htm">More&gt;</a></p>
+<h3><a title="JBEI startup" href="http://newscenter.lbl.gov/feature-stories/2012/10/01/jbei-teselagen/">JBEI Startup to Speed Up Biotech Industry</a><br />Berkeley Lab News Center | 10.1.2012</h3>
+<p>Sequencing, splicing and expressing DNA may seem to be the quintessence of cutting-edge science, but the actual process can be tedious and labor-intensive. SBI and Berkeley Lab scientist Nathan Hillson and two partners aim to make genetic engineering cheaper and faster through a startup that is building on j5 software for DNA construction. "It's like AutoCAD for biology," says one partner. <a title="JBEI startup" href="http://newscenter.lbl.gov/feature-stories/2012/10/01/jbei-teselagen/">More &gt;</a></p>
+<h3 class="post-title entry-title"><a title="innovation pipeline" href="http://www.sfgate.com/science/article/Berkeley-scientist-wins-250-000-prize-3861384.php">SBI's Jay Keasling wins Heinz Award</a><br /> San Francisco Chronicle | 9.12.12</h3>
+<p class="post-title entry-title">One of four $250,000 Heinz Awards for 2012 has been awarded to Jay Keasling for his work in engineering a synthetic form of the malaria drug artemisinin. <a title="innovation pipeline" href="http://www.sfgate.com/science/article/Berkeley-scientist-wins-250-000-prize-3861384.php">More &gt;</a></p>
+<h3 class="post-title entry-title"><a title="innovation pipeline" href="http://www.ibtimes.com/articles/377388/20120825/synthetic-biology-bioengineering-gm.htm">Synthetic Biology Aims To Turn Cells Into Chemists</a><br />International Business Times | 8.25.2012</h3>
+<p class="post-title entry-title">Synthetic biologists see a future in which specially designed DNA sequences, proteins and cells will do the work of creating compounds, elements and biological materials, helping us treat disease -- and possibly even establish colonies on other planets. <a title="innovation pipeline" href="http://www.ibtimes.com/articles/377388/20120825/synthetic-biology-bioengineering-gm.htm">More &gt;</a></p>    </div>
+    </div>
+	<div id="rcolcontent"><div id="rcolcontentwrapper">
+	  <h1>Coming Events</h1>
+<h3>SynBio Supergroup</h3>
+<p><strong>Next meeting:</strong></p>
+<p>Wednesday, Sept 11th in 115 EBB</p>
+<p>Avi Flamholz<br />Molecular &amp; Cell Biology<br />"Glycolytic strategy as a tradeoff between energy yield and protein cost".</p>
+<p>Pizza, beer and non-alcoholic beverages will be provided starting at 5:30pm, and the talk will promptly begin at 6:00pm.</p>
+<p>Sponsored by the California Institute for Quantitative Biosciences (QB3), the Synthetic Biology Engineering Research Center (SynBERC), and the Synthetic Biology Institute (SBI).</p>
+<h3>Science at the Theater - September 23, 2013<br />7:00 - 9:00 PM<br />Berkeley Repertory Theater </h3>
+<p>New Biology: New World?</p>
+<p>SBI's Adam Arkin speaks with synthetic biologist Jay Keasling and other leading researchers about the coming new era of biology. Learn more at <a title="New Biology New World" href="http://www.lbl.gov/LBL-PID/fobl/index.html">Friends of Berkeley La</a>b. </p>
+<p><strong><br /></strong></p>    </div>
+    </div>
+    <div id="clearfloat"></div>
+	</div>
+    </div>
+    <div id="clearfloat"></div>
+</div>
+</div>
+<!-- End Save for Web Slices -->
+	<div id="subFooter">
+    <div id="footerWrapper">
+<div id="footerLeft">
+<p>© 2015 - University of California, Berkeley</p>
+</div>
+<div id="footerRight">
+<p><a href="http://synbio.berkeley.edu/index.php?page=site-map">site map</a> | <a href="http://synbio.berkeley.edu/index.php?page=contact-us">contact us</a></p>
+</div>
+    <div id="clearfloat"></div>
+    </div>
+	</div>
+
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3436761-2']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+<script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3640121-2']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+
+  </body>
+</html>

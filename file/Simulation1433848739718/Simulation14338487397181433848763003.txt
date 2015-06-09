@@ -1,0 +1,1114 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>International Synthetic and Systems Biology Summer School</title>
+<meta name="description" content="International Synthetic Biology Systems Biology  Summer School  Meeting Courses Workshop 2014">
+<meta name="Keywords" CONTENT="Synthetic Biology, Systems Biology, Designing Genomes, Designing Pathways, Genome Engineering, Bio CAD">
+<meta name="author" content="DiGi Apps">
+<meta name="viewport" content="width=device-width">
+
+<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
+<link rel="stylesheet" type="text/css" href="css/uploadifive.css">
+<link rel="stylesheet" type="text/css" href="css/flexslider.css">
+<link rel="stylesheet" href="css/normalize.css">
+<link rel="stylesheet" href="css/main.css">
+<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5462373-2', 'taosciences.it');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+</head>
+<body id="home">
+<!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+<!-- Add your site or application content here -->
+<header>
+	<div class="container">
+		<nav>
+			<ul id="main_menu">
+				<li><a href="">Home</a>
+				</li>
+				<li><a href="">Speakers</a>
+				</li>
+				<li><a href="">Directors</a>
+				</li>
+				<li><a href="">Deadlines</a>
+				</li>
+			<!--	<li><a href="">Application Info</a>
+				</li>   -->
+				<li><a href="">Application Form</a>
+				</li>
+				<li><a href="">Poster and Abstract Submission</a>
+				</li>
+				<li><a href="">Venue and Accommodation</a>
+				</li>
+				<li><a href="">Contacts</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+</header>
+
+<div class="main_section">
+	<div class="container">
+	 <tr> 
+          <td>
+          <div align="left">
+           </div>
+	 </td>
+         </tr>
+	 
+	 
+		<h1>International Synthetic and Systems Biology   Summer School</h1>
+		<h2>Biology meets Engineering and Computer Science</h2>
+		<div style="text-align:center; margin-bottom:10px">    
+		<h3>15 - 19 June 2014, Taormina - Sicily,  Italy</h3>
+		
+		<a href="http://www.taosciences.it/ssbss2015/">NEW! SSBSS 2015: Synthetic and Systems Biology Summer School, Taormina, Italy July 5-9, 2015</a>
+		
+		
+		</div>
+		<div class="flexslider">
+			<ul class="slides">
+				<li>
+					<img src="img/slider/1.jpg" width="980" height="250">
+				</li>
+				<li>
+					<img src="img/slider/3.jpg" width="980" height="250">
+				</li>
+				<li>
+					<img src="img/slider/5.jpg" width="980" height="250">
+				</li>
+				<li>
+					<img src="img/slider/7.jpg" width="980" height="250">
+				</li>
+			</ul>
+		</div>
+		<section class="main">
+<!--			<div class="full">
+				<blockquote>We decided to launch the International Digital Commerce Summer School because we feel that, especially in Europe, there is still quite a distance between technology specialists such as our own Ph.D students and the business needs of the market. We confronted with several business people and them too told us that many executives sometimes have a scared approach to technology. Hence we leveraged both our long experience in managing schools in technical disciplines and our international network of business leaders to create what is, as far as we know, the first technology school for business understanding. And we chose Taormina in September: a wonderful mediterranean spot."
+					<br>
+					Professor Giuseppe Nicosia - University of Catania</blockquote>
+			</div>   -->
+			<div class="clearfix"></div>
+			<div class="half">
+				<p> Recent advances in DNA synthesis have increased our ability to build biological systems. <i>Synthetic Biology</i> aims at streamlining the design and synthesis of robust and predictable biological systems using engineering design principles. Designing biological systems requires a deep understanding of how genes and proteins are organized and interact in living cells: <i>Systems Biology</i> aims at elucidating the cellular organization at gene, protein and network level using computational and biochemical methods.</p>			
+				</div>
+			<div class="half last">
+				<p>The Synthetic and Systems Biology Summer School (SSBSS) is a full-immersion course on cutting-edge advances in systems and synthetic biology with lectures delivered by world-renowned experts. The school provides a stimulating environment for doctoral students, early career researches and industry leaders. Participants will also have the chance to present their results, and to interact with their peers, in a friendly and constructive environment.</p>
+			</div>
+			<div class="clearfix"></div>
+			
+			<div style="text-align:center; margin-bottom:10px">
+	                  <h3>Sponsored by Autodesk, Leonardo Design Systems, Life Technologies, Novozymes.</h3> 
+			</div>
+			
+			<br>
+			
+			<h3>News:</h3>
+			
+			<ul>
+			
+			
+			
+			<li>June 23, 2014: <a href="http://www.taosciences.it/ssbss2015/">We are pleased to announce the  2nd edition of the SSBSS International Summer School: Synthetic and Systems Biology Summer
+     School - SSBSS 2015, Taormina, Italy July 5-9, 2015</a>.</li>
+			
+			<br>
+			
+			<li>June 15, 2014:  <a href="ssbss-2014-abstracts.pdf">Book of Abstracts of the  Summer School - June 2</a>.</li>
+			
+			<br>
+			
+			<li>June 15, 2014:  <a href="SSBSS-2014-Program-June-14.pdf">Program of the  Summer School - June 15</a>.</li>
+			
+			<br>
+			
+			
+			<li>April 15, 2014: Industrial Panel:
+			<ul>
+			<li><i>Michael Liss<i>, <b>Thermo Fisher - Life Technologies, USA</b>
+			<li><i>Carlos Olguin</i>, <b>Autodesk Inc., USA</b>
+			</ul>
+			
+			<br>
+			
+			<li>April 11, 2014: <b>Satellite Meeting:<br>
+			 <a href="https://www.eventbrite.com/e/3rd-international-synthetic-yeast-genome-sc20-meeting-tickets-11284703853#" target="_blank"> 3rd International Synthetic Yeast Genome (Sc2.0) Meeting, Friday, June 20, 2014</a>  - <i>Jef D. Boeke, Giuseppe Nicosia and Giovanni Stracquadanio</i>. <br>The Synthetic Yeast Genome Project (Sc2.0) is synthesizing and constructing a modified version of the S. Cerevisiae genome to test biological questions and give new functions. For this one day meeting we will be bringing those around the world involved in the Sc2.0 project together in beautiful Taormina to discuss progress on the synthetic S. cerevisiae genome and opportunities to use the strains and tools of the project. Related topics in synthetic and systems biology will also be discussed.  This meeting is open to all interested in Sc2.0 and we encourage you (and your colleagues) to register if you'd like to attend.</b></li>
+			
+			<br>
+			
+			<li>April 3, 2014: <b>The Summer School will start June 15th at 9:00am  and it will end June 19th at 20:00.</b></li>
+			
+			<br>
+			
+			<li>March 31, 2014: <b>We are pleased to inform that we received more than 200 applications! We thank all the applicants for their interest in the school, and we are looking forward to see you in Taormina!</b></li>
+			
+			<br>
+			
+			<li>March 27, 2014: <a href="http://www.sciencemag.org/content/early/2014/03/26/science.1249252" target="_blank">Scientists build First Synthetic Yeast Chromosome (Science Vol. 344 no. 6179 pp. 55-58), Synthetic Yeast researchers, Jef Boeke & Joel Bader, will be lecturing at SSBSS2014</a></li>
+			
+			<br>
+			
+			<li>March 11, 2014: <b>Workshop on "Biosensors and Synthetic Circuits in Mammalian Cells" by Velia Siciliano and Liliana Wroblewska  MIT, USA.</b></li>
+			
+			<br>
+			
+			<li>February 19, 2014: New Speaker!     <a href="http://www.bme.jhu.edu/people/primary.php?id=383" target="_blank">Joel Bader, Johns Hopkins University, USA</a></li>
+			
+			
+			<br>
+			
+			<li>
+			February 15, 2014: For the applications received from February 16 to March 31 the organizing committee will send the corresponding notification by April 10. Applicants that need a early notification (e.g., for travel grant applications) must contact the SSBSS 2014 Organizing Committee via email: ssbss2014@dmi.unict.it
+			</li>
+			
+			<br>
+			
+			<li>
+			February 15, 2014: To the 123 applicants that submitted the application form by February 15th, the organizing committee will send the notification by March 1st (as reported in the first call for participation). 
+			</li>
+			
+			
+			<br>
+			
+			<li>
+			February 15, 2014: <b>We are pleased to inform that we received more than 120 applications and, due to many requests, we are extending the application deadline to March 31, 2014.  For this reason, we will have up to  &#126;150 slots for selected and motivated students. We thank all the applicants for their interest in the school, and we are looking forward to see you in Taormina!</b>
+			</li>
+			
+			<br>
+			
+			<li>
+			February 15, 2014:  <b>We received more than 120 applications and 50 abstracts/posters. We thank you very much all the applicants and presenters for this great participation to the SSBSS 2014! </b>
+			</li>
+			
+			<br>
+			
+			<li> 
+			January 30, 2014: <b>Reduced registration fees thanks to the generous support of our sponsors. </b> 
+			</li>
+			
+			<br>
+			
+			<li> 
+			December 29, 2013:  <b>Co-located Event: The 3rd International Synthetic Yeast Genome (Sc2.0)  Meeting  will be held in Taormina Friday June 20, 2014 from 9:00 AM to 8:00 PM.<br>
+			Previous edition: <a href="http://www.eventbrite.com/e/the-2nd-international-synthetic-yeast-genome-sc20-consortium-meeting-tickets-5832325643" target="_blank">The 2nd International Synthetic Yeast Genome (Sc2.0) Consortium Meeting Johns Hopkins University and Imperial College London Friday, July 12, 2013 from 9:00 AM to 8:00 PM (GMT) London, United Kingdom</a>, co-located event at <a href="http://sb6.biobricks.org/" target="_blank">SB 6.0</a>.</b>
+			</li>
+			
+			
+			
+			
+			<div class="clearfix"></div>
+		</section>
+		<div id="intermediate"></div>
+		<section class="main" id="speakers">
+			<!-- <h2>Courses - TBA</h2> -->
+			<h2>List of Speakers</h2>
+			<div class="half">
+				<ul class="speakers">
+					
+							
+					<li><a href="http://www.weizmann.ac.il/mcb/UriAlon/" target="_blank">Uri Alon</a>, Weizmann Institute of Science, Israel </li>
+					
+					<li><a href="http://www.baderzone.org/" target="_blank">Joel Bader</a>, Johns Hopkins University, USA</li>
+					
+					<li><a href="http://www.bs.jhmi.edu/MBG/boekelab/" target="_blank">Jef Boeke</a>, Johns Hopkins University, USA</li>
+
+					<li><a href="http://www2.mrc-lmb.cam.ac.uk/ccsb/?page_id=20" target="_blank">Jason Chin</a>, MRC - Cambridge, UK</li>
+					
+					<li><a href="http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=p.freemont&_adf.ctrl-state=10268vqend_3&_afrRedirect=3559881719117928" target="_blank">Paul Freemont</a>,  Imperial College London, UK</li>
+					
+					<li><a href="http://isaacs.commons.yale.edu/" target="_blank">Farren Isaacs</a>, Yale University, USA</li>
+					
+					<li><a href="http://kortemmelab.ucsf.edu/index.html" target="_blank">Tanja Kortemme</a>, University of California San Francisco, USA </li>
+					
+					<li><a href="http://www.dmi.unict.it/nicosia/" target="_blank">Giuseppe Nicosia</a>, University of Catania, Italy</li> 
+					
+					<li><a href="http://www.silva.bsse.ethz.ch/bpl/people/panke" target="_blank">Sven Panke</a>,  ETH, Switzerland</li>
+					
+					<li><a href="http://www.rle.mit.edu/acbs/" target="_blank">Rahul Sarpeshkar</a>,  MIT, USA</li>
+					
+					<li>Velia Siciliano,  MIT, USA</li> 
+					
+					<li><a href="http://stracquadanio.me/" target="_blank">Giovanni Stracquadanio</a>,  Johns Hopkins University, USA</li>
+					
+					<li><a href="http://groups.csail.mit.edu/synbio/" target="_blank">Ron Weiss</a>,  MIT, USA</li>
+						
+					<li>Liliana Wroblewska,  MIT, USA</li>
+													
+					
+					<br>
+					
+					 <h3>Industrial Panel</h3>
+					<ul>
+					<li><i>Michael Liss<i>, <b>Thermo Fisher - Life Technologies, USA</b>
+					<li><i>Carlos Olguin</i>, <b>Autodesk Inc., USA</b>
+					</ul>
+
+					
+					
+					
+				</ul>
+			</div>
+			<div class="half last">
+				<ul class="speakers">
+					
+					
+					
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+			
+			<!--
+			 <div style="text-align:center; margin-bottom:10px"><i>Other speakers will be announced soon.</i></div>    
+  			-->
+			
+			<div style="text-align:center; margin-bottom:10px"><a href="SSBSS-2014-Program-June-14.pdf">Program of the  Summer School - June 15, 2014</a></div> 
+			
+			
+			
+			<h2>Courses </h2>
+		          <div class="half">
+				<ul class="abstracts">
+					<li>
+					
+						<div class="author"><a href="http://www.weizmann.ac.il/mcb/UriAlon/" target="_blank">Uri Alon</a>, Weizmann Institute of Science, Israel </div>
+						<ul>
+				        <li>
+				           <b>Lecture I: Elementary Circuits in Biology</b><br>	
+  				           <p>To understand biological systems, our lab has defined "network motifs": basic interaction patterns that recur throughout biological networks, much more often than expected at random. The same small set of network motifs appears to serve as the building blocks of the circuitry that processes information from bacteria to mammals. Specific network motifs may be universal building blocks of biological computation. We experimentally studied the function of each network motif in the bacterium E. coli using dynamic fluorescent measurements from living cells. Each network motifs can serve as an elementary circuit with a defined function: filters, pulse generators, response accelerators, temporal-pattern generators and more. Evolution seems to have rediscovered the same motifs again and again, perhaps because they are the simplest and most robust circuits that perform these information-processing functions.  </p>
+				       </li>
+				       <li>
+				           <b>Lecture II: Evolution and Optimality of Gene Circuits</b><br>	
+  				           <p>Organisms, tissues and molecules often need to perform multiple tasks. But usually no phenotype can be optimal at all tasks at once. This leads to a fundamental tradeoff. We study this using the concept of Pareto optimality from engineering and economics. Tradeoffs lead to an unexpected simplicity in the range of optimal phenotypes- they fall on low dimensional shapes in trait space such as lines, triangles and tetrahedrons. At the vertices of these polygons are phenotypes that specialize at a single task. We demonstrate this using data from animal and fossil morphology, bacterial gene expression and other biological systems. </p>
+				        </li>
+				     </ul>
+					</li>
+					
+					
+					
+					
+					<li>
+					
+						<div class="author"> <a href="http://www.baderzone.org/" target="_blank">Joel Bader</a>, Johns Hopkins University, USA </div>
+						<ul>
+				        <li>
+				           <b>Lecture  I: Network Remodeling during Development and Disease</b><br>	
+  				           <p>Biological networks change in response to genetic and environmental cues.  Changes are reflected in the abundances of biomolecules, the composition of protein complexes, and other descriptors of the biological state.  Methods to infer the dynamic state of a cell would have great value for understanding how cells change over time to accomplish biological goals.  We describe methods that predict the dynamic state of protein complexes in a cell, combining dynamic information from mRNA transcript profiling with underlying protein-protein interaction networks.</p>
+				       </li>
+				       <li>
+				           <b>Lecture  II : Gene and Pathway Analysis of Genome-wide Association Studies</b><br>	
+  				           <p>While most genome-wide association studies are based on analysis of individual variants, the causal variants often cluster in a small set of genes. We describe Bayesian methods that exploit gene-based and pathway-based clustering to improve the search for disease-related genetic variation.</p>
+				        </li>
+				     </ul>
+					</li>
+					
+					
+					
+					
+					
+					<li>
+					
+						<div class="author"><a href="http://www.bs.jhmi.edu/MBG/boekelab/" target="_blank">Jef Boeke</a>, Johns Hopkins University, USA</div>
+						<ul>
+				        <li>
+				           <b>Lecture I:  Genome Design and Synthesis</b><br>	
+  				           <p>Genome Design and Synthesis strategies vary considerable.  Most of the published work on genome synthesis involves resynthesis of the native or near-native genome of bacteria.  In this case, the design considerations are rather minimal and the major challenges involved have to do with design of an assembly strategy that is effective.  Hierarchical strategies involve going from 10s of bases in oligonucleotides up to several megabases of dsDNA.  A wide variety of methods have been described that can be used to assemble DNA and the details of these methods have significant impacts on speed of synthesis, cost of synthesis, and accuracy of synthesis.  Innovative methods have been described that operate at all different levels of the assembly hierarchy.
+
+When more radical designs that deviate from that of wild-type genomes are considered, appropriate design software tools are needed.  Our group has focused on genome editing software which takes advantage of well-developed browser platforms for visualizing genome features, and adapting them to genome editing.  A variety of design features were somewhat arbitrarily selected for incorporation into Sc 2.0, the synthetic yeast genome.  These, as well as possible future more aggressive designs under consideration will be discussed, as will interesting targets for future genome synthesis projects.
+</p>
+				       </li>
+				       <li>
+				           <b>Lecture II: Combinatorial DNA Assembly methods and their Applications</b><br>	
+  				           <p>A wide variety of pathways are available for engineering to make useful products or encode interesting behaviors in cells and organisms.   As more and more complex pathways and gene networks are discovered and dissected, more and more efficient means of assembling pathways are needed. Even more importantly, libraries of these, in which the promoter strength or host of origin for the coding sequences can be systematically varied are especially valuable.  Methodologies and strategies for accomplishing this are discussed, incorporating Golden Gate, MoClo, Gateway cloning, and combinations of such methods will be discussed.  Examples of pathway optimization will also be reviewed.</p>
+				        </li>
+				     </ul>
+					</li>
+					<li>
+					
+						<div class="author"><a href="http://www2.mrc-lmb.cam.ac.uk/ccsb/?page_id=20" target="_blank">Jason Chin</a>, MRC - Cambridge, UK</div>
+						<ul>
+				        <li>
+				           <b>Lecture I: Reprogramming the Genetic Code</b><br>	
+  				           <p>The information for synthesizing the molecules that allow organisms to survive and replicate is encoded in genomic DNA. In the cell, DNA is copied to messenger RNA, and triplet codons (64) in the messenger RNA are decoded - in the process of translation - to synthesize polymers of the natural 20 amino acids. This process (DNA RNA protein) describes the central dogma of molecular biology and is conserved in terrestrial life. We are interested in re-writing the central dogma to create organisms that synthesize proteins containing unnatural amino acids and polymers composed of monomer building blocks beyond the 20 natural amino acids. I will discuss our invention and synthetic evolution of new 'orthogonal' translational components (including ribosomes and aminoacyl-tRNA synthetases) to address the major challenges in re-writing the central dogma of biology. I will discuss the application of the approaches we have developed for incorporating unnatural amino acids into proteins and investigating and synthetically controlling diverse biological processes, with a particular emphasis on understanding the role of post-translational modifications</p>
+				       </li>
+				       <li>
+				           <b>Lecture II: Reprogramming the Genetic Code - part II</b><br>	
+  				           <p>TBA</p>
+				        </li>
+				     </ul>
+					</li>
+					
+					<!--
+					
+					<li>
+						
+					<div class="author"> <a href="http://www.columbia.edu/cu/chemistry/groups/cornish/" target="_blank">Virginia Cornish</a>, Columbia University, USA  (TBC)</div>
+					<ul>
+				        <li>
+				           <b>Lecture  I: TBA</b><br>	
+  				           <p>  </p>
+				       </li>
+				       <li>
+				           <b>Lecture  II : TBA</b><br>	
+  				           <p> </p>
+				        </li>
+				       </ul>
+					</li>
+					
+					
+					-->
+					
+					
+					
+					<li> 		
+					
+				                 <div class="author"><a href="http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=p.freemont&_adf.ctrl-state=10268vqend_3&_afrRedirect=3559881719117928" target="_blank">Paul Freemont</a>,  Imperial College London, UK</div>
+				        <ul>
+				        <li>
+				           <b>Lecture I: Foundational Technologies for Synthetic Biology - from DNA Assembly to Part Characterisation</b><br>	
+  				           <p>Synthetic biology is an application-focused field attempting to apply a systematic engineering approach to the design of new biological systems at the molecular level primarily using DNA. Notable progress has been made in the implementation of synthetic genetic circuits in living-systems that mimic functions such as switches, oscillators, timers, pulse generators, band-pass filters and logic gates (1,2). These genetic circuits are anticipated to enable the engineering of biological systems to a complexity previously unattainable. Over the past decade synthetic biology has aided the development of novel biological systems for a range of applications from bacteria that seek and destroy herbicides to the biosynthesis of valuable drugs (3, 4). To accelerate the development of the field many groups are establishing foundational technologies, which can be used across a wide range of applications. Within the Centre for Synthetic Biology and Innovation at Imperial College London (CSynBI; www.imperial.ac.uk/syntheticbiology) we are developing a series of platform technologies to enable the systematic design assembly and testing of synthetic biology designs including integration into an information system. I will describe recent developments in CSynBI on high throughput in vivo part characterization and the automated production of datasheets as well as new approaches in combinatorial DNA assembly. I will also describe our recent in vitro platform for the rapid characterization of DNA regulatory elements using a cell free system (5). <br>
+<!--
+References<br>
+(1)	Bonnett J, et al. Science, 340:599-603 (2013) <br>
+(2)	Siuti, P, Yaxbek, J, Lu TK. Nat Biotech. 31, 448-452 (2013) <br>
+(3)	Sinha J, Reyes SJ, & Gallivan JP Nat Chem Biol 6:464-470 (2010)  <br>
+(4)	Martin VJ, Pitera DJ, Withers ST, Newman JD, & Keasling JD Nat Biotechnol 21:796-802 (2003) <br>
+(5)	Chappell J, Jensen K, Freemont PS, Nucleic Acid Res 41:3471-3481 (2013) <br>
+(6)	Casini A, et al. doi:10.1093/nar/gkt915 (2013) <br>
+-->
+  </p>
+				       </li>
+				       <li>
+				           <b>Lecture II:  Synthetic biology designs for biosensor applications</b><br>	
+  				           <p>Biosensors generally can be used to monitor parameters of interest or target analytes and in part they involve a biological component. Early biosensors started when techniques for immobilising enzymes onto solid supports were first developed (1). The relatively recent discovery of bioluminescent (e.g. luciferase) and fluorescent (e.g. green fluorescent protein, GFP) proteins has provided a convenient mechanism for visualising gene expression and protein synthesis in cells and has lead to their use as reporter proteins.  By utilizing such constructs, whole cell biosensors have been developed for example to specifically detect certain compounds or act as indicators to monitor cell growth and fitness (2,3). Biological organisms naturally monitor their environment and react accordingly with highly evolved detection and sensing systems, which can now be refactored at the genetic level for specific biosensor applications. One overall aim of synthetic biology is to harness nature's toolbox by fusing molecular biology and engineering disciplines and thus the field of biosensor design and construction has been a major focus for synthetic biologists (4-8). In this lecture I will describe the principles behind biosensor design using synthetic biology approaches providing exemplars to illustrate these principles. I will also present recent data from my groups on developing synthetic biology biosensors for healthcare applications and show how additional societal implications can be integrated into biosensor designs. <br>
+<!--
+References<br>
+(1) Wingard LB, Ferrance JP In Biosensors with Fiberoptics (pp. 1-27) Springer (1991) <br>
+(2) Belkin S, Current Opinion in Microbiology, 6, 206-212 (2003) <br> 
+(3) Darwent MJ, et al.  Journal of Experimental Botany, 54, 325-334 (2003)<br> 
+(4) Boyle PM, Silver PA, Journal of the Royal Society Interface, 6, S535S546 (2009)<br>
+(5) Van der Meer JR, Belkin S, Nature Reviews Microbiology, 8, 511-522 (2010)<br>
+(6) Chappell J, Freemont PS, Institute of Medicine of the National Academies USA, Forum on Microbial Threats report (2011)<br>
+(7) Merulla D, et al. Current Opinion in Biotechnology 24, 534-541 (2013)<br>
+(8) Goers L, et al. Methods in Microbiology, 40, 119-156 (2013)<br> 
+-->
+</p>
+				        </li>
+				     </ul>
+				         </li>	
+				       	
+				</ul>
+			</div>
+			<div class="half last">
+				<ul class="abstracts">
+				
+				
+				<li> 
+				    
+				     
+				       <li> 
+				     
+				     <div class="author"><a href="http://isaacs.commons.yale.edu/" target="_blank">Farren Isaacs</a>, Yale University, USA</div>
+				     <ul>
+				        <li>
+				           <b>Lecture I : Genome engineering technologies for rapid editing &amp; evolution organisms</b><br>	
+  				           <p>The growing availability of whole genome sequence data sets generated by massively parallel sequencing permits detection of potential associations between genotype and phenotype. These advances motivate the development of high throughput genome editing technologies to systematically elucidate the causative mutations underlying important phenotypes. Similarly, expanding protein and RNA structure databases provide a valuable resource for researchers seeking to engineer macromolecules with new binding specificities. Finally, as complex metabolic networks controlling the flow of biomolecules through cells are elucidated, efforts to alter native metabolism for engineered biosynthesis of desired compounds are rapidly growing in basic research and industrial biotechnology.  I will discuss the development of high-throughput and automated methodologies for precise manipulation of genomes. Multiplex automated genome engineering (MAGE) simultaneously targets many locations on the chromosome for modification in a single cell or across a population of cells, thus producing combinatorial genomic diversity. Conjugative assembly genome engineering (CAGE) facilitates the large-scale assembly of many modified genomes. These methods treat the chromosome as both an editable and evolvable template and are capable of fundamentally re-engineering genomes from the nucleotide to the megabase scale. I will present applications of MAGE to generate combinatorial genomic variants from a complex pool of synthetic DNA to diversify target genes in order to optimize biosynthetic pathways.  The growing toolbox for genomic engineering will be discussed. </p>
+				       </li>
+				       <li>
+				           <b>Lecture II: Design, construction  &amp;  function of genomically recoded organisms</b><br>	
+  				           <p>The conservation of the genetic code, with minor exceptions, enables exchange of gene function among species, viruses and across ecosystems.  Fundamental changes to the genetic code could significantly enhance our understanding of the origins of the canonical code and reveal new subtleties of how genetic information is encoded and exchanged.  Modifying the canonical genetic code could also lead to orthogonal biological systems with new properties.  I will discuss the construction of a genomically recoded organism (GRO).  In the GRO, all known UAG stop codons in Escherichia coli MG1655 were replaced with synonymous UAA codons, which permitted the deletion of release factor 1 and reassignment of UAG translation function. This GRO exhibited improved properties for incorporation of nonstandard amino acids that expand the chemical diversity of proteins in vivo. The GRO also exhibited increased resistance to T7 bacteriophage, demonstrating that new genetic codes could enable increased viral resistance.</p>
+				        </li>
+				     </ul>
+				</li> 	
+				     
+				     
+				     
+				     
+				     <div class="author"><a href="http://kortemmelab.ucsf.edu/index.html" target="_blank">Tanja Kortemme</a>, University of California San Francisco, USA </div>
+				     <ul>
+				        <li>
+				           <b>Lecture I:  Computational protein design - principles, challenges and progress</b><br>	
+  				           <p>Designer proteins with new biological functions have tremendous practical importance; they can also enable us to ask questions about the design principles of function and fitness in new ways. Many applications can be imagined: potent protein therapeutics with minimal side effects; new enzymes and biological synthesis pathways for fuel molecules or compounds that are otherwise too expensive to produce; sensor/actuator devices that can report on cell biological processes in real time; robust signaling systems that can detect specific inputs and generate a precise response; protein machines and new biological materials that can be controlled by specific external inputs such as light.
+				           
+The first lecture in this two-part series will describe the current state-of-the-art in computational protein design. I will introduce the main conceptual advances and considerable challenges faced in the field: to sufficiently sample the vast space of possible sequences and structures and to accurately distinguish functional from non-functional designs. Work addressing these challenges uses a combination of ideas from computer science, physical chemistry, engineering and protein biophysics. Highlights from work creating designer proteins - new protein folds, specific binding proteins, and large assemblies - will illustrate where we are. </p>
+				       </li>
+				       <li>
+				           <b>Lecture II:  Design of reprogrammed and new functions - from proteins to cells</b><br>	
+  				           <p>The second part of the series will focus on current and future opportunities and applications. We'd like to engineer new molecules that operate as predicted in biological contexts, and to utilize prediction and engineering to address fundamental questions on the relationship of molecular characteristics and function. I will describe recent work and new approaches to engineer sensor/actuators that detect and respond to molecules that can currently not be sensed in living cells, and to control the conformational cycle of large protein machines with light.</p>
+				        </li>
+				     </ul>
+				</li>
+				<li> 
+				     
+				     <div class="author"><a href="http://www.dmi.unict.it/nicosia/" target="_blank">Giuseppe Nicosia</a>, University of Catania, Italy</div>
+				     <ul>
+				        <li>
+				           <b>Lecture I:  Biological Circuit Design by Pareto Optimality</b><br>	
+  				           <p>  </p>
+				       </li>
+				       <li>
+				           <b>Lecture II: Programming Living Molecular Machines for Biofuel Production</b><br>	
+  				           <p> </p>
+				        </li>
+				     </ul>
+				</li>	   
+				<li> 
+				     <div class="author"><a href="http://www.silva.bsse.ethz.ch/bpl/people/panke" target="_blank">Sven Panke</a>,  ETH, Switzerland</div>
+				     <ul>
+				        <li>
+				           <b>Lecture I: Synthetic Biology of Cell free Systems</b><br>	
+  				           <p>The use of parts of cells, specifically enzymes, has a long tradition in therapy, diagnostics and particular chemical synthesis. One of the most attractive feature of enzymes as biological catalysts is that they all have been engineered by nature to operate at comparable environmental conditions. This is a major difference to chemistry and enables the coordinated operation of a cascade of enzymes concomitantly in one vessel, opening ways to efficiently conduct complex chemistry and circumventing thermodynamic challenges. Synthetic biology allows constructing such systems with an unprecedented degree of scope and ease. We will illustrate the potential of the approach by discussing the generation of large enzyme systems for the production of fine chemicals. Furthermore, we will discuss an engineering approach to optimizing such systems based on advanced on-line MS-analytics and design of experiments.  </p>
+				       </li>
+				       <li>
+				           <b>Lecture II:  Exploiting Engineered Cell-Cell Communications in Large Scale Biotechnology</b><br>	
+  				           <p>Synthetic biology brings with it a drastic increase in the scope of experimental operations, which it typically accommodated by a tendency to miniaturize and parallelize experimentation. While this is relatively straight forward for in vitro approaches such as DNA assembly, suitable approaches are less clear when interaction of living cells is required. We will discuss recent efforts of our laboratory to develop nanoliter-sized cultivation systems and their resulting applications to high-throughput screening strategies in the fields of fluorescent protein engineering, vitamin production, and engineering of novel antibiotics. </p>
+				        </li>
+				     </ul>
+				</li>	 
+				<li> 
+				     <div class="author"><a href="http://www.rle.mit.edu/acbs/" target="_blank">Rahul Sarpeshkar</a>,  MIT, USA</div>
+				     <ul>
+				     <li>
+				     <b>Lecture I:  Analog versus Digital Computation in Biology</b><br>	
+  				     <p>The fundamental laws of noise in gene and protein expression set limits on the energy, time, space, molecular count, and part-count resources needed to compute at a given level of precision in the cell. Based on these laws, we conclude that analog computation is significantly more efficient in its use of resources than deterministic digital computation in the cell. Hence, synthetic and natural circuits in cells must use analog, collective analog, probabilistic, and hybrid analog-digital computational approaches to function; otherwise, even relatively simple  computations in cells like addition will exceed energy and molecular-count budgets. We present schematics for efficiently representing analog DNA-protein computation in cells. A deep connection between analog circuits and cell biology enables us to also engineer synthetic analog computation in cells efficiently.</p>
+				     </li>
+				     <li>
+				     <b>Lecture II:  Analog Synthetic and Systems Biology</b><br>	
+  				     <p>The deep connection between analog circuits and cell biology arises because there are astounding similarities between the equations that describe noisy electronic flow in sub-threshold transistors and the equations that describe noisy molecular flow in chemical reactions, both of which obey the laws of exponential thermodynamics. Based on these similarities, we have engineered logarithmic analog computation in living cells with less than three transcription factors, almost two orders of magnitude more efficient than prior digital approaches.  In addition, highly computationally intensive noisy DNA-protein and protein-protein networks can be rapidly simulated in mixed-signal supercomputing chips that naturally capture their noisiness, dynamics, and loading interactions at lightning-fast speeds. Such an approach may enable large-scale design and analysis in synthetic and systems biology that is faithful to how messy analog biology works, quite different from clean, well-defined digital design.</p>
+				     </li>
+				     </ul>
+				</li>	
+				<li> 
+				     <div class="author"><a href="http://stracquadanio.me/" target="_blank">Giovanni Stracquadanio</a>,  Johns Hopkins University, USA</div>
+				     <ul>
+				        <li>
+				           <b>Lecture I:  Minimal Genomes: High-Throughput Sequencing, Statistical Methods and Physics Models to Unveil Minimal Yeast Chromosomes Compatible with Life</b><br>	
+  				           <p>  </p>
+				       </li>
+				       <li>
+				           <b>Lecture II: Computational Tools for Genome editing, Combinatorial Assembly and Workflow Tracking</b><br>	
+  				           <p> </p>
+				        </li>
+				     </ul>
+				</li>	
+				<li> 
+				     <div class="author"><a href="http://groups.csail.mit.edu/synbio/" target="_blank">Ron Weiss</a>,  MIT, USA</div>
+				     <ul>
+				     <li>
+				           <b>Lecture I: Synthetic Biology: From Parts to Modules to Systems</b><br>	
+  				           <p>  </p>
+				       </li>
+				       <li>
+				           <b>Lecture II: Mammalian Synthetic Biology: Scientific and Therapeutic Applications</b><br>	
+  				           <p> </p>
+				        </li>
+				     </ul>
+				</li>	
+				<li> 
+				     <div class="author"><b> Velia Siciliano - MIT, USA</b> and <b>Liliana Wroblewska  MIT, USA.</b></div>
+				     <b>Workshop on "Biosensors and Synthetic Circuits in Mammalian Cells"</b>
+				           <ul>
+				          
+				           <li><b>Lecture I:</b><br>	
+  				           <p>Synthetic biology aims at engineering systems from characterized genetic parts to perform complex coordinated tasks for pharmaceutical and industrial applications. Mammalian synthetic biology slowly enters the phase where proof-of-concept designs move closer to therapy. Engineered networks are designed to sense clinically relevant molecules, integrate signals from the various sensors and finally produce a clinically relevant output. A  key feature is the ability of such synthetic circuits to "sense" intracellular states or exogenous cues.  We will discuss designs of sensory circuits for metabolites of human body, proteins, mRNA and microRNA. </p>
+				          </li>
+				          
+				          
+				          <li><b>Lecture II:</b><br>	
+  				          <p>Another critical aspect on the way of mammalian synthetic biology towards therapy is safety of the engineered systems. We will discuss different approaches undertaken to ensure the minimal negative footprint of the engineered systems on the host organism including cell-based therapies, and circuits encoded exclusively on RNA. Additionally we will discuss development of platforms for easy prototyping of genetic circuits that can be used to test their long term behavior and reliability.  </p>
+				          </li>
+				          
+				          <!--
+				          <li><b>I. Principles of Circuit Design in Mammalian cells</b></li>
+					<li><b>II. Mammalian in vivo Biosensors</b></li>
+					<li><b>III. Circuits based on RNA Regulation</b></li>
+					<li><b>IV. Targeted Genomic Integration of Circuits</b></li>
+					--> 
+					
+					
+				     </ul>
+				</li>	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				</ul>
+			</div>   
+			
+		
+		
+		<div class="clearfix"></div>    
+		</section>    
+		
+		
+		
+		
+		<div id="intermediate"></div>
+		<section class="main" id="directors">
+			<h2>SSBSS is  organized by the TaoSciences Research Center</h2> 
+			<div class="half">
+				<!-- <p>SSBSS is  organized by the TaoSciences Research Center.</p>  -->
+				<h3>SSBSS 2014 School Directors</h3>
+				<ul class="speakers">
+				        <div style="text-align:left; margin-bottom:10px">  
+				         <li><a href="http://www.bs.jhmi.edu/MBG/boekelab/" target="_blank">Jef Boeke</a>, Johns Hopkins University, USA</li>
+					<li><a href="http://www.dmi.unict.it/nicosia/" target="_blank">Giuseppe Nicosia</a>, University of Catania, Italy</li>
+					<li><a href="http://www.dmi.unict.it/mpavone/" target="_blank">Mario Pavone</a>, University of Catania, Italy</li>
+					<li><a href="http://stracquadanio.me/" target="_blank">Giovanni Stracquadanio</a>, Johns Hopkins University, USA</li>
+					</div>
+				</ul>
+				
+				<h3>School Director</h3>					
+				<div style="text-align:left; margin-bottom:10px">  
+				<a href="http://www.dmi.unict.it/nicosia/" target="_blank">Professor Giuseppe Nicosia</a>, Ph.D.<br>
+				Department of Mathematics and Computer Science<br>
+				University of Catania<br>
+				Viale A.Doria, 6 - 95125 Catania - Italy<br>
+				T: +39 095 7383048<br>
+				E: nicosia@dmi.unict.it<br>			
+				W: http://www.dmi.unict.it/nicosia/<br>
+				</div>	
+
+				
+				
+				
+			</div>
+			<div class="half last">
+				<h3>Scientific Committee</h3>
+				<ul class="speakers">
+				          <div style="text-align:left; margin-bottom:10px"> 
+				         <li>Giuseppe Nicosia, University of Catania, Italy</li>
+				         <li>Joel Bader, Johns Hopkins University, USA</li>
+					<li>Jole Costanza, University of Catania, Italy</li>
+					<li>Barbara Di Camillo, University of Padova, Italy </li>
+					<li>Markus Herrgard, Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Denmark</li>
+					<li>Heiko Muller, Italian Institute of Technology,  Italy</li>
+					<li>Giuseppe Narzisi, Cold Spring Harbor Laboratory,  USA</li>
+					<li>Wieslaw Nowak, Nicholas Copernicus University, Poland</li>
+					<li>Elisa Pappalardo, Johns Hopkins University, USA</li>
+					<li>Gianna Maria Toffolo, University of Padova, Italy</li>
+					<li>Renato Umeton, MIT, USA</li>
+					<li>Luca Zammataro, Italian Institute of Technology,  Italy</li>
+					</div>
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</section>
+		<div id="intermediate"></div>
+		<section class="main" id="deadlines">
+			<h2>Deadlines</h2>
+			<div class="half">
+				<ul class="deadline">
+					<li>Student Application: <span class="red">March 31, 2014</span></li>
+					<li>Notification Acceptance: <span class="red">April 10, 2014</span></li>
+					
+					<br>
+					
+					<li>Oral/Poster Submission: <span class="red">March 31, 2014</span></li>
+					<li>Notification of Decision for Oral/Poster Presentation: <span class="red">May  15, 2014</span></li>
+				</ul>
+			</div>
+			<div class="half last">
+				<ul class="deadline">
+					<li>Early Registration: <span class="red">April 30, 2014</span></li>
+					<li>Late Registration: <span class="red">After April 30, 2014</span></li>
+					
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</section>
+	<div id="intermediate"></div>
+<!--			<section class="main" id="applicationInfo">
+			<h2>Application Info</h2>
+			<div class="full">
+				<p>The school will be open up to <strike>100<strike>  150 qualified, motivated and selected students. Undergraduate and graduate students, post-docs, research fellows and industrial professionals are encouraged to apply. School fees will be 450.00 Euro for undergraduate and graduate students, 550.00 Euro for post-docs and research fellows and 650.00 Euro for all other participants. Fees will cover lectures, course materials, coffee breaks, social tours and Wi-Fi Internet Connection. </p>
+				<p>The School will involve a total of <b>28-32 hours of lectures</b>, the final achievement will be equivalent to <b>7-8 ECTS points</b> (<a href="http://en.wikipedia.org/wiki/ECTS_grading_scale" target="_blank">ECTS grading scale</a>).</p>
+				<p>Applications should be received <b>before March 31, 2014</b>. Applicants will receive notification of acceptance <b>by April 10, 2014</b>.</p>
+			</div>
+			<div class="clearfix"></div>
+		</section>
+		
+-->		
+		<div id="intermediate"></div>
+		<section class="main" id="applicationForm">
+			<h2>Application Form</h2>
+			
+			
+			
+			<p>The school will be open up to <strike>100</strike> <b><i>150 qualified, motivated and selected students</b></i>. Undergraduate and graduate students, post-docs, research fellows and industrial professionals are encouraged to apply. School fees will be <i>450 Euro for undergraduate and graduate students</i>, <i>550 Euro for post-docs and research fellows</i> and <i>650 Euro for all other participants</i>. Fees will cover lectures, course materials, coffee breaks, social tours and Wi-Fi Internet Connection.</p> 
+			<p>The School will involve a total of <b>28-32 hours of lectures</b>, the final achievement will be equivalent to <b>7-8 ECTS points</b> (<a href="http://en.wikipedia.org/wiki/ECTS_grading_scale" target="_blank">ECTS grading scale</a>).</p>
+			<p>Applications should be received <b>before March 31, 2014</b>. Applicants will receive notification of acceptance <b>by April 10, 2014</b>.</p>
+	
+			<div class="alert alert-success" id="success-form" style="display:none; text-align:center">
+				<h4>Thanks</h4>
+				<p style="text-align:center">Thanks a lot! Your Application Form has been sent successfully. <br>
+					You will receive a confirmation email with the report of Application Form.</p>
+			</div>
+			<form method="post" action="#" id="registration-form" enctype="multipart/form-data">
+				<div class="half">
+					<label>First Name<span class="red"> *</span></label>
+					<input type="text" placeholder="First Name" name="name" id="name" tabindex="1" class="span4 required">
+					<!-- <label>Sex<span class="red"> *</span></label>
+					<select name="sex" id="sex" tabindex="3" class="span4 required">
+						<option value=""></option>
+						<option value="M">Male</option>
+						<option value="F">Female</option>
+					</select> -->
+					<label>Affiliation<span class="red"> *</span></label>
+					<input type="text" placeholder="Affiliation" name="affiliation" id="affiliation" tabindex="5" class="span4 required">
+					<label>City / State<span class="red"> *</span></label>
+					<input type="text" placeholder="City / State" name="city" id="city" tabindex="7" class="span4 required">
+					<label>Country<span class="red"> *</span></label>
+					<input type="text" placeholder="Country" name="country" id="country" tabindex="9" class="span4 required">
+					<label>ID Number<span class="red"> *</span></label>
+					<input type="text" placeholder="ID Number" name="number" id="number" tabindex="11" class="span4 required">
+				</div>
+				<div class="half last">
+					<label>Last Name<span class="red"> *</span></label>
+					<input type="text" placeholder="Last Name" name="surname" id="surname" tabindex="2" class="span4 required">
+					<label>Position<span class="red"> *</span></label>
+					<select name="position" id="position" tabindex="4" class="span4 required">
+						<option value=""></option>
+						<option value="350">Student (M.Sc. and Ph.D. Students) </option>
+						<option value="450">University Personnel</option>
+						<option value="550">Industry Personnel</option>
+					</select>
+					<label>Address<span class="red"> *</span></label>
+					<input type="text" placeholder="Address" name="address" id="address" tabindex="6" class="span4 required">
+					<label>Postal Code<span class="red"> *</span></label>
+					<input type="text" placeholder="Postal" name="postal" id="postal" tabindex="8" class="span4 required">
+					<label>Email<span class="red"> *</span></label>
+					<input type="email" placeholder="Email" name="email" id="email" tabindex="10" class="span4 required">
+					<label>Curriculum Vitae (and optionally an Abstract/Poster)<br>(Only PDF files. Max size for each file: 10 Mb)<span class="red"> *</span></label>
+					<span class="btn btn-success fileinput-button">
+					<input id="file_upload" name="file_upload" type="file">
+					</span>
+					
+					<style>
+						#name-file {
+							list-style:none;
+							margin:0;
+							padding:0;
+						}
+						#name-file li {
+							
+							
+						}
+					</style>
+					<ul id="name-file" style="display:none"></ul>
+					<div style="margin-top: 5px; text-align: center; width: 370px">
+						<button class="btn btn-info" type="button" style="display:none" id="clear-queue">Clear queue</button>
+					</div>
+				</div>
+				<div class="clearfix"></div>
+				<div style="text-align:center" id="buttons-registration">
+					<button type="button" class="btn btn-primary" id="submit-registration" disabled="disabled">Submit Registration</button>
+					<button type="reset" id="reset" class="btn">Cancel</button>
+					<br>
+					<br>
+					<a href="privacy_policy.html">Privacy Policy</a>
+					<br>
+					<h2>VISA</h2>
+						<div class="full">
+							 <p>You need a valid passport to enter Italy. It is highly recommended that passports have at least six months validity remaining after your intended date of departure from your travel destination. A visa is not required for citizens of EU, USA, Canada, Australia, Japan, and several other countries: please, check your visa requirements <a href="http://www.esteri.it/visti/home_eng.asp" target="_blank">here.</a>
+	Visitors who need a visa should apply for a standard Schengen visa.</p>
+						</div>
+				</div>
+			</form>
+			<div id="loading" style="display:none; text-align:center">
+				<span><img src="img/loading.gif" width="31" height="31"></span> Loading... </div>
+		</section>		
+		<div id="intermediate"></div>
+		<section class="main" id="posterAndAbstractSubmission">
+			<h2>Short Talk and Poster Submission</h2>
+			<div class="full">
+				<p>Students may submit a research abstract for presentation. School directors will review the abstracts and will recommend for poster or short-oral presentation. Abstract should be submitted <b>by March 31, 2014</b>. The abstracts will be published on the electronic hands-out material of the summer school.</p>
+				
+				<!--
+				<p>The Applicants may submit a poster or a short talk to present their recent research work using the
+				<a href="https://www.easychair.org/conferences/?conf=ssbss2014" target="_blank">EasyChair System.</a></p>
+				-->
+				
+			</div>
+			<div class="clearfix"></div>
+		</section>
+		<div id="intermediate"></div>
+		
+		
+		<h2>Sponsors</h2>
+		
+		
+		<h3>Platinum Sponsors:</h3>
+		<img src="images/autodesk-logo.png"  width="30%" style="cursor:pointer" alt="Autodesk" onclick="javascript:window.open('http://www.autodesk.com/','','','')" >
+		<br>	
+		<br>
+		
+		<h3>Gold Sponsors:</h3>
+		<br>
+		<font size="6"><b>Leonardo Design Systems</b></font>
+		<br>	
+		<br>
+		
+		
+		<h3>Silver Sponsors:</h3>
+		<br>
+		<font size="6"><b> </b></font>
+		<br>	
+		<br>
+		
+		
+		<h3>Bronze Sponsors:</h3>
+		<br>
+		<img src="images/life-technologies.jpeg"  style="cursor:pointer" alt=" Life Technologies Ltd" onclick="javascript:window.open('https://www.lifetechnologies.com/it/en/home.html','','','')" >  
+		<br>	
+		<br>
+		
+		
+		<img src="images/Novozymes-logo.png"   width="30%"  style="cursor:pointer" alt="Novozymes" onclick="javascript:window.open('http://www.novozymes.com','','','')" >
+		
+
+		<br>	
+		<br>
+		
+		
+		 <br>	
+		 <div class="clearfix"></div>
+		 <div style="text-align:center; margin-bottom:10px"><i>Other sponsors will be announced soon.</i></div> 
+		<br>	
+		
+
+		
+		
+		<section class="main" id="venueAndAccommodation">
+			<h2>Venue and Accommodation</h2>
+			<div class="half">
+				<h3>Location</h3>
+				<p>SSBSS will be hosted in Taormina (<a href="https://maps.google.co.uk/maps?q=google+map+taormina" target="_blank">Google Map</a>) at the venue "Hotel Villa Diodoro" that offers 2 main conference rooms, 5 meeting rooms and an open terrace for coffee breaks. The plenary room can to accommodate more than 250 people. All the rooms are equipped with Wi-Fi connection. <br>
+					The Secretarial and conference facilities: Direct-dial telephone, Fax-PC, WI-FI/ADSL lines, Production room, Photocopier, Conference speaker system, Portable microphones, Light dimming, Overhead projector, Flip chart, Slide projector, Movie projector, Laser pointer, Podium, Stage-Catwalk, Post congress, Transfer to/from  
+					<a href="http://www.aeroporto.catania.it/?lang=eng" target="_blank">Catania International Airport - CTA</a>.<br>
+					Plenary talks and introductions to the poster sessions will be held in one of the main conference rooms while the actual poster sessions will be held in the other main room.</p>
+				<p style="text-align:left; font-size:15px">
+					<b>Hotel Villa Diodoro</b><br>
+					Via Bagnoli Croci 75<br>
+					98039 Taormina, Messina, Italy<br>
+					T: +39 0942 2 33 12<br>
+					F: +39 0942 2 33 91<br>
+					E: diodoro@gaishotels.com<br>
+					W: <a href="http://www.hotelvilladiodoro.com/" target="_blank">http://www.hotelvilladiodoro.com/</a>
+					<br>
+					W: <a href="http://www.hotelvilladiodoro.com/en/how-to-reach-us.html" target="_blank">http://www.hotelvilladiodoro.com/en/how-to-reach-us.html</a>
+				</p>
+				<h3>Travel to Taormina</h3>
+				<p>
+					<b>Plane</b><br>
+					Catania Fontanarossa "Vincenzo Bellini" International  (CTA) is the nearest and most convenient airport at some km. 55 from Taormina. It features several flights from the major Italian cities such as Milan Malpensa, Rome, Naples, Venice, etc and many international direct flights from important European cities such as Bruxelles, Munich, Barcelona, Athens, Malta and many more. Lots of charter flights from all over the world land to Catania too. <br>
+					From Catania International Airport (CTA) you can reach Taormina in one-hour drive by very convenient direct highway A18 (direction Messina, exit TAORMINA).
+					Direct bus to Taormina centre are available at 08.30 - 11.30 - 13.30 - 16.30 - 18.30 - 20.30 every day.
+					By Taxi about 1 hour.<br>
+				</p>
+				<p>
+					<b>Train</b><br>
+					Taormina's railway station is considered one of Italy's most beautiful for its elegant charming Sicilian Liberty style decor; every train arriving from Northern Italy to Sicily stops here.<br>
+					One has a large choice of trains, from de-luxe Eurostar down to simple but very efficient "Espresso train" normally departing from Milan, Turin and Rome through Naples and the Amalfi &amp; Capri area.<br>
+				</p>
+				<a href="http://www.dmi.unict.it/ssbss/index.html#infoReach" role="button" class="btn" data-toggle="modal">How to reach Taormina</a>
+				
+				
+				
+		  		<p><a href="http://www.taormina.it" target="_blank" title="Taormina.it">Official Taormina Website</a></p>
+
+        				<p><a href="http://www.travelandleisure.com/articles/worlds-best-islands-2013/9" target="_blank">World's Best Islands: <b>No. 8 Sicily, Italy (July 2013)</b></a></p>
+
+				<p><a href="http://www.travelandleisure.com/worldsbest/2012/islands/europe-islands/369" target="_blank">Europe's Best Islands: <b>No. 2 Sicily, Italy (2012)</b></a></p>
+			
+       				<p><a href="http://www.travelandleisure.com/articles/worlds-best-islands-sicily-italy" target="_blank">World's Best Trip: Sicily, Italy - How to take a World's Best trip to Sicily</a></p>
+				
+				<p><a href="http://www.tripadvisor.co.uk/Attractions-g187892-Activities-Taormina_Province_of_Messina_Sicily.html" target="_blank">Things to do in Taormina</a></p>
+			
+		  		<p><a href="http://www.taorminaetna.it/default.asp?&SessionID=59354375-A9739RN-I3320IE-GO6095SM&lang=ENG" target="_new">Taormina, Beaches &amp; Etna Volcano</a></p>
+			
+				<p><a href="  http://www.parks.it/parco.etna/Eindex.php"target="_blank"">Etna Volcano - UNESCO World Heritage</a></p>
+			
+			      
+	                            <!--
+				<p><a href="http://www.tripadvisor.co.uk/Restaurants-g187892-Taormina_Province_of_Messina_Sicily.html"target="_blank">Restaurants List</a></p>
+								
+				<p><a href="http://www.travelandleisure.com/articles/going-for-baroque"target="_blank">Villas of Sicily</a></p>  -->
+								
+				
+				
+			</div>
+			<div class="half last">
+				<h3>Accommodation</h3>
+				<p>Taormina offers a wide choice of Hotels, B&amp;B, Apartments and Hostels. At the following links you can find some other kinds of accommodations:</p>
+				<ul class="accomodation">
+				         <li><a href="http://www.tripadvisor.co.uk/Tourism-g187892-Taormina_Province_of_Messina_Sicily-Vacations.html" target="_blank">Tripadvisor Taormina</a>
+					</li>
+					<li><a href="http://www.taormina.it/where-to-stay/" target="_blank">Taormina official web site </a>
+					</li>
+					<li><a href="http://www.taorminahotels.net/" target="_blank">Taormina Hotels</a>
+					</li>
+					<li><a href="http://www.bed-and-breakfast-in-italy.com/town_proximity.cfm?id=3543" target="_blank">B&amp;B in Taormina</a>
+					</li>
+				</ul>
+				<h3>Some Hotels in Taormina</h3>
+				<ul class="accomodation">
+					<li><a href="http://www.amthotels.it/sandomenico/default.aspx" target="_blank">Hotel San Domenico </a>
+						*****L</li>
+					<li><a href="http://www.ehc.it/corporate/en/default.htm" target="_blank">Hotel Imperial </a>
+						*****</li>
+					<li><a href="http://www.hotelvilladiodoro.com/en/home.html" target="_blank">Hotel Villa Diodoro </a>
+						****</li>	
+					<li><a href="http://www.villaducale.com/" target="_blank">Hotel Villa Ducale </a>
+						****</li>
+					<li><a href="http://www.hotelvillaparadisotaormina.com/uk/index.htm" target="_blank">Hotel Villa Paradiso </a>
+						****</li>
+					<li><a href="http://www.hotelvillacarlottataormina.com/" target="_blank">Hotel Villa Carlotta </a>
+						****</li>
+					<li><a href="http://www.angalahotels.it/sicily_hotels/luxury_hotels_sicily.htm" target="_blank">Hotel Monte Tauro </a>
+						****</li>	
+					<li><a href="http://www.taodomus.it/default-en.html" target="_blank">Hotel TaoDomus </a>
+						***</li>
+					<li><a href="http://www.hotelvillaschuler.com/" target="_blank">Hotel Villa Schuler *</a>
+						**</li>
+					<li><a href="http://www.hotel-isabella.it/en/home.html" target="_blank">Hotel Isabella </a>
+						***</li>
+					<li><a href="http://www.pensionesvizzera.com/index.php" target="_blank">Hotel La Pensione Svizzera </a>
+						***</li>
+					<li><a href="http://www.hoteldelcorsotaormina.com/" target="_blank">Hotel Del Corso </a>
+						***</li> 
+					<li><a href="http://www.albergovictoria.it/en/index.php" target="_blank">Hotel Vittoria </a>
+						**</li>
+					<li><a href="http://www.elioshotel.com/uk/index.htm" target="_blank">Hotel Elios </a>
+						**</li>
+					<li><a href="http://www.condorhotel.com/uk/index.htm" target="_blank">Hotel Condor </a>
+						**</li>
+					<li><a href="http://www.hotelsoleado.com/uk/index.htm" target="_blank">Hotel Soleado </a>
+						**</li>
+					<li><a href="http://www.villastoriataormina.com/uk/index.htm" target="_blank">Hotel Villa Astoria </a>
+						*</li>
+				</ul>
+				<h3>Bed &amp; Breakfast in Taormina</h3>
+				<ul class="accomodation">
+					<li><a href="http://www.legrandsoleil.it/homeing.htm" target="_blank">B&amp;B Le Grand Soleil</a>
+					</li>
+					<li><a href="http://www.bedandbreakfastdionisio.com/" target="_blank">B&amp;B Dionisio</a>
+					</li>
+					<li><a href="http://www.bbsweethome.com/index_en.html" target="_blank">B&amp;B Sweet Home</a>
+					</li>
+					<li><a href="http://www.joansheritage.com/johan%27s%20Heritage%20engl.html" target="_blank">B&amp;B Joan's Heritage</a>
+					</li>
+					<li><a href="http://www.lesibille.net/eng/index.html" target="_blank">B&amp;B Le Sibille</a>
+					</li>
+				</ul>
+				<h3>Apartments in Taormina</h3>
+				<ul class="accomodation">
+					<li><a href="http://www.appartamentitaormina.com/en" target="_blank">Taormina City Center</a>
+					</li>
+					<li><a href="http://www.only-apartments.com/apartments-taormina.html" target="_blank">Only Apartments - Taormina</a>
+					</li>
+					<li><a href="http://www.residencecirce.it/en/index.php" target="_blank">Residence Circe - Taormina</a>
+					</li>
+					<li><a href="http://www.residencedegliagrumi.it/uk/index.htm" target="_blank">Residence Agrumi - Taormina</a>
+					</li>
+					<li><a href="http://www.apartments-taormina.com/" target="_blank">Apartments  Taormina</a>
+					</li>	
+				</ul>
+				<h3>Hostels in Taormina</h3>
+				<ul class="accomodation">
+					<li><a href="http://www.hosteltaormina.com/eng/" target="_blank">Hostel Taormina</a>
+					</li>
+					<li><a href="http://www.taorminaodyssey.com/" target="_blank">Taormina's Odyssey Youth Hostel</a>
+					</li>
+				</ul>
+				<h3>Villas in Sicily</h3>
+				<ul class="accomodation">
+					<li><a href="http://www.hosteltaormina.com/eng/" target="_blank">Villas in Sicily</a>
+					</li>
+				</ul>
+			</div>
+			<div class="clearfix"></div>
+		</section>
+		<div id="intermediate"></div>
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		<div id="intermediate"></div>
+		<section class="main" id="contacts">
+			<h2>Contacts</h2>
+			<div class="half">
+				<h3>Send a mail</h3>
+				<div class="alert alert-success" id="success-mail" style="display:none">
+					<h4>Email successfully sent</h4>
+				</div>
+				<form method="post" action="#" id="form-mail">
+					<input type="text" placeholder="Name" id="name-mail" name="name-mail"  class="required">
+					<br>
+					<input type="email" placeholder="Email" id="email-mail" name="email-mail" class="required">
+					<br>
+					<textarea id="mex-mail" name="mex-mail" placeholder="Message"  class="required"></textarea>
+					<button type="submit" class="btn btn-primary span4" id="submit-mail">Send Mail</button>
+				</form>
+				<p id="load" style="display:none; text-align:center">Sending...</p>
+			</div>
+			<div class="half last">
+				<h3>Other Contacts</h3>
+				<p style="padding-top:40px">
+					<b>TaoSciences</b><br>
+					Vico Teofane Cerameo, 3<br>
+					98039, Taormina, Sicily<br>
+					Italy<br>
+					<a href="mailto:ssbss@dmi.unict.it">ssbss@dmi.unict.it</a><br>
+					<a href="http://www.taosciences.it/">http://www.taosciences.it</a><br>
+				</p>
+			</div>
+			<div class="clearfix"></div>
+		</section>
+		<div id="intermediate"></div>
+	</div>
+</div>
+<footer>
+	<div class="container">
+		<div class="half">All rights reserved 2014 &copy; DiGi Apps
+		</div>
+		<div class="half last" style="text-align:right">Made in Italy
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</footer>
+<script src="js/vendor/jquery-1.9.0.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
+<script src="js/jquery.uploadifive.min.js" type="text/javascript"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-39209269-1']);
+  _gaq.push(['_setDomainName', 'taosciences.it']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+		<h3 id="modal-label"></h3>
+	</div>
+	<div class="modal-body">
+		<p id="modal-mex" style="text-align:center"></p>
+	</div>
+	<div class="modal-footer">
+		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	</div>
+</div>
+<div id="infoReach" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="width:800px; left:41%">
+	<div class="modal-header">
+		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+		<h3 id="modal-label">How to reach Taormina</h3>
+	</div>
+	<div class="modal-body">
+		<p>The easiest way to reach Taormina is to fly into Catania International Airport - CTA (Italy's third-largest airport by domestic air travel volume), and then take a 90-minute bus to Taormina. On weekdays, buses run in the daytime (6:45am to 7:45pm) every other hour; weekend schedules skip mid day trips. Tickets cost around EUR 7 (one way), and can be bought directly on the bus. Once in Taormina, the bus stops 400 meters (1/4 mi) away from the city center (Porta Messina). Some hotels in Taormina provide (for a fee) a shuttle service from and to the airport to their guests. You might also reach Taormina from the airport by car in an hour or so. Renting a car, however, is discouraged, as Taormina has severe traffic limitations - only residents are allowed to drive cars in the city center, and parking is limited. Should you nevertheless decide to rent a car, notify the front desk at the conference venue and they will direct you to a nearby unsecured parking lot. Please be advised that space is limited, and will be assigned on a first-come, first-served basis. The cost of a taxi ride varies, with EUR 90 being a rough estimate. Coordinate with other participants if you wish to share a taxi from the airport to the hotel. Cheaper transportation might be possible by sharing car service.</p>
+		<style>
+			.accordion-toggle{font-weight:bold}
+		</style>
+		<div class="accordion" id="accordion2">
+			<div class="accordion-group">
+				<div class="accordion-heading">
+					<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne"> By Plane </a>
+				</div>
+				<div id="collapseOne" class="accordion-body collapse in">
+					<div class="accordion-inner">
+						<p>The <a href="http://www.aeroporto.catania.it/" target="_blank">&quot;Vincenzo Bellini&quot; International Airport - CTA</a>
+							is located 
+							65Km from Taormina. The airport offers connections with all the major Italian and European cities, including all the capitals. </p>
+						<h4>Suggested Route</h4>
+						<p>There is a direct bus linking Catania International Airport (CTA) with Taormina  in about 1h 30m. The bus leaves for Taormina every half an hour (ticket price: 6 Euro).</p>
+						<h4>Alternative Route</h4>
+						<p>The AMT city bus links Catania International Airport - CTA to the Catania Central Train Station regularly (ticket price: 1.20 Euro). See the "By Train" section for further train instructions.</p>
+					</div>
+				</div>
+			</div>
+			<div class="accordion-group">
+				<div class="accordion-heading">
+					<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo"> By Train </a>
+				</div>
+				<div id="collapseTwo" class="accordion-body collapse">
+					<div class="accordion-inner">
+						<p>The "Giardini Naxos/Taormina" Train station is on the Messina-Catania line with direct and very frequent trains going both ways.
+							The station is connected to Taormina by regular buses (ticket price: 1.50 Euro). Alternatively, a taxi ride to Taormina would take 
+							about 10/15 minutes. It is also possible to reach Taormina by cableway. However, a 1 km walk is required to reach the Cable Station from 
+							the Train Station.</p>
+					</div>
+				</div>
+			</div>
+			<div class="accordion-group">
+				<div class="accordion-heading">
+					<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree"> By Car </a>
+				</div>
+				<div id="collapseThree" class="accordion-body collapse">
+					<div class="accordion-inner">
+						<h4>From Catania</h4>
+						<p>Take the A18/E45 highway towards Messina, continue for 45Km and take the "Taormina" exit, follow the signs to Taormina, park in one of the municipal car parks and then take the shuttle buses into the town. </p>
+						<h4>From Messina</h4>
+						<p>Take the A18/E45 highway towards Catania A18/E45, continue for 37Km and take "Taormina" exit, follow the signs to Taormina, park in one 
+							of the municipal car parks and then take the shuttle buses into the town.</p>
+						<h4>From Palermo</h4>
+						<p>Take the A19/E90 highway towards Catania A18/E45, continue for 200Km and take "Messina/Patern&ograve/Catania" exit, then take the 
+							A18/E45 highway towards Catania A18/E45, continue for 37Km and take "Taormina" exit, follow the signs to Taormina, park in one of the 
+							municipal car parks and then take the shuttle buses into the town.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="modal-footer">
+		<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+	</div>
+</div>
+</body>
+
+
+
+</html>

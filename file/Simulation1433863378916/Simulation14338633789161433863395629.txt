@@ -1,0 +1,290 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="parts.igem.org (en)" />
+<link title="Creative Commons" type="application/rdf+xml" href="/wiki/index.php?title=Main_Page&amp;action=creativecommons" rel="meta" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="parts.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>Main Page - parts.igem.org</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wiki/skins/common/shared.css?270";
+			@import "/wiki/skins/registry/main.css?270";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wiki/skins/common/commonPrint.css?270" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wiki/skins/registry/IE50Fixes.css?270";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wiki/skins/registry/IE55Fixes.css?270";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wiki/skins/registry/IE60Fixes.css?270";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wiki/skins/registry/IE70Fixes.css?270";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/wiki/skins/common/IEFixes.js?270"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script>
+var skin="registry",
+stylepath="/wiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/$1",
+wgScriptPath="/wiki",
+wgScriptExtension=".php",
+wgScript="/wiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://parts.igem.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Main_Page",
+wgTitle="Main Page",
+wgAction="view",
+wgArticleId=1,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=230015,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "parts.igem.org", "5": "parts.igem.org talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "parts.igem.org": 4, "parts.igem.org_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="parts.igem.org",
+wgCategories=[],
+wgRestrictionEdit=[],
+wgRestrictionMove=[];
+</script>                
+		<script type="text/javascript" src="/wiki/skins/common/wikibits.js?270"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="/wiki/skins/common/ajax.js?270"></script>
+		<script type="text/javascript" src="/wiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=registry"><!-- site js --></script>
+	<!-- jQuery Javascript and jQuery UI -->
+	<script type='text/javascript'         src ='/common/jquery-1.11.1.min.js'></script>
+        <link rel='stylesheet'                 href='/common/jquery_ui/jquery-ui.min.css'>
+	<script                                src ='/common/jquery_ui/jquery-ui.min.js'></script>
+
+	<script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+	<!-- Custom javascript -->
+	<script type='text/javascript'         src ='/common/biobricks.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/biobricks.css' />
+        <link rel='stylesheet' type='text/css' href='/forum/forum_styles.css' />
+	<script type='text/javascript'         src ='/forum/forum_scripts.js'></script>
+	   
+	<!-- Ajax User interface support RDR March 2013 -->
+        <script type='text/javascript'         src ='/aj/parts_ui/parts_ui.js'></script>
+        <link rel='stylesheet' type='text/css' href='/aj/parts_ui/parts_ui.css' />
+
+	<!-- Part Tool Menu -->
+        <script type='text/javascript'         src ='/aj/old_part_tool_menu/part_tools.js'></script>
+        <script type='text/javascript'         src ='/aj/old_part_tool_menu/part_tool_menu.js'></script>
+        <link rel='stylesheet' type='text/css' href='/aj/old_part_tool_menu/part_tool_menu.css' />
+
+	<!-- Edit Part Tool Menu -->
+        <script type='text/javascript'         src ='/aj/part_edit_menu/part_edit.js'></script>
+        <script type='text/javascript'         src ='/aj/part_edit_menu/part_edit_menu.js'></script>
+        <link rel='stylesheet' type='text/css' href='/aj/part_edit_menu/part_edit_menu.css' />
+	</head>
+
+<body              class="mediawiki  ltr ns-0 ns-subject page-Main_Page">
+  <div id="topWrapper">
+      <div id='site_nav_wrapper' class='noprint'></div>
+	  <script>jQuery('#site_nav_wrapper').load('http://parts.igem.org/cgi/aj/cat/site_nav.cgi',
+						   {t:"Main%20Page",
+						       s:""});
+	</script>
+
+     <div id="top-section">
+	 <div id="p-logo">
+	    <a href="/Main_Page"><img src="http://parts.igem.org/images/header_words.png"></a>
+	</div>  <!-- end p-logo -->
+
+<!-- NEW Main Menubar system -->
+	<div id='new_menubar' class='noprint'></div> <!-- Will be replaced with the jQuery.load -->
+	<script>jQuery('#new_menubar').load('http://parts.igem.org/cgi/aj/menubar/menubar_reply.cgi',
+					    {t:"Main%20Page"});
+	</script>
+    </div> <!-- close top-section -->
+    </div> <!--close topWrapper -->
+    <div id="globalWrapper">
+    <div id="pageWrapper">
+
+
+
+    <div id="content">
+		<a name="top" id="top"></a>
+				<div id="bodyContent">
+			<div id="contentSub"></div>
+						<!--
+			<div id="jump-to-nav">Jump to:                        <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>-->
+			<!-- start content -->
+			<p>
+<style type="text/css">
+#headerlink a {text-decoration:none; color: #fff;}
+#feature_box a {color:black;}
+#feature_box a:hover {color:orange;}
+#header-text a {color: #FF9900;}
+.link_box a, #link_box a:visited, #link_box a:active {color:black; text-decoration: none;}
+.link_box a:hover, .link_box_outside a:hover {color:#FF9900; text-decoration: none;}
+
+.link_box {
+	display: inline-block; 
+	color: black; 
+	font-size: 16px; 
+	font-weight: bold; 
+	background-color: #fff; 
+	margin-right: 20px;
+}
+
+.link_box_outside {
+	display: block;
+	position: absolute;
+	left: 700px;
+	bottom: 50px;
+	color: black; 
+	font-size: 16px; 
+	font-weight: bold;
+}
+
+.link_box_outside a, #link_box_outside a:visited, #link_box_outside a:active {color:black; text-decoration: none;}
+
+#addapart {
+	height: 30px;
+	background-image: url('http://parts.igem.org/wiki/images/5/5d/AddAPartIcon.png');
+}
+
+.link_image {
+	width: 30px;
+	padding-right: 5px;
+	display: inline-block;
+	vertical-align:bottom;
+	background-repeat: no-repeat;
+}
+
+.link_text {
+	line-height: 30px;
+	display: inline-block;
+	vertical-align:bottom;
+	color: black; 
+}
+
+.link_box:hover #addapart {
+	background-image: url('http://parts.igem.org/wiki/images/e/e7/AddAPartIcon_hover.png');
+	background-repeat: no-repeat;
+}
+
+.link_box_outside:hover .link_text, .link_box:hover .link_text {color:#FF9900;}
+
+#sendapart {
+	height: 20px;
+	margin-bottom: 5px;
+	background-image: url('http://parts.igem.org/wiki/images/9/91/SendAPartIcon.png');
+}
+
+.link_box:hover #sendapart {
+	background-image: url('http://parts.igem.org/wiki/images/2/2d/SendAPartIcon_hover.png');
+	background-repeat: no-repeat;
+}
+
+
+#handbook {
+	height: 30px;
+	background-image: url('http://parts.igem.org/wiki/images/6/64/Handbook-Icon.png');
+}
+
+.link_box_outside:hover #handbook {
+	background-image: url('http://parts.igem.org/wiki/images/b/bb/Handbook-Icon-Hover.png');
+	background-repeat: no-repeat;
+}
+
+</style>
+
+<!-- Announcements
+<div style='position:relative;top:-22px;left:-15px;width:933px;margin:5px 0;border: 1px solid red; background-color:#ddffdd;padding:5px 20px;'>The Registry wiki was frozen Oct 17, 12:00. It is now thawed.</DIV>
+-->
+<div style="width: 975px; position: relative; left: -15px; top: -22px; border-bottom: 1px solid gray;">
+	<img src="http://parts.igem.org/wiki/images/4/4a/Header_repository_9_2013.jpg" style="width: 975px; height: 310px;">
+		<div style="position: absolute; top: 0px; right: 0px; padding: 12px 15px; background-color: red; color: white; font-family: arial; font-size: 26px; letter-spacing: 2px; font-weight: bold;">The iGEM 2015 DNA Distribution</div>
+		<div id="header-text" style="position: absolute; top: 70px; right: 20px; width: 400px; padding: 10px 10px 15px 10px; background: #222; color: #fff; font-size: 14px;">
+The iGEM 2015 DNA Distribution is shipping out to registered teams! This year's distribution contains over 1000 high-quality samples of parts from the iGEM Registry. 
+<br /><br />
+We've added some new material this year, so be sure to read through the 2015 Distribution Handbook before using your kit!<br />
+
+</div>
+		<div class="link_box_outside"> 
+<a href="http://parts.igem.org/Help:2015_DNA_Distribution">2015 Distribution Handbook</a><br />
+<a href="http://parts.igem.org/assembly/libraries.cgi?id=62">2015 Distribution Contents</a>
+		</div>
+
+</div>
+
+<div id="feature_box" style="position: relative; left: -5px; font-size: 24px; font-weight: 400; color: black; margin-bottom: 10px;"><a href="http://parts.igem.org/Feature_Box_Archive">Featured on the Registry</a></div>
+
+<div style="width: 965px; display: block; position: relative; left: -5px; height: 300px;">
+	<div style="float: left; height: 300px; width: 625px; margin-right: 16px;">
+                <a href="http://2013.igem.org/Team:Freiburg"><img src="http://parts.igem.org/wiki/images/6/68/Freiburg_2013_CRISPER-CAS.jpg"></a>   
+	</div>
+
+
+
+<!-- Comments on feature boxes. Previous Feature boxes:
+<a href="http://parts.igem.org/Help:3A_Assembly_Kit"><img src="http://parts.igem.org/wiki/images/8/86/Feature_box_1.jpg"></a>
+<a href="http://parts.igem.org/Part:BBa_K801077"><img src="http://parts.igem.org/wiki/images/a/ae/Feature_box_3.jpg"></a>
+<a href="http://parts.igem.org/Part:BBa_I750016"><img src="http://parts.igem.org/wiki/images/d/dd/Feature_box_4.jpg"></a>
+<a href="http://parts.igem.org/Genome_Integration"><img src="http://parts.igem.org/wiki/images/3/3f/Feature_box_5.jpg"></a>
+<a href="http://parts.igem.org/Cat:Feature_Boxes"><img src="http://parts.igem.org/wiki/images/f/ff/Feature_box_6.jpg"></a>
+<a href="http://parts.igem.org/Help:Contents"><img src="http://parts.igem.org/wiki/images/2/2e/Feature_box_7.jpg"></a>
+<a href="http://2011.igem.org/Team:Imperial_College_London/Project_Chemotaxis_Overview"><img src="http://parts.igem.org/wiki/images/e/ee/Feature_box_8.jpg"></a>
+<a href="http://parts.igem.org/Ribosome_Binding_Site/Cat_page"><img src="http://parts.igem.org/wiki/images/d/d5/Feature_box_9.jpg"></a>
+<a href="http://parts.igem.org/Part:BBa_K747001"><img src="http://parts.igem.org/wiki/images/1/1e/Feature_box_10.jpg"></a>
+<a href="http://partsregistry.org/wiki/index.php?title=Part:BBa_K592012"><img src="http://parts.igem.org/wiki/images/9/95/Feature_box_11.jpg"></a>
+<a href="http://2010.igem.org/Team:Freiburg_Bioware"><img src="http://parts.igem.org/wiki/images/8/8a/Theraputic_virus_toolkit-mod.jpg"></a>
+<a href="http://2013.igem.org/Team:Freiburg"><img src="http://parts.igem.org/wiki/images/6/68/Freiburg_2013_CRISPER-CAS.jpg"></a>   
+<a href="http://parts.igem.org/CRISPR"><img src="http://parts.igem.org/wiki/images/9/96/CRISPER-CAS_on_the_registry.jpg"></a>
+-->
+
+	<div style="position: relative; float: left; width: 300px; border: 0px solid #000; top: -3px; padding-right: 15px; font-family: serif; font-size: 20px; line-height: 25px; font-style: italic; color:#555;">
+		<div>The iGEM Registry is a growing collection of genetic parts that can be mixed and matched to build synthetic biology devices and systems.</div>
+		<div style='padding-top:10px;'>As part of the synthetic biology community's efforts to make biology easier to engineer, it provides a source of genetic parts to iGEM teams and academic labs.</div>
+		<div style='padding-top:10px;'>You can learn more about iGEM Teams and Labs at <a href='http://igem.org'>iGEM.org</a>.</div>
+	</div>
+</div>
+
+<div style="clear:both;"></div>
+
+
+</p><p><br />
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 6/1000000
+Post-expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+<div class="printfooter">
+Retrieved from "<a href="http://parts.igem.org/Main_Page">http://parts.igem.org/Main_Page</a>"</div>
+			<!-- end content -->
+			<div class="visualClear"></div>
+
+                        <!-- Contributions -->
+			                        <!-- end contributions -->
+
+		</div>
+
+		    </div>
+</div> <!-- close pageWrapper   -->
+</div> <!-- close globalWrapper -->
+<!-- PAGE FOOTER -- ITEMS FROM LEFT COLUMN HAVE BEEN MOVED HERE  -- RDR  -->
+<div class="visualClear"></div>
+	 
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+<!-- </div> <!-- close globalWrapper -->
+<!-- Served in 0.180 secs. --></body>
+
+</html>

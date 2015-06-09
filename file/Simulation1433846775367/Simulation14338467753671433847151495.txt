@@ -1,0 +1,457 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>
+	Is There Molecular Cell Biology in ASU BME? &#8211; The Haynes Lab</title>
+
+<meta name="author" content="The Haynes Lab" />
+<link rel="shortcut icon" href="http://haynes.lab.asu.edu/wp-content/themes/edegree/images/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="The Haynes Lab RSS Feed" href="http://haynes.lab.asu.edu/feed/" />
+<link rel="pingback" href="http://haynes.lab.asu.edu/xmlrpc.php" />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://haynes.lab.asu.edu/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<script type='text/javascript' src='http://widgets.twimg.com/j/2/widget.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-includes/js/jquery/jquery.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-includes/js/comment-reply.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-content/plugins/wp-charts/js/Chart.min.js?ver=3.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://haynes.lab.asu.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://haynes.lab.asu.edu/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Review on Engineered Quorum Sensing Published in Frontiers' href='http://haynes.lab.asu.edu/student-research-2/review-on-engineered-quorum-sensing-published-in-frontiers/' />
+<link rel='next' title='2015 Synberc Scholars Program for STEM Minorities' href='http://haynes.lab.asu.edu/student-research-2/2015-synberc-scholars-program-for-stem-minorities/' />
+<meta name="generator" content="WordPress 3.4.2" />
+<link rel='canonical' href='http://haynes.lab.asu.edu/uncategorized/is-there-molecular-cell-biology-in-asu-bme/' />
+<link rel='shortlink' href='http://wp.me/p48Dta-b4' />
+
+	<!-- begin gallery scripts -->
+    <link rel="stylesheet" href="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/css/jd.gallery.css.php" type="text/css" media="screen" charset="utf-8"/>
+	<link rel="stylesheet" href="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/css/jd.gallery.css" type="text/css" media="screen" charset="utf-8"/>
+	<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js"></script>
+	<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php"></script>
+	<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.transitions.js"></script>
+	<!-- end gallery scripts -->
+<style type="text/css">
+	#header {text-align:left }
+	#description { clear:left;float: left; }
+</style>
+<!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://haynes.lab.asu.edu/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+<!--[if lte IE 8]><script src="http://haynes.lab.asu.edu/wp-content/plugins/wp-charts/js/excanvas.compiled.js"></script><![endif]-->	<style>
+    			/*wp_charts_js responsive canvas CSS override*/
+    			.wp_charts_canvas {
+    				width:100%!important;
+    				max-width:100%;
+    			}
+
+    			@media screen and (max-width:480px) {
+    				div.wp-chart-wrap {
+    					width:100%!important;
+    					float: none!important;
+						margin-left: auto!important;
+						margin-right: auto!important;
+						text-align: center;
+    				}
+    			}
+    		</style><style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://haynes.lab.asu.edu/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");
+@import url("http://haynes.lab.asu.edu/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.4");
+/* ]]> */
+</style>
+<link href="http://haynes.lab.asu.edu/wp-content/themes/edegree/style.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/themes/edegree/js/superfish.js"></script>
+<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/themes/edegree/js/functions.js"></script>
+
+<!--[if gte IE 5.5]>
+<style type="text/css">.post img, .page img, .customhtml img {width: expression(this.width > 495 ? 495: true) }</style>
+<![endif]-->
+ <!-- START /asuthemes/4.0/heads/default.shtml -->
+
+<link type="text/css" rel="stylesheet" media="all" href="//www.asu.edu/asuthemes/4.0/css/asu_header.css" />
+<!--[if lte IE 8]>
+<style type="text/css">
+  #asu_search_module input.asu_search_box { line-height: 19px; }
+  #asu_universal_nav ul li:hover > ul {top: 25px;}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style type="text/css">
+  #asu_search_module {height:17px;float:none; text-align:right; top:3px;}
+  .asu_search_selection {position:relative; top:-2px;}
+  #asu_universal_nav ul li.parent ul {display: none;}
+  #asu_universal_nav > ul > li.parent > a {background-image: none; padding-right: 8px;}
+  #asu_universal_nav > ul > li.parent:hover > a {background-image: none; background-color: transparent; color: #903; filter: none;}
+</style>
+<![endif]-->
+<!--[if lte IE 6]>
+<style type="text/css">
+  #asu_hdr.asu_hdr_maroon {background: #903;}
+</style>
+<![endif]-->
+
+<!--[if IE 9]>
+<style type="text/css">
+  #asu_universal_nav ul ul {filter: none; box-shadow: 0px 6px 6px 0px #999;}
+  #asu_universal_nav > ul > li.parent:hover > a {filter: none; box-shadow: 6px 0px 6px -6px #999, -6px 0px 6px -6px #999;}
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];
+_gaq.push(['asu._setAccount', 'UA-2392647-1'], ['asu._setDomainName', '.asu.edu']);
+_gaq.push(['asu._trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = 'https://ssl.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ASUHeader = ASUHeader || {};
+//--><!]]>
+</script>
+
+<script type="text/javascript" src="//www.asu.edu/asuthemes/4.0/js/asu_header.js"></script>
+<!-- END /asuthemes/4.0/heads/default.shtml -->
+</head>
+
+<body class="single single-post postid-686 single-format-standard internalpage" style="background-repeat:repeat-x;font-size:13px;color:#575757;">
+
+<!-- START /asuthemes/4.0/headers/fulton_engineering_white.shtml -->
+
+<div id="asu_hdr" class=" asu_hdr_white">
+	<div id="asu_logo">
+    	<a target="_top" href="http://engineering.asu.edu" title="Arizona State University - Ira A. Fulton Schools of Engineering">
+    		<img src="//www.asu.edu/asuthemes/4.0/images/logos/fulton_engineering_logo_mg.png" alt="Arizona State University - Ira A. Fulton Schools of Engineering" height="36" width="225" style="margin-top:12px" title="Arizona State University - Ira A. Fulton Schools of Engineering" />
+    	</a>
+	</div>
+	
+	<img src="//www.asu.edu/asuthemes/4.0/images/logos/fulton_engineering_logo_mg.png" height="36" width="225" id="asu_print_logo" />
+	
+	<div id="asu_nav_wrapper">
+	
+	  <h2 class="hidden">Sign In / Sign Out</h2>
+	  <ul id="asu_login_module">
+		 	       <li id="asu_hdr_ssi" class="end">
+	         <a target="_top" href="https://weblogin.asu.edu/cgi-bin/login?callapp=**w.l**"
+	           onmouseover="this.href = ASUHeader.alterLoginHref(this.href);"
+		       onfocus="this.href = ASUHeader.alterLoginHref(this.href);"
+	           onclick="this.href = ASUHeader.alterLoginHref(this.href);">SIGN IN</a>
+	       </li>
+		 	  </ul>	
+	
+            <h2 class="hidden">Navigation: ASU Universal</h2>
+      <div id="asu_universal_nav">
+        <ul>
+      	  <li><a target="_top" href="http://www.asu.edu/">ASU Home</a></li>
+      	  <li><a target="_top" href="https://my.asu.edu/">My ASU</a></li>
+      	  <li class="parent"><a target="_top" href="http://www.asu.edu/colleges/">Colleges &amp; Schools</a>
+	  		<ul>
+				<li><a target="_top" class="first" href="http://artsandsciences.asu.edu/" title="Arts and Sciences website">Arts and Sciences</a></li>     
+				<li><a target="_top" href="http://wpcarey.asu.edu/" title="W. P. Carey School of Business Web  and Morrison School of Agribusiness website">Business</a></li>          
+				<li><a target="_top" href="http://herbergerinstitute.asu.edu" title="Herberger Institute for Design and the Arts website">Design and the Arts</a></li>
+				<li><a target="_top" href="http://education.asu.edu/" title="Mary Lou Fulton Teachers College website">Education </a></li>
+				<li><a target="_top" href="http://engineering.asu.edu/" title="Engineering website">Engineering</a></li>
+				<li><a target="_top" href="http://graduate.asu.edu" title="Graduate College website">Graduate</a></li>
+				<li><a target="_top" href="https://chs.asu.edu/" title="Health Solutions website">Health Solutions</a></li>
+				<li><a target="_top" href="http://honors.asu.edu/" title="Barrett, The Honors College website">Honors</a></li>
+				<li><a target="_top" href="http://cronkite.asu.edu" title="Walter Cronkite School of Journalism and Mass Communication website">Journalism</a></li>
+				<li><a target="_top" href="http://www.law.asu.edu/" title="Sandra Day O' Connor College of Law website">Law</a></li>
+				<li><a target="_top" href="http://nursingandhealth.asu.edu/" title="College of Nursing and Health Innovation website">Nursing and Health Innovation</a></li>
+				<li><a target="_top" href="http://copp.asu.edu" title="College of Public Programs website">Public Service and Community Solutions</a></li>
+				<li><a target="_top" href="http://schoolofsustainability.asu.edu" title="School of Sustainability website">Sustainability</a></li>
+				<li><a target="_top" href="http://uc.asu.edu/" title="University College website">University  College</a></li>
+				<li><a target="_top" href="http://www.thunderbird.edu/" title="Thunderbird School of Global Management website">New: Thunderbird School of Global Management</a></li>
+			</ul>
+      	  </li>
+      	  <li class="parent"><a target="_top" href="http://www.asu.edu/map/">Map &amp; Locations</a>
+      		<ul>
+				<li><a target="_top" class="border first" href="http://www.asu.edu/map/">Map</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/tempe/" title="Tempe campus">Tempe</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/west/" title="West campus">West</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/polytechnic/" title="Polytechnic campus">Polytechnic</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/downtown/" title="Downtown Phoenix campus">Downtown Phoenix</a></li>
+				<li><a target="_top" href="http://asuonline.asu.edu/" title="Online and Extended campus">Online and Extended</a></li>
+				<li><a target="_top" class="border" href="http://havasu.asu.edu/">Lake Havasu</a></li>
+				<li><a target="_top" href="http://www.thunderbird.edu/about-thunderbird/locations/phoenix-arizona">Thunderbird</a></li>
+				<li><a target="_top" href="http://skysong.asu.edu/">Skysong</a></li>
+				<li><a target="_top" href="http://asuresearchpark.com/">Research Park</a></li>
+				<li><a target="_top" href="http://washingtoncenter.asu.edu/">Washington D.C.</a></li>
+				<li><a target="_top" href="http://wpcarey.asu.edu/mba/china-program/english/">China</a></li>
+			</ul>
+	  	  </li>      
+      	  <li><a target="_top" href="http://www.asu.edu/contactasu/" title="Directory, Index and other info">Directory</a></li>
+	    </ul>
+	    <img class="asu_touch" src="//www.asu.edu/asuthemes/4.0/images/ipad_close.gif" alt="" />
+      </div><!-- /#asu_universal_nav -->
+          
+    </div><!-- /#asu_nav_wrapper -->
+
+        <h2 class="hidden">Search</h2>
+    <div id="asu_search_module"><form target="_top" action="https://search.asu.edu/search" method="get" name="gs">
+	<label class="hidden" for="asu_search_box">Search</label>
+			<fieldset class="asu_search_selection">
+			<label for="engineering_collection"><input type="radio" checked="checked" value="engineering_collection" id="engineering_collection" name="site" onclick="ASUHeader.searchSwitch('Engineering')"/>Engineering</label>
+			<label for="asu_collection"><input type="radio" value="default_collection" id="asu_collection" name="site" onclick="ASUHeader.searchSwitch('ASU')"/>ASU</label>
+		</fieldset>
+		<input type="text" name="q" size="32" value="Search Engineering" id="asu_search_box" class="asu_search_box" onfocus="ASUHeader.searchFocus(this)" onblur="ASUHeader.searchBlur(this)" /> 
+	<input type="submit" value="Search" title="Search" class="asu_search_button" />
+	<input name="sort" value="date:D:L:d1" type="hidden" /> 
+	<input name="output" value="xml_no_dtd" type="hidden" /> 
+	<input name="ie" value="UTF-8" type="hidden" /> 
+	<input name="oe" value="UTF-8" type="hidden" /> 
+	<input name="client" value="asu_frontend" type="hidden" /> 
+	<input name="proxystylesheet" value="asu_frontend" type="hidden" />
+</form></div><!-- /#asu_search_module -->
+        
+</div><!-- /#asu_hdr -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ASUHeader.default_search_text = "Search Engineering";
+ASUHeader.default_search_alttext = "Search Engineering";
+if (typeof ASUHeader.signin_callback_url == "undefined") {
+	ASUHeader.signin_callback_url = '';
+}
+if (typeof ASUHeader.signin_url == "undefined") {
+	ASUHeader.signin_url = '';
+}
+if (typeof ASUHeader.signout_url == "undefined") {
+	ASUHeader.signout_url = 'https://webapp4.asu.edu/myasu/Signout';
+}
+if (typeof ASUHeader.user_signedin == "undefined" ||
+		(ASUHeader.user_signedin != false && typeof ASUHeader.user_displayname == "undefined")) {
+	ASUHeader.checkSSOCookie();
+}
+if (ASUHeader.user_signedin == true) {
+	ASUHeader.setSSOLink();
+}if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+	document.getElementById('asu_hdr').className = document.getElementById('asu_hdr').className+" chrome";
+}
+//--><!]]>
+</script><!-- END /asuthemes/4.0/headers/fulton_engineering_white.shtml -->
+<div style="clear:both;"></div>
+<div id="bg" >
+  <div id="wrapper">
+    <div id="shadow">
+     
+        <div id="header">
+          <h1 id="logo">
+			            	<a href="http://haynes.lab.asu.edu" id="blogname" style="background:none;text-indent:0;width:auto"><span class="blod">The Haynes Lab</span> </a>
+                      </h1>
+          
+			                <form name="search_form" class="search_form" action="http://haynes.lab.asu.edu/" method="get">
+    <input id="s" class="text_input" type="text" onblur="restoreDefault(this)" onfocus="clearDefault(this)" name="s" value="Search"/>
+    <input type="submit" align="middle" id="search-submit" value="Go" />
+    <input id="searchsubmit" type="hidden" value="Search"/>
+</form>                      
+
+        </div>
+        
+                
+        <div id="container">
+			<div id="container-shoulder-plain">
+            	<div id="left-col">
+			<div class="post" id="post-686">
+			<p class="entry-date">May<br /><span class="date">12</span></p>
+			<div class="entry_header">
+                <h1><a href="http://haynes.lab.asu.edu/uncategorized/is-there-molecular-cell-biology-in-asu-bme/">Is There Molecular Cell Biology in ASU BME?</a> </h1>
+                                <div class="recover"></div>
+            </div>
+			
+			<div class="entry">
+				<p>Dear Biomedical Engineering (BME) First-year Student,</p>
+<p>As you know, the first year in a college program is a very critical year. You don&#8217;t have long to make a decision about which major(s) to seal a ~4-year long commitment with. You may have spoken with peers, second-year students and beyond, or professors at ASU and heard about all of the mathematical, programming, computer, and hardware design classes that are required in the BME curriculum. You may have heard some people comment that BME does not offer much for those interested in genetic engineering, molecular cell biology, synthetic biology, and other fields related to studying and manipulating DNA, proteins, stem cells, antibodies, etc.</p>
+<p>A bit worried, you may have approached me or other BME faculty and asked <em><strong>&#8220;should I stay in BME or switch to the School of Life Sciences (SOLS)?&#8221;</strong></em> You may have received different answers.</p>
+<p>I am writing this open letter to give you some helpful and important insights into BME. The molecular cell biology content offered in the BME major may not be obvious after just skimming the course titles. However, the content is indeed there and with the hiring of new faculty in Molecular Cell and Tissue Bioengineering and Synthetic Biology, the content is growing. Importantly, the molecular cell biology content offered by BME is presented in a way that makes the medical applications much more obvious than most other courses offered by other programs. If medical context appeals to you, I personally encourage you to stick with BME.</p>
+<p><em><strong>1. Start Planning Now to Take the Following Courses</strong></em></p>
+<p style="padding-left: 30px;"><strong>BME100 &#8211; Introduction to Biomedical Engineering</strong> (Lecture and Lab)<br />Offered: Fall, Spring<br />Offered by: Profs. <a href="http://faculty.engineering.asu.edu/garcia/" target="_blank">Garcia</a>, <a href="http://haynes.lab.asu.edu/" target="_blank">Haynes</a>, <a href="http://sbhse.engineering.asu.edu/faculty-and-staff/faculty/jeff-kleim/" target="_blank">Kleim</a> <br />You will learn about: <strong>Cell engineering, gene delivery, gene networks, DNA analysis</strong></p>
+<p style="padding-left: 30px;"><strong>BME318 &#8211; Biomaterials</strong> (Lecture and Lab)<br />Offered: Fall, Spring<br />Offered by: Prof. <a href="http://stabenfeldt.lab.asu.edu/" target="_blank">Stabenfeldt</a>, Dr. Ankeny<br />You will learn about: <strong>Protein interactions, cell adhesion/ scaffolding, inflammatory response, immune response, infection</strong></p>
+<p style="padding-left: 30px;"><strong>BME331 &#8211; Mass Transport</strong> <br />Offered: Fall, Spring<br />Offered by: Prof. <a href="http://faculty.engineering.asu.edu/caplan/" target="_blank">Caplan</a> <br />You will learn about: Biomolecules, cell transport</p>
+<p style="padding-left: 30px;"><strong>BME494/598 &#8211; Molecular Synthetic Biology</strong> <br />Offered: Spring (even years)<br />Offered by: Prof. <a href="http://haynes.lab.asu.edu/" target="_blank">Haynes</a> <br />You will learn about: Synthetic genes, molecular cloning, gene delivery, gene &amp; protein design</p>
+<p style="padding-left: 30px;"><strong>The International Genetically Engineered Machine Competition (<a href="http://igem.org/Main_Page" target="_blank">iGEM</a>)</strong><br />Not a course, but a spin-out of BME494/598. One of the student-designed projects developed in the course will be offered support (lab space, materials, iGEM registration fees, travel). The project will be completed over the following summer. The international conference/ competition occurs in early Fall.</p>
+<p style="padding-left: 30px;">&#8230;And several courses for MS and PhD graduate students (500-level and above)</p>
+<p style="padding-left: 30px;"> </p>
+<p><em><strong>2. Consider Adding a Life Sciences Class to Your Curriculum</strong></em></p>
+<p>Find a biology course that has a strong <span style="text-decoration: underline;"><em>quantitative</em></span> emphasis (e.g., bioinformatics, protein engineering, biochemistry). If you are going to engineer biological systems, you will need to learn how math and computer software is used to understand biology, in addition to the basic concepts and some wet lab techniques. Discuss with your academic advisor how to fit one or a few of these classes into your curriculum. <em><span style="text-decoration: underline;">Do not over-commit</span></em>&#8230;prioritize the classes that fit your interests.</p>
+<p><em><strong>3. Plan to Secure a Position in a Wet Lab</strong></em></p>
+<p>BME professors run research labs when they are not teaching. Visit the BME faculty page to find links to their labs&#8217; websites. Find one or more that you are interested in. Send them an e-mail and ask if they have any room for undergraduate volunteers. Over time while you are volunteering, if you find that the lab is a good fit write up an idea for a <a href="http://more.engineering.asu.edu/furi/" target="_blank">FURI proposal</a>.</p>
+<p><em><strong>4. Keep Track of Changes in the Course Offerings</strong></em></p>
+<p>ASU is growing very quickly. Almost every year, a new faculty joins a department here, including SBHSE (BME). Look out for new SBHSE faculty who focus on molecular cell biology and find out what classes they are offering. This information can be easily accessed by looking up that faculty&#8217;s directory profile page.</p>
+<p>&nbsp;</p>
+<p>I hope that you find this bit of advice helpful. All the best on your career path, wherever it may take you.</p>
+
+				
+			<p class="postmetacat"><span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span><br />
+            <span class="comment-icon"><span>Comments Off</span></span> Posted by <span class="usr-meta">khaynes</span> </p>
+			</div>
+		</div>
+
+	
+
+			<!-- If comments are closed. -->
+		<p class="nocomments">Comments are closed.</p>
+	
+
+
+	
+			<div class="recover"></div>
+        </div><!--End left-col-->
+              
+			  		<!-- begin sidebar -->
+		<div id="sidebar">
+			                <div id="top-content-internal">
+                    <div class="widget">			<div class="textwidget"><p>Karmella A. Haynes<br />
+School of Biological and Health Systems Engineering<br />
+Office: ISTB-4, 273<br />
+Lab: ISTB-4, 231</p>
+<p>karmella.haynes at asu dot edu<br />
+Phone: 480-965-4636<br />
+Fax: 480-727-7624</p>
+</div>
+		</div>                </div>
+                        
+            <div id="socialize-icons">
+                <ul>
+                                        	
+	                    <li id="icon-twitter"><a href="https://twitter.com/hayneslab" rel="nofollow" target="_blank">twitter</a></li>
+					                    	
+                                        	<li id="icon-youtube"><a href="http://openwetware.org/wiki/User:Karmella_Haynes" rel="nofollow" target="_blank">YouTube</a></li>
+                    	
+                </ul>
+            </div>
+            
+        	  
+			<ul>
+			  		<li class="widget" id="recent-posts-2">		<h2>Recent Posts</h2>		<ul>
+				<li><a href="http://haynes.lab.asu.edu/student-research-2/2015-synberc-scholars-program-for-stem-minorities/" title="2015 Synberc Scholars Program for STEM Minorities">2015 Synberc Scholars Program for STEM Minorities</a></li>
+				<li><a href="http://haynes.lab.asu.edu/uncategorized/is-there-molecular-cell-biology-in-asu-bme/" title="Is There Molecular Cell Biology in ASU BME?">Is There Molecular Cell Biology in ASU BME?</a></li>
+				<li><a href="http://haynes.lab.asu.edu/student-research-2/review-on-engineered-quorum-sensing-published-in-frontiers/" title="Review on Engineered Quorum Sensing Published in Frontiers">Review on Engineered Quorum Sensing Published in Frontiers</a></li>
+				<li><a href="http://haynes.lab.asu.edu/student-research-2/haynes-lab-students-present-research-at-ibe/" title="Haynes Lab Students Present Research at IBE">Haynes Lab Students Present Research at IBE</a></li>
+				<li><a href="http://haynes.lab.asu.edu/pis-blog/cshl-synthetic-biology-course-2015/" title="CSHL Synthetic Biology Course &#8211; 2015">CSHL Synthetic Biology Course &#8211; 2015</a></li>
+				</ul>
+		</li>	
+              
+                                            	
+			</ul>
+		</div><!-- end sidebar -->              
+              <div class="recover"></div>
+			</div><!-- #container-shoulder -->
+        </div><!-- #Container-->
+         
+ 
+        <div id="globalnav">                
+        	<div id="navpocket">                
+                <ul id="nav">                
+                                        <li><a href="http://haynes.lab.asu.edu" rel="nofollow">Home</a></li>
+                                        
+                    <li class="page_item page-item-6"><a href="http://haynes.lab.asu.edu/contact/">Contact</a></li>
+<li class="page_item page-item-8"><a href="http://haynes.lab.asu.edu/join/">Join</a></li>
+<li class="page_item page-item-28"><a href="http://haynes.lab.asu.edu/people/">People</a></li>
+<li class="page_item page-item-32"><a href="http://haynes.lab.asu.edu/publications/">Publications</a></li>
+<li class="page_item page-item-34"><a href="http://haynes.lab.asu.edu/research/">Research</a></li>
+<li class="page_item page-item-75"><a href="http://haynes.lab.asu.edu/open-science/">Open Science</a></li>
+<li class="page_item page-item-445"><a href="http://haynes.lab.asu.edu/courses/">Courses</a></li>
+                    
+                                    </ul>
+        	</div>
+        </div>
+    </div><!--End shadow-->
+  </div><!--End wrapper-->
+  
+      <div id="footer" >
+        <div class="footer-content">
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-3">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-4">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-5">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+          <div class="recover"></div>
+          
+          <span id="copyright"><span class="alignleft">Copyright &copy;             <script type="text/javascript">
+			/* <![CDATA[ */
+			var startCopyrightYear = 2012;
+			if(!startCopyrightYear) {
+				var d=new Date();
+				startCopyrightYear = d.getFullYear();
+			}
+			printCopyrightYears(startCopyrightYear)
+			/* ]]> */
+            </script>
+            The Haynes Lab</span><span id="footer-tag"> | &nbsp; <a href="http://www.topblogformula.com/wordpress-business-themes/edegree" target="_blank">eDegree&#176;</a> Theme by <a href="http://www.topblogformula.com/">Top Blog Formula</a> on <a href="http://www.wordpress.org" target="_blank">WordPress</a></span> | &nbsp; 
+                            <a href="http://haynes.lab.asu.edu/wp-login.php">Log In</a>
+                      </span>
+    
+        </div>
+      </div><!--End footer-->
+      <div id="eng-footer">
+<!-- FULTON FOOTER --> 
+ 
+<!-- Moved footer out of asu_container to stretch black bar background to the right --> 
+   <!-- START FOOTER /asuthemes/2.0/includes/html/asu_footer.shtml -->   
+   <ul id="asu_footer" class="asu_black_footer" style="padding-right:50px;" > 
+     <li><a href="http://www.asu.edu/copyright/">Copyright &amp; Trademark</a></li> 
+     <li><a href="http://www.asu.edu/accessibility/">Accessibility</a></li> 
+     <li><a href="http://www.asu.edu/privacy/">Privacy</a></li> 
+     <li><a href="http://www.asu.edu/emergency/">Emergency</a></li> 
+     <li class="no-border"><a href="http://www.asu.edu/contactasu/">Contact ASU</a></li> 
+   </ul> 
+   <!-- END FOOTER --> 
+	
+<div id="asu_footer_contact_info" style="padding-right:50px;"><div id="footer-inner" class="region region-footer">
+    <p></p>
+</div><!-- end footer contact info --> 
+<!-- END FULTON FOOTER --> 
+
+</div><!--End bg-->
+
+
+
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.4.2'></script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524'></script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-content/plugins/wp-charts/js/functions.js?ver=3.4.2'></script>
+
+	<script src="http://stats.wordpress.com/e-201524.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:1.8.2',blog:'61163692',post:'686'});
+	var load_cmc = function(){linktracker_init(61163692,686,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex">
+<title>Berkeley Lab</title>
+<link href="assets/css/main.css" rel="stylesheet" type="text/css" />
+<!--[if lte IE 7]>
+<style type="text/css">
+#nav {padding-top:50px;}
+</style>
+<![endif]-->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23605390-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body class="home n1">
+<div id="wrapper"><!-- #BeginLibraryItem "/Library/Lab Masthead.lbi" --><img height="83" width="960" usemap="#mastheadMap" src="assets/img/labmasthead.gif" alt="LBNL Masthead"/>        
+<map id="mastheadMap" name="mastheadMap">
+  <area alt="A-Z Index" href="http://www.lbl.gov/lab-index/" coords="653,53,732,72" shape="rect"/>        
+  <area alt="Berkeley Lab masthead" href="http://www.lbl.gov/" coords="1,2,476,82" shape="rect"/>        
+  <area alt="U.S. Department of Energy logo" href="http://energy.gov/" coords="799,3,958,43" shape="rect"/>        
+  <area alt="Phone Book" href="http://www.lbl.gov/ds/" coords="730,53,834,72" shape="rect"/>        
+  <area alt="Jobs" href="http://jobs.lbl.gov/" coords="832,53,887,72" shape="rect"/>        
+  <area alt="Search" href="http://search.lbl.gov/" coords="885,53,960,72" shape="rect"/>        
+  </map><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/top nav.lbi" --> 
+<div id="topnav"><a href="index.php" id="n1" >home</a><a href="search.php" id="n2" >search for an expert</a><a href="http://newscenter.lbl.gov/contacts/" id="n3" >contact us</a></div><h1><a href="index.php">Berkeley Lab Experts</a><span><br />
+  From accelerators to energy to supercomputers,<br />Berkeley Lab has a science expert for you.</span></h1>
+<div id="decoration"><img src="assets/img/name_bckgnd_d.png" alt="background" width="948" height="41"></div>
+<!-- #EndLibraryItem -->
+
+<ul id="nav"><li><a href="index.php?research_focus=33" >accelerators</a></li><li><a href="index.php?research_focus=2" >batteries</a></li><li><a href="index.php?research_focus=11" >biofuels</a></li><li><a href="index.php?research_focus=40" >cancer</a></li><li><a href="index.php?research_focus=3" >carbon capture & storage</a></li><li><a href="index.php?research_focus=8" >China &amp; India energy</a></li><li><a href="index.php?research_focus=1" >climate change</a></li><li><a href="index.php?research_focus=6" >computing</a></li><li><a href="index.php?research_focus=13" >cosmology</a></li><li><a href="index.php?research_focus=32" >earth sciences</a></li><li><a href="index.php?research_focus=23" >electricity grid</a></li><li><a href="index.php?research_focus=9" >energy efficiency</a></li><li><a href="index.php?research_focus=30" >genomics for energy</a></li><li><a href="index.php?research_focus=31" >geothermal energy</a></li><li><a href="index.php?research_focus=15" >high-speed networking</a></li><li><a href="index.php?research_focus=34" >lasers</a></li><li><a href="index.php?research_focus=24" >life sciences</a></li><li><a href="index.php?research_focus=36" >mathematics</a></li><li><a href="index.php?research_focus=4" >nanotechnology</a></li><li><a href="index.php?research_focus=18" >nuclear energy</a></li><li><a href="index.php?research_focus=38" >nuclear science</a></li><li><a href="index.php?research_focus=7" >renewable energy</a></li><li><a href="index.php?research_focus=14" >supercomputing</a></li><li><a href="index.php?research_focus=39" >synthetic biology</a></li><li><a href="index.php?research_focus=28" >technology commercialization</a></li></ul>  
+     
+     
+     
+<div id="content">
+
+	<h2>Featured Experts</h2><div class="scientist"><img src="uploads/Nogales_eva-scope_Berkeley lab.jpg" class="port"/>
+	<div>
+  <h3><a href="searchresultsB.php?id=226" >Eva  Nogales</a></h3>  
+  <p class="type">structural biologist and biophysicist  </p>
+  <p>Eva's lab is dedicated to gaining mechanistic insight into crucial  molecular processes in the life of the eukaryotic cell.</p></div></div><div class="scientist"><img src="uploads/Dominique Loque II.jpg" class="port"/>
+	<div>
+  <h3><a href="searchresultsB.php?id=230" >Dominique  Loque</a></h3>  
+  <p class="type">biochemist  </p>
+  <p>Dominique is the Director of Cell Wall Engineering at JBEI and his  research is focused on developing new tools to engineer plants to  optimize them for biofuel production.</p></div></div><div class="scientist"><img src="uploads/Schuck.jpg" class="port"/>
+	<div>
+  <h3><a href="searchresultsB.php?id=151" >P. James  Schuck</a></h3>  
+  <p class="type">physicist  </p>
+  <p>Jim Schuck is an expert in plasmonics and nano-optics. His research aims  to control and manipulate light on the nanoscale, and to investigate  the interactions of light with nanoscale structures and other quantum  systems.</p></div></div></div><!-- #BeginLibraryItem "/Library/footer.lbi" --><div id="footer"><span class="top"><a href="#">Top</a></span><br />
+<span class="normal" style="font-weight:normal">
+A U.S. Department of Energy National Laboratory Operated by the University of California</span><br />
+<a href="http://www.universityofcalifornia.edu/"><img src="assets/img/logo-uc.gif" alt="UC logo" width="55" height="55" border="0" usemap="#logoMap" /></a><br />
+<a href="http://www.lbl.gov/websupport.html">Questions &amp; Comments</a> &middot; <a href="http://www.lbl.gov/Disclaimers.html">Privacy &amp; Security Notice</a></div><!-- #EndLibraryItem --></div>
+</body>
+</html>

@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Publications | Weiss Lab for Synthetic Biology</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/reset.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles.css" />
+<!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles-IE6-fix.css" />
+	<![endif]-->
+	
+	<!--[if gte IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles-IE-fix.css" />
+	<![endif]-->
+
+<link rel="pingback" href="http://groups.csail.mit.edu/synbio/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Weiss Lab for Synthetic Biology &raquo; Feed" href="http://groups.csail.mit.edu/synbio/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Weiss Lab for Synthetic Biology &raquo; Comments Feed" href="http://groups.csail.mit.edu/synbio/comments/feed/" />
+<link rel='stylesheet' id='NextGEN-css'  href='http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/prototype.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/scriptaculous/effects.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/lightbox-2/lightbox-resize.js?ver=1.8'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.88'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.05'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://groups.csail.mit.edu/synbio/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://groups.csail.mit.edu/synbio/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Weiss Lab for Synthetic Biology' href='http://groups.csail.mit.edu/synbio/' />
+<link rel='prev' title='News' href='http://groups.csail.mit.edu/synbio/news/' />
+<link rel='next' title='Opportunities' href='http://groups.csail.mit.edu/synbio/jobs/' />
+<meta name="generator" content="WordPress 3.1.2" />
+<link rel='canonical' href='http://groups.csail.mit.edu/synbio/publications/' />
+
+	<!-- begin lightbox scripts -->
+	<script type="text/javascript">
+    //<![CDATA[
+    document.write('<link rel="stylesheet" href="http://groups.csail.mit.edu/synbio/wp-content/plugins/lightbox-2/Themes/White/lightbox.css" type="text/css" media="screen" />');
+    //]]>
+    </script>
+	<!-- end lightbox scripts -->
+
+<meta name='NextGEN' content='1.7.4' />
+</head>
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38542179-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="wrapper" class="publicationsWrapper">	<div id="container">
+		
+        <div id="header">
+			<div id="utilities">
+             <form method="get" id="searchform" action="http://groups.csail.mit.edu/synbio/">
+             <label>Search</label>
+			 <input type="text" name="s" id="s" class="text" />
+			 <input type="submit" id="searchsubmit" value="Go" class="submit" />
+			</form>
+		</div>
+            
+            
+            
+         	
+			<div id="logo-mini"><a href="http://web.mit.edu" target="_new"><img src="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/images/logo-mit.gif" alt="MIT" title="MIT" /></a></div>
+			<!--<h1>
+				<a href="http://groups.csail.mit.edu/synbio/">WEISS</a>
+			</h1>-->
+			<div></div>
+			<h1 id="pageTitle">Weiss Lab for Synthetic Biology:  Publications</h1>
+			<a id="logo" href="http://groups.csail.mit.edu/synbio/"><img src="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/images/logo-weiss-lab.gif" alt="Weiss Lab for Synthetic Biology" title="Weiss Lab 	for Synthetic Biology" /></a>
+			<div id="topNav">
+				<ul>
+					<li><a href="http://groups.csail.mit.edu/synbio/about/" class='about'>About</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/people/" class='people'>People</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/projects/" class='projects'>Projects</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/publications/" class='publicationsOn'>Publications</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/news/" class='news'>News</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/photos/" class='photos'>Photos</a></li>
+					<li class="last"><a href="http://groups.csail.mit.edu/synbio/jobs/" class='jobs'>Opportunities</a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="leftNav">
+			&nbsp;
+		</div>
+		<div id="interiorMain" class="publicationsInterior oneColumnInterior">
+			         	        	<p>&nbsp;</p>
+<table class="aligncenter" border="0" frame="void" align="center">
+<tbody>
+<tr align="center" valign="middle">
+<td style="width: 200px;" align="center" valign="middle"><span style="font-size: large;"><a href="#present">2011 &#8211; Present</a></span></td>
+<td style="width: 200px;" align="center" valign="middle"><span style="font-size: large;"><a href="#2010">2001 &#8211; 2010</a></span></td>
+<td style="width: 200px;" align="center" valign="middle"><span style="font-size: large;"><a href="#2000">1991 &#8211; 2000</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;">&nbsp;</p>
+<p style="text-align: left;"><span style="color: #313131; font-size: 30px; line-height: 30px;">2011 &#8211; Present</span></p>
+<p>Chavez, Alejandro; Scheiman, Jonathan; Vora, Suhani; Pruitt, Benjamin; Tuttle, Marcelle; Iyer, Eswar; Lin, Shuailiang; Kiani, Samira; Guzman, Christopher; Wiegand, Daniel; Ter-Ovanesyan, Dmitry; Braff, Jonathan; Davidsohn, Noah; Housden, Benjamin; Perrimon, Norbert; Weiss, Ron; Aach, John; Collins, James; Church, George. <span style="text-decoration: underline;">Highly efficient Cas9-mediated transcriptional programming.</span> <em>Nature Methods</em>, <strong>March 2015, </strong>12(4):326-328 <a href="http://www.nature.com/nmeth/journal/v12/n4/full/nmeth.3312.html">[link]</a></p>
+<p>Andries, Oliwia; Kitada, Tasuku; Bodner, Katie; Sanders, Niek; Weiss, Ron. <span style="text-decoration: underline;">Synthetic biology devices and circuits for RNA-based ‘smart vaccines’: a propositional review.</span> <em>Expert Reviews Vaccines, </em><strong>February 2015, </strong>14(2):313-31 <a href="http://informahealthcare.com/doi/abs/10.1586/14760584.2015.997714">[link]</a></p>
+<p>Li, Yinqing; Jiang, Yun; Chen, He; Liao, Weixi; Li, Zhihua; Weiss, Ron; Xie, Zhen. <span style="text-decoration: underline;">Modular construction of mammalian gene circuits using TALE transcriptional repressors.</span><em> Nature Chemical Biology, </em><strong>February 2, </strong><strong>2015 </strong><em>Advanced Online Publication </em><a href="http://www.nature.com/nchembio/journal/vaop/ncurrent/full/nchembio.1736.html">[link]</a></p>
+<p><span style="line-height: 20px;">Mishra, Deepak; Rivera, Phillip M.; Lin, Allen; Vecchio, Domitilla Del; Weiss, Ron. </span><span style="text-decoration: underline;">A load driver device for engineering modularity in biological networks.</span><span style="line-height: 20px;"> </span><em>Nature Biotechnology</em><span style="line-height: 20px;">, </span><strong>November 24, 2014, </strong><em>Advanced Online Publication </em><a href="http://www.nature.com/nbt/journal/v32/n12/full/nbt.3044.html">[link]</a><span style="line-height: 20px;"> </span><a href="http://www.nature.com/nbt/journal/v32/n12/full/nbt.3089.html">[Nature Biotech News and Views]</a><span style="line-height: 20px;"> </span><a href="http://newsoffice.mit.edu/2014/predictable-biological-circuits-1124">[MIT News Article]</a></p>
+<p>Busskamp, Volker; Lewis, Nathan E.; Guye, Patrick; Ng, Alex H.M.; Shipman, Seth L.; Byrne, Susan M.; Sanjana, Neville E.; Murn, Jernej; Li, Yinqing; Li, Shangzhong; Stadler, Michael; Weiss, Ron; Church, George M. <span style="text-decoration: underline;">Rapid neurogenesis through transcriptional activation in human stem cells.</span> <em>Molecular Systems Biology, </em><strong>November 2014, </strong>10(11):760 <a href="http://onlinelibrary.wiley.com/doi/10.15252/msb.20145508/abstract">[link]</a></p>
+<p>Davidsohn, Noah; Beal, Jacob; Kiani, Samira; Adler, Aaron; Yaman, Fusun; Li, Yinqing; Xie, Zhen; Weiss, Ron. <span style="text-decoration: underline;">Accurate Predictions of Genetic Circuit Behavior from Part Characterization and Modular Composition.</span> <em>ACS Synthetic Biology, </em><strong>November 2014, </strong><em>Advanced Online Publication</em> <a href="http://pubs.acs.org/doi/abs/10.1021/sb500263b">[link]</a></p>
+<p>Duportet, Xavier; Wroblewska, Liliana; Guye, Patrick; Li, Yinqing; Eyquem, Justin; Rieders, Julianne; Rimchala, Tharathorn; Batt, Gregory; Weiss, Ron. <span style="text-decoration: underline;">A platform for rapid prototyping of synthetic gene networks in mammalian cells.</span> <em>Nucleic Acids Research, </em><strong>November 2014, </strong>42(21):13440-13451. <a href="http://nar.oxfordjournals.org/content/42/21/13440">[link]</a></p>
+<p>Stanton, Brynne C.; Siciliano, Velia; Ghodasara, Amar N.; Wroblewska, Liliana; Clancy, Kevin; Trefzer, Axel C.; Chesnut, Jon; Weiss, Ron; Voigt, Christopher A. <span style="text-decoration: underline;">Systematic transfer of prokaryotic sensors and circuits to mammalian cells.</span> <em>ACS Synthetic Biology, </em><strong>October 2014, </strong><em>Advanced Online Publication </em><a href="http://pubs.acs.org/doi/abs/10.1021/sb5002856">[link]</a></p>
+<p>Steager, Edward B.; Wong, Denise; Mishra, Deepak; Weiss, Ron; Kumar, Vijay. <span style="text-decoration: underline;">Sensors for micro bio robots via synthetic biology.</span> <em>2014 IEEE International Conference on <em>Robotics and Automation (ICRA) </em></em><strong>June 2014, </strong>3783-3788. <a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&amp;arnumber=6907407">[link]</a></p>
+<p>Weiss, Ron. <span style="text-decoration: underline;">Synthetic Biology, How Best to Build A Cell: Automate Efficient Design</span>.Comment, <em>Nature </em><strong>May 2014, </strong><em>509, 155-157 </em><a href="http://www.nature.com/news/synthetic-biology-how-best-to-build-a-cell-1.15150">[link]</a></p>
+<p><span style="line-height: 20px;">Beal, Jacob; Wagner, Tyler E.; Kitada, Tasuku; Azizgolshani, Odisse; Parker, Jordan M.; Densmore, Douglas; Weiss, Ron. </span><span style="text-decoration: underline;">Model-driven Engineering of Gene Expression from RNA Replicons.</span><span style="line-height: 20px;"> </span><em>ACS Synthetic Biology, </em><strong>May 2014, </strong><em>Advanced Online Publication </em><a href="http://pubs.acs.org/doi/abs/10.1021/sb500173f">[link]</a></p>
+<p style="text-align: left;">Kiani, Samira; Beal, Jacob; Ebrahimkhani, Mohammad R; Hug, Jin; Hall, Richard N; Xie, Zhen; Li, Yinqing; Weiss, Ron. <span style="text-decoration: underline;">CRISPR transcriptional repression devices and layered circuits in mammalian cells.</span> <em>Nature Methods, </em><strong>May 2014, </strong><em>11, </em>726-726<em>. </em><a href="http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.2969.html">[link]</a></p>
+<p style="text-align: left;">Church, George M.; Elowitz, Michael B,; Smolke, Christina D.; Voigt, Christopher A.; Weiss, Ron. <span style="text-decoration: underline;">Realizing the potential of synthetic biology.</span> <em>Nature Reviews Molecular Cell Biology</em>, <strong>March 2014, </strong>15: 289-294</p>
+<p style="text-align: left;"><span style="line-height: 20px;">Li, Wei; Lee, Samuel; Ma, Minglin; Kim, Soo Min; Guye, Patrick; Pancoast, James R.; Anderson, Daniel G.; Weiss, Ron; Lee, Richard T.l; Hammond, Paula T. </span><span style="text-decoration: underline;">Microbead-based biomimetic synthetic neighbors enhance survival and function of rat pancreatic β-cells. </span><em>Scientific Reports.</em><span style="line-height: 20px;"> </span><strong>October 2013</strong><span style="line-height: 20px;">, </span><em>3</em><strong><em>, </em></strong><span style="line-height: 20px;">2863. </span><a href="http://www.nature.com/srep/2013/131004/srep02863/full/srep02863.html">[link]</a></p>
+<p style="text-align: left;">Guye, P; Li, Y; Wroblewska L; Duportet X; Weiss R. <span style="text-decoration: underline;">Rapid, modular and reliable construction of complex mammalian gene circuits.</span> <em>Nucleic Acids Research. </em><strong>June 2013, </strong><em>41</em>, e156 <a href="http://nar.oxfordjournals.org/content/41/16/e156">[link]</a></p>
+<p style="text-align: left;">Gupta, S.; Bram, E. E; Weiss, R. <span style="text-decoration: underline;">Genetically Programmable Pathogen Sense and Destroy</span>. <em>ACS synthetic biology. </em><strong>June </strong><strong>2013, </strong><em>2</em>, 715-723 <a href="http://pubs.acs.org/doi/abs/10.1021/sb4000417">[link]</a></p>
+<p style="text-align: left;">Sakar, M.; Neal D.; Boudou T.; Borochin M.; Li Y.; Weiss R.; Kamm R.; Chen C.; Asada H. <span style="text-decoration: underline;">Formation and optogenetic control of engineered 3D skeletal muscle bioactuators.</span> <em>Lab on a Chip </em><strong>December 2012, </strong><em>12, </em>4976-4985. <a href="http://pubs.rsc.org/en/content/articlelanding/2012/lc/c2lc40338b">[link]</a> <a href="http://newsoffice.mit.edu/2012/mechanical-engineers-create-light-activated-skeletal-muscle-0830">[MIT News Article]</a></p>
+<p>Beal, J.; Weiss, R.; Densmore, D.; Adler, A.; Appleton, E.; Babb, J.; Bhatia, S.; Davidsohn, N.; Haddock, T.; Loyall, J.; Schantz, R.; Vasilev, V.; Yaman, F. <span style="text-decoration: underline;">An End-to-End Workflow for Engineering of Biological Networks from High-Level Specifications</span>. <em>ACS Synthetic Biology</em> <strong>August</strong> <strong>2012</strong>, <em>1</em>, 317-331. <a href="http://pubs.acs.org/doi/abs/10.1021/sb300030d">[link]</a></p>
+<p style="text-align: left;">Miller, M.; Hafner, M.; Sontag, E.; Davidsohn, N.; Subramanian, S.; Purnick, P. E. M.; Lauffenburger, D.; Weiss, R. <span style="text-decoration: underline;">Modular design of artificial tissue homeostasis: robust control through synthetic cellular heterogeneity</span>. <em>PLoS computational biology </em><strong>July 2012</strong>, <em>8</em>, e1002579. <a href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002579">[link]</a></p>
+<p style="text-align: left;">Slusarczyk, A. L.; Lin, A.; Weiss, R. <span style="text-decoration: underline;">Foundations for the design and implementation of synthetic genetic circuits</span>. <em>Nature reviews. Genetics</em> <strong>June 2012</strong>, <em>13</em>, 406-20. <a href="http://www.nature.com/nrg/journal/v13/n6/full/nrg3227.html">[link]</a></p>
+<p style="text-align: left;">Slusarczyk, A. L.; Weiss, R. <span style="text-decoration: underline;">Understanding signaling dynamics through synthesis</span>. <em>Science signaling</em> <strong>April</strong> <strong>2012</strong>, <em>5</em>, pe16. <a href="http://stke.sciencemag.org/cgi/content/full/sigtrans;5/220/pe16">[link]</a></p>
+<p style="text-align: left;">Beal, J.; Weiss, R.; Yaman F.; Davidsohn N.; Adler A. <span style="text-decoration: underline;">A Method for Fast, High-Precision Characterization of Synthetic Biology Devices</span>. <em>MIT</em> <em>CSAIL Tech Report</em> <strong>April 2012, </strong><em>2012-008. </em><a href="http://web.mit.edu/jakebeal/www/Publications/MIT-CSAIL-TR-2012-008.pdf">[link]</a></p>
+<p style="text-align: left;">Silver, P. A.; Haynes, K.; Weiss, R. <span style="text-decoration: underline;">Synthetic meets cell biology</span>. <em>Molecular Biology of the Cell </em><strong>March 2012</strong>, <em>23</em>, 967-967. <a href="http://www.molbiolcell.org/content/23/6/967.long">[link]</a></p>
+<p style="text-align: left;">Beal, J; Weiss, R; Densmore, D; Adler, A; Appleton, E; Babb, J; Bhatia, S; Davidsohn, N; Haddock, T; Loyall, J; Schantz, R; Vasilev, V; and Yaman, F. <span style="text-decoration: underline;">Results from TASBE</span>. <em>Proceedings of the Fourth International Workshop on Bio-Design Automation (IWBDA)</em>.<strong>June 2012, </strong>13-15 <em>*Published Conference Proceeding </em><a href="http://iwbda2012.csb.pitt.edu/mediawiki/images/e/e7/IWBDA12_proceedings_B%26W_2.2.pdf">[link]</a></p>
+<p style="text-align: left;">Xie, Z.; Wroblewska, L.; Prochazka, L.; Weiss, R.; Benenson, Y. <span style="text-decoration: underline;">Multi-input RNAi-based logic circuit for identification of specific cancer cells</span>. <em>Science (New York, N.Y.)</em> <strong>September</strong> <strong>2011</strong>, <em>333</em>, 1307-11. <a href="http://www.sciencemag.org/content/333/6047/1307.full">[link]</a> <a href="http://newsoffice.mit.edu/2011/cancer-detection-circuit-0902">[MIT News Article]</a></p>
+<p style="text-align: left;">Beal, J.; Lu, T.; Weiss, R. <span style="text-decoration: underline;">Automatic Compilation from High-Level Biologically-Oriented Programming Language to Genetic Regulatory Networks</span>. <em>Plos One</em> <strong>August</strong> <strong>2011</strong>, <em>6</em>. <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0022490">[link]</a></p>
+<p style="text-align: left;">Randall, A.; Guye, P.; Gupta, S.; Duportet, X.; Weiss, R. <span style="text-decoration: underline;">Design and connection of robust genetic circuits.</span> <em>Methods in enzymology</em> <strong>January</strong> <strong>2011</strong>, <em>497</em>, 159-86. <a href="http://www.sciencedirect.com/science/article/pii/B978012385075100007X">[link]</a></p>
+<p style="text-align: left;">Teuscher, C.; Grecu, C.; Lu, T.; Weiss, R. <span style="text-decoration: underline;">Challenges and promises of nano and bio communication networks</span>. <em>Proceedings of the Fifth ACM/IEEE International Symposium on Networks-on-Chip</em> <strong>2011</strong>. <em>*Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=1999986">[link]</a></p>
+<p style="text-align: left;">Beal, J; Weiss, R; Densmore, D; Adler, A; Babb, J; Bhatia, S; Davidsohn, N; Haddock, T; Yaman, F; Schantz, R; and Loyall, J. <span style="text-decoration: underline;">TASBE: A Tool-Chain to Accelerate Synthetic Biological Engineering.</span> <em>Proceedings of the Third International Workshop on Bio-Design Automation(IWBDA).</em> <strong>June 2011, </strong>19-21 <em>*Published Conference Proceeding </em><a href="http://wiki.bu.edu/wiki/ece-cidar/images/6/60/IWBDA11_Monday.pdf">[link]</a></p>
+<p style="text-align: left;">Yaman, F; Bhatia, S; Adler, A; Densmore, D; Beal, J; Weiss, R; Davidsohn, N.<span style="text-decoration: underline;"> Toward Automated Selection of Parts for Genetic Regulatory Networks.</span><em> Proceedings of the Third International Workshop on Bio-Design Automation (IWBDA). </em><strong>June 2011 </strong>22-23. <em><em>*Published Conference Proceeding</em></em> <a href="http://wiki.bu.edu/wiki/ece-cidar/images/6/60/IWBDA11_Monday.pdf">[link]</a></p>
+<p style="text-align: left;">Vasilev, V; Liu, C; Haddock, T; Bhatia, S, Adler, A; Yaman, F; Beal, J;Babb, J; Weiss, R; and Densmore, D. <span style="text-decoration: underline;">A Software Stack for Specification and Robotic Execution of Protocols for Synthetic Biological Engineering.</span> <em>Proceedings of the Third International Workshop on Bio-Design Automation (IWBDA). </em><strong>June 2011, </strong>24-25 <em><em>*Published Conference Proceeding <em> </em></em></em><a href="http://wiki.bu.edu/wiki/ece-cidar/images/6/60/IWBDA11_Monday.pdf">[link]</a></p>
+<h1 id="2010" style="text-align: left;">2001 &#8211; 2010</h1>
+<p><span style="line-height: 20px;">Riedel, M.; Hassoun, S.; Weiss, R.; Silver, P.; Anderson, J. C.; Murray, R. </span><span style="text-decoration: underline;">Joint DAC/IWBDA special session engineering biology: fundamentals and applications</span><span style="line-height: 20px;">. </span><em>Proceedings of the 47th Design Automation Conference</em><span style="line-height: 20px;"> </span><strong>2010</strong><span style="line-height: 20px;">. </span><em>*Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=1837330">[link]</a></p>
+<p style="text-align: left;">Weiss, R. <span style="text-decoration: underline;">Synthetic biology: from modules to systems</span>. <em>Proceedings of the 20th symposium on Great lakes symposium on VLSI</em> <strong>2010</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=1785481.1785524">[link]</a></p>
+<p style="text-align: left;">Weiss, R.; Panke, S. <span style="text-decoration: underline;">Synthetic biology-paths to moving forward</span>. <em>Current Opinion in Biotechnology</em> <strong>August</strong> <strong>2009</strong>, <em>20</em>. <a href="http://www.sciencedirect.com/science/article/pii/S0958166909001098">[link]</a></p>
+<p style="text-align: left;">Purnick, P. E. M.; Weiss, R. <span style="text-decoration: underline;">The second wave of synthetic biology: from modules to systems. </span><em>Nature reviews. Molecular cell biology</em> <strong>June</strong> <strong>2009</strong>, <em>10</em>, 410-22. <a href="http://www.nature.com/nrm/journal/v10/n6/full/nrm2698.html">[link]</a></p>
+<p style="text-align: left;">Guye, P.; Weiss, R. <span style="text-decoration: underline;">Customized signaling with reconfigurable protein scaffolds</span>. <em>Nature biotechnology</em> <strong>May 2008</strong>, <em>26</em>, 526-8. <a href="http://www.nature.com/nbt/journal/v26/n5/full/nbt0508-526.html">[link]</a></p>
+<p style="text-align: left;">Batt, G.; Belta, C.; Weiss, R. <span style="text-decoration: underline;">Temporal logic analysis of gene networks under parameter uncertainty</span>. <em>Ieee Transactions on Automatic Control</em> <strong>January</strong> <strong>2008</strong>. <a href="http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4439801">[link]</a></p>
+<p style="text-align: left;">Lu, T.; Ferry, M.; Weiss, R.; Hasty, J. <span style="text-decoration: underline;">A molecular noise generator</span>. <em>Physical biology</em> <strong>January</strong> <strong>2008</strong>, <em>5</em>, 036006. <a href="http://iopscience.iop.org/1478-3975/5/3/036006/">[link]</a></p>
+<p style="text-align: left;">Brenner, K.; Karig, D. K.; Weiss, R.; Arnold, F. H. <span style="text-decoration: underline;">Engineered bidirectional communication mediates a consensus in a microbial biofilm consortium</span>. <em>Proceedings of the National Academy of Sciences of the United States of America </em><strong>October<em> </em>2007</strong>, <em>104</em>. <a href="http://www.pnas.org/content/104/44/17300.full">[link]</a></p>
+<p style="text-align: left;">Kattamis, N. T.; Purnick, P. E.; Weiss, R.; Arnold, C. B. <span style="text-decoration: underline;">Thick film laser induced forward transfer for deposition of thermally and mechanically sensitive materials</span>. <em>Applied Physics Letters</em> <strong>October</strong> <strong>2007</strong>, <em>91</em>, 171120. <a href="http://apl.aip.org/resource/1/applab/v91/i17/p171120_s1">[link]</a></p>
+<p style="text-align: left;">Batt, G.; Yordanov, B.; Weiss, R.; Belta, C. <span style="text-decoration: underline;">Robustness analysis and tuning of synthetic gene networks</span>. <em>Bioinformatics (Oxford, England)</em> <strong>September 2007</strong>, <em>23</em>, 2415-22. <a href="http://bioinformatics.oxfordjournals.org/content/23/18/2415.full">[link]</a></p>
+<p style="text-align: left;">Rinaudo, K.; Bleris, L.; Maddamsetti, R.; Subramanian, S.; Weiss, R.; Benenson, Y. <span style="text-decoration: underline;">A universal RNAi-based logic evaluator that operates in mammalian cells</span>. <em>Nature biotechnology</em> <strong>July</strong> <strong>2007</strong>, <em>25</em>, 795-801. <a href="http://www.nature.com/nbt/journal/v25/n7/full/nbt1307.html">[link]</a></p>
+<p style="text-align: left;">Dhar, P. K.; Weiss, R. <span style="text-decoration: underline;">Enabling the new biology of the 21(st) century</span>. <em>Systems and synthetic biology</em> <strong>March 2007</strong>, <em>1</em>. <a href="http://link.springer.com/article/10.1007/s11693-006-9000-6/fulltext.html">[link]</a></p>
+<p style="text-align: left;">Weiss, R. <span style="text-decoration: underline;">Synthetic biology: from bacteria to stem cells</span>. In <em>2007 44th ACM/IEEE Design Automation Conference</em>; IEEE, <strong>2007</strong>; pp. 634-635.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=1278480.1278640">[link]</a></p>
+<p style="text-align: left;">Batt, G.; Belta, C.; Weiss, R. <span style="text-decoration: underline;">Model checking genetic regulatory networks with parameter uncertainty</span>. In <em>Hybrid Systems: Computation and Control, Proceedings</em>; Bemporad, A.; Bicchi, A.; Buttazzo, G., Eds.; <strong>2007</strong>; Vol. 4416.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=1760814">[link]</a></p>
+<p style="text-align: left;">Batt, G.; Belta, C.; Weiss, R. <span style="text-decoration: underline;">Model checking liveness properties of genetic regulatory networks</span>. <em>Proceedings of the 13th international conference on Tools and algorithms for the construction and analysis of systems</em> <strong>2007</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=1763540">[link]</a></p>
+<p style="text-align: left;">Bio, F. A. B. G.; Baker, D.; Church, G.; Collins, J.; Endy, D.; Jacobson, J.; Keasling, J.; Modrich, P.; Smolke, C.; Weiss, R. <span style="text-decoration: underline;">Engineering life: building a fab for biology</span>. <em>Scientific American</em> <strong>June 2006</strong>, <em>294</em>. <a href="http://www.scientificamerican.com/article.cfm?id=engineering-life-building">[link]</a></p>
+<p style="text-align: left;">Hooshangi, S.; Weiss, R. <span style="text-decoration: underline;">The effect of negative feedback on noise propagation in transcriptional gene networks</span>. <em>Chaos (Woodbury, N.Y.)</em> <strong>June</strong> <strong>2006</strong>, <em>16</em>, 026108. <a href="http://chaos.aip.org/resource/1/chaoeh/v16/i2/p026108_s1?view=fulltext">[link]</a></p>
+<p style="text-align: left;">Andrianantoandro, E.; Basu, S.; Karig, D. K.; Weiss, R. <span style="text-decoration: underline;">Synthetic biology: new engineering rules for an emerging discipline</span>. <em>Molecular Systems Biology</em> <strong>January 2006</strong>, <em>2</em>. <a href="http://www.nature.com/msb/journal/v2/n1/full/msb4100073.html">[link]</a></p>
+<p style="text-align: left;">Chen, M.-T.; Weiss, R. <span style="text-decoration: underline;">Artificial cell-cell communication in yeast Saccharomyces cerevisiae using signaling elements from Arabidopsis thaliana</span>. <em>Nature biotechnology</em> <strong>December 2005</strong>, <em>23</em>, 1551-5. <a href="http://www.nature.com/nbt/journal/v23/n12/full/nbt1162.html">[link]</a></p>
+<p style="text-align: left;">McDaniel, R.; Weiss, R. <span style="text-decoration: underline;">Advances in synthetic biology: on the path from prototypes to applications</span>. <em>Current opinion in biotechnology</em> <strong>August 2005</strong>, <em>16</em>, 476-83. <a href="http://www.sciencedirect.com/science/article/pii/S0958166905001023">[link]</a></p>
+<p style="text-align: left;">Basu, S.; Gerchman, Y.; Collins, C. H.; Arnold, F. H.; Weiss, R. <span style="text-decoration: underline;">A synthetic multicellular system for programmed pattern formation.</span> <em>Nature</em> <strong>April</strong> <strong>2005</strong>, <em>434</em>, 1130-4. <a href="http://www.nature.com/nature/journal/v434/n7037/full/nature03461.html">[link]</a></p>
+<p style="text-align: left;">Hooshangi, S.; Thiberge, S.; Weiss, R. <span style="text-decoration: underline;">Ultrasensitivity and noise propagation in a synthetic transcriptional cascade</span>. <em>Proceedings of the National Academy of Sciences of the United States of America</em> <strong>March 2005</strong>, <em>102</em>, 3581-6. <a href="http://www.pnas.org/content/102/10/3581.full">[link]</a></p>
+<p style="text-align: left;">Karig, D.; Weiss, R. <span style="text-decoration: underline;">Signal-amplifying genetic circuit enables in vivo observation of weak promoter activation in the Rhl quorum sensing system</span>. <em>Biotechnology and bioengineering</em> <strong>March 2005</strong>, <em>89</em>, 709-18. <a href="http://onlinelibrary.wiley.com/doi/10.1002/bit.20371/abstract">[link]</a></p>
+<p style="text-align: left;">Karig, D.; Ku, J.; Weiss, R. <span style="text-decoration: underline;">Engineering Multi-signal Systems for Complex Pattern Formation</span>. <em>Proceedings of the 2005 IEEE Computational Systems Bioinformatics Conference &#8211; Workshops</em> <strong>2005</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=1099846">[link]</a></p>
+<p style="text-align: left;">Braun, D.; Basu, S.; Weiss, R. <span style="text-decoration: underline;">Parameter Estimation for Two Synthetic Gene Networks: A Case Study</span>. <em>Proceedings. (ICASSP  ’05). IEEE International Conference on Acoustics, Speech, and Signal Processing</em>, <strong>2005</strong>. 5, 769–772. *<em>Published Conference Proceeding </em><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=1416417">[link]</a></p>
+<p style="text-align: left;"><span style="line-height: 20px;">Feng, X.-J.; Hooshangi, S.; Chen, D.; Li, G.; Weiss, R.; Rabitz, H. </span><span style="text-decoration: underline;">Optimizing genetic circuits by global sensitivity analysis</span><span style="line-height: 20px;">. </span><em>Biophysical journal</em><span style="line-height: 20px;"> </span><strong>October 2004</strong><span style="line-height: 20px;">, </span><em>87</em><span style="line-height: 20px;">, 2195-202. </span><a href="http://www.sciencedirect.com/science/article/pii/S0006349504736978">[link]</a></p>
+<p style="text-align: left;">Basu, S.; Mehreja, R.; Thiberge, S.; Chen, M.-T.; Weiss, R. <span style="text-decoration: underline;">Spatiotemporal control of gene expression with pulse-generating networks</span>. <em>Proceedings of the National Academy of Sciences of the United States of America</em> <strong>April</strong> <strong>2004</strong>, <em>101</em>, 6355-60. <a href="http://www.pnas.org/content/101/17/6355.full">[link]</a></p>
+<p style="text-align: left;">You, L.; Cox, R. S.; Weiss, R.; Arnold, F. H. <span style="text-decoration: underline;">Programmed population control by cell-cell communication and regulated killing.</span> <em>Nature</em> <strong>April</strong> <strong>2004</strong>, <em>428</em>, 868-71. <a href="http://www.nature.com/nature/journal/v428/n6985/full/nature02491.html">[link]</a></p>
+<p style="text-align: left;">Gerchman, Y.; Weiss, R. <span style="text-decoration: underline;">Teaching bacteria a new language</span>. <em>Proceedings of the National Academy of Sciences</em> <strong>February</strong> <strong>2004</strong>, <em>101</em>, 2221-2222. <a href="http://www.pnas.org/content/101/8/2221.full">[link]</a></p>
+<p style="text-align: left;">Weiss, R.; Basu, S.; Hooshangi, S.; Kalmbach, A.; Karig, D.; Mehreja, R.; Netravali, I. <span style="text-decoration: underline;">Genetic circuit building blocks for cellular computation, communications, and signal processing</span>. <em>Natural Computing</em> <strong>2003</strong>, <em>2</em>, 47-84. <a href="http://dl.acm.org/citation.cfm?id=765577">[link]</a></p>
+<p style="text-align: left;">Basu, S.; Karig, D.; Weiss, R. <span style="text-decoration: underline;">Engineering Signal Processing in Cells: Towards Molecular Concentration Band Detection</span>. <em>Revised Papers from the 8th International Workshop on DNA Based Computers: DNA Computing</em> <strong>2003</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=736628">[link]</a></p>
+<p style="text-align: left;">Yokobayashi, Y.; Weiss, R.; Arnold, F. H. <span style="text-decoration: underline;">Directed evolution of a genetic circuit</span>. <em>Proceedings of the National Academy of Sciences of the United States of America</em> <strong>December 2002</strong>, <em>99</em>, 16587-91. <a href="http://www.pnas.org/content/99/26/16587.full">[link]</a></p>
+<p style="text-align: left;">Weiss, R.; Homsy, G.; Knight, T. <span style="text-decoration: underline;">Toward in vivo digital circuits</span>. In <em>Natural Computing: Evolution as Computation</em>; <strong>2002</strong>. <a href="http://link.springer.com/chapter/10.1007%2F978-3-642-55606-7_14">[link]</a></p>
+<p style="text-align: left;">Weiss, R. <span style="text-decoration: underline;">Cellular computation and communications using engineered genetic regulatory networks</span>, <em>Ph.D. Thesis, </em>Massachusetts Institute of Technology, <strong>2001</strong>. <a href="http://dspace.mit.edu/handle/1721.1/8228">[link]</a></p>
+<p style="text-align: left;">Weiss, R.; Thomas F. Knight, J. <span style="text-decoration: underline;">Engineered Communications for Microbial Robotics</span>. In <em>Lecture Notes in Computer Science, LNCS 2054</em>; Springer-Verlag, <strong>2001</strong>; pp. 1-16. <a href="http://dl.acm.org/citation.cfm?id=736450">[link]</a></p>
+<p style="text-align: left;">Lahiri, T.; Ganesh, A.; Weiss, R.; Joshi, A. <span style="text-decoration: underline;">Fast-Start: quick fault recovery in oracle.</span> <em>Proceedings of the 2001 ACM SIGMOD international conference on Management of data</em> <strong>2001</strong>.<em> *Published Conference Proceeding</em> <a href="http://dl.acm.org/citation.cfm?id=375663.375751">[link]</a></p>
+<h1 id="2000" style="text-align: left;">1991 &#8211; 2000</h1>
+<p style="text-align: left;">Abelson, H.; Allen, D.; Coore, D.; Hanson, C.; Homsy, G.; Thomas F. Knight, J.; Nagpal, R.; Rauch, E.; Sussman, G. J.; Weiss, R. <span style="text-decoration: underline;">Amorphous computing</span>. <em>Commun. ACM</em> <strong>2000</strong>, <em>43</em>, 74-82 <em>*Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=332833.332842">[link]</a></p>
+<p style="text-align: left;">V, B.; lez; Weiss, R.; Sheldon, M. A.; Gifford, D. K. <span style="text-decoration: underline;">Fast and effective query refinement</span>. <em>SIGIR Forum</em> <strong>1997</strong>, <em>31</em>, 6-15<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=258525.258528">[link]</a></p>
+<p style="text-align: left;">Weiss, R.; V, B.; lez; Sheldon, M. A. <span style="text-decoration: underline;">HyPursuit: a hierarchical network search engine that exploits content-link hypertext clustering</span>. <em>Proceedings of the the seventh ACM conference on Hypertext</em> <strong>1996</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=234828.234846">[link]</a></p>
+<p style="text-align: left;">Sheldon, M. A.; Duda, A.; Weiss, R.; Gifford, D. K. <span style="text-decoration: underline;">Discover: a resource discovery system based on content routing</span>. <em>Comput. Netw. ISDN Syst.</em> <strong>1995</strong>, <em>27</em>, 953-972 <em>*Published Conference Proceeding </em><a href="http://www.sciencedirect.com/science/article/pii/0169755295000448">[link]</a></p>
+<p style="text-align: left;">Sheldon, M. A.; Duda, A.; Weiss, R.; James W. O’Toole, J.; Gifford, D. K. <span style="text-decoration: underline;">Content routing for distributed information servers</span>. <em>Proceedings of the 4th international conference on extending database technology: Advances in database technology</em> <strong>1994</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=188573.188596">[link]</a></p>
+<p style="text-align: left;">Duda, A.; Weiss, R. <em><span style="text-decoration: underline;">STRUCTURED VIDEO: A DATA TYPE WITH CONTENT-BASED ACCESS</span></em>; Massachusetts Institute of Technology, <strong>1993</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=889158">[link]</a></p>
+<p style="text-align: left;">Sheldon, M.; Duda, A.; Weiss, R.; O’&#8217;Toole, J.; Gifford, D. J. <em><span style="text-decoration: underline;">A CONTENT ROUTING SYSTEM FOR DISTRIBUTED INFORMATION SYSTEMS</span></em>; Massachusetts Institute of Technology, <strong>1993</strong>.<em> *Published Conference Proceeding </em><a href="http://dl.acm.org/citation.cfm?id=889158">[link]</a></p>
+            					</div>
+	</div>
+</div>
+
+<div id="footerWrapper">
+	<div id="footer">
+          <div id="footerLogin">
+        <a href="http://groups.csail.mit.edu/synbio/wp-login.php" title="Login">Login</a>
+      </div>
+    		<div id="links">   
+        <ul> 
+        <li><a href="http://www.csail.mit.edu/" target="_blank">Computer Science and Artificial Intelligence Laboratory (CSAIL)</a></li>
+<li><a href="http://web.mit.edu/be/" target="_blank">Department of Biological Engineering</a></li>
+<li><a href="http://www.eecs.mit.edu/" target="_blank">Department of Electrical Engineering and Computer Science</a></li>
+ 
+        </ul>
+        </div>
+	</div>
+</div>
+</body>
+</html>

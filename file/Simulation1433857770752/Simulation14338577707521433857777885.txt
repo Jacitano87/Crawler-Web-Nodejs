@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Synthetic Biology - A Concise Overview" />
+<meta name="keywords" content="" />
+<link rel="stylesheet" type="text/css" href="http://syntheticbiology.web.unc.edu/wp-content/themes/wp-andreas/style.css" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://syntheticbiology.web.unc.edu/?feed=rss2" />
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://syntheticbiology.web.unc.edu/?feed=rss" />
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://syntheticbiology.web.unc.edu/?feed=atom" />
+<link rel="pingback" href="http://syntheticbiology.web.unc.edu/xmlrpc.php" />
+<title>Synthetic Biology</title>
+
+		<script type="text/javascript">
+		var ajaxurl = 'https://syntheticbiology.web.unc.edu/wp-admin/admin-ajax.php';
+		</script>
+		<link rel='stylesheet' id='ub_adminbar_general_styles-css'  href='http://syntheticbiology.web.unc.edu/wp-content/plugins/ultimate-branding/ultimate-branding-files/modules/custom-admin-bar-files/css/general.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://its2.unc.edu/unc-feeds/alertFeed.js.php?ver=4.1.5'></script>
+<script type='text/javascript' src='http://syntheticbiology.web.unc.edu/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://syntheticbiology.web.unc.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://syntheticbiology.web.unc.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://syntheticbiology.web.unc.edu/wp-includes/wlwmanifest.xml" /> 
+			<script type="text/javascript">
+				var _gaq = _gaq || [];
+
+				
+                					_gaq.push(['b._setAccount', 'UA-20156970-1']);
+                    					_gaq.push(['b._trackPageview']);
+				
+				(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+			</script>
+
+        
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','gaplusu');
+
+                                                            gaplusu('create', 'UA-5142490-28', 'auto');
+                                        gaplusu('send', 'pageview');
+
+                                    
+                            </script>
+
+		<!-- Begin Custom CSS -->
+<style type="text/css">
+</style><!-- End Custom CSS -->
+<!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://syntheticbiology.web.unc.edu/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+
+</head>
+
+<body>
+<div id="wrap">
+
+<div id="header">
+<h1><a href="http://syntheticbiology.web.unc.edu">Synthetic Biology</a></h1>
+<p><strong>A Concise Overview</strong></p>
+</div>
+
+<a href="http://syntheticbiology.web.unc.edu"><img id="frontphoto" src="http://syntheticbiology.web.unc.edu/files/2010/12/cropped-Untitled.jpg" alt="Synthetic Biology" /></a>
+
+<div id="leftside">
+
+<h2 class="hide">Site menu:</h2>
+<ul class="page">
+<li class="page_item current_page_item"><a href="http://syntheticbiology.web.unc.edu">Home</a></li>
+<li class="page_item page-item-22"><a href="http://syntheticbiology.web.unc.edu/?page_id=22">Introduction</a></li>
+<li class="page_item page-item-24"><a href="http://syntheticbiology.web.unc.edu/?page_id=24">Concepts and Developments</a></li>
+<li class="page_item page-item-26"><a href="http://syntheticbiology.web.unc.edu/?page_id=26">Applications</a></li>
+<li class="page_item page-item-31"><a href="http://syntheticbiology.web.unc.edu/?page_id=31">Economic</a></li>
+<li class="page_item page-item-33"><a href="http://syntheticbiology.web.unc.edu/?page_id=33">UNC Relevance</a></li>
+<li class="page_item page-item-35"><a href="http://syntheticbiology.web.unc.edu/?page_id=35">Take Action</a></li>
+<li class="page_item page-item-37"><a href="http://syntheticbiology.web.unc.edu/?page_id=37">Resources</a></li>
+<li class="page_item page-item-39"><a href="http://syntheticbiology.web.unc.edu/?page_id=39">References</a></li>
+</ul>
+			<div class="textwidget"><br>
+“Since the dawn of civilization, humans have been builders and
+engineers, constructing houses from bricks, machines from metals and
+now genomes from nucleotides.” (Wang 2010)</div>
+		
+</div><div id="extras">
+<h2><a class='rsswidget' href='http://news.google.com/news?pz=1&#038;cf=all&#038;ned=us&#038;hl=en&#038;q=%22synthetic+biology%22&#038;cf=all&#038;output=rss'><img style='border:0' width='14' height='14' src='http://syntheticbiology.web.unc.edu/wp-includes/images/rss.png' alt='RSS' /></a> <a class='rsswidget' href='http://news.google.com/news?pz=1&#038;ned=us&#038;hl=en&#038;q=%5Cx22synthetic+biology%5Cx22'>News Articles</a></h2><ul><li><a class='rsswidget' href='http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNGwsg1lq34pNNLnMuktArkSUvvbKg&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;ei=Se12VbDUMtHG3gGa7oCAAw&#038;url=http://sciencecareers.sciencemag.org/career_magazine/previous_issues/articles/2015_06_02/caredit.a1500143'>Training for synthetic biology jobs in the new bioeconomy - ScienceCareers.org</a> <span class="rss-date">June 2, 2015</span></li><li><a class='rsswidget' href='http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFkyzJ86diva4q6mb10uVAmX4n8tw&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;ei=Se12VbDUMtHG3gGa7oCAAw&#038;url=http://newsok.com/synthetic-biology-engineered-cells-detect-diabetes-and-cancer/article/feed/846451'>Synthetic biology: Engineered cells detect diabetes and cancer - NewsOK.com</a> <span class="rss-date">June 1, 2015</span></li><li><a class='rsswidget' href='http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNH4X7qtkhKR9R4L_M7yO75rmWS82A&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;ei=Se12VbDUMtHG3gGa7oCAAw&#038;url=http://www.geneticliteracyproject.org/2015/05/28/three-developments-that-will-help-synthetic-biology-to-live-up-to-its-promise/'>Three developments that will help synthetic biology live up to its promise - Genetic Literacy Project</a> <span class="rss-date">May 28, 2015</span></li><li><a class='rsswidget' href='http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNFBLpWfE-sBGul4Ai_4L2FAQIQTsQ&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;ei=Se12VbDUMtHG3gGa7oCAAw&#038;url=http://www.theguardian.com/sustainable-business/2015/may/28/creators-defend-vanilla-flavour-made-using-synthetic-biology'>Creators defend vanilla flavour made using synthetic biology - The Guardian</a> <span class="rss-date">May 28, 2015</span></li><li><a class='rsswidget' href='http://news.google.com/news/url?sa=t&#038;fd=R&#038;ct2=us&#038;usg=AFQjCNF2pGPF7bqqstQlTr6K9WrGNTPW-A&#038;clid=c3a7d30bb8a4878e06b80cf16b898331&#038;ei=Se12VbDUMtHG3gGa7oCAAw&#038;url=http://www.news-medical.net/news/20150528/IDT-to-host-instructive-talk-on-accelerating-synthetic-biology-at-ASM-General-Meeting.aspx'>IDT to host instructive talk on accelerating synthetic biology at ASM General ... - News-Medical.net</a> <span class="rss-date">May 28, 2015</span></li></ul></div>
+<div id="content">
+
+<div class="post">
+<h3><a href="http://syntheticbiology.web.unc.edu/?p=18" rel="bookmark" title="What is Synthetic Biology?">What is Synthetic Biology?</a></h3>
+<div class="contenttext">
+<div>
+<ul>
+<li>“I believe that the capacity to synthesize and construct DNA is currently the number one <strong>most important technology of the 21st century</strong>,” Drew Endy, bioengineer at Stanford University, director at BIOFAB International (qtd. in Hsu 2010a).</li>
+<li>You should be able to make cells do and produce things that nothing in nature has ever done or produced before (Mooallem 2010).</li>
+</ul>
+<div id="_mcePaste" style="text-align: center;"><em>Synthetic Biology Concept Explained (May 28, 2008)</em></div>
+<div id="_mcePaste" style="text-align: center;"><span class="vvqbox vvqyoutube" style="width:425px;height:344px;"><span id="vvq-18-youtube-1"><a href="http://www.youtube.com/watch?v=VG1Ia115K0c"><img src="http://img.youtube.com/vi/VG1Ia115K0c/0.jpg" alt="YouTube Preview Image" /></a></span></span></div>
+<ul>
+<li>Synthetic biology is the production or redesign of biological systems via the generation of novel DNA segments absent in nature (Hsu 2010b; NSF 2010).</li>
+<li>The de novo synthesis of DNA sequences, may used to produce biological parts, or biological components, such as: enzymes, genetic circuits, and metabolic pathways. The assembly of these parts may permit the creation of organisms capable of performing functions not necessarily found in nature (Keasling 2008; Katsnelson 2010; NSF 2010).</li>
+</ul>
+<div id="attachment_76" style="width: 297px" class="wp-caption aligncenter"><a href="http://syntheticbiology.web.unc.edu/files/2010/12/syncell1.png"><img class="size-full wp-image-76" title="syncell" src="http://syntheticbiology.web.unc.edu/files/2010/12/syncell1.png" alt="" width="287" height="105" /></a><p class="wp-caption-text">Synthetic cells (Gibson et al. 2010)</p></div>
+</div>
+</div>
+<p class="postinfo"><strong>Posted:</strong> December 3rd, 2010 under <a href="http://syntheticbiology.web.unc.edu/?cat=47714" rel="category">Static</a>.<br />
+<a href="http://syntheticbiology.web.unc.edu/?p=18#comments"><strong>Comments:</strong> none</a>
+</p>
+</div>
+
+
+<div class="navigation">
+<p><span class="prevlink"></span>
+<span class="nextlink"></span></p>
+</div>
+
+
+</div>
+<div id="footer">
+<p>
+<a href="http://web.unc.edu">UNC Digital Commons Project</a> | <a href="http://syntheticbiology.web.unc.edu/wp-admin/">Manage Website</a> <br />Provided by the <a href="http://oasis.unc.edu">UNC Office of Arts and Sciences Information Services </a> in collaboration with <a href="http://ibiblio.org">ibiblio.org</a>
+
+
+<script type='text/javascript' src='http://syntheticbiology.web.unc.edu/wp-includes/js/swfobject.js?ver=2.2-20120417'></script>
+
+<script type="text/javascript">
+	swfobject.embedSWF("http://www.youtube.com/v/VG1Ia115K0c&#038;rel=0&#038;fs=1&#038;showsearch=0&#038;showinfo=0", "vvq-18-youtube-1", "425", "344", "10", vvqexpressinstall, vvqflashvars, vvqparams, vvqattributes);
+</script>
+</p>
+</div>
+</div>
+</body>
+</html>

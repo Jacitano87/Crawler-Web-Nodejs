@@ -1,0 +1,286 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Projects | Weiss Lab for Synthetic Biology</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/reset.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles.css" />
+<!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles-IE6-fix.css" />
+	<![endif]-->
+	
+	<!--[if gte IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles-IE-fix.css" />
+	<![endif]-->
+
+<link rel="pingback" href="http://groups.csail.mit.edu/synbio/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Weiss Lab for Synthetic Biology &raquo; Feed" href="http://groups.csail.mit.edu/synbio/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Weiss Lab for Synthetic Biology &raquo; Comments Feed" href="http://groups.csail.mit.edu/synbio/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Weiss Lab for Synthetic Biology &raquo; Projects Category Feed" href="http://groups.csail.mit.edu/synbio/category/projects/feed/" />
+<link rel='stylesheet' id='NextGEN-css'  href='http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/prototype.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/scriptaculous/effects.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/lightbox-2/lightbox-resize.js?ver=1.8'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.88'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.05'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://groups.csail.mit.edu/synbio/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://groups.csail.mit.edu/synbio/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Weiss Lab for Synthetic Biology' href='http://groups.csail.mit.edu/synbio/' />
+<meta name="generator" content="WordPress 3.1.2" />
+
+	<!-- begin lightbox scripts -->
+	<script type="text/javascript">
+    //<![CDATA[
+    document.write('<link rel="stylesheet" href="http://groups.csail.mit.edu/synbio/wp-content/plugins/lightbox-2/Themes/White/lightbox.css" type="text/css" media="screen" />');
+    //]]>
+    </script>
+	<!-- end lightbox scripts -->
+
+<meta name='NextGEN' content='1.7.4' />
+</head>
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38542179-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="wrapper" class="projectsWrapper">	<div id="container">
+		
+        <div id="header">
+			<div id="utilities">
+             <form method="get" id="searchform" action="http://groups.csail.mit.edu/synbio/">
+             <label>Search</label>
+			 <input type="text" name="s" id="s" class="text" />
+			 <input type="submit" id="searchsubmit" value="Go" class="submit" />
+			</form>
+		</div>
+            
+            
+            
+         	
+			<div id="logo-mini"><a href="http://web.mit.edu" target="_new"><img src="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/images/logo-mit.gif" alt="MIT" title="MIT" /></a></div>
+			<!--<h1>
+				<a href="http://groups.csail.mit.edu/synbio/">WEISS</a>
+			</h1>-->
+			<div></div>
+			<h1 id="pageTitle">Weiss Lab for Synthetic Biology:  Micro-bio-robotic communication: Multicellular pattern formation and detection with visible and ultraviolet light</h1>
+			<a id="logo" href="http://groups.csail.mit.edu/synbio/"><img src="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/images/logo-weiss-lab.gif" alt="Weiss Lab for Synthetic Biology" title="Weiss Lab 	for Synthetic Biology" /></a>
+			<div id="topNav">
+				<ul>
+					<li><a href="http://groups.csail.mit.edu/synbio/about/" class='about'>About</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/people/" class='people'>People</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/projects/" class='projectsOn'>Projects</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/publications/" class='publications'>Publications</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/news/" class='news'>News</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/photos/" class='photos'>Photos</a></li>
+					<li class="last"><a href="http://groups.csail.mit.edu/synbio/jobs/" class='jobs'>Opportunities</a></li>
+				</ul>
+			</div>
+		</div>
+
+ 		<div id="leftNav">
+			<ul class="projects">
+            <li class="cat-item">
+            <a href="http://groups.csail.mit.edu/synbio/projects/" title="All Projects">All Projects</a></li>
+
+            	<li class="cat-item cat-item-16"><a href="http://groups.csail.mit.edu/synbio/category/projects/application/" title="View all posts filed under Application">Application</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://groups.csail.mit.edu/synbio/category/projects/foundation/" title="View all posts filed under Foundation">Foundation</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://groups.csail.mit.edu/synbio/category/projects/regulation/" title="View all posts filed under Regulation">Regulation</a>
+</li>
+			</ul>
+		</div>
+		
+				
+		<div id="interiorMain" catslug="projects" catid="5">
+			<h2>All Projects</h2>
+			<hr />
+			<div id="interiorColumnLeftProjects">
+    
+      
+    
+	<p>The Weiss Lab pursues a variety of topics spanning from prokaryotes to mice in both foundation and applied projects.</p>
+     	<hr />   
+   
+   	
+   			
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/artificial-tissue-homeostasis/" title="Artificial tissue homeostasis">Artificial tissue homeostasis</a></h3>
+        		<p>In order to be able to design synthetic organs that function autonomously, we will need to engineer artificial tissue homeostasis. To control the size of these artificial tissues, two major mechanisms will have to be engineered. The first one is &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/assembly-and-delivery-of-genetic-circuits/" title="Assembly and delivery of genetic circuits">Assembly and delivery of genetic circuits</a></h3>
+        		<p>Fundamental to mammalian synthetic biology is the ability to reliably construct and deliver synthetic gene circuit into the cell and to have the circuit function over time. Current methods include co-transfection of multiple plasmid and transfection of single plasmids with &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/flexible-cellular-platforms-for-reconfigurable-biocircuits/" title="Flexible cellular platforms for reconfigurable biocircuits">Flexible cellular platforms for reconfigurable biocircuits</a></h3>
+        		<p>Jonathan Babb, Adam Rubin, Thomas Knight, Ron Weiss Existing methods for cloning and recombination of DNA enable construction of arbitrary sequences.  However, the sequential nature of these techniques makes them time-consuming and expensive.  Furthermore, while the transformation of an existing &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/in-vivo-biosensors/" title="In vivo biosensors">In vivo biosensors</a></h3>
+        		<p>Whether it is a specific cancer cell, stem cell or neuron, each cell state is characterized by a set of biomarkers: mRNA, proteins and microRNA. We seek to engineer therapeutic and diagnostic genetic circuits that interface with cellular context and &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/mammalian-synthetic-transcriptional-regulation/" title="Mammalian synthetic transcriptional regulation">Mammalian synthetic transcriptional regulation</a></h3>
+        		<p>Recent advances in the engineering of DNA binding domains have opened up the possibility of greatly expanding orthogonal sets of transcriptional regulators. While bacterial promoters are relatively easy to manipulate, their mammalian counterparts can range from a few hundred base &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/mbr-communication/" title="Micro-bio-robotic communication: Multicellular pattern formation and detection with visible and ultraviolet light">Micro-bio-robotic communication: Multicellular pattern formation and detection with visible and ultraviolet light</a></h3>
+        		<p>Our team proposes to develop a generalizable platform for the two-way interfacing of synthetic biological systems with non-living systems. Important environmental signals such as explosives (e.g., RDX and TNT), toxins, metals, salinity, pH, temperature and light, will be detected by synthetic biosensors that &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/microrna-sensing-and-processing-circuit-in-mammalian-cells/" title="MicroRNA sensing and processing circuit in mammalian cells">MicroRNA sensing and processing circuit in mammalian cells</a></h3>
+        		<p>MicroRNAs (miRNAs) are endogenous 21-23 nt RNAs that pair to mRNAs to exert posttranscriptional repression mainly in metazoans and plants. MicroRNAs play important roles in nearly every aspect of biology, including development and progression of cancers and a variety of &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/rapid-assembly-and-delivery-of-large-scale-genetic-circuits-into-mammalian-cells/" title="Rapid assembly and delivery of large scale genetic circuits into mammalian cells">Rapid assembly and delivery of large scale genetic circuits into mammalian cells</a></h3>
+        		<p>This project aims to develop a framework to rapidly and reliably assemble and deliver large scale genetic circuits site-specifically into mammalian cells. The methods we&#8217;re developing allow choosing parts from a library of known (sequenced, characterized) mammalian parts and assembling &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/regulatory-networks-utilizing-protein-protein-interactions/" title="Regulatory networks utilizing protein-protein interactions">Regulatory networks utilizing protein-protein interactions</a></h3>
+        		<p>In nature, cells respond to diverse stimuli over multiple length and time scales, but most synthetic gene circuits thus far have been limited to transcriptional regulation. We develop tools for Synthetic Biology to construct genetic circuits that encode synthetic protein &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		
+	
+	
+	<div class="projectsBlock">
+        	<div class="projectBlockLeft">
+        		<h3><a href="http://groups.csail.mit.edu/synbio/projects/retroactivity-and-insulation/" title="Retroactivity">Retroactivity</a></h3>
+        		<p>A central concept in synthetic biology is the construction of reusable, well-characterized modules. Modularity simplifies circuit design by allowing engineers to decouple systems into separate modules and construct and test modules individually. Instead of designing genetic circuits from scratch with &hellip;</p>
+        	</div>
+           	<div class="projectBlockRight">
+            	            </div>
+	</div>
+	
+   
+    <hr />     
+		</div>
+
+    
+	</div>
+</div>
+</div>
+<div id="footerWrapper">
+	<div id="footer">
+          <div id="footerLogin">
+        <a href="http://groups.csail.mit.edu/synbio/wp-login.php" title="Login">Login</a>
+      </div>
+    		<div id="links">   
+        <ul> 
+        <li><a href="http://www.csail.mit.edu/" target="_blank">Computer Science and Artificial Intelligence Laboratory (CSAIL)</a></li>
+<li><a href="http://web.mit.edu/be/" target="_blank">Department of Biological Engineering</a></li>
+<li><a href="http://www.eecs.mit.edu/" target="_blank">Department of Electrical Engineering and Computer Science</a></li>
+ 
+        </ul>
+        </div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,239 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="UTF-8" />
+
+<title>Education Program - BioBricks Foundation</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://biobricks.org/wp-content/themes/bbf2012/style.css" />
+<!--[if IE]>
+        <link rel="stylesheet" type="text/css" href="/wp-content/themes/bbf/styles/all-ie-only.css" />
+<![endif]-->
+<link rel="pingback" href="http://biobricks.org/xmlrpc.php" />
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://biobricks.org/programs/education-program/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Education Program - BioBricks Foundation" />
+<meta property="og:description" content="The BBF has always engaged in education, through such activities as the SBx.0 Conference Series, the Technical RFC Process, the BioBrick Public Agreement, etc. However, we are now seeking to increase our impact on synthetic biology through education. There are three main audiences the BBF Education Program serves: The first includes the professional synbio community — &hellip; Read&nbsp;more&nbsp;&raquo;" />
+<meta property="og:url" content="http://biobricks.org/programs/education-program/" />
+<meta property="og:site_name" content="BioBricks Foundation" />
+<meta property="og:image" content="http://biobricks.org/wp-content/blogs.dir/1/files/education-1-325x216.jpg" />
+<meta property="og:image" content="http://biobricks.org/wp-content/blogs.dir/1/files/education-2-255x325.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/biobricks.org\/","name":"BioBricks Foundation"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="BioBricks Foundation &raquo; Education Program Comments Feed" href="http://biobricks.org/programs/education-program/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/biobricks.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sl-style-css'  href='http://biobricks.org/wp-content/plugins/sexy-login/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://biobricks.org/wp-content/themes/bbf/styles/forms.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-ui-css'  href='http://biobricks.org/wp-content/themes/bbf/styles/jquery-bpa-theme/jquery-ui-1.8.4.custom.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='login-with-ajax-css'  href='http://biobricks.org/wp-content/plugins/login-with-ajax/widget/widget.css?ver=4.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://biobricks.org/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.css?ver=2.7.1' type='text/css' media='screen' />
+<script type='text/javascript' src='http://www.google.com/recaptcha/api/js/recaptcha_ajax.js?ver=1.0'></script>
+<script type='text/javascript' src='http://biobricks.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://biobricks.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://biobricks.org/wp-content/plugins/sexy-login/js/jquery.blockUI.js?ver=2.53'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sexy_loginl_data = {"ajaxurl":"http:\/\/biobricks.org\/wp-admin\/admin-ajax.php","loadingurl":"http:\/\/biobricks.org\/wp-content\/plugins\/sexy-login\/img\/ajax-loader.gif","public_key":"","captcha_enter":"Enter the two words above","captcha_get":"Get another Captcha"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://biobricks.org/wp-content/plugins/sexy-login/js/sexy-login.js?ver=2.0'></script>
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://ajax.microsoft.com/ajax/jquery.validate/1.11.0/jquery.validate.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://ajax.microsoft.com/ajax/jquery.validate/1.11.0/additional-methods.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://biobricks.org/wp-content/themes/bbf2012/js/jquery-3.28.form.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://biobricks.org/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.4.8'></script>
+<link rel='shortlink' href='http://biobricks.org/?p=74' />
+
+	<script type='text/javascript'>
+		//<![CDATA[
+		function dprv_DisplayAttributions(attribution_text)
+		{
+			document.getElementById("dprv_attribution").innerHTML = attribution_text;
+			document.getElementById("dprv_attribution").title = "Attributions - owner(s) of some content";
+			document.getElementById("dprv_attribution").onmouseover = "";
+		}
+		function dprv_DisplayLicense(post_id)
+		{
+			document.getElementById('license_panel' + post_id).style.display='block';
+			document.getElementById('license_panel' + post_id).style.zIndex='2';
+		}
+		function dprv_HideLicense(post_id)
+		{
+			document.getElementById('license_panel' + post_id).style.display='none';
+		}
+	//]]>
+	</script>	<style type="text/css">	.dprv{border-collapse:collapse;border-spacing:0px;border:0px;border-style:solid;padding:0px;}
+									.dprv tr td{border:0px;padding:0px;}
+			</style><!-- Google Analytics Tracking by Google Analyticator 6.4.8: http://www.videousermanuals.com/google-analyticator/ -->
+<script type="text/javascript">
+    var analyticsFileTypes = [''];
+    var analyticsSnippet = 'enabled';
+    var analyticsEventTracking = 'enabled';
+</script>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+  
+	_gaq.push(['_setAccount', 'UA-16053531-1']);
+    _gaq.push(['_addDevId', 'i9k95']); // Google Analyticator App ID with Google
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</head>
+<body>
+
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">	
+			<div id="branding">
+				<div id="logo">
+					<a href="http://biobricks.org" class="image_link"><img src="http://biobricks.org/wp-content/themes/bbf2012/images/logo-bbf-2012.png" /></a>
+				</div><!-- #logo -->
+				<div id="blog-description">Biotechnology in the public interest</div>
+   			</div><!-- #branding -->	
+  		</div><!-- #masthead -->
+		
+							<div id="search_container">
+						<div id="search">
+<form method="get" id="searchform" action="http://biobricks.org/">
+<input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="" />
+</form>
+</div>					</div>
+					</div><!-- #header -->
+	
+	<div id="main">
+		<div id="container">
+			
+			<div id="content">
+							
+				<div id="post-74" class="post-74 page type-page status-publish hentry">    
+					<h1 class="entry-title">Education Program</h1>					
+
+									
+					<div class="entry-content">
+						<a name="content"></a>
+																			<p>The BBF has always engaged in education, through such activities as the SBx.0 Conference Series, the Technical RFC Process, the BioBrick Public Agreement, etc. However, we are now seeking to increase our impact on synthetic biology through education.</p>
+<p>There are three main audiences the BBF Education Program serves:</p>
+<p>
+<div id="attachment_1902" style="width: 335px" class="wp-caption alignleft"><a href="/wp-content/blogs.dir/1/files/education-1.jpg" rel="lightbox[74]" title="Education Program"><img class="size-medium wp-image-1902" src="/wp-content/blogs.dir/1/files/education-1-325x216.jpg" alt="" width="325" height="216" /></a>
+<p class="wp-caption-text">Dude, this synbio conference is epic! I&#39;m so glad I came.</p>
+</div>
+<p>The first includes the professional synbio community — university professors as well as policymakers, industry members, and public-benefit organizations. When educating this group, the BBF seeks to promote shared technical standards, open-source biotech legal tools, bioethics, and other key values that will have a broad impact. </p>
+<p>The second audience is students in middle school, high school, and college. The BBF recognizes the need to reach the youngest generation of scientists and bioengineers to inspire them to pursue careers in the field and help shape it as a positive, productive force for good in the world.</p>
+<p>The third audience we seek to reach includes the general lay public. We recognize that our ability to fulfill our mission and have a lasting impact will require us to educate the public and involve them in efforts to ensure that synthetic biology benefits all people and the planet.</p>
+<p>The Education Program contains the following projects developed during the first years of our organization’s operations as well as new program components added in 2011. </p>
+<h2>BioBrick™ Public Agreement (BPA)</h2>
+<p>The <a title="BioBrick™ Public Agreement" href="http://biobricks.org/bpa/">BioBrick™ Public Agreement</a> (BPA) is a free-to-use legal tool that allows individuals, companies, and institutions to make their standardized biological parts free for others to use. The BBF developed the BPA for sharing the uses of standardized genetically encoded functions (e.g., BioBrick™ parts) but, in practice, it can be used to make free the sharing of any genetically encoded function. The BPA is a revolutionary tool in science, which was developed by the BBF with involvement from Mark Fischer and David Grewal of the BBF board of directors. The BPA site was unveiled at SB5.0. Please join in the collaboration!</p>
+<h2>OpenWetWare (OWW)</h2>
+<p>
+<div id="attachment_1903" style="width: 265px" class="wp-caption alignright"><a href="/wp-content/blogs.dir/1/files/education-2.jpg" rel="lightbox[74]" title="Education Program"><img class="size-medium wp-image-1903" src="/wp-content/blogs.dir/1/files/education-2-255x325.jpg" alt="" width="255" height="325" /></a>
+<p class="wp-caption-text">Natalie Kuldell is on the BBF board of directors and is the executive director of The BioBuilder Educational Foundation</p>
+</div>
+<p>The BBF manages <a title="OpenWetWare" href="http://openwetware.org">OpenWetWare</a> (OWW), a collaborative web resource that provides biological researchers an online platform for storing, managing, and sharing research data and know-how. There are currently over 9,000 users of OWW who have contributed more than 20,000 individual resource pages. The founding goal of the OWW Project is to exploit past and ongoing revolutions in information and communications technology in order to improve biology, biological engineering, and biotechnology research.</p>
+<p>By making available information, communication, and knowledge management tools early in the research process (relative to the traditional peer-review based system), OWW supports the documentation and exchange of knowledge and information that is otherwise typically lost or never made inaccessible to begin with, (e.g., control experiments and data, negative results, etc.). OWW aims to improve the process of scientific discovery by lowering the technical barriers to sharing and dissemination of knowledge in biological research, building a community of researchers that values, practices, and innovates the open sharing of information, and by integrating into existing and future reward structures in research.</p>
+<h2>Technical Request for Comment (RFC) Process</h2>
+<p>In 2008, the BBF created a <a title="Technical Standards Framework" href="http://biobricks.org/programs/technical-standards-framework/">Technical RFC Project</a> to develop a technical-standards-setting framework that would serve as the driver and promoter of a high-quality technical-standards process for synthetic biology research.  The first BBF RFC was issued in November 2008, “BBF RFC 0: Instructions to BBF RFC Authors.”  Since that time, 87 BBF RFCs have been published addressing various topics in synthetic biology research, from proposals for DNA assembly standards to best practices in vector design to information sharing. Synthetic Biology Open Language (SBOL), designated as the standard core data model from which design tools and databases developed in the DARPA Living Foundries Program are to be made compatible [DARPA BAA11-60 2011, Galdzicki, M., et. a. 2011], was developed within the prototype BBF RFC process. The RFC aims to deliver  (1) the framework for a standards setting process in synthetic biology; and (2) an open, online platform that enables the standards setting process by providing easy to use tools for communication, information sharing, broad participation, and dissemination of technical standards. Please join the conversation!</p>
+	                    <br clear="all" />	
+						                          <br clear="all" />						
+                        
+					</div><!-- .entry-content -->
+					
+				</div><!-- #post-74 -->					
+			</div><!-- #content -->
+  		
+		</div><!-- #container -->
+  		
+  
+
+
+	<div id="main_site" class="widget-area">
+		<ul class="xoxo">
+			<li id="nav_menu-5" class="widget-container widget_nav_menu"><div class="menu-main-site-container"><ul id="menu-main-site" class="menu"><li id="menu-item-1949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1949"><a href="http://biobricks.org/">Home</a></li>
+<li id="menu-item-1930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1930"><a href="http://biobricks.org/about-foundation/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-1931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1931"><a href="http://biobricks.org/about-foundation/board-of-directors/">Board of Directors</a></li>
+	<li id="menu-item-1932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1932"><a href="http://biobricks.org/about-foundation/staff/">Staff</a></li>
+	<li id="menu-item-1933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1933"><a href="http://biobricks.org/about-foundation/strategic-partners/">Strategic Partners</a></li>
+	<li id="menu-item-1934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1934"><a href="http://biobricks.org/about-foundation/career-opportunities/">Career Opportunities</a></li>
+	<li id="menu-item-1935" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1935"><a href="http://biobricks.org/about-foundation/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-1936" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1936"><a href="http://biobricks.org/programs/">Programs</a>
+<ul class="sub-menu">
+	<li id="menu-item-1937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1937"><a href="http://biobricks.org/programs/technical-program/">Technical Program</a></li>
+	<li id="menu-item-1938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1938"><a href="http://biobricks.org/programs/sbx-0-conference-series/">SBx.0 Conference Series</a></li>
+	<li id="menu-item-1939" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-74 current_page_item menu-item-1939"><a href="http://biobricks.org/programs/education-program/">Education Program</a></li>
+</ul>
+</li>
+<li id="menu-item-1940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1940"><a href="http://biobricks.org/news/">News, Events and Media</a>
+<ul class="sub-menu">
+	<li id="menu-item-1941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1941"><a href="http://biobricks.org/news/blog/">BioBricks Blog</a></li>
+	<li id="menu-item-1942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942"><a href="http://biobricks.org/news/calendar/">Calendar</a></li>
+	<li id="menu-item-1943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1943"><a href="http://biobricks.org/news/links/">Links</a></li>
+	<li id="menu-item-1979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1979"><a href="http://biobricks.org/archive/">Archives</a></li>
+</ul>
+</li>
+<li id="menu-item-1945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1945"><a href="http://biobricks.org/donate/">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-1946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1946"><a href="http://biobricks.org/donate/other-ways-giving/">Other Ways of Giving</a></li>
+</ul>
+</li>
+</ul></div></li><li id="twitter-2" class="widget-container widget_twitter"><div><span class='twitterwidget twitterwidget-title'><div class="twitter-name">BioBricks Foundation</div><div class="twitter-username"><a href="http://twitter.com/biobricks">@biobricks</a></div></span><div class="twitter-avatar"><a href="http://twitter.com/biobricks" title="BioBricks Foundation"><img alt='BioBricks Foundation' src='http://pbs.twimg.com/profile_images/1205254541/logo-bbf-twitter_normal.jpg' /></a></div><ul><li><span class='entry-content'>RT <a href="http://twitter.com/LindaKahl" class="twitter-user">@LindaKahl</a>: Law students partner with <a href="http://twitter.com/search?q=%23iGEM" class="twitter-hashtag">#iGEM</a> for <a href="http://twitter.com/search?q=%23synbio" class="twitter-hashtag">#synbio</a> policy&amp;practice <a href="http://t.co/3fwpQFDAVm">http://t.co/3fwpQFDAVm</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/606521129751199744">4 Jun 2015</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=606521129751199744" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=606521129751199744" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=606521129751199744" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li><li><span class='entry-content'>Thank you Dr. Jerome Bonnet of <a href="http://t.co/k98iAYxQ2F">http://t.co/k98iAYxQ2F</a> for <a href="https://t.co/9NPiDgmFr1">https://t.co/9NPiDgmFr1</a> free DNA tools to detect diabetes  <a href="http://t.co/Khrjf9VadL">http://t.co/Khrjf9VadL</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/604036880959590400">28 May 2015</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=604036880959590400" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=604036880959590400" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=604036880959590400" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li><li><span class='entry-content'><a href="http://twitter.com/search?q=%23iGEM" class="twitter-hashtag">#iGEM</a> is awesome.  <a href="http://twitter.com/search?q=%23CloudLabs" class="twitter-hashtag">#CloudLabs</a> are cool.  What if iGEM &amp; more happened everywhere all the time?  Let's make a bionet <a href="http://t.co/P476oXy1xn">http://t.co/P476oXy1xn</a></span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/biobricks/statuses/604033574543601664">28 May 2015</a></span></span> <span class="intent-meta"><a href="http://twitter.com/intent/tweet?in_reply_to=604033574543601664" data-lang="en" class="in-reply-to" title="Reply">Reply</a><a href="http://twitter.com/intent/retweet?tweet_id=604033574543601664" data-lang="en" class="retweet" title="Retweet">Retweet</a><a href="http://twitter.com/intent/favorite?tweet_id=604033574543601664" data-lang="en" class="favorite" title="Favorite">Favorite</a></span></li></ul><div class="follow-button"><a href="http://twitter.com/biobricks" class="twitter-follow-button" title="Follow @biobricks" data-lang="en">@biobricks</a></div></div></li><li id="black-studio-tinymce-3" class="widget-container widget_black_studio_tinymce"><div class="textwidget"><iframe class="facebook home" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FBioBricks-Foundation%2F171198089577371&amp;width=244&amp;height=80&amp;colorscheme=light&amp;show_faces=false&amp;border_color=AAA&amp;stream=false&amp;header=false" scrolling="no" frameborder="0" style="overflow:hidden; width:244px; height:80px;" allowTransparency="true"></iframe></div></li>		</ul>
+	</div><!-- #secondary .widget-area -->
+
+		
+	</div><!-- #main -->
+
+	<div id="footer">
+		<div id="colophon">
+			<div id="site-info">
+				&copy; Copyright 2015 The BioBricks Foundation | <a href="/privacy-policy/">Privacy Policy</a> | <a href="/terms-of-use/">Terms of Use</a> | <a href="/dmca-takedown-notice/">DMCA Takedown</a> | <a href="/about-foundation/contact/">Contact Us</a><br />
+				Branding & Design by <a href="http://www.portfolio.myers.fr">Nicolas Myers</a> | Design &amp; Development by <a href="http://www.jeffbrockstudio.com">Jeff Brock Studio</a>
+			</div><!-- #site-info -->
+		
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+</div><!-- #wrapper -->
+
+
+<script type="text/javascript">	jQuery(function () { jQuery('.nav-tabs a').click(function (e) { e.preventDefault();
+	jQuery(this).tab('show'); }) });
+
+</script><!-- Lightbox Plus Colorbox v2.7.1/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+});
+</script>
+<script type='text/javascript' src='http://biobricks.org/wp-includes/js/comment-reply.min.js?ver=4.2.2'></script>
+<script type='text/javascript' src='http://biobricks.org/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=1.0.0'></script>
+</body>
+</html>		

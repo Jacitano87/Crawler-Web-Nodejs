@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->   
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>International Synthetic and Systems Biology Summer School -  SSBSS 2015</title>
+	<meta name="description" content="International Synthetic Biology Systems Biology  Summer School  Meeting Courses Workshop 2015">
+	<meta name="Keywords" CONTENT="Synthetic Biology, Systems Biology, Designing Genomes, Designing Pathways, Genome Engineering, Bio CAD, Genetic Engineering, Metabolic Engineering, Genome Design, Reading and Writing Genomes, Pathway Design, Synthetic Circuits and Cells, Biological CAD, Industrial Applications, Artificial Tissues and Organs, Genomically recoded Organisms, Biological Design Automation, Genome Engineering,  Industrial Synthetic and Systems Biology, Cellular Systems Biology, Experimental  Synthetic Biology, Computational Synthetic Biology, Stochastic Gene Regulation, Gene Signaling, Quantitative Molecular Biology, Biomolecular Simulations, High-throughput techniques, Biological Engineering">
+	<meta name="author" content="DiGi Apps">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="css/uploadifive.css">
+	<link rel="stylesheet" type="text/css" href="css/flexslider.css">
+	<link rel="stylesheet" href="css/normalize.css">
+	<link rel="stylesheet" href="css/main.new.css">
+</head>
+<body id="home">
+
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-54780692-1', 'auto');
+	ga('send', 'pageview');
+
+	</script>
+
+	<!--[if lt IE 7]>
+	<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+	<![endif]-->
+
+	<nav class="navbar navbar-fixed-top navbar-default" role="navigation">
+		<div class="container">
+			<!-- Brand and toggle get grouped for better mobile display -->
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="http://taosciences.it/ssbss2015/">SSBSS 2015</a>
+			</div>
+
+			<!-- Collect the nav links, forms, and other content for toggling -->
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="#home">Home</a></li>
+					<li><a href="#speakers">Speakers</a></li>
+					<li><a href="#directors">Directors</a></li>
+					<li><a href="#deadlines">Deadlines</a></li>
+					<li><a href="#application-form">Application Form</a></li>
+					<li><a href="#poster-submission">Poster and Abstract Submission</a></li>
+					<li><a class="no-slide" href="posters.html">Posters</a></li>
+					<li><a href="#sponsors">Sponsors</a></li>
+					<li><a href="#venue-and-accommodation">Venue and Accommodation</a></li>
+					<li><a href="#contacts">Contacts</a></li>
+				</ul>
+			</div><!-- /.navbar-collapse -->
+		</div><!-- /.container-fluid -->
+	</nav>
+
+	<section class="hero">
+		<div class="hero-content container">
+			<h1>SSBSS 2015</h1>
+			<h2>International Synthetic and Systems Biology Summer School</h2>
+			<div class="hero-small">
+				<hr /><h4>Biology meets Engineering and Computer Science</h4> <hr />
+			</div>
+			<h3>5 - 9 July 2015, Taormina - Sicily,  Italy</h3>
+			<a class="arrow slide" href="#summary"></a>
+		</div>
+	</section>
+
+			
+			
+								
+			
+
+
+
+        
+        
+        
+
+
+
+	
+	<section class="main" id="summary">
+		<div class="container">
+			<h2>Summary</h2>
+			
+			<div class="row">
+        				<div class="col-lg-6">
+        					<p>
+        						<b>DEADLINES: </b><br>
+        						Discount Abstract Deadline: April 30, 2015<br>
+        						Late Abstract Deadline: May 30, 2015<br>
+        						Discount Registration Deadline: April 30, 2015<br>
+        					</p>
+        				</div>
+        			</div>
+			
+			
+			
+			<div class="row">
+				<div class="col-lg-6">
+					<p> Recent advances in DNA synthesis have increased our ability to build biological systems. <i>Synthetic Biology</i> aims at streamlining the design and synthesis of robust and predictable biological systems using engineering design principles. Designing biological systems requires a deep understanding of how genes and proteins are organized and interact in living cells: <i>Systems Biology</i> aims at elucidating the cellular organization at gene, protein and network level using computational and biochemical methods.</p>		
+				</div>
+				<div class="col-lg-6">
+					<p>The Synthetic and Systems Biology Summer School (SSBSS) is a full-immersion course on cutting-edge advances in systems and synthetic biology with lectures delivered by world-renowned experts. The school provides a stimulating environment for students, early career researches, academics and industry leaders. Participants will also have the chance to present their results, and to interact with their peers, in a friendly and constructive environment.</p>
+				</div>
+			</div>
+
+			<h2>Topics</h2>
+			<div class="row">
+				<div class="col-lg-6">
+					<ul>
+						<li> Genetic Engineering</li>
+						<li> Metabolic Engineering</li>
+						<li> Genome Design</li>
+						<li> Reading and Writing Genomes</li>
+						<li> Pathway Design</li>
+						<li> Synthetic Circuits and Cells</li>
+						<li> Biological CAD  </li>
+						<li> Artificial Tissues and Organs </li>
+						<li> Genomically Recoded Organisms</li>
+						<li> Biological Design Automation </li>
+					</ul>	
+				</div>
+				<div class="col-lg-6">
+					<ul>
+						<li> Genome Engineering</li>
+						<li> Cellular Systems Biology</li>
+						<li> Experimental  Synthetic Biology</li>
+						<li> Computational Synthetic Biology</li>
+						<li> Stochastic Gene Regulation</li>
+						<li> Gene Signaling</li>
+						<li> Quantitative Molecular Biology</li>
+						<li> High-throughput Techniques</li>
+						<li> Biological Engineering</li>
+						<li> Industrial Synthetic and Systems Biology</li>
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<h3>News:</h3>
+					<ul>
+					
+					        <li>May 26, 2015: <b><a href="SSBSS-2015-Program-ver02.pdf">Preliminary Program ver 0.2 - May 26th</a></b>.
+					        
+					        <li>April 10, 2015: IMPORTANT! Notification of acceptance has been sent. In case you have not received the notification email, please check the spam folder.
+					        			        
+					          <li> March 15, 2015: it is still possible to submit abstract, <b>Discount Abstract Deadline: April 30, 2015.</b> 
+					    
+					          <li> February 15, 2015: Application Deadline: March 31, 2015.
+						<li> February 15, 2015: Oral/Poster Submission Deadline: March 31, 2015.
+					          <li> February 15, 2015: For the applications received from February 16 to March 31 the organizing committee will send the corresponding notification by April 10. Applicants that need a early notification (e.g., for travel grant applications) must contact the SSBSS 2015 Organizing Committee via email: ssbss.school@gmail.com
+
+						<li>February 15, 2015: To the applicants that submitted the application form by February 15th, the organizing committee will send the notification by February 28th.
+
+						<li> February 15, 2015: Due to many requests, we are extending the application deadline to March 31, 2015. For this reason, we will have up to ~150 slots for selected and motivated students. We thank all the applicants for their interest in the school, and we are looking forward to see you in Taormina in July!
+
+						<li> February 15, 2015:  We thank you very much all the applicants and presenters for this great participation to the SSBSS 2015!
+						
+					          <li> January 15, 2015: New Speaker! <a href="http://groups.csail.mit.edu/synbio/people/ron-weiss/"   target="_blank">Ron Weiss</a>, MIT, USA
+						<li> June 19, 2014: The Summer School will begin at 9:00am of Sunday July 5, 2015 and will conclude in the evening on July 9, 2015.</li>
+						<li> June 19, 2014: Link to  the <a href="http://www.taosciences.it/ssbss2014/index.html">First edition of the Synthetic and Systems  Biology Summer School - 2014, June 15-19, 2014</a>.<br>
+						</b> We received 225 submissions and more than 150 posters and oral presentations</b>.
+					</li> 
+				</ul>
+			</div>
+		</div>
+	</section>
+	<div class="img etna">
+		<h4 class="img-title right">Taormina and Etna District - Mount Etna</h4>
+	</div>
+	<section class="main" id="speakers">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<h2>Speakers</h2>
+					<ul class="centered-list">
+						<li><a href="http://vcresearch.berkeley.edu/faculty/adam-arkin"  target="_blank">Adam Arkin</a>,  University of California Berkeley, USA</li>
+						Lecture 1: "<i>Genome-scale Discovery of the Determinants of Optimal Biological Function</i>"<br>
+						Lecture 2: "<i>On the Challenges in Engineering Activity in Complex Contexts from 100,000 Liter Bioreactors to Human Guts</i>"<br>
+						<br>				
+						
+						<li><a href="http://research.med.nyu.edu/boeke-lab"   target="_blank">Jef Boeke</a>, New York University, USA</li>
+						Lecture 1: "<i>Assembling DNA: from Nucleotide to Chromosome</i>"<br>
+						Lecture 2: "<i>Sc2.0, the Synthetic Yeast Genome Project</i>"<br>
+						<br>
+						
+						<li><a href="https://depace.med.harvard.edu/"    target="_blank">Angela DePace</a>, Harvard University, USA</li>
+						Lecture 1: "<i>Developmental Gene Regulatory Networks</i>"<br>
+						Lecture 2: "<i>Measuring, Modeling and Manipulating Regulatory DNA</i>"<br>
+						<br>
+						
+						<li><a href="http://web.mit.edu/cfdewey/www/"    target="_blank">Forbes Dewey</a>,  MIT, USA</li>
+						Lecture 1: "<i>Quantitative Modeling of Molecular Pathways I: Fundamentals</i>"<br>
+						Lecture 2: "<i>Quantitative Modeling of Molecular Pathways II: Examples from Systems and Synthetic Biology</i>"<br>
+						<br>
+						
+						<li><a href="http://haynes.lab.asu.edu/"   target="_blank">Karmella Haynes</a>,   Arizona State University, USA  </li>
+						Lecture 1: "<i>Designing CRISPR for the Engineering of DNA in Mammalian Cells</i>"<br>
+						Lecture 2: "<i>Mapping and Engineering of Chromatin in Mammalian Cells</i>"<br>
+						<br>
+								
+						<li><a href="http://www.imperial.ac.uk/AP/faces/pages/read/Home.jsp?person=r.kitney&_adf.ctrl-state=ow6qct1x6_3&_afrRedirect=2763094809761071"   target="_blank">Richard Kitney</a>, Imperial College London, UK</li>
+						Lecture 1: "<i>An Engineering Approach to Synthetic Biology Design 1</i>"</br>
+						Lecture 2: "<i>An Engineering Approach to Synthetic Biology Design 2</i>"<br>
+						<br>
+						
+						<li><a href="https://people.maths.ox.ac.uk/maini/"   target="_blank">Philip Maini</a>, Oxford University, UK</li>
+						Lecture 1: "<i>Mathematical Modelling of Biological Pattern Formation</i>"<br>
+						Lecture 2: "<i>Modelling Invasions</i>"<br>
+						<br>
+						
+						<li><a href="https://scholar.google.it/citations?user=ak78d9oAAAAJ&hl=it"   target="_blank">Giancarlo Mauri</a>, University of Milano - Bicocca, Italy</li>
+						Lecture 1: "<i>Computational methods in Systems Biology: from Modelling to GPU Acceleration</i>"<br>
+						Lecture 2: "<i>Efficient Inference of Cancer Progression Models from Cross-sectional Data</i>"<br>
+						<br>
+						
+						<li><a href="http://www.bioc.cam.ac.uk/people/uto/oliver"   target="_blank">Steve Oliver</a>,  Cambridge University, UK</li>
+						Lecture 1: "<i>Improving the yeast metabolic model as a tool in strain design</i>"<br>
+						Lecture 2: "<i>Harnessing synthetic biology and the Robot Scientist in drug discovery</i>"<br>
+						<br>
+						
+						<li>Velia Siciliano,  MIT, USA</li>
+						Lecture 1: "<i>Synthetic Biology in Mammalian Systems for Biomedical Applications</i>"<br>
+						<br>
+										
+						<li><a href="http://groups.csail.mit.edu/synbio/people/ron-weiss/"   target="_blank">Ron Weiss</a>,  MIT, USA</li>
+						Lecture 1: "<i>Synthetic Biology: From Parts to Complex Circuits</i>"<br>
+						Lecture 2: "<i>Mammalian Synthetic Biology: Scientific and Therapeutic Perspectives</i>"<br>
+						<br>
+						
+						<li><a href="http://www.imsb.ethz.ch/researchgroup/nzamboni"   target="_blank">Nicola Zamboni</a>,  ETH, Switzerland</li>
+						Lecture 1: "<i>Reconstruction of metabolic regulation by large-scale metabolomics</i>"<br>
+						Lecture 2: "<i>Bottom up modeling of dynamic metabolic systems</i>"<br>
+						<br>
+						
+						<li><a href="http://www.lucazammataro.com"   target="_blank">Luca Zammataro</a>, IIT, Italy</li>
+						Lecture 1: "<i>TBA</i>"<br>
+						Lecture 2: "<i>TBA</i>"<br>
+						<br>
+						
+						
+						<!-- <li>More speakers will be announced soon!</li> -->
+					</ul>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<h2>Industrial Panel</h2>
+					<ul class="centered-list">
+						<li>Jon D. Chesnut, Life Sciences Solutions Group -Thermo Fisher Scientific, USA </li>
+						Lecture: "<i>CRISPR-based Genome Editing Tools: New Applications and Streamlined Workflows</i>"<br>
+						<br>
+						
+						<li>Zach Serber,  Zymergen, Inc.,USA </li>
+						Lecture 1: "<i>Lessons learned from optimizing microbes for large scale industrial fermentation. What has worked</i>"<br>
+						Lecture 2: "<i>Applying robotics and manufacturing principles to strain engineering</i>"<br>
+						Lecture 3: "<i>An interactive workshop: starting your own synthetic biology company</i>"<br>
+						<br>
+						
+						
+						<br>
+						
+						
+						<!-- <li>More speakers will be announced soon!</li> -->
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+	<section class="main" id="directors">
+		<div class="container">
+			
+			<div class="row">
+				<div class="col-lg-6">
+					<h3>School Directors</h3>
+					<ul class="speakers-list">
+						<div style="text-align:left; margin-bottom:10px">  
+							<li><a href="http://research.med.nyu.edu/boeke-lab" target="_blank">Jef D. Boeke</a>, New York University,  USA</li>
+							<li><a href="http://www.dmi.unict.it/nicosia/" target="_blank">Giuseppe Nicosia</a>, University of Catania, Italy</li>
+							<li><a href="http://www.dmi.unict.it/mpavone/" target="_blank">Mario Pavone</a>, University of Catania, Italy</li>
+							<li><a href="http://www.stracquadanio.me/" target="_blank">Giovanni Stracquadanio</a>, University of Oxford, UK</li>
+						</div>
+					</ul>
+				</div>
+				<div class="col-lg-6">
+					<h3>Scientific Committee</h3>
+					<ul class="speakers-list">
+						<div style="text-align:left; margin-bottom:10px"> 
+							<li>Giuseppe Nicosia, University of Catania, Italy</li>
+							<li>Antonella Agodi, University of Catania, Italy</li>
+							<li>Francesco Basile, University of Catania, Italy</li>
+							<li>Jole Costanza, University of Catania, Italy</li>
+							<li>Barbara Di Camillo, University of Padova, Italy </li>
+							<li>Markus Herrgard, Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Denmark</li>
+							<li>Heiko Muller, Italian Institute of Technology,  Italy</li>
+							<li>Giuseppe Narzisi, Cold Spring Harbor Laboratory,  USA</li>
+							<li>Wieslaw Nowak, Nicholas Copernicus University, Poland</li>
+							<li>Francesco Ricci, University of Rome &quot;Tor Vergata&quot;, Italy</li>
+							<li>Gianna Maria Toffolo, University of Padova, Italy</li>
+							<li>Renato Umeton, MIT, USA</li>
+							<li>Luca Zammataro, Italian Institute of Technology,  Italy</li>
+						</div>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="main" id="deadlines">
+		<div class="container">
+			<h2>Deadlines</h2>
+			<div class="row">
+				<div class="col-lg-6">
+					<ul class="deadline">
+						<li>Application: <span class="red">March 31, 2015</span></li>
+						<li>Notification Acceptance: <span class="red">April 10, 2015</span></li>
+						<li>&nbsp;</li>
+						<li>Oral/Poster Submission: <span class="red">March 31, 2015</span></li>
+						<li>Notification of Decision for Oral/Poster Presentation: <span class="red">May  15, 2015</span></li>
+					</ul>
+				</div>
+				<div class="col-lg-6">
+					<ul class="deadline">
+						<li>Early Registration: <span class="red">April 30, 2015</span></li>
+						<li>Late Registration: <span class="red">After April 30, 2015</span></li>
+						<li>&nbsp;</li>
+						<li>Discount Abstract Deadline: <span class="red">April 30, 2015</span></li>
+						<li>Late Abstract Deadline: <span class="red">May  30, 2015</span></li>
+						<li>Discount Registration Deadline: <span class="red">April 30, 2015</span></li>
+						
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div class="img schiso">
+		<h4 class="img-title left">Taormina - Schis&ograve; Beach</h4>
+	</div>
+	<section class="main" id="application-form">
+		<div class="container">
+			<h2>Application Form</h2>
+
+			<div class="row">
+				<div class="col-lg-12">
+					<p>The school will be open up to <strike>100</strike>  150 qualified, motivated and selected students</b></i>. Undergraduate and graduate students, post-docs, research fellows, academics and industrial professionals are encouraged to apply. School fees will be <i>550 EUR for undergraduate and graduate students</i>, <i>650 EUR for post-docs and research fellows</i> and <i>750 EUR for all other participants</i> (the late registration fees are the following:  <i>600 EUR for undergraduate and graduate students</i>, <i>700 EUR for post-docs and research fellows</i> and <i>800 EUR for all other participants</i> ). Fees will cover lectures, course materials, coffee breaks, social tours and Wi-Fi Internet Connection.</p> 
+					<p>The School will involve a total of <b>32 hours of lectures</b>, the final achievement will be equivalent to <b>8 ECTS points</b> (<a href="http://en.wikipedia.org/wiki/ECTS_grading_scale" target="_blank">ECTS grading scale</a>).</p>
+					<p>Applications should be received <strike>before March 31, 2015</strike>   <b>before April 30, 2015</b> . Applicants will receive notification of acceptance <b>by April 30, 2015 (or May 1st, 2015)</b>.</p>
+				</div>
+			</div>
+
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="alert alert-success" id="success-form" style="display:none; text-align:center">
+						<h4>Thanks</h4>
+						<p style="text-align:center">Thanks a lot! Your Application Form has been sent successfully. <br>
+							You will receive a confirmation email with the report of Application Form.</p>
+						</div>
+					</div>
+				</div>
+				<form method="post" action="#" id="registration-form" enctype="multipart/form-data" role="form">
+					<div class="row">
+						<div class="col-lg-6">
+							<div class="form-group">
+								<label for="name">First Name<span class="red"> *</span></label>
+								<input type="text" placeholder="First Name" name="name" id="name" tabindex="1" class="form-control required">
+							</div>
+
+							<div class="form-group">
+								<label for="affiliation">Affiliation<span class="red"> *</span></label>
+								<input type="text" placeholder="Affiliation" name="affiliation" id="affiliation" tabindex="5" class="form-control required">
+							</div>
+
+							<div class="form-group">
+								<label for="city">City / State<span class="red"> *</span></label>
+								<input type="text" placeholder="City / State" name="city" id="city" tabindex="7" class="form-control required">
+							</div>
+
+							<div class="form-group">
+								<label for="country">Country<span class="red"> *</span></label>
+								<input type="text" placeholder="Country" name="country" id="country" tabindex="9" class="form-control required">
+							</div>
+
+							<div class="form-group">
+								<label for="number">ID Number<span class="red"> *</span></label>
+								<input type="text" placeholder="ID Number" name="number" id="number" tabindex="11" class="form-control required">
+							</div>
+
+						</div>
+
+						<div class="col-lg-6">
+							<div class="form-group">
+								<label for="surname">Last Name<span class="red"> *</span></label>
+								<input type="text" placeholder="Last Name" name="surname" id="surname" tabindex="2" class="form-control required">
+							</div>
+
+							<div class="form-group">
+								<label for="position">Position<span class="red"> *</span></label>
+								<select name="position" id="position" tabindex="4" class="form-control required">
+									<option value=""></option>
+									<option value="350">Student (M.Sc. and Ph.D. Students) </option>
+									<option value="450">University Personnel</option>
+									<option value="550">Industry Personnel</option>
+								</select>
+							</div>
+
+							<div class="form-group">
+								<label for="address">Address<span class="red"> *</span></label>
+								<input type="text" placeholder="Address" name="address" id="address" tabindex="6" class="form-control required">
+							</div>
+
+							<div class="form-group">
+								<label for="postal">Zip<span class="red"> *</span></label>
+								<input type="text" placeholder="Postal" name="postal" id="postal" tabindex="8" class="form-control required">
+							</div>
+
+							<div class="form-group">
+								<label for="email">Email<span class="red"> *</span></label>
+								<input type="email" placeholder="Email" name="email" id="email" tabindex="10" class="form-control required">
+							</div>
+							<div class="form-group">
+								<label>Curriculum Vitae (and optionally an Abstract/Poster)<br>(Only PDF files. Max size for each file: 10 Mb)<span class="red"> *</span></label>
+								<span class="btn btn-success fileinput-button">
+									<input id="file_upload" name="file_upload" type="file">
+								</span>
+
+								<style>
+								#name-file {
+									list-style:none;
+									margin:0;
+									padding:0;
+								}
+								</style>
+								<ul id="name-file" style="display:none"></ul>
+								<div style="margin-top: 5px; text-align: center; width: 370px">
+									<button class="btn btn-info" type="button" style="display:none" id="clear-queue">Clear queue</button>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-lg-12 centered">
+								<button type="button" class="btn btn-success" id="submit-registration" disabled="disabled">Submit Registration</button>
+								<button type="reset" id="reset" class="btn btn-info">Cancel</button>
+								<a class="btn btn-default" href="privacy_policy.html" target="_blank">Privacy Policy</a>
+							</div>
+						</div>
+						<div class="row">
+							<h2>VISA</h2>
+							<div class="col-lg-12">
+								<p>You need a valid passport to enter Italy. It is highly recommended that passports have at least six months validity remaining after your intended date of departure from your travel destination. A visa is not required for citizens of EU, USA, Canada, Australia, Japan, and several other countries: please, check your visa requirements <a href="http://www.esteri.it/visti/home_eng.asp" target="_blank">here.</a> Visitors who need a visa should apply for a standard Schengen visa.</p>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</section>
+
+		<section class="main" id="poster-submission">
+			<div class="container">
+				<h2>Short Talk and Poster Submission</h2>
+				<div class="row">
+					<div class="col-lg-12">
+						<p>Students may submit a research abstract for presentation using the Application Form. School directors will review the abstracts and will recommend for poster or short-oral presentation. Abstract should be submitted <strike>by March 31, 2015</strike>    <b>by April 30, 2015</b> . The abstracts will be published on the electronic hands-out material of the summer school.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="img bella">
+			<h4 class="img-title right">Taormina - Isola Bella</h4>
+		</div>
+		<section class="main" id="sponsors">
+			<div class="container">
+				<h2>Sponsors</h2>
+				<div class="row">
+					<div class="col-lg-12">
+						<h3>Platinum Sponsors:</h3>
+						<ul class="centered-list">
+							<li><h3><b><a href="http://www.autodesk.com/" target="_blank">Autodesk</a></b></h3>
+							<img src="images/autodesk-logo.png"  width="30%" style="cursor:pointer" alt="Autodesk" onclick="javascript:window.open('http://www.autodesk.com/','','','')" >				
+							</li>
+						</ul>
+					</div>
+					<br>
+					<br><br>  
+					<div class="col-lg-12">
+						<h3>Gold Sponsors:</h3>
+						<ul class="centered-list">
+							<li><h3><b><a href="http://www.thermoscientific.com/en/home.html" target="_blank">Thermo Scientific</a></b></h3>
+							<img src="Thermo-Scientific.jpg"  width="30%" style="cursor:pointer" alt="Thermo Scientific" onclick="javascript:window.open('http://www.thermoscientific.com/en/home.html','','','')" >						
+							</li>
+						</ul>
+					</div>
+					<br>
+					<br><br>  
+					<div class="col-lg-12">
+						<h3>Silver Sponsors:</h3>
+						<ul class="centered-list">
+							<li>Leonardo Design Systems Inc.</li>
+						</ul>
+					</div>
+					<br>
+					<br><br>  
+					<div class="col-lg-12">
+						<h3>Bronze Sponsors:</h3>
+						<ul class="centered-list">
+							<li>TBA</li>
+						</ul>
+					</div>
+					<br>
+					<br><br>  
+					<div class="col-lg-12">
+						<div style="text-align:center; margin-bottom:10px"><i>SSBSS welcomes Sponsors, for more information send an email to: <a href="mailto:ssbss.school@gmail.com">ssbss.school@gmail.com</a></i></div> 
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="main" id="venue-and-accommodation">
+			<div class="container">
+				<h2>Venue and Accommodation</h2>
+				<div class="row">
+					<div class="col-lg-6">
+						<h3>Location</h3>
+						<p>
+							SSBSS will be hosted in Taormina (<a href="https://maps.google.co.uk/maps?q=google+map+taormina" target="_blank">Google Map</a>) at the venue "Hotel Villa Diodoro" that offers 1 main conference rooms, 5 meeting rooms and an open terrace for coffee breaks. The plenary room can to accommodate more than 250 people. All the rooms are equipped with Wi-Fi connection. <br> 
+							The Secretarial and conference facilities: Direct-dial telephone, Fax-PC, WI-FI/ADSL lines, Production room, Photocopier, Conference speaker system, Portable microphones, Light dimming, Overhead projector, Flip chart, Slide projector, Movie projector, Laser pointer, Podium, Stage-Catwalk, Post congress, Transfer to/from <a href="http://www.aeroporto.catania.it/?lang=eng" target="_blank">Catania International Airport - CTA</a>.<br>
+							Plenary talks and introductions to the poster sessions will be held in one of the main conference rooms while the actual poster sessions will be held in the other main room.
+						</p>
+
+						<p style="text-align:left; font-size:15px">
+							<b>Hotel Villa Diodoro Congress Center</b><br>
+							Via Bagnoli Croci 75<br>
+							98039 Taormina, Messina, Italy<br>
+							T: +39 0942 2 33 12<br>
+							F: +39 0942 2 33 91<br>
+							E: <a href="mailto:diodoro@gaishotels.com" >diodoro@gaishotels.com</a><br>
+							W: <a href="http://www.hotelvilladiodoro.com/" target="_blank">http://www.hotelvilladiodoro.com/</a><br>
+							W: <a href="http://www.hotelvilladiodoro.com/en/how-to-reach-us.html" target="_blank">http://www.hotelvilladiodoro.com/en/how-to-reach-us.html</a>
+						</p>
+
+						<h3>Travel to Taormina</h3>
+						<p>
+							<b>Plane</b><br>
+							Catania Fontanarossa "Vincenzo Bellini" International  (CTA) is the nearest and most convenient airport at some 66km (41mi) from Taormina. It features several flights from the major Italian cities such as Milan Malpensa, Rome, Naples, Venice, etc and many international direct flights from important European cities such as Bruxelles, Munich, Barcelona, Athens, Malta and many more. Lots of charter flights from all over the world land to Catania too. <br>
+							From Catania International Airport (CTA) you can reach Taormina in one-hour drive by very convenient direct highway A18 (direction Messina, exit TAORMINA).<br>
+							Direct bus to Taormina centre are available at 08.30 - 11.30 - 13.30 - 16.30 - 18.30 - 20.30 every day.
+							By <a href="http://www.radiotaxicatania.org/Default.asp" target="_blank">Taxi</a> about 1 hour.<br>
+						</p>
+						<p>
+							<b>Train</b><br>
+							Taormina's railway station is considered one of Italy's most beautiful for its elegant charming Sicilian Liberty style decor; every train arriving from Northern Italy to Sicily stops here.<br>
+							One has a large choice of trains, from de-luxe Eurostar down to simple but very efficient "Espresso train" normally departing from Milan, Turin and Rome through Naples and the Amalfi &amp; Capri area.<br>
+						</p>
+
+						<button class="btn btn-primary" data-toggle="modal" data-target="#how-to-reach-modal">
+							More details
+						</button>
+
+						<h3>Info</h3>
+						<ul class="no-style">
+							<li><a href="http://www.travelandleisure.com/articles/worlds-best-islands-2013/9" target="_blank">World's Best Islands: <b>No. 8 Sicily, Italy (July 2013)</b></a></li>
+							<li><a href="http://www.travelandleisure.com/worlds-best-islands-2014-winners-list#islands-europe" target="_blank">Europe's Best Islands: <b>No. 4 Sicily, Italy (2014)</b></a></li>
+							<li><a href="http://www.travelandleisure.com/articles/worlds-best-islands-sicily-italy" target="_blank">World's Best Trip: Sicily, Italy - How to take a World's Best trip to Sicily</a></li>
+							<li><a href="http://www.tripadvisor.co.uk/Attractions-g187892-Activities-Taormina_Province_of_Messina_Sicily.html" target="_blank">Things to do in Taormina</a></li>
+							<li><a href="http://www.taorminaetna.it/default.asp?&SessionID=59354375-A9739RN-I3320IE-GO6095SM&lang=ENG" target="_new">Taormina, Beaches &amp; Etna Volcano</a></li>
+						</ul>
+
+						<h3><b>UNESCO World Heritage Sites in Sicily</b></h3>
+						<ul class="no-style">
+							<li>  
+								<a href="http://whc.unesco.org/en/list/1427"target="_blank">Mount Etna - Catania</a> <br>
+								<a href="  http://www.parks.it/parco.etna/Eindex.php"target="_blank">Park of the Etna Volcano </a>
+							</li>
+							<li>   
+								<a href="http://whc.unesco.org/en/list/1024"target="_blank">Late Baroque Towns of the Val di Noto - South-Eastern Sicily</a> <br>
+								<a href="http://www.italia.it/en/travel-ideas/unesco-world-heritage-sites/val-di-noto-and-the-baroque.html"target="_blank">Val di Noto and the Baroque</a>
+							</li>
+							<li>  
+								<a href="http://whc.unesco.org/en/list/908"target="_blank">Isole Eolie (Aeolian Islands) - Messina</a><br>
+								<a href="http://www.italia.it/en/travel-ideas/unesco-world-heritage-sites/the-aeolians-the-volcanic-islands.html"target="_blank">The Aeolians: The Volcanic Islands</a>
+							</li>
+							<li>  
+								<a href="http://whc.unesco.org/en/list/832"target="_blank">Villa Romana del Casale - Piazza Armerina (Enna)</a> <br>
+								<a href="http://www.italia.it/en/travel-ideas/unesco-world-heritage-sites/piazza-armerina-the-villa-romana.html"target="_blank">The Villa Romana</a>
+							</li>
+							<li>  
+								<a href="http://whc.unesco.org/en/list/831"target="_blank">Archaeological Area of Agrigento</a><br>
+								<a href="http://www.italia.it/en/travel-ideas/unesco-world-heritage-sites/agrigento-the-valley-of-the-temples.html"target="_blank">Agrigento: The Valley of the Temples</a>
+							</li>
+							<li>  
+								<a href="http://whc.unesco.org/en/list/1200/"target="_blank">Syracuse and the Rocky Necropolis of Pantalica</a><br>
+								<a href="http://www.italia.it/en/travel-ideas/unesco-world-heritage-sites/syracuse-and-the-necropolis-of-pantalica.html"target="_blank">Syracuse and the Necropolis of Pantalica</a>
+								<br>
+								Syracuse is the <b>4th most important city of art in Italy</b> because of its cultural wealth.
+								
+								
+							</li>
+						</ul>
+					</div>
+					<div class="col-lg-6">
+						<h3>Accommodation</h3>
+						<p>
+							Taormina offers a wide choice of Hotels, B&amp;B, Apartments and
+							Hostels. At the following links you can find some other kinds of
+							accommodations:
+						</p>
+						<ul class="no-style">
+							<li>
+								<a href= "http://www.tripadvisor.co.uk/Tourism-g187892-Taormina_Province_of_Messina_Sicily-Vacations.html"
+								target="_blank">Tripadvisor Taormina</a>
+							</li>
+							<li>
+								<a href="http://www.taormina.it/where-to-stay/" target=
+								"_blank">Taormina official web site</a>
+							</li>
+							<li>
+								<a href="http://www.taorminahotels.net/" target=
+								"_blank">Taormina Hotels</a>
+							</li>
+							<li>
+								<a href=
+								"http://www.bed-and-breakfast-in-italy.com/town_proximity.cfm?id=3543"
+								target="_blank">B&amp;B in Taormina</a>
+							</li>
+						</ul>
+						<h3>
+							Some Hotels in Taormina
+						</h3>
+						<ul class="no-style">
+							<li>
+								<a href="http://www.amthotels.it/sandomenico/default.aspx"
+								target="_blank">Hotel San Domenico</a> *****L
+							</li>
+							<li>
+								<a href="http://www.grandhotelsanpietro.net/en/home.html"
+								target="_blank">Grand Hotel San Pietro</a> *****L
+							</li>
+							<li>
+								<a href="http://www.ehc.it/corporate/en/default.htm" target=
+								"_blank">Hotel Imperial</a> *****
+							</li>
+							<li>
+								<a href="http://www.hotelvilladiodoro.com/en/home.html" target=
+								"_blank">Hotel Villa Diodoro</a> ****
+							</li>
+							<li>
+								<a href="http://www.villaducale.com/" target="_blank">Hotel
+									Villa Ducale</a> ****
+								</li>
+								<li>
+									<a href=
+									"http://www.hotelvillaparadisotaormina.com/uk/index.htm"
+									target="_blank">Hotel Villa Paradiso</a> ****
+								</li>
+								<li>
+									<a href="http://www.hotelvillacarlottataormina.com/" target=
+									"_blank">Hotel Villa Carlotta</a> ****
+								</li>
+								<li>
+									<a href=
+									"http://www.angalahotels.it/sicily_hotels/luxury_hotels_sicily.htm"
+									target="_blank">Hotel Monte Tauro</a> ****
+								</li>
+								<li>
+									<a href="http://www.taodomus.it/default-en.html" target=
+									"_blank">Hotel TaoDomus</a> ***
+								</li>
+								<li>
+									<a href="http://www.hotelvillaschuler.com/" target=
+									"_blank">Hotel Villa Schuler </a> ***
+								</li>
+								<li>
+									<a href="http://www.hotel-isabella.it/en/home.html" target=
+									"_blank">Hotel Isabella</a> ***
+								</li>
+								<li>
+									<a href="http://www.pensionesvizzera.com/index.php" target=
+									"_blank">Hotel La Pensione Svizzera</a> ***
+								</li>
+								<li>
+									<a href="http://www.hoteldelcorsotaormina.com/" target=
+									"_blank">Hotel Del Corso</a> ***
+								</li>
+								<li>
+									<a href="http://www.albergovictoria.it/en/index.php" target=
+									"_blank">Hotel Vittoria</a> **
+								</li>
+								<li>
+									<a href="http://www.elioshotel.com/uk/index.htm" target=
+									"_blank">Hotel Elios</a> **
+								</li>
+								<li>
+									<a href="http://www.condorhotel.com/uk/index.htm" target=
+									"_blank">Hotel Condor</a> **
+								</li>
+								<li>
+									<a href="http://www.hotelsoleado.com/uk/index.htm" target=
+									"_blank">Hotel Soleado</a> **
+								</li>
+								<li>
+									<a href="http://www.villastoriataormina.com/uk/index.htm"
+									target="_blank">Hotel Villa Astoria</a> *
+								</li>
+							</ul>
+							<h3>
+								Bed &amp; Breakfast in Taormina
+							</h3>
+							<ul class="no-style">
+								<li>
+									<a href="http://www.legrandsoleil.it/homeing.htm" target=
+									"_blank">B&amp;B Le Grand Soleil</a>
+								</li>
+								<li>
+									<a href="http://www.bedandbreakfastdionisio.com/" target=
+									"_blank">B&amp;B Dionisio</a>
+								</li>
+								<li>
+									<a href="http://www.bbsweethome.com/index_en.html" target=
+									"_blank">B&amp;B Sweet Home</a>
+								</li>
+								<li>
+									<a href=
+									"http://www.joansheritage.com/johan%27s%20Heritage%20engl.html"
+									target="_blank">B&amp;B Joan's Heritage</a>
+								</li>
+								<li>
+									<a href="http://www.lesibille.net/eng/index.html" target=
+									"_blank">B&amp;B Le Sibille</a>
+								</li>
+							</ul>
+							<h3>
+								Apartments in Taormina
+							</h3>
+							<ul class="no-style">
+								<li>
+									<a href="http://www.appartamentitaormina.com/en" target=
+									"_blank">Taormina City Center</a>
+								</li>
+								<li>
+									<a href=
+									"http://www.only-apartments.com/apartments-taormina.html"
+									target="_blank">Only Apartments - Taormina</a>
+								</li>
+								<li>
+									<a href="http://www.residencecirce.it/en/index.php" target=
+									"_blank">Residence Circe - Taormina</a>
+								</li>
+								<li>
+									<a href="http://www.residencedegliagrumi.it/uk/index.htm"
+									target="_blank">Residence Agrumi - Taormina</a>
+								</li>
+								<li>
+									<a href="http://www.apartments-taormina.com/" target=
+									"_blank">Apartments Taormina</a>
+								</li>
+							</ul>
+							<h3> Hostels in Taormina </h3>
+							<ul class="no-style">
+								<li>
+									<a href="http://www.hosteltaormina.com/eng/" target=
+									"_blank">Hostel Taormina</a>
+								</li>
+								<li>
+									<a href="http://www.taorminaodyssey.com/" target=
+									"_blank">Taormina's Odyssey Youth Hostel</a>
+								</li>
+							</ul>
+							<h3>
+								Villas in Taormina
+							</h3>
+							<ul class="no-style">
+								<li>
+									<a href=
+									"http://www.thethinkingtraveller.com/thinksicily/villas-in-taormina.aspx"
+									target="_blank">Villas in Taormina</a>
+								</li>
+							</ul>
+							<h3>
+								Flats and Houses in Taormina
+							</h3>
+							<ul class="no-style">
+								<li>
+									<a href=
+									"https://www.airbnb.com/s/Taormina--Messina--Italy?source=bb"
+									target="_blank">airbnb in Taormina</a>
+								</li>
+							</ul>
+							<h3>
+								Mt Etna Tours
+							</h3>
+							<ul class="no-style">
+								<li>
+									<a href="http://www.etnamoving.com" target=
+									"_blank">Etna Moving</a>
+								</li>
+								<li>
+									<a href="http://www.etnaexplorer.it/en/etnaexplorer/" target=
+									"_blank">Etna Explorer</a>
+								</li>
+								<li>
+									<a href=
+									"http://www.taorminaetna.it/default.asp?&amp;SessionID=23678271-Q1760NB-T8235RE-JN1802AB&amp;lang=ENG"
+									target="_blank">Taormina Etna Consortium</a>
+								</li>
+								<li>
+									<a href="http://www.golealcantara.com/en/" target="_blank">Gole
+										Alcantara Botanical and Geological Park</a>
+									</li>
+								</ul>
+								<h3>
+									Art and Music in Taormina and Catania
+								</h3>
+								<ul class="no-style">
+									<li>
+										<a href="http://www.taormina-arte.com/default.asp?lang=1"
+										target="_blank">Taormina Art</a>
+									</li>
+									<li>
+										<a href=
+										"http://www.teatromassimobellini.it/index.asp?language=1"
+										target="_blank">Teatro Massimo Bellini - Catania</a>
+									</li>
+								</ul>
+								<h3>
+									Taormina Walking Tour
+								</h3>
+								<ul class="no-style">
+									<li>
+										<a href="http://www.taorminawalkingtour.com/home.php" target=
+										"_blank">Taormina Walking Tour</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</section>
+				<div class="img greco">
+					<h4 class="img-title left">Taormina - Ancient Greek Theatre</h4>
+				</div>
+				<section class="main" id="contacts">
+					<div class="container">
+						<h2>Contacts</h2>
+						<div class="row">
+							<div class="col-lg-6" style="min-height: 300px">
+								<div class="alert alert-success" id="success-mail" style="display:none">
+									<h4>Email successfully sent</h4>
+								</div>
+								<form method="post" action="#" id="form-mail" role="form">
+									<div class="form-group">
+										<label for="name-mail">Name and Surname</label>
+										<input type="text" class="form-control required" placeholder="Name" id="name-mail" name="name-mail">
+									</div>
+									<div class="form-group">
+										<label for="email-mail">Email Address</label>
+										<input type="email" class="form-control required" placeholder="Email" id="email-mail" name="email-mail">
+									</div>
+									<div class="form-group">
+										<label for="mex-mail">Your Message</label>
+										<textarea id="mex-mail" class="form-control required" name="mex-mail" placeholder="Message"></textarea>
+									</div>
+									<button type="submit" class="btn btn-default" id="submit-mail">Send Mail</button>
+								</form>
+								<p id="load" style="display:none; text-align:center">Sending...</p>
+							</div>
+							<div class="col-lg-6">
+								<p>
+									<b>TaoSciences Research Center</b><br>
+									Taormina, Sicily<br>
+									Italy<br>
+									<a href="http://www.taosciences.it/">http://www.taosciences.it</a><br>
+									<br>
+									For more information, send an email to: <a href="mailto:ssbss.school@gmail.com">ssbss.school@gmail.com</a><br>
+								</p>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<footer>
+					<div class="container">
+						<div class="col-lg-6">
+							<p>All rights reserved 2014-2015 &copy; <a href="http://digiapps.it" target="_blank">DiGi Apps</a></p>
+						</div>
+						<div class="col-lg-6">
+							<p class="align-right">Made in Italy</p>
+						</div>
+					</div>
+				</footer>
+
+				<!-- Useful Modal -->
+				<div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+								<h3 id="modal-label"></h3>
+							</div>
+							<div class="modal-body">
+								<p id="modal-mex" style="text-align:center"></p>
+							</div>
+							<div class="modal-footer">
+								<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Modal How to Reach -->
+				<div class="modal fade" id="how-to-reach-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+					<div class="modal-dialog modal-lg">
+						<div class="modal-content">
+							<div class="modal-header">
+								<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+								<h4 class="modal-title" id="myModalLabel">How to reach Taormina</h4>
+							</div>
+							<div class="modal-body">
+								<p>The easiest way to reach Taormina is to fly into Catania International Airport - CTA (Italy's third-largest airport by domestic air travel volume), and then take a 90-minute bus to Taormina. On weekdays, buses run in the daytime (6:45am to 7:45pm) every other hour; weekend schedules skip mid day trips. Tickets cost around 7 EUR (one way), and can be bought directly on the bus. Once in Taormina, the bus stops 400 meters (1/4mi) away from the city center (Porta Messina). Some hotels in Taormina provide (for a fee) a shuttle service from and to the airport to their guests. You might also reach Taormina from the airport by car in an hour or so. Renting a car, however, is discouraged, as Taormina has severe traffic limitations - only residents are allowed to drive cars in the city center, and parking is limited. Should you nevertheless decide to rent a car, notify the front desk at the conference venue and they will direct you to a nearby unsecured parking lot. Please be advised that space is limited, and will be assigned on a first-come, first-served basis. The cost of a taxi ride varies, with 90 EUR being a rough estimate. Coordinate with other participants if you wish to share a taxi from the airport to the hotel. Cheaper transportation might be possible by sharing car service.</p>
+
+								<div class="panel-group" id="accordion">
+									<div class="panel panel-default">
+										<div class="panel-heading">
+											<h4 class="panel-title">
+												<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+													By Plane
+												</a>
+											</h4>
+										</div>
+										<div id="collapseOne" class="panel-collapse collapse">
+											<div class="panel-body">
+												<p>
+													The <a href="http://www.aeroporto.catania.it/" target="_blank">&quot;Vincenzo Bellini&quot; International Airport - CTA</a> is located 66km (41mi) from Taormina. The airport offers connections with all the major Italian and European cities, including all the capitals. 
+												</p>
+												<h4>Suggested Route</h4>
+												<p>
+													There is a direct bus linking Catania International Airport (CTA) with Taormina  in about 1h 30m. The bus leaves for Taormina every half an hour (ticket price:  about 6 EUR).
+												</p>
+												<h4>Alternative Route</h4>
+												<p>
+													The AMT city bus links Catania International Airport - CTA to the Catania Central Train Station regularly (ticket price: 1.20 EUR). See the "By Train" section for further train instructions.
+												</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading">
+											<h4 class="panel-title">
+												<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">
+													By Train
+												</a>
+											</h4>
+										</div>
+										<div id="collapseTwo" class="panel-collapse collapse">
+											<div class="panel-body">
+												<p>
+													The "Giardini Naxos/Taormina" Train station is on the Messina-Catania line with direct and very frequent trains going both ways. The station is connected to Taormina by regular buses (ticket price: about 1.50 EUR). Alternatively, a taxi ride to Taormina would take about 10/15 minutes. It is also possible to reach Taormina by cableway. However, a  1km (1093yd) walk is required to reach the Cable Station from the Train Station.
+												</p>
+											</div>
+										</div>
+									</div>
+									<div class="panel panel-default">
+										<div class="panel-heading">
+											<h4 class="panel-title">
+												<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">
+													By Car
+												</a>
+											</h4>
+										</div>
+										<div id="collapseThree" class="panel-collapse collapse">
+											<div class="panel-body">
+												<h4>From Catania</h4>
+												<p>
+													Take the A18/E45 highway towards Messina, continue for 45km (27mi) and take the "Taormina" exit, follow the signs to Taormina, park in one of the municipal car parks and then take the shuttle buses into the town. 
+												</p>
+												<h4>From Messina</h4>
+												<p>
+													Take the A18/E45 highway towards Catania A18/E45, continue for 37km  (22mi) and take "Taormina" exit, follow the signs to Taormina, park in one of the municipal car parks and then take the shuttle buses into the town.
+												</p>
+												<h4>From Palermo</h4>
+												<p>
+													Take the A19/E90 highway towards Catania A18/E45, continue for 200km (124mi) and take "Messina/Patern&ograve/Catania" exit, then take the A18/E45 highway towards Catania A18/E45, continue for 37km (22mi) and take "Taormina" exit, follow the signs to Taormina, park in one of the municipal car parks and then take the shuttle buses into the town.
+												</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="modal-footer">
+								<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<script src="js/vendor/jquery-1.9.0.min.js"></script>
+				<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+				<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+				<script src="js/jquery.flexslider-min.js"></script>
+				<script src="js/jquery.uploadifive.min.js"></script>
+				<script src="js/plugins.js"></script>
+				<script src="js/main.new.js"></script>
+			</body>

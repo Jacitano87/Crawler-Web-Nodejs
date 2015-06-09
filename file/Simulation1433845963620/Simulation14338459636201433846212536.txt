@@ -1,0 +1,1294 @@
+	<!doctype html>
+
+<!--[if lte IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+	<head><link rel="stylesheet" type="text/css" href="http://www.nextnature.net/wp-content/cache/minify/000000/M9BPLi7WLy6pzEkFAA.css" media="all" />
+<script type="text/javascript" src="http://www.nextnature.net/wp-content/cache/minify/000000/LY5JEsMgDAQ_BBLkkMp3MFYoEYNsBM7y-pTj3Kb70uMwKy48KRaZqVX-NHuBK3goXI3HnVdqaneeSew2OD56SIqNVEaLpKjPu0yZYjeIIYcXJJG0UFhZIUr5uTOQt0HtjR5u4P5wRCCrcccLrtzPVQLXLw.js"></script>
+
+		<title>
+	   		Artifice Earth: Adam Rutherford on the Promises of Synthetic Biology &laquo; NextNature.net		</title>
+		
+					
+		
+
+		
+		
+				<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<link rel="shortcut icon" href="http://www.nextnature.net/favicon.ico">
+		<link rel="alternate" type="application/rss+xml" title="NextNature.net - Exploring the Nature caused by People. RSS Feed" href="http://feeds.feedburner.com/nextnature">
+		
+
+				<script type="text/javascript">
+		// <![CDATA[
+			var vvqflashvars = {};
+			var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptacess: "always" };
+			var vvqattributes = {};
+			var vvqexpressinstall = "/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+		// ]]>
+		</script>
+		
+				
+	</head>
+	<body id="bodyHome">
+		<div id="page">
+		<header>
+			<nav>
+				<ul>
+					<li><a id="nav-home" href="http://www.nextnature.net"><h1>Next Nature</h1></a></li>
+					<li><a id="nav-themes" href="/themes/">Themes</a></li>
+					<li><a id="nav-book" href="/book/">Book</a></li>
+					<li><a id="nav-essays" href="/essays/">Essays</a></li>
+					<li><a id="nav-lab" href="/lab/">Lab</a></li>
+					<li><a id="nav-tv" href="/tv">TV</a></li>
+					<li><a id="nav-events" href="/events/">Events</a></li>
+					<li><a id="nav-shop" href="/store/">Store</a></li>
+										<li id="nav-search">	<form id="searchform" method="get" action="http://www.nextnature.net/">
+		<input type="text" name="s" size="20" placeholder="Search..."><input type="submit" value="Search">
+	</form></li>
+									</ul>
+			</nav>
+						<section id="what-is">
+				<a href="#" id="hide-what-is">Hide this</a>
+				<a href="/about" id="more-what-is">
+				<h2>What is Next Nature?</h2>
+				<p>With our attempts to cultivate nature, humankind causes the rising of a next nature, which is wild and unpredictable as ever. Wild systems, genetic surprises, autonomous machinery and splendidly beautiful black flowers. Nature changes along with us.</p>
+				</a>
+			</section>
+					</header>
+			<section id="container">
+	
+			<section id="single-article">
+			
+				<article class="post-35987 post type-post status-publish format-standard hentry category-interview tag-bionics tag-designed-by-evolution tag-genetic-surprises tag-hypernature tag-microbial-factories" id="post-35987">
+											<img width="530" height="397" src="http://www.nextnature.net/wp-content/uploads/2013/09/artificial-life-530x397.jpg" class="attachment-large wp-post-image" alt="artificial life" />						<h2>Artifice Earth: Adam Rutherford on the Promises of Synthetic Biology</h2>
+						<p><b>In the basement recording studio of the journal <i>Nature</i> scientist and broadcaster Adam Rutherford sat down with speculative architect Liam Young to discuss the mythical beasts of synthetic biology. Rutherford recently worked with the BBC on a series called the ‘Gene Code’ which explored the consequences of decoding the human genome. Recognizing the potential externalities of communicating science poorly, Rutherford works at conveying the poorly understood field of synthetic biology to a broader audience.</b></p>
+<p><span id="more-35987"></span></p>
+<p><strong>Liam Young</strong>: The next stage of biology is in actuality a human technology. We talk of the ‘Anthropocene’, a period of geological history in which, from the engineering of bacteria to the terraforming of landscapes, at every scale, we are the dominant force shaping our planet. We have made an ‘artifice earth’, reengineered and reordered, controlled and determined. I want to start with this question, is the natural relevant? Has it ever been?</p>
+<div class="simplePullQuote"></p>
+<p>The next stage of biology is in actuality a human technology.</p>
+<p></div>
+<p><strong>Adam Rutherford</strong>: Farming is the precise opposite of what is natural. If you read the origin of species where evolution is described, the whole of the first chapter isn’t about natural selection at all, it is about artificial selection, particularly in relation to pigeons. The reason for that is that Darwin is demonstrating the idea that species are mutable. They are not fixed but changeable over generations. Darwin refers to pigeons because pigeon fanciers over thousands of years have bred pigeons for competition purposes. You can now get absurd looking creatures called ‘Puffers’ or ‘Trumpeters’ and they have ridiculous body forms. All of the pigeon fanciers of the day insisted they were different species but Darwin showed, through meticulous analysis of their skeletons that they were in fact the same species and that they had been bred to change. In this way what is natural is a very difficult thing to pin down.</p>
+<p><strong>LY</strong> With my own nomadic research studio the Unknown Fields Division we travel to extreme landscapes exploring this idea of what is natural. We did an expedition through the Amazon and discussed with biologists the idea that the jungle, an icon of the conservation movement, a site so fundamental to the idea of wilderness or nature as pristine and untouched, is actually not a jungle at all, but a large cultivated garden. It has grown in a conditioned way through thousands of years of nomadic tribes planting, harvesting, and moving on. Through landscapes like this we can begin to understand that technology has always been a driver in evolutionary change. Is nature as a term still a productive in any way?</p>
+<div class="simplePullQuote"></p>
+<p>Technology has always been a driver in evolutionary change</p>
+<p></div>
+<p><strong>AR</strong> Well, that’s an interesting question. It is a very divisive term. By that I mean that it is often used by people who are attacking biotechnology. You see this in places like health food stores where things are described as being natural rather than unnatural. It is a misuse of a term that is difficult to define. I spend a great deal of time thinking about this precise word. We must also bear in mind that we are sitting in a building devoted to a magazine called <i>Nature</i>. It is also divisive in the sense that it separates us from everything else in the physical world and that certainly isn’t helpful because we are part of that world. We are in the end, just shaven apes.</p>
+<p><strong>LY</strong> Is ‘nature’ as a term counterproductive then? What of the dominant model of conservation that sees technology in opposition to an idealized nature. What does a conservationist or sustainability look like in a synthetic biology world?</p>
+<p><strong>AR</strong> Well there is an interesting history here. The advent of biotechnology really happened in 1973 when the first piece of genetic engineering occurred. It was done by Paul Berg and his team in Stanford; they developed a way to transfer genes from one organism to another. Up until that point the only way we could change species was through breeding. The inevitable limitations of breeding are that you need to organisms that are capable of having sex with one another. Biotechnology in the form of genetic engineering changed that because it enabled us to take DNA from one species and remix it with DNA from another species that could be separated from each other by hundreds of millions of years of evolution. Up until that point the environmental movement and specifically ‘Friends of the Earth’ was largely rooted in science and scientific optimism. In 1975 there was a major meeting called Asilomar where all of the people involved in biotechnology got together to discuss the profound implications of what they had been doing. It became a benchmark for scientific responsibility as they called a moratorium on the research, drew everyone together and sat down with journalists and lawmakers to hash out a set of guidelines and principles for how they could proceed. It was a precautionary green light. President Obama uses the phrase ‘prudent vigilance’ in reference to synthetic biology which is basically the same principle. After that there was this schism between ‘Friends of the Earth’; much of the argument was that the people representing the environmental movement were taking a very visceral approach to biotechnology. In many ways that schism has never been mended. One of the things I try and do in my new book <i>Creation: How Science is Reinventing Life Itself</i> is to look at the historical reaction to biotechnology in this period and see how it compares to the arguments of the people that oppose synthetic biology now. What my research shows is that the arguments are in fact identical. It could be that the arguments haven’t changed because the problems still stand but I don’t think that’s fair as the technology has moved on so significantly since then.</p>
+<p><strong>LY</strong> Do you think then that there is an implicit need for a more widespread cultural shift where we start to accept at a popular level this idea that biology is technology and technology is biology.</p>
+<p><strong>AR</strong> On the whole it’s a tricky divide to breech. On the one hand you have a very vocal minority that are viscerally opposed to what I believe to be science in general and use whatever the latest scientific development is to reinforce a pseudo-romantic notion of the way things used to be. It is just a very loud minority but it is very influential because they use emotive terms like ‘nature’ and the ‘natural’ to pull the argument toward them. My belief is that the modern world is built on scientific research and to deny the benefits of this is nonsensical. There is a bottled water brand now advertising itself as calorie free; technically true but it really undermines the whole basis of chemistry. We get annoyed when we see adverts for products that declare themselves ‘chemical free’ which is utterly meaningless as all things are actually chemicals, even water, but it is that emotive and visceral language which taps into that latent fear of science and technology.</p>
+<p><strong>LY</strong> Would it be true to say that synthetic biology is a ‘before culture’ technology. It is certainly a ‘before the law’ technology in that it has advanced faster than the legislation that attempts to regulate it.</p>
+<p><strong>AR</strong> That’s the story of all technology though. Advances in technology happen at a much greater rate than the law can keep up with.</p>
+<p><strong>LY</strong> Which is why we see Kim Dotcom and MegaUpload being dragged through the courts and the scramble to ban sites like Pirate Bay.</p>
+<p><strong>AR</strong> I see the advent of synthetic biology as somewhat equivalent to the advent of sampling in music. It was Steve Reich and the Beatles who really started sampling in 1966 but when you get the emergence of hip hop in the Bronx with people mixing on decks and then further sampling technology in the eighties there is a free unrestrained supernova burst of the creation of a new genre. At this point there is no enforcement of copyright until record companies started noticing how lucrative this could become. There is the story of the ‘Amen break’, a two bar, 7.3 second drum beat from a forgotten B-side by a minor soul band called the Winstons. In the eighties this fragment became a standard lick to be remixed and put into samplers. Mantronic’s ‘King of the Beats’ first used it in 1988, in 1989 NWA used it in ‘Straight out of Compton’, it then enters dance music in the UK and Future Sounds of London use it on all their tracks, and now the whole of drum n bass and jungle is based on the looped ‘Amen Break’. The point of this is that something violating copyright has become the cultural background of entire music genres.</p>
+<p><strong>LY</strong> So how might that translate to synthetic biology?</p>
+<p><strong>AR</strong> Copyright doesn’t apply to living things but patent law does. I think there is a parallel story there in that you can’t patent a naturally occurring thing but you can patent a process like the extraction of a gene from an organism. People don’t realize that we have about 22,000 genes and about a fifth of them are owned by someone else. I could take a cheek swab from you now and I could extract any one of thousands of genes and by doing so I would be violating patents. It is quite a bizarre state of affairs. The analogy falls down when you realize that most musicians don’t really care about copyright when they are mixing in their basements and across the underground scene. My argument is that there is no place for the underground in science. It either happens in the harsh light of public scrutiny or it doesn’t happen at all.</p>
+<div class="simplePullQuote"></p>
+<p>People don’t realize that we have about 22,000 genes and about a fifth of them are owned by someone else.</p>
+<p></div>
+<p><strong>LY</strong> Another analogy then might be with the personal computer. A technology that began in the institution or the military but it wasn’t until it was disseminated, democratized and distributed onto everyone’s desktop that we really understood its full potential and application. What might happen when synthetic biology leaves the lab or the institution and goes into the garage, the bedroom, or the hacklab. Who gets to use or control this new technology, and to what end?</p>
+<p><strong>AR</strong> That process has already begun. One of the reasons that there was a vast profusion of personal electronics and computing was that there was a standardization of the hardware involved. Electrical engineers settled on standards for each component so that they could be assembled together and every time you needed a diode you wouldn’t have to invent a new one. That is exactly what is happening with genetic engineering now. If you could commoditize each gene in a way that would enable you to plug them together just like electronics, then anyone can do it. Stuff that originally took me a year to do now takes someone far less skilled just a day. The best example of this is the annual iGEM competition (International Genetically Engineered Machine) which is performed by undergraduates. They come up with a real world problem and then they engineer a solution using parts from a freely available database. The other part of this is that BioBricks, the organization that runs the competition, are very aware of the legal issues of ownership. They issue a creative commons license to all of the products produced in the competition. The principle is ‘get some, give some’. This is infant technology and infant legislation to protect it. We are seeing a real maelstrom of activity that is very unresolved at the moment.</p>
+<p><strong>LY</strong> Are we going to see a scenario where a pharmaceutical multinational patents a particular kind of plant and forests become a copyright infringement, gardening an act of piracy. Huge swathes of Samsung forests cut down or set alight in a patent dispute. Is there a need for a regulatory body that is watching every hack space or every university lab?</p>
+<p><strong>AR</strong> We are not there yet but it is not unimaginable. With existing legislation some of these large corporations already have massive swathes of biotech crops growing in the food chain. I don’t see any reason at the moment to alter the legislation to cope with any of the new technology that is emerging, at least not yet.</p>
+<p><strong>LY</strong> Is this of concern or is it as benign as the copyright infringements of every track using the ‘Amen Break’?</p>
+<p><strong>AR</strong> That’s a very good question. I am not sure if I can answer that without thinking further about it. Probably the biggest winner of synthetic biology in the immediate future is going to be the production of a synthetic malaria treatment called Artemisinin. It is farmed from a Wormwood that is typically slow growing and difficult to harvest but a group in San Francisco have identified a pathway in yeast cells that would produce Artemisinin at an extremely reduced cost. They issued this as a royalty free license in order for people to distribute it in a free and unrestricted way. This is going to hit the markets in the next year or so. It has the hallmarks of corporate responsibility but it is subject to real world applications. The problem with it is that it should never be used as a single treatment because that is how immunity will develop in the plasmodium that carries malaria. There are however already pockets in Cambodia and Thailand that are resistant to the drug because people won’t use it according to the regulations, there is also already a black market for it and so on. So whatever the process is, the application of research in the lab is always subject to real world scenarios, legislation, market forces. That is the high point of the technology but we are yet to see how it is going to emerge as applied engineering.</p>
+<p><strong>LY</strong> How can these discussions of regulation help us when thinking about our cultural understanding of this technology. Embedded in the mechanisms of control is an inevitable discussion about ethics. Where will we find an appropriate metric to help us assess what directions are positive and what cross the line. We currently relate to something like stem cell research through abstract ideas of the natural, moral or ethical positions that have evolved across accidents of history or are rooted in a book of biblical fictions.</p>
+<p><strong>AR</strong> In many ways society makes collective decisions about what we can and can’t do. It is the job of people like me and scientists to engender a society that is informed and understands the actual issues enough to make sensible decisions about what we <i>should</i> do rather than what we <i>could</i> do. The problem is that the arguments are often skewed before they get to the stage that we are capable of shaping informed public dialogues. That is really why I do what I do. I want to present the technology in a way that is as neutral as possible so that you know about it and are not subject to knee jerk reactions by people with agendas. The argument was lost in genetically modified foods before it began in Europe so we don’t have GM foods here. On a cyclical basic we see the emergence of research that could be considered to be substandard and appears to have an agenda behind it. Last year a team of French researchers backed by an anti-GM organization published what was very quickly judged to be spurious findings, in order to demonstrate that eating a particular sort of engineered crop produces high instances of tumors in rats. This was a very small study but with a very large PR campaign. It quickly unraveled as it was exposed as very weak science but once the idea is out there and the PR offensive has done its work then it’s very difficult to rebottle. Bad science doesn’t inform us, all it does is skew the argument so the public is incapable of making informed decisions.</p>
+<div class="simplePullQuote"></p>
+<p>Good science fiction is always a reflection of current events</p>
+<p></div>
+<p><strong>LY</strong> What are some of the productive strategies then for engaging the public in reasonable discussions about this technology? We often talk about emerging sciences in the abstract. For a technology in its infancy a new discovery is rarely applied or speculated on. We are still however, forced to make moral or ethical assumptions about discoveries before we fully understand their possibilities and implications. In our own speculative work we use techniques of fiction and scenario building to create imagery an audience can connect with emotionally. I am thinking here of an example like Godzilla. During the United States Castle Bravo thermonuclear device test on Bikini Atoll, a Japanese fishing boat called the Lucky Dragon 5 was caught in the blast. The cathartic, fictional monster Godzilla was developed as a metaphor for nuclear weapons and is evidence of a culture struggling to deal with an emerging context of nuclear technology.</p>
+<p><strong>AR</strong> As you point out good science fiction is always a reflection of current events. A classic like ‘The Day the Earth Stood Still’ made in the fifties was about nuclear fears and then in the nineties, the horrible Keanu Reeves remake was about environmental fears but it’s basically the same story. The question is does it help ferment a culture which is informed but neutral? I don’t really know the answer to that.</p>
+<p><strong>LY</strong> That’s an interesting point though, the idea that neutrality is an important thing that you are trying to achieve with your communications work.</p>
+<p><strong>AR</strong> One of the things we do on television, particularly at the BBC and particularly in recent years is to be less journalistic and neutral in the traditional sense but to take a storytelling approach and attempt to portray wonder and awe as a means to inspire the public to go and find out for themselves. Television is a very shallow medium but what it can do is inspire people to go away and read a book, or to do a science degree or to find out more. I am currently working on a project with the artist David Blandy in which we are looking at the cultural idea of chimeras through history and this concept is fundamentally changing with the emergence of synthetic biology. In the current Ice Age exhibition at the British Museum you can see the earliest piece of sculpture that we have found and it’s a figure with the body of a man and the head of a lion. In the Greek chimera we see the desire to take characteristics from one creature and transpose them onto another. We have been thinking about these forms of mutations for 40,000 years but we can now do these things in reality. In my work I talk a lot about ‘Spidergoat’, a goat that has been engineered to produce web in its milk.</p>
+<p><strong>LY</strong> The magical realist Jorge Luis Borges has written the wonderful ‘Book of Imaginary Beings’ that attempts to catalogue all of these mythical creatures you are talking about. In it he uses the phrase ‘necessary monsters’ to describe how every culture develops these stories either as cautionary tales or as cathartic fictions to help us deal with the fears and anxieties of the day.</p>
+<p><strong>AR</strong> All of that is true but also in many examples, particularly in medieval history, a creature like the flying horse is about the acquisition of traits that aren’t available to us. In a sense that ability to transfer a trait from one creature onto another, for a purpose, is exactly the principle of synthetic biology. We can take something a jellyfish can do, such as fluorescence, and put it into something that we think is going to be useful, like a treatment for cancer and essentially create a very precise and productive mythical beast. The history of biology has been about taking things apart to find out how they work, until the 1980s when it became about putting them back together but not necessarily in the way we might have expected. That is essentially what synthetic biology is.</p>
+<p><strong>LY</strong> Some chimeras are about dealing with anxieties; others are creatures of wonder and wisdom. Could we discuss some particular projects or research that you are seeing now that you think it is going to be key in shaping our future. Do any of these monsters scare you? Are you filled with wonder and optimism or reserved caution?</p>
+<p><strong>AR</strong> Absolutely wonder and optimism! I firmly believe that the scientific method has delivered civilization across our entire history and that we are a scientific species. The unbridled enthusiasm of the iGEM competition is all enabled by the democratization of the tools available to them. The University College of London team in 2012 developed a project addressing the problem of the amount of plastic floating in the ocean. There is the modern Atlantis myth of the island of plastic that is supposed to exist in the Pacific but in reality it is a misunderstanding and most of the plastic is actually in the form of micro particles. They came up with a biological circuit that you could introduce into bacteria so that it would capture this micro plastic, aggregate it, and ultimately form a real artificial island.</p>
+<p><strong>LY</strong> A form of bacterial terraforming!</p>
+<p><strong>AR</strong> The winners in 2012 were a team from the Netherlands who developed a much more practical and straightforward biological circuit that you can stick in meat trays that will change color when meat goes rotten. A team from London’s Imperial College a few years ago were interested in desertification and were engineering bacteria that would induce further root growth in plants that grow on the edge of deserts. A team from Brown and Stanford, working at NASA, were interested in another form of terraforming, in this case on the moon. There are certain bacteria that exist in the wild and secrete calcite in a process called bio-cementation. The team introduced this element into different bacteria and engineered it so that it could turn the fine sand or ‘regolith’ on the Moon’s surface into bricks. The biggest cost in space travel is weight so with this project all you need to take on board with you is a vile of bacteria. When you land you take a culture of this bacteria and you build a space station. These are all projects that seem absurd but in many ways are actually very close to becoming real.</p>
+<div class="simplePullQuote"></p>
+<p>A world where every surface, at every scale is an engineered object</p>
+<p></div>
+<p><strong>LY</strong> I am interested in the idea we began with of an ‘Artifice Earth’. I am thinking of the famous Stewart Brand quote from the <i>Whole Earth Catalogue</i>: “We are as gods and might as well get good at it.” It is extraordinary to think about what the world you are describing looks like – a world where every surface, at every scale is an engineered object.</p>
+<p><strong>AR</strong> I generally reject the idea of paradigm shifts. I don’t think science works like that and I don’t think humans work like that. There are punctuations in our cultural and biological evolution but on the whole I think huge disruptive transformational technologies emerge much slower than we like to think they do. This is why I have problems with the organizations that oppose these types of technologies because they tend not to be reflective of the fact that we generally progress. The beautiful English countryside is looked on as being a wonderful natural phenomenon but it’s not natural at all. It’s a landscape full of fences, hedging, and farming that has been around since 1066.</p>
+<p><strong>LY</strong> The ‘Not In My Backyard’ movement is so incredibly ironic in that they oppose the ‘unnatural’ development of the wind turbine as a blight on their pristine landscape, without thinking of course of cows or square fields or even cabbages.</p>
+<div class="simplePullQuote"></p>
+<p>Huge disruptive transformational technologies emerge much slower than we like to think they do</p>
+<p></div>
+<p><strong>AR</strong> I think this is fundamentally a problem of comprehension. Understanding where technology is going and understanding what that will actually mean are two things that scientists just don’t know. Keeping an informed public and an informed government involved in that conversation is a hard thing to do. You are talking about cutting edge technologies and the closer you can keep the public and governments to that cutting edge the more sensible decisions we make in terms of what technologies we are willing to apply to the problems we face.</p>
+<p><strong>LY</strong> I saw a discussion between Cory Doctorow and William Gibson where they were talking about the progression of Gibson’s novels from the 80s, when they were set thirty or forty years in the future, to his latest novels, that have been set closer and closer to the present. They talk about a period of relative certainty, the length of the perceived ‘now’ that science fiction authors used to be able to play with so that their speculations wouldn’t seem ridiculous in the next five, ten, or twenty years. At the moment though there are so many unknown balls in the air that the length of now’s ‘now’ is almost immediate. Whether it be climate change, synthetic biology, or economic collapse we have absolutely no idea how any of these conditions are going to drop and across what kind of timescale. ‘Now’ is an exceptionally exciting moment where everything is probable and possible.</p>
+<p><strong>AR</strong> The ‘Spidergoat’ is a great example of that. It is such a striking combination of animals but it is not a new technology, it has been around for more than ten years. There is an amazing image of a fluorescent cat, which is just absurd. The bioluminescent gene was tagged to a HIV protein and it is designed to visualize how the protein is reacting to particular treatments. Although incredibly cool it is in reality an exceptionally pragmatic use of synthetic biology. This stuff exists. It is well within legal frameworks. Science author Rob Carlson says ‘it’s easier to fixate on the threat than embrace the opportunities’. That is not to throw caution to the wind or be frivolous with potentially dangerous technology but in general I think it is better that we proceed with caution than abandon potential opportunities based on misunderstood fear.</p>
+<p>Your earlier question was about awe and wonder and I believe that synthetic biology will affect all our lives in the coming century – food, fuel, medicine, space exploration, and environmental issues. All of culture is going to be effected by our use of the toolkit that nature has provided, a toolkit reengineered, remixed, and redesigned by us.</p>
+<p><em>This interview originally appeared in Volume magazine #35. Get your copy <a href="http://www.nextnature.net/product/volume-magazine-issue-35/">here</a>. </em></p>
+				</article>
+				<section class="meta">
+					<div class="meta-author">
+						<a href="/author/nextnature-net"><div class="entry_author_image"><img src="http://www.nextnature.net/wp-content/authors/NextNature.net-108.jpg" alt="" /></div>
+</a>
+						<h4><a href="http://www.nextnature.net/author/nextnature-net/" title="Posts by NextNature.net" rel="author">NextNature.net</a></h4> on <time datetime="2013-09-03">03/09/13</time>
+						<span class="nr-of-comments">Comments Off</span>					</div>
+					<div class="meta-tags">
+					<h4>Tags</h4>
+					<ul class="tags">
+						<li><a href="http://www.nextnature.net/tag/bionics/" rel="tag">Bionics</a> | <a href="http://www.nextnature.net/tag/designed-by-evolution/" rel="tag">Designed-by-Evolution</a> | <a href="http://www.nextnature.net/tag/genetic-surprises/" rel="tag">Genetic-surprises</a> | <a href="http://www.nextnature.net/tag/hypernature/" rel="tag">Hypernature</a> | <a href="http://www.nextnature.net/tag/microbial-factories/" rel="tag">Microbial Factories</a><br /></li>
+					</ul>
+					</div>
+					<div class="meta-share">
+					<h4>Share</h4>
+					<ul class="share">
+						<li><a class="sprite retweet" href="http://twitter.com/home?status=RT%20%40NextNature%20Artifice+Earth%3A+Adam+Rutherford+on+the+Promises+of+Synthetic+Biology%20http://www.nextnature.net/2013/09/artifice-earth-adam-rutherford-on-the-promises-of-synthetic-biology/" target="_blank">Retweet</a></li>
+						<li><a class="sprite stumble" href="http://www.stumbleupon.com/submit?url=http://www.nextnature.net/2013/09/artifice-earth-adam-rutherford-on-the-promises-of-synthetic-biology/&amp;title=Artifice+Earth%3A+Adam+Rutherford+on+the+Promises+of+Synthetic+Biology" target="_blank">Share on Stumble Upon</a></li>
+						<li><a class="sprite fbook" href="http://www.facebook.com/sharer.php?u=http://www.nextnature.net/2013/09/artifice-earth-adam-rutherford-on-the-promises-of-synthetic-biology/&amp;t=Artifice+Earth%3A+Adam+Rutherford+on+the+Promises+of+Synthetic+Biology" target="_blank">Share on Facebook</a></li>
+						<li><a class="sprite digg" href="http://digg.com/submit?url=http://www.nextnature.net/2013/09/artifice-earth-adam-rutherford-on-the-promises-of-synthetic-biology/&amp;title=Artifice+Earth%3A+Adam+Rutherford+on+the+Promises+of+Synthetic+Biology&amp;bodytext=An+interview+about+the+history+and+promises+of+synthetic+biology%2C+and+the+problem+with+the+word+%22nature%22.+&amp;topic=arts_culture">Digg</a></li>
+					</ul>
+					</div>
+				</section>
+				 
+
+				<section id="respond">
+	
+<h3 id="comments">Discussion</h3>
+
+
+			<p class="nocomments">Comments are closed.</p>
+	</section>
+						</section>
+			<!-- end single-article -->
+
+		<aside class="full single">
+	<div class="ad">
+		<a href="http://www.twitter.com/nextnature"target="_blank"><img width="300" height="230" src="http://www.nextnature.net/wp-content/uploads/2013/04/twitternn1.jpg" class="attachment-sidebar wp-post-image" alt="twitternn" /></a>				
+	</div>
+		
+		
+				<section id="relTheme">
+			<h4>Related theme</h4>
+			<a href="http://www.nextnature.net/themes/microbial-factories/">
+			<h3>Microbial Factories</h3>
+			<img width="120" height="90" src="http://www.nextnature.net/wp-content/uploads/2011/09/gorgeous-fungus-120x90.jpg" class="attachment-thumbnail wp-post-image" alt="Proteine für Oberflächen / Proteins for surfaces" />			</a>
+		</section>
+				<section class="thumbs" data-slideshow-id="0">
+			<h4>Related posts</h4>
+			<ul class="post-list">
+			<li><a href="http://www.nextnature.net/2013/05/the-prefuture-of-synthetic-biology/" rel="bookmark"><span><h3>The Prefuture of Synthetic Biology</h3><img width="120" height="90" src="http://www.nextnature.net/wp-content/uploads/2013/05/CMYK-Plaque-120x90.jpg" class="attachment-thumbnail wp-post-image" alt="CMYK-Plaque" /></span></a></li>    
+<li><a href="http://www.nextnature.net/2013/03/synthetic-biology-for-dummies/" rel="bookmark"><span><h3>Synthetic Biology for Dummies</h3><img src="http://img.youtube.com/vi/rD5uNAMbDaQ/2.jpg" alt="Synthetic Biology for Dummies" width="120" height="90"></span></a></li>    
+<li><a href="http://www.nextnature.net/2013/07/interview-daisy-ginsberg-influential-designer-and-synthetic-biologist/" rel="bookmark"><span><h3>Interview: Alexandra Daisy Ginsberg, Designer and Synthetic Biology Expert</h3><img width="120" height="90" src="http://www.nextnature.net/wp-content/uploads/2013/07/alexandra-daisy-ginsberg1-120x90.jpg" class="attachment-thumbnail wp-post-image" alt="Daisy Ginsberg" /></span></a></li>    
+<li><a href="http://www.nextnature.net/2009/01/synthetic-biology-demystified/" rel="bookmark"><span><h3>Synthetic biology demystified</h3><img src="http://img.youtube.com/vi/-IIWH6Hhcnc/2.jpg" alt="Synthetic biology demystified" width="120" height="90"></span></a></li>    
+<li><a href="http://www.nextnature.net/2010/05/craig-venter-unveils-synthetic-life/" rel="bookmark"><span><h3>Craig Venter unveils &#8216;Synthetic Life&#8217;</h3><img src="http://img.youtube.com/vi/QHIocNOHd7A/2.jpg" alt="Craig Venter unveils &#8216;Synthetic Life&#8217;" width="120" height="90"></span></a></li>    
+
+			</ul>
+		</section>
+</aside>
+		</section>
+	<!-- end container -->
+	</div>
+<!-- end #page -->
+		<section id="footer-container">
+			<footer class="clearfix">
+					<a href="/about/#frequently-asked-questions" class="sprite faq">F.A.Q.</a>
+					<a href="/about/#what-is-nextnature-net" class="sprite colophon">Colophon</a>
+					<a href="/contribute" class="sprite contribute">Contribute</a>
+					<a href="#" class="sprite newsletter">Newsletter</a>
+					
+					<section id='newsletter'><h3>Subscribe to our newsletter</h3><form method='post' action='http://www.nextnature.net/subscribe.php'><fieldset><label for='cname'>Name</label><input type="text" id="cname" name="name" class="required" placeholder="Name" size="40" value=""></fieldset><fieldset><label for='cemail'>Email</label><input type="text" id="cemail" name="email" class="required email" placeholder="Email" size="40" value=""><input type="text" id="hdn" name="url"><input type="hidden" name="url" value="/2013/09/artifice-earth-adam-rutherford-on-the-promises-of-synthetic-biology/"></fieldset><input type="submit" name="submit" value="Send"></form><a href="#" class="close">Close</a></section>					<a href="/about/#contact" class="sprite contact">Contact</a>
+					<ul id="social-media">
+						<li><a class="sprite rss" target="_blank" href="http://feeds.feedburner.com/nextnature">RSS</a></li>
+						<li><a class="sprite twitter" target="_blank" href="http://twitter.com/nextnature">Twitter</a></li>
+						<li><a class="sprite facebook" target="_blank" href="http://www.facebook.com/nextnature">Facebook</a></li>
+						<li><a class="sprite iphone" target="_blank" href="https://itunes.apple.com/nl/app/next-nature-appzine/id584304533?l=en">iPad App</a></li>
+					</ul>
+					<a class="sprite up" href="#">Up</a>					
+			</footer>
+		</section>
+		<!-- end footer-container -->
+				
+		<script>window.jQuery || document.write('<script src="/wp-content/themes/nn/js/libs/jquery-1.8.0.min.js"><\/script>')</script>
+						
+		
+		
+				
+	  <script>
+	    var _gaq=[['_setAccount','UA-116826-9'],['_trackPageview']];
+	    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+	    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+	    s.parentNode.insertBefore(g,s)}(document,'script'));
+	  </script>
+
+	</body>
+</html>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+ Served from: www.nextnature.net @ 2015-06-09 12:36:49 by W3 Total Cache -->
+
+<!-- W3 Total Cache: Db cache debug info:
+Engine:             disk
+Total queries:      68
+Cached queries:     13
+Total query time:   0.0308
+SQL info:
+    # | Time (s) |    Caching (Reject reason)     |   Status   | Data size (b) | Query
+    1 |   0.0007 |            enabled             | not cached |           569 | SELECT ID FROM wp_posts WHERE ( ( post_date > 0 && post_date <= '2015-06-09 12:36:49' ) ) AND post_status = 'future' LIMIT 0,10
+    2 |   0.0002 |            enabled             | not cached |           536 | SELECT `value` from wp_cart66_cart_settings where `key`='constantcontact_username'
+    3 |   0.0001 |            enabled             | not cached |           530 | SELECT `value` from wp_cart66_cart_settings where `key`='spreedly_shortname'
+    4 |   0.0001 |            enabled             | not cached |           529 | SELECT `value` from wp_cart66_cart_settings where `key`='spreedly_apitoken'
+    5 |   0.0002 |            enabled             | not cached |           525 | SELECT `value` from wp_cart66_cart_settings where `key`='zendesk_token'
+    6 |   0.0001 |            enabled             | not cached |           582 | SELECT `value` from wp_cart66_cart_settings where `key`='CART66_CURRENCY_SYMBOL'
+    7 |   0.0001 |            enabled             | not cached |           584 | SELECT `value` from wp_cart66_cart_settings where `key`='CART66_CURRENCY_SYMBOL_text'
+    8 |   0.0001 |            enabled             | not cached |           570 | SELECT `value` from wp_cart66_cart_settings where `key`='currency_code'
+    9 |   0.0001 |            enabled             | not cached |           923 | SELECT `value` from wp_cart66_cart_settings where `key`='admin_page_roles'
+   10 |   0.0001 |            enabled             | not cached |           526 | SELECT `value` from wp_cart66_cart_settings where `key`='enable_logging'
+   11 |   0.0001 |            enabled             | not cached |           526 | SELECT `value` from wp_cart66_cart_settings where `key`='paypal_sandbox'
+   12 |   0.0023 |            enabled             | not cached |          7266 | describe wp_cart66_orders
+   13 |   0.0002 |            enabled             | not cached |           524 | SELECT `value` from wp_cart66_cart_settings where `key`='session_type'
+   14 |   0.0001 |            enabled             | not cached |           526 | SELECT `value` from wp_cart66_cart_settings where `key`='session_length'
+   15 |   0.0003 |            enabled             | not cached |           580 | select count(*) from wp_cart66_sessions where session_id = 'LZ38ZRW9ZUEANKEOTYRND3OMOBUTW0O9UAS4UKTE'
+   16 |   0.0048 |  disabled (Query is rejected)  | not cached |             0 | DELETE from wp_cart66_sessions where last_activity < '2015-06-09 12:06:49'
+   17 |    0.001 |            enabled             | not cached |          2887 | describe wp_cart66_shipping_methods
+   18 |   0.0002 |            enabled             | not cached |           632 | SELECT id FROM wp_cart66_shipping_methods where code IS NULL or code = '' order by default_rate asc
+   19 |   0.0004 |            enabled             |   cached   |          2887 | describe wp_cart66_shipping_methods
+   20 |   0.0001 |            enabled             | not cached |          2272 | SELECT * from wp_cart66_shipping_methods WHERE id='3'
+   21 |   0.0004 |            enabled             |   cached   |          2887 | describe wp_cart66_shipping_methods
+   22 |   0.0001 |            enabled             | not cached |          2271 | SELECT * from wp_cart66_shipping_methods WHERE id='2'
+   23 |   0.0001 |            enabled             | not cached |           539 | SELECT `value` from wp_cart66_cart_settings where `key`='require_shipping_validation'
+   24 |   0.0001 |            enabled             | not cached |           524 | SELECT `value` from wp_cart66_cart_settings where `key`='session_type'
+   25 |   0.0021 |            enabled             | not cached |          7266 | describe wp_cart66_orders
+   26 |   0.0002 |            enabled             | not cached |           538 | SELECT `value` from wp_cart66_cart_settings where `key`='use_other_analytics_plugin'
+   27 |   0.0003 |            enabled             |   cached   |           524 | SELECT `value` from wp_cart66_cart_settings where `key`='session_type'
+   28 |   0.0001 |            enabled             | not cached |           533 | SELECT `value` from wp_cart66_cart_settings where `key`='promotion_get_varname'
+   29 |   0.0011 |            enabled             | not cached |         35949 | SELECT   wp_posts.* FROM wp_posts  WHERE 1=1  AND ( ( YEAR( post_date ) = 2013 AND MONTH( post_date ) = 9 ) ) AND wp_posts.post_name = 'artifice-earth-adam-rutherford-on-the-promises-of-synthetic-biology' AND wp_posts.post_type = 'post'  ORDER BY wp_posts.post_date DESC
+   30 |   0.0002 |            enabled             | not cached |          1745 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','checkout') AND (post_type = 'page' OR post_type = 'attachment')
+   31 |   0.0003 |            enabled             |   cached   |          1745 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','checkout') AND (post_type = 'page' OR post_type = 'attachment')
+   32 |   0.0001 |            enabled             | not cached |           526 | SELECT `value` from wp_cart66_cart_settings where `key`='use_live_rates'
+   33 |   0.0003 |            enabled             |   cached   |           524 | SELECT `value` from wp_cart66_cart_settings where `key`='session_type'
+   34 |   0.0003 |            enabled             |   cached   |           526 | SELECT `value` from wp_cart66_cart_settings where `key`='use_live_rates'
+   35 |   0.0003 |            enabled             |   cached   |          1745 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','checkout') AND (post_type = 'page' OR post_type = 'attachment')
+   36 |   0.0001 |            enabled             | not cached |          1737 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','cart') AND (post_type = 'page' OR post_type = 'attachment')
+   37 |   0.0005 |            enabled             |   cached   |          1745 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','checkout') AND (post_type = 'page' OR post_type = 'attachment')
+   38 |   0.0003 |            enabled             |   cached   |          1737 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','cart') AND (post_type = 'page' OR post_type = 'attachment')
+   39 |   0.0003 |            enabled             |   cached   |          1745 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','checkout') AND (post_type = 'page' OR post_type = 'attachment')
+   40 |   0.0004 |            enabled             |   cached   |          1737 | SELECT ID, post_name, post_parent, post_type FROM wp_posts WHERE post_name IN ('store','cart') AND (post_type = 'page' OR post_type = 'attachment')
+   41 |   0.0004 |            enabled             |   cached   |           524 | SELECT `value` from wp_cart66_cart_settings where `key`='session_type'
+   42 |   0.0002 |            enabled             | not cached |          7803 | SELECT   wp_posts.* FROM wp_posts  INNER JOIN wp_postmeta ON (wp_posts.ID = wp_postmeta.post_id) WHERE 1=1  AND wp_posts.post_type IN ('post', 'page', 'attachment', 'themes', 'products', 'tv', 'banners') AND (wp_posts.post_status = 'publish') AND ( (wp_postmeta.meta_key = 'cart66_access' AND CAST(wp_postmeta.meta_value AS CHAR) = 'private') ) GROUP BY wp_posts.ID ORDER BY wp_posts.post_date DESC
+   43 |   0.0002 |            enabled             | not cached |           844 | SELECT   wp_posts.ID FROM wp_posts  INNER JOIN wp_postmeta ON (wp_posts.ID = wp_postmeta.post_id) WHERE 1=1  AND wp_posts.post_type IN ('post', 'page', 'attachment', 'themes', 'products', 'tv', 'banners') AND (wp_posts.post_status = 'publish') AND ( (wp_postmeta.meta_key = 'cart66_member' AND CAST(wp_postmeta.meta_value AS CHAR) = 'denied') ) GROUP BY wp_posts.ID ORDER BY wp_posts.post_date DESC LIMIT 0, 1
+   44 |   0.0003 |            enabled             |   cached   |           524 | SELECT `value` from wp_cart66_cart_settings where `key`='session_type'
+   45 |   0.0012 |            enabled             | not cached |          3314 | describe wp_cart66_accounts
+   46 |   0.0002 |            enabled             | not cached |           527 | SELECT `value` from wp_cart66_cart_settings where `key`='disable_caching'
+   47 |   0.0012 |            enabled             | not cached |          3317 | SELECT t.*, tt.* FROM wp_terms AS t INNER JOIN wp_term_taxonomy AS tt ON tt.term_id = t.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('post_format') AND tr.object_id IN (35987) ORDER BY t.name ASC
+   48 |   0.0002 |            enabled             | not cached |           604 | SELECT meta_value FROM wp_usermeta WHERE user_id = 367 AND meta_key = 'author_image'
+   49 |   0.0005 |            enabled             | not cached |          4902 | SELECT * FROM wp_comments  WHERE comment_approved = '1' AND comment_post_ID = 35987  ORDER BY comment_date_gmt ASC
+   50 |   0.0002 |  disabled (Query is rejected)  | not cached |             0 | SELECT SQL_CALC_FOUND_ROWS  wp_posts.ID FROM wp_posts  WHERE 1=1  AND wp_posts.post_type = 'banners' AND (wp_posts.post_status = 'publish')  ORDER BY wp_posts.post_date DESC LIMIT 0, 18
+   51 |   0.0001 |  disabled (Query is rejected)  | not cached |             0 | SELECT FOUND_ROWS()
+   52 |   0.0006 |            enabled             | not cached |           535 | SELECT meta_value FROM wp_postmeta WHERE post_id = 35987 AND meta_key = 'related-theme'
+   53 |   0.0007 |            enabled             | not cached |          1111 | SELECT ID, post_title FROM wp_posts WHERE post_type = 'themes' AND post_status = 'publish' AND post_title IN ('Bionics ','Designed-by-Evolution ','Genetic-surprises ','Hypernature ','Microbial Factories ')
+   54 |   0.0005 |            enabled             | not cached |           535 | SELECT meta_value FROM wp_postmeta WHERE post_id = 35987 AND meta_key = 'related-posts'
+   55 |   0.0003 |            enabled             | not cached |           552 | select count(*) as count from wp_yarpp_related_cache where reference_ID = 35987
+   56 |    0.001 |  disabled (Query is rejected)  | not cached |             0 | SELECT SQL_CALC_FOUND_ROWS  wp_posts.*, yarpp.score FROM wp_posts  join wp_yarpp_related_cache as yarpp on wp_posts.ID = yarpp.ID WHERE 1=1  AND yarpp.score >= 4 and yarpp.reference_ID = 35987 AND wp_posts.post_type = 'post'  ORDER BY yarpp.score DESC  limit 5
+   57 |   0.0001 |  disabled (Query is rejected)  | not cached |             0 | SELECT FOUND_ROWS()
+   58 |   0.0001 |            enabled             | not cached |          3657 | SELECT * FROM wp_users WHERE ID = '373'
+   59 |   0.0002 |            enabled             | not cached |          3439 | SELECT user_id, meta_key, meta_value FROM wp_usermeta WHERE user_id IN (373) ORDER BY umeta_id ASC
+   60 |   0.0005 |            enabled             | not cached |          1605 | SELECT post_id, meta_key, meta_value FROM wp_postmeta WHERE post_id IN (33519) ORDER BY meta_id ASC
+   61 |   0.0001 |            enabled             | not cached |          1379 | SELECT post_id, meta_key, meta_value FROM wp_postmeta WHERE post_id IN (32182) ORDER BY meta_id ASC
+   62 |   0.0001 |            enabled             | not cached |          1686 | SELECT post_id, meta_key, meta_value FROM wp_postmeta WHERE post_id IN (34942) ORDER BY meta_id ASC
+   63 |   0.0001 |            enabled             | not cached |          1380 | SELECT post_id, meta_key, meta_value FROM wp_postmeta WHERE post_id IN (3073) ORDER BY meta_id ASC
+   64 |   0.0004 |            enabled             | not cached |          9231 | SELECT wp_posts.* FROM wp_posts WHERE ID IN (33520,35152)
+   65 |   0.0005 |            enabled             | not cached |          5981 | SELECT post_id, meta_key, meta_value FROM wp_postmeta WHERE post_id IN (33520,35152) ORDER BY meta_id ASC
+   66 |   0.0002 |            enabled             | not cached |          7653 | SELECT   wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_parent = 32182  AND (wp_posts.post_mime_type LIKE 'image/%')  AND wp_posts.post_type = 'attachment' AND (wp_posts.post_status = 'inherit')  ORDER BY wp_posts.menu_order,wp_posts.ID ASC
+   67 |    0.001 |            enabled             | not cached |          7652 | SELECT   wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_parent = 3073  AND (wp_posts.post_mime_type LIKE 'image/%')  AND wp_posts.post_type = 'attachment' AND (wp_posts.post_status = 'inherit')  ORDER BY wp_posts.menu_order,wp_posts.ID ASC
+   68 |   0.0003 |            enabled             | not cached |          7652 | SELECT   wp_posts.* FROM wp_posts  WHERE 1=1  AND wp_posts.post_parent = 8508  AND (wp_posts.post_mime_type LIKE 'image/%')  AND wp_posts.post_type = 'attachment' AND (wp_posts.post_status = 'inherit')  ORDER BY wp_posts.menu_order,wp_posts.ID ASC
+-->
+
+<!-- W3 Total Cache: Object Cache debug info:
+Engine:             disk
+Caching:            enabled
+Total calls:        976
+Cache hits:         941
+Cache misses:       35
+Total time:         0.0387
+W3TC Object Cache info:
+    # |     Status      |     Source      | Data size (b) | Query time (s) | ID:Group
+    1 |     cached      |   persistent    |             4 |         0.0027 | is_blog_installed:default
+    2 |     cached      |   persistent    |           168 |         0.0003 | notoptions:options
+    3 |     cached      |   persistent    |         92673 |         0.0006 | alloptions:options
+    4 |   not cached    |   persistent    |               |         0.0001 | 0:notoptions:site-options
+    5 |     cached      |    internal     |           168 |              0 | notoptions:options
+    6 |     cached      |    internal     |         92673 |              0 | alloptions:options
+    7 |     cached      |    internal     |           168 |              0 | notoptions:options
+    8 |     cached      |    internal     |         92673 |              0 | alloptions:options
+    9 |     cached      |    internal     |           168 |              0 | notoptions:options
+   10 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   11 |     cached      |    internal     |           168 |              0 | notoptions:options
+   12 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   13 |     cached      |    internal     |           168 |              0 | notoptions:options
+   14 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   15 |     cached      |    internal     |           168 |              0 | notoptions:options
+   16 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   17 |     cached      |    internal     |           168 |              0 | notoptions:options
+   18 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   19 |     cached      |    internal     |           168 |              0 | notoptions:options
+   20 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   21 |     cached      |    internal     |           168 |              0 | notoptions:options
+   22 |     cached      |    internal     |           168 |              0 | notoptions:options
+   23 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   24 |     cached      |    internal     |           168 |              0 | notoptions:options
+   25 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   26 |     cached      |    internal     |           168 |              0 | notoptions:options
+   27 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   28 |     cached      |    internal     |           168 |              0 | notoptions:options
+   29 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   30 |     cached      |    internal     |           168 |              0 | notoptions:options
+   31 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   32 |     cached      |    internal     |           168 |              0 | notoptions:options
+   33 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   34 |     cached      |    internal     |           168 |              0 | notoptions:options
+   35 |   not cached    |   persistent    |               |         0.0002 | w3tc_cloudflare_settings:transient
+   36 |     cached      |    internal     |           168 |              0 | notoptions:options
+   37 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   38 |     cached      |    internal     |           168 |              0 | notoptions:options
+   39 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   40 |     cached      |    internal     |           168 |              0 | notoptions:options
+   41 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   42 |     cached      |    internal     |           168 |              0 | notoptions:options
+   43 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   44 |     cached      |    internal     |           168 |              0 | notoptions:options
+   45 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   46 |     cached      |    internal     |           168 |              0 | notoptions:options
+   47 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   48 |     cached      |    internal     |           168 |              0 | notoptions:options
+   49 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   50 |     cached      |    internal     |           168 |              0 | notoptions:options
+   51 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   52 |     cached      |    internal     |           168 |              0 | notoptions:options
+   53 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   54 |     cached      |    internal     |           168 |              0 | notoptions:options
+   55 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   56 |     cached      |    internal     |           168 |              0 | notoptions:options
+   57 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   58 |     cached      |    internal     |           168 |              0 | notoptions:options
+   59 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   60 |     cached      |    internal     |           168 |              0 | notoptions:options
+   61 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   62 |     cached      |    internal     |           168 |              0 | notoptions:options
+   63 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   64 |     cached      |    internal     |           168 |              0 | notoptions:options
+   65 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   66 |     cached      |    internal     |           168 |              0 | notoptions:options
+   67 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   68 |     cached      |    internal     |           168 |              0 | notoptions:options
+   69 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   70 |     cached      |    internal     |           168 |              0 | notoptions:options
+   71 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   72 |     cached      |    internal     |           168 |              0 | notoptions:options
+   73 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   74 |     cached      |    internal     |           168 |              0 | notoptions:options
+   75 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   76 |     cached      |    internal     |           168 |              0 | notoptions:options
+   77 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   78 |     cached      |    internal     |           168 |              0 | notoptions:options
+   79 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   80 |     cached      |    internal     |           168 |              0 | notoptions:options
+   81 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   82 |     cached      |    internal     |           168 |              0 | notoptions:options
+   83 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   84 |     cached      |    internal     |           168 |              0 | notoptions:options
+   85 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   86 |     cached      |    internal     |           168 |              0 | notoptions:options
+   87 |     cached      |    internal     |           168 |              0 | notoptions:options
+   88 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   89 |     cached      |    internal     |           168 |              0 | notoptions:options
+   90 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   91 |     cached      |    internal     |             4 |              0 | is_blog_installed:default
+   92 |     cached      |    internal     |           168 |              0 | notoptions:options
+   93 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   94 |     cached      |    internal     |           168 |              0 | notoptions:options
+   95 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   96 |     cached      |    internal     |           168 |              0 | notoptions:options
+   97 |     cached      |    internal     |         92673 |              0 | alloptions:options
+   98 |     cached      |    internal     |           168 |              0 | notoptions:options
+   99 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  100 |     cached      |    internal     |           168 |              0 | notoptions:options
+  101 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  102 |     cached      |    internal     |           168 |              0 | notoptions:options
+  103 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  104 |     cached      |    internal     |           168 |              0 | notoptions:options
+  105 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  106 |     cached      |    internal     |           168 |              0 | notoptions:options
+  107 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  108 |     cached      |    internal     |           168 |              0 | notoptions:options
+  109 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  110 |     cached      |    internal     |           168 |              0 | notoptions:options
+  111 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  112 |     cached      |    internal     |           168 |              0 | notoptions:options
+  113 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  114 |     cached      |    internal     |           168 |              0 | notoptions:options
+  115 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  116 |     cached      |    internal     |           168 |              0 | notoptions:options
+  117 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  118 |     cached      |    internal     |           168 |              0 | notoptions:options
+  119 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  120 |     cached      |    internal     |           168 |              0 | notoptions:options
+  121 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  122 |     cached      |    internal     |           168 |              0 | notoptions:options
+  123 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  124 |     cached      |    internal     |           168 |              0 | notoptions:options
+  125 |     cached      |    internal     |           168 |              0 | notoptions:options
+  126 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  127 |     cached      |    internal     |           168 |              0 | notoptions:options
+  128 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  129 |     cached      |    internal     |           168 |              0 | notoptions:options
+  130 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  131 |     cached      |    internal     |           168 |              0 | notoptions:options
+  132 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  133 |     cached      |    internal     |           168 |              0 | notoptions:options
+  134 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  135 |     cached      |    internal     |           168 |              0 | notoptions:options
+  136 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  137 |     cached      |    internal     |           168 |              0 | notoptions:options
+  138 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  139 |     cached      |    internal     |           168 |              0 | notoptions:options
+  140 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  141 |     cached      |    internal     |           168 |              0 | notoptions:options
+  142 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  143 |     cached      |    internal     |           168 |              0 | notoptions:options
+  144 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  145 |     cached      |    internal     |           168 |              0 | notoptions:options
+  146 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  147 |     cached      |    internal     |           168 |              0 | notoptions:options
+  148 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  149 |     cached      |    internal     |           168 |              0 | notoptions:options
+  150 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  151 |     cached      |    internal     |           168 |              0 | notoptions:options
+  152 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  153 |     cached      |    internal     |           168 |              0 | notoptions:options
+  154 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  155 |     cached      |    internal     |           168 |              0 | notoptions:options
+  156 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  157 |     cached      |    internal     |           168 |              0 | notoptions:options
+  158 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  159 |     cached      |    internal     |           168 |              0 | notoptions:options
+  160 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  161 |     cached      |    internal     |           168 |              0 | notoptions:options
+  162 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  163 |     cached      |    internal     |           168 |              0 | notoptions:options
+  164 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  165 |     cached      |    internal     |           168 |              0 | notoptions:options
+  166 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  167 |     cached      |    internal     |           168 |              0 | notoptions:options
+  168 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  169 |     cached      |    internal     |           168 |              0 | notoptions:options
+  170 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  171 |     cached      |    internal     |           168 |              0 | notoptions:options
+  172 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  173 |     cached      |    internal     |           168 |              0 | notoptions:options
+  174 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  175 |     cached      |    internal     |           168 |              0 | notoptions:options
+  176 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  177 |     cached      |    internal     |           168 |              0 | notoptions:options
+  178 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  179 |     cached      |    internal     |           168 |              0 | notoptions:options
+  180 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  181 |     cached      |    internal     |           168 |              0 | notoptions:options
+  182 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  183 |     cached      |    internal     |           168 |              0 | notoptions:options
+  184 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  185 |     cached      |    internal     |           168 |              0 | notoptions:options
+  186 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  187 |     cached      |    internal     |           168 |              0 | notoptions:options
+  188 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  189 |     cached      |    internal     |           168 |              0 | notoptions:options
+  190 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  191 |     cached      |    internal     |           168 |              0 | notoptions:options
+  192 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  193 |     cached      |    internal     |           168 |              0 | notoptions:options
+  194 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  195 |     cached      |    internal     |           168 |              0 | notoptions:options
+  196 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  197 |     cached      |    internal     |           168 |              0 | notoptions:options
+  198 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  199 |     cached      |    internal     |           168 |              0 | notoptions:options
+  200 |     cached      |    internal     |           168 |              0 | notoptions:options
+  201 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  202 |     cached      |    internal     |           168 |              0 | notoptions:options
+  203 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  204 |     cached      |    internal     |           168 |              0 | notoptions:options
+  205 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  206 |     cached      |    internal     |           168 |              0 | notoptions:options
+  207 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  208 |     cached      |    internal     |           168 |              0 | notoptions:options
+  209 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  210 |     cached      |    internal     |           168 |              0 | notoptions:options
+  211 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  212 |     cached      |    internal     |           168 |              0 | notoptions:options
+  213 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  214 |     cached      |    internal     |           168 |              0 | notoptions:options
+  215 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  216 |     cached      |    internal     |           168 |              0 | notoptions:options
+  217 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  218 |     cached      |    internal     |           168 |              0 | notoptions:options
+  219 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  220 |     cached      |    internal     |           168 |              0 | notoptions:options
+  221 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  222 |     cached      |   persistent    |           860 |         0.0003 | 13185:posts
+  223 |     cached      |    internal     |           860 |              0 | 13185:posts
+  224 |     cached      |    internal     |           860 |              0 | 13185:posts
+  225 |     cached      |   persistent    |           816 |         0.0003 | 13184:posts
+  226 |     cached      |    internal     |           860 |              0 | 13185:posts
+  227 |     cached      |    internal     |           816 |              0 | 13184:posts
+  228 |     cached      |    internal     |           860 |              0 | 13185:posts
+  229 |     cached      |    internal     |           816 |              0 | 13184:posts
+  230 |     cached      |    internal     |           168 |              0 | notoptions:options
+  231 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  232 |     cached      |    internal     |           168 |              0 | notoptions:options
+  233 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  234 |     cached      |    internal     |           168 |              0 | notoptions:options
+  235 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  236 |     cached      |    internal     |           168 |              0 | notoptions:options
+  237 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  238 |     cached      |    internal     |           168 |              0 | notoptions:options
+  239 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  240 |     cached      |    internal     |           168 |              0 | notoptions:options
+  241 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  242 |     cached      |    internal     |           168 |              0 | notoptions:options
+  243 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  244 |     cached      |    internal     |           168 |              0 | notoptions:options
+  245 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  246 |     cached      |   persistent    |           133 |         0.0003 | 35987:post_meta
+  247 |     cached      |    internal     |           168 |              0 | notoptions:options
+  248 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  249 |     cached      |    internal     |           168 |              0 | notoptions:options
+  250 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  251 |     cached      |    internal     |           168 |              0 | notoptions:options
+  252 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  253 |     cached      |    internal     |           168 |              0 | notoptions:options
+  254 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  255 |     cached      |    internal     |           168 |              0 | notoptions:options
+  256 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  257 |     cached      |   persistent    |         28257 |         0.0004 | 35987:posts
+  258 |     cached      |    internal     |           168 |              0 | notoptions:options
+  259 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  260 |     cached      |    internal     |           168 |              0 | notoptions:options
+  261 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  262 |     cached      |    internal     |           168 |              0 | notoptions:options
+  263 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  264 |     cached      |    internal     |           168 |              0 | notoptions:options
+  265 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  266 |     cached      |    internal     |           168 |              0 | notoptions:options
+  267 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  268 |     cached      |   persistent    |           301 |         0.0003 | 35987:category_relationships
+  269 |     cached      |    internal     |           168 |              0 | notoptions:options
+  270 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  271 |     cached      |    internal     |           168 |              0 | notoptions:options
+  272 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  273 |     cached      |   persistent    |           428 |         0.0003 | 367:users
+  274 |     cached      |   persistent    |           629 |         0.0003 | 367:user_meta
+  275 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  276 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  277 |   not cached    |   persistent    |               |         0.0003 | 35987:post_format_relationships
+  278 |   not cached    |    internal     |               |              0 | 35987:post_format_relationships
+  279 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  280 |     cached      |    internal     |           168 |              0 | notoptions:options
+  281 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  282 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  283 |     cached      |    internal     |           301 |              0 | 35987:category_relationships
+  284 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  285 |     cached      |   persistent    |          2376 |         0.0004 | 35987:post_tag_relationships
+  286 |     cached      |    internal     |           168 |              0 | notoptions:options
+  287 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  288 |     cached      |    internal     |           168 |              0 | notoptions:options
+  289 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  290 |     cached      |    internal     |           168 |              0 | notoptions:options
+  291 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  292 |     cached      |    internal     |           133 |              0 | 35987:post_meta
+  293 |     cached      |    internal     |           133 |              0 | 35987:post_meta
+  294 |     cached      |    internal     |           133 |              0 | 35987:post_meta
+  295 |     cached      |   persistent    |           878 |         0.0004 | 35992:posts
+  296 |     cached      |    internal     |           878 |              0 | 35992:posts
+  297 |     cached      |   persistent    |          2590 |         0.0003 | 35992:post_meta
+  298 |     cached      |    internal     |           168 |              0 | notoptions:options
+  299 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  300 |     cached      |    internal     |           168 |              0 | notoptions:options
+  301 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  302 |     cached      |    internal     |           168 |              0 | notoptions:options
+  303 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  304 |     cached      |    internal     |           168 |              0 | notoptions:options
+  305 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  306 |     cached      |    internal     |           168 |              0 | notoptions:options
+  307 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  308 |     cached      |    internal     |           889 |              0 | 35992:posts
+  309 |     cached      |    internal     |          2590 |              0 | 35992:post_meta
+  310 |     cached      |    internal     |           168 |              0 | notoptions:options
+  311 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  312 |     cached      |    internal     |           168 |              0 | notoptions:options
+  313 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  314 |     cached      |    internal     |           168 |              0 | notoptions:options
+  315 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  316 |     cached      |    internal     |           168 |              0 | notoptions:options
+  317 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  318 |     cached      |    internal     |           168 |              0 | notoptions:options
+  319 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  320 |     cached      |    internal     |           889 |              0 | 35992:posts
+  321 |     cached      |    internal     |          2590 |              0 | 35992:post_meta
+  322 |     cached      |    internal     |           889 |              0 | 35992:posts
+  323 |     cached      |    internal     |          2590 |              0 | 35992:post_meta
+  324 |     cached      |    internal     |           889 |              0 | 35992:posts
+  325 |     cached      |    internal     |          2590 |              0 | 35992:post_meta
+  326 |     cached      |    internal     |           168 |              0 | notoptions:options
+  327 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  328 |     cached      |    internal     |           168 |              0 | notoptions:options
+  329 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  330 |     cached      |    internal     |           168 |              0 | notoptions:options
+  331 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  332 |     cached      |    internal     |           168 |              0 | notoptions:options
+  333 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  334 |     cached      |    internal     |           168 |              0 | notoptions:options
+  335 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  336 |     cached      |    internal     |           168 |              0 | notoptions:options
+  337 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  338 |     cached      |    internal     |           168 |              0 | notoptions:options
+  339 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  340 |     cached      |    internal     |           889 |              0 | 35992:posts
+  341 |     cached      |    internal     |          2590 |              0 | 35992:post_meta
+  342 |     cached      |    internal     |           453 |              0 | 35987:category_relationships
+  343 |     cached      |    internal     |           428 |              0 | 367:users
+  344 |     cached      |    internal     |           428 |              0 | 367:users
+  345 |     cached      |    internal     |           168 |              0 | notoptions:options
+  346 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  347 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  348 |     cached      |    internal     |          2376 |              0 | 35987:post_tag_relationships
+  349 |     cached      |    internal     |           168 |              0 | notoptions:options
+  350 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  351 |     cached      |    internal     |           168 |              0 | notoptions:options
+  352 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  353 |     cached      |    internal     |           168 |              0 | notoptions:options
+  354 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  355 |     cached      |    internal     |           168 |              0 | notoptions:options
+  356 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  357 |     cached      |    internal     |           168 |              0 | notoptions:options
+  358 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  359 |     cached      |    internal     |           168 |              0 | notoptions:options
+  360 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  361 |     cached      |    internal     |           168 |              0 | notoptions:options
+  362 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  363 |     cached      |    internal     |           168 |              0 | notoptions:options
+  364 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  365 |     cached      |    internal     |           168 |              0 | notoptions:options
+  366 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  367 |     cached      |    internal     |           168 |              0 | notoptions:options
+  368 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  369 |     cached      |    internal     |           168 |              0 | notoptions:options
+  370 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  371 |     cached      |    internal     |           168 |              0 | notoptions:options
+  372 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  373 |     cached      |    internal     |           168 |              0 | notoptions:options
+  374 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  375 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  376 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  377 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  378 |     cached      |    internal     |           168 |              0 | notoptions:options
+  379 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  380 |   not cached    |   persistent    |               |              0 | last_changed:comment
+  381 |   not cached    |   persistent    |               |              0 | get_comments:f3ad90a7065c6eca2aba6147920c1f27:0.55996900 1433846209:comment
+  382 |   not cached    |    internal     |               |              0 | get_comments:f3ad90a7065c6eca2aba6147920c1f27:0.55996900 1433846209:comment
+  383 |     cached      |    internal     |           168 |              0 | notoptions:options
+  384 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  385 |     cached      |    internal     |           168 |              0 | notoptions:options
+  386 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  387 |     cached      |    internal     |           168 |              0 | notoptions:options
+  388 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  389 |     cached      |    internal     |           168 |              0 | notoptions:options
+  390 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  391 |     cached      |    internal     |           168 |              0 | notoptions:options
+  392 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  393 |     cached      |    internal     |           168 |              0 | notoptions:options
+  394 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  395 |     cached      |   persistent    |           866 |         0.0004 | 34069:posts
+  396 |     cached      |   persistent    |           854 |         0.0003 | 32710:posts
+  397 |     cached      |   persistent    |           856 |         0.0004 | 32708:posts
+  398 |     cached      |   persistent    |           846 |         0.0003 | 32569:posts
+  399 |     cached      |   persistent    |           843 |         0.0004 | 32567:posts
+  400 |     cached      |    internal     |           866 |              0 | 34069:posts
+  401 |     cached      |    internal     |           854 |              0 | 32710:posts
+  402 |     cached      |    internal     |           856 |              0 | 32708:posts
+  403 |     cached      |    internal     |           846 |              0 | 32569:posts
+  404 |     cached      |    internal     |           843 |              0 | 32567:posts
+  405 |     cached      |    internal     |           168 |              0 | notoptions:options
+  406 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  407 |     cached      |   persistent    |           398 |         0.0004 | 4:users
+  408 |     cached      |   persistent    |          3657 |         0.0004 | 4:user_meta
+  409 |     cached      |   persistent    |           279 |         0.0003 | 34069:post_meta
+  410 |     cached      |    internal     |           279 |              0 | 34069:post_meta
+  411 |     cached      |    internal     |           279 |              0 | 34069:post_meta
+  412 |     cached      |    internal     |           279 |              0 | 34069:post_meta
+  413 |     cached      |   persistent    |           278 |         0.0003 | 32710:post_meta
+  414 |     cached      |   persistent    |           278 |         0.0003 | 32708:post_meta
+  415 |     cached      |   persistent    |           236 |         0.0003 | 32569:post_meta
+  416 |     cached      |   persistent    |           337 |         0.0003 | 32567:post_meta
+  417 |     cached      |   persistent    |           909 |         0.0003 | 34070:posts
+  418 |     cached      |   persistent    |           860 |         0.0003 | 32712:posts
+  419 |     cached      |   persistent    |           888 |         0.0003 | 32709:posts
+  420 |     cached      |   persistent    |           897 |         0.0003 | 32570:posts
+  421 |     cached      |   persistent    |           879 |         0.0004 | 44884:posts
+  422 |     cached      |    internal     |           909 |              0 | 34070:posts
+  423 |     cached      |   persistent    |          1718 |         0.0003 | 34070:post_meta
+  424 |     cached      |    internal     |           168 |              0 | notoptions:options
+  425 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  426 |     cached      |    internal     |           168 |              0 | notoptions:options
+  427 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  428 |     cached      |    internal     |           168 |              0 | notoptions:options
+  429 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  430 |     cached      |    internal     |           168 |              0 | notoptions:options
+  431 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  432 |     cached      |    internal     |           168 |              0 | notoptions:options
+  433 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  434 |     cached      |    internal     |           920 |              0 | 34070:posts
+  435 |     cached      |    internal     |          1718 |              0 | 34070:post_meta
+  436 |     cached      |    internal     |           168 |              0 | notoptions:options
+  437 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  438 |     cached      |    internal     |           168 |              0 | notoptions:options
+  439 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  440 |     cached      |    internal     |           168 |              0 | notoptions:options
+  441 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  442 |     cached      |    internal     |           168 |              0 | notoptions:options
+  443 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  444 |     cached      |    internal     |           168 |              0 | notoptions:options
+  445 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  446 |     cached      |    internal     |           920 |              0 | 34070:posts
+  447 |     cached      |    internal     |          1718 |              0 | 34070:post_meta
+  448 |     cached      |    internal     |           920 |              0 | 34070:posts
+  449 |     cached      |    internal     |          1718 |              0 | 34070:post_meta
+  450 |     cached      |    internal     |           920 |              0 | 34070:posts
+  451 |     cached      |    internal     |          1718 |              0 | 34070:post_meta
+  452 |     cached      |    internal     |           279 |              0 | 34069:post_meta
+  453 |     cached      |    internal     |           398 |              0 | 4:users
+  454 |     cached      |    internal     |          3657 |              0 | 4:user_meta
+  455 |     cached      |    internal     |           278 |              0 | 32710:post_meta
+  456 |     cached      |    internal     |           278 |              0 | 32710:post_meta
+  457 |     cached      |    internal     |           278 |              0 | 32710:post_meta
+  458 |     cached      |    internal     |           860 |              0 | 32712:posts
+  459 |     cached      |   persistent    |          1542 |         0.0004 | 32712:post_meta
+  460 |     cached      |    internal     |           168 |              0 | notoptions:options
+  461 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  462 |     cached      |    internal     |           168 |              0 | notoptions:options
+  463 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  464 |     cached      |    internal     |           168 |              0 | notoptions:options
+  465 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  466 |     cached      |    internal     |           168 |              0 | notoptions:options
+  467 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  468 |     cached      |    internal     |           168 |              0 | notoptions:options
+  469 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  470 |     cached      |    internal     |           871 |              0 | 32712:posts
+  471 |     cached      |    internal     |          1542 |              0 | 32712:post_meta
+  472 |     cached      |    internal     |           168 |              0 | notoptions:options
+  473 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  474 |     cached      |    internal     |           168 |              0 | notoptions:options
+  475 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  476 |     cached      |    internal     |           168 |              0 | notoptions:options
+  477 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  478 |     cached      |    internal     |           168 |              0 | notoptions:options
+  479 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  480 |     cached      |    internal     |           168 |              0 | notoptions:options
+  481 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  482 |     cached      |    internal     |           871 |              0 | 32712:posts
+  483 |     cached      |    internal     |          1542 |              0 | 32712:post_meta
+  484 |     cached      |    internal     |           871 |              0 | 32712:posts
+  485 |     cached      |    internal     |          1542 |              0 | 32712:post_meta
+  486 |     cached      |    internal     |           871 |              0 | 32712:posts
+  487 |     cached      |    internal     |          1542 |              0 | 32712:post_meta
+  488 |     cached      |    internal     |           278 |              0 | 32710:post_meta
+  489 |     cached      |    internal     |           398 |              0 | 4:users
+  490 |     cached      |    internal     |          3657 |              0 | 4:user_meta
+  491 |     cached      |    internal     |           278 |              0 | 32708:post_meta
+  492 |     cached      |    internal     |           278 |              0 | 32708:post_meta
+  493 |     cached      |    internal     |           278 |              0 | 32708:post_meta
+  494 |     cached      |    internal     |           888 |              0 | 32709:posts
+  495 |     cached      |   persistent    |          1641 |         0.0004 | 32709:post_meta
+  496 |     cached      |    internal     |           168 |              0 | notoptions:options
+  497 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  498 |     cached      |    internal     |           168 |              0 | notoptions:options
+  499 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  500 |     cached      |    internal     |           168 |              0 | notoptions:options
+  501 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  502 |     cached      |    internal     |           168 |              0 | notoptions:options
+  503 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  504 |     cached      |    internal     |           168 |              0 | notoptions:options
+  505 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  506 |     cached      |    internal     |           899 |              0 | 32709:posts
+  507 |     cached      |    internal     |          1641 |              0 | 32709:post_meta
+  508 |     cached      |    internal     |           168 |              0 | notoptions:options
+  509 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  510 |     cached      |    internal     |           168 |              0 | notoptions:options
+  511 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  512 |     cached      |    internal     |           168 |              0 | notoptions:options
+  513 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  514 |     cached      |    internal     |           168 |              0 | notoptions:options
+  515 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  516 |     cached      |    internal     |           168 |              0 | notoptions:options
+  517 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  518 |     cached      |    internal     |           899 |              0 | 32709:posts
+  519 |     cached      |    internal     |          1641 |              0 | 32709:post_meta
+  520 |     cached      |    internal     |           899 |              0 | 32709:posts
+  521 |     cached      |    internal     |          1641 |              0 | 32709:post_meta
+  522 |     cached      |    internal     |           899 |              0 | 32709:posts
+  523 |     cached      |    internal     |          1641 |              0 | 32709:post_meta
+  524 |     cached      |    internal     |           278 |              0 | 32708:post_meta
+  525 |     cached      |    internal     |           398 |         0.0001 | 4:users
+  526 |     cached      |    internal     |          3657 |              0 | 4:user_meta
+  527 |     cached      |    internal     |           236 |              0 | 32569:post_meta
+  528 |     cached      |    internal     |           236 |              0 | 32569:post_meta
+  529 |     cached      |    internal     |           236 |              0 | 32569:post_meta
+  530 |     cached      |    internal     |           897 |              0 | 32570:posts
+  531 |     cached      |   persistent    |          1793 |         0.0004 | 32570:post_meta
+  532 |     cached      |    internal     |           168 |              0 | notoptions:options
+  533 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  534 |     cached      |    internal     |           168 |              0 | notoptions:options
+  535 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  536 |     cached      |    internal     |           168 |              0 | notoptions:options
+  537 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  538 |     cached      |    internal     |           168 |              0 | notoptions:options
+  539 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  540 |     cached      |    internal     |           168 |              0 | notoptions:options
+  541 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  542 |     cached      |    internal     |           908 |              0 | 32570:posts
+  543 |     cached      |    internal     |          1793 |              0 | 32570:post_meta
+  544 |     cached      |    internal     |           168 |              0 | notoptions:options
+  545 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  546 |     cached      |    internal     |           168 |              0 | notoptions:options
+  547 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  548 |     cached      |    internal     |           168 |              0 | notoptions:options
+  549 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  550 |     cached      |    internal     |           168 |              0 | notoptions:options
+  551 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  552 |     cached      |    internal     |           168 |              0 | notoptions:options
+  553 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  554 |     cached      |    internal     |           908 |              0 | 32570:posts
+  555 |     cached      |    internal     |          1793 |              0 | 32570:post_meta
+  556 |     cached      |    internal     |           908 |              0 | 32570:posts
+  557 |     cached      |    internal     |          1793 |              0 | 32570:post_meta
+  558 |     cached      |    internal     |           908 |              0 | 32570:posts
+  559 |     cached      |    internal     |          1793 |              0 | 32570:post_meta
+  560 |     cached      |    internal     |           168 |              0 | notoptions:options
+  561 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  562 |     cached      |    internal     |           168 |              0 | notoptions:options
+  563 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  564 |     cached      |    internal     |           168 |              0 | notoptions:options
+  565 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  566 |     cached      |    internal     |           168 |              0 | notoptions:options
+  567 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  568 |     cached      |    internal     |           168 |              0 | notoptions:options
+  569 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  570 |     cached      |    internal     |           908 |              0 | 32570:posts
+  571 |     cached      |    internal     |          1793 |              0 | 32570:post_meta
+  572 |     cached      |    internal     |           236 |              0 | 32569:post_meta
+  573 |     cached      |   persistent    |           404 |         0.0005 | 247:users
+  574 |     cached      |   persistent    |          2419 |         0.0005 | 247:user_meta
+  575 |     cached      |    internal     |           337 |              0 | 32567:post_meta
+  576 |     cached      |    internal     |           337 |              0 | 32567:post_meta
+  577 |     cached      |    internal     |           337 |              0 | 32567:post_meta
+  578 |     cached      |    internal     |           879 |              0 | 44884:posts
+  579 |     cached      |   persistent    |          1761 |         0.0004 | 44884:post_meta
+  580 |     cached      |    internal     |           168 |              0 | notoptions:options
+  581 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  582 |     cached      |    internal     |           168 |              0 | notoptions:options
+  583 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  584 |     cached      |    internal     |           168 |              0 | notoptions:options
+  585 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  586 |     cached      |    internal     |           168 |              0 | notoptions:options
+  587 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  588 |     cached      |    internal     |           168 |              0 | notoptions:options
+  589 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  590 |     cached      |    internal     |           890 |              0 | 44884:posts
+  591 |     cached      |    internal     |          1761 |              0 | 44884:post_meta
+  592 |     cached      |    internal     |           168 |              0 | notoptions:options
+  593 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  594 |     cached      |    internal     |           168 |              0 | notoptions:options
+  595 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  596 |     cached      |    internal     |           168 |              0 | notoptions:options
+  597 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  598 |     cached      |    internal     |           168 |              0 | notoptions:options
+  599 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  600 |     cached      |    internal     |           168 |              0 | notoptions:options
+  601 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  602 |     cached      |    internal     |           890 |              0 | 44884:posts
+  603 |     cached      |    internal     |          1761 |              0 | 44884:post_meta
+  604 |     cached      |    internal     |           890 |              0 | 44884:posts
+  605 |     cached      |    internal     |          1761 |              0 | 44884:post_meta
+  606 |     cached      |    internal     |           890 |              0 | 44884:posts
+  607 |     cached      |    internal     |          1761 |              0 | 44884:post_meta
+  608 |     cached      |    internal     |           337 |              0 | 32567:post_meta
+  609 |     cached      |    internal     |           428 |              0 | 367:users
+  610 |     cached      |    internal     |           629 |              0 | 367:user_meta
+  611 |     cached      |    internal     |         28268 |              0 | 35987:posts
+  612 |     cached      |    internal     |          2376 |              0 | 35987:post_tag_relationships
+  613 |     cached      |   persistent    |          1377 |         0.0004 | 16348:posts
+  614 |     cached      |    internal     |          1377 |              0 | 16348:posts
+  615 |     cached      |    internal     |          1377 |              0 | 16348:posts
+  616 |     cached      |    internal     |           168 |              0 | notoptions:options
+  617 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  618 |     cached      |   persistent    |          5510 |         0.0005 | 16348:post_meta
+  619 |     cached      |   persistent    |          1806 |         0.0005 | 21314:posts
+  620 |     cached      |   persistent    |          3124 |         0.0004 | 21314:post_meta
+  621 |     cached      |    internal     |           168 |              0 | notoptions:options
+  622 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  623 |     cached      |    internal     |           168 |              0 | notoptions:options
+  624 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  625 |     cached      |    internal     |           168 |              0 | notoptions:options
+  626 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  627 |     cached      |    internal     |           168 |              0 | notoptions:options
+  628 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  629 |     cached      |    internal     |           168 |              0 | notoptions:options
+  630 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  631 |     cached      |    internal     |          1806 |              0 | 21314:posts
+  632 |     cached      |    internal     |          3124 |              0 | 21314:post_meta
+  633 |     cached      |    internal     |           168 |              0 | notoptions:options
+  634 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  635 |     cached      |    internal     |           168 |              0 | notoptions:options
+  636 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  637 |     cached      |    internal     |           168 |              0 | notoptions:options
+  638 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  639 |     cached      |    internal     |           168 |              0 | notoptions:options
+  640 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  641 |     cached      |    internal     |           168 |              0 | notoptions:options
+  642 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  643 |     cached      |    internal     |          1806 |              0 | 21314:posts
+  644 |     cached      |    internal     |          3124 |              0 | 21314:post_meta
+  645 |     cached      |    internal     |          1806 |              0 | 21314:posts
+  646 |     cached      |    internal     |          3124 |              0 | 21314:post_meta
+  647 |     cached      |    internal     |          1806 |              0 | 21314:posts
+  648 |     cached      |    internal     |          3124 |              0 | 21314:post_meta
+  649 |     cached      |    internal     |           168 |              0 | notoptions:options
+  650 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  651 |     cached      |    internal     |           168 |              0 | notoptions:options
+  652 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  653 |     cached      |    internal     |           168 |              0 | notoptions:options
+  654 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  655 |     cached      |    internal     |           168 |              0 | notoptions:options
+  656 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  657 |     cached      |    internal     |           168 |              0 | notoptions:options
+  658 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  659 |     cached      |    internal     |           168 |              0 | notoptions:options
+  660 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  661 |     cached      |    internal     |           168 |              0 | notoptions:options
+  662 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  663 |     cached      |    internal     |          1806 |              0 | 21314:posts
+  664 |     cached      |    internal     |          3124 |              0 | 21314:post_meta
+  665 |     cached      |    internal     |           168 |              0 | notoptions:options
+  666 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  667 |     cached      |    internal     |           168 |              0 | notoptions:options
+  668 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  669 |     cached      |    internal     |           168 |              0 | notoptions:options
+  670 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  671 |     cached      |    internal     |           168 |              0 | notoptions:options
+  672 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  673 |     cached      |    internal     |           168 |              0 | notoptions:options
+  674 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  675 |     cached      |    internal     |           168 |              0 | notoptions:options
+  676 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  677 |     cached      |    internal     |           168 |              0 | notoptions:options
+  678 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  679 |     cached      |    internal     |           168 |              0 | notoptions:options
+  680 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  681 |     cached      |    internal     |           168 |              0 | notoptions:options
+  682 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  683 |     cached      |    internal     |           168 |              0 | notoptions:options
+  684 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  685 |     cached      |    internal     |           168 |              0 | notoptions:options
+  686 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  687 |     cached      |    internal     |           168 |              0 | notoptions:options
+  688 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  689 |     cached      |    internal     |           168 |              0 | notoptions:options
+  690 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  691 |     cached      |    internal     |           168 |              0 | notoptions:options
+  692 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  693 |     cached      |    internal     |           168 |              0 | notoptions:options
+  694 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  695 |   not cached    |   persistent    |               |         0.0004 | 373:users
+  696 |   not cached    |    internal     |               |              0 | 373:users
+  697 |   not cached    |   persistent    |               |         0.0004 | Daisy Ginsberg:userlogins
+  698 |   not cached    |   persistent    |               |         0.0004 | hello@daisyginsberg.com:useremail
+  699 |   not cached    |   persistent    |               |         0.0005 | daisy-ginsberg:userslugs
+  700 |   not cached    |   persistent    |               |         0.0004 | 373:user_meta
+  701 |   not cached    |    internal     |               |              0 | 373:user_meta
+  702 |   not cached    |    internal     |               |              0 | 373:user_meta
+  703 |     cached      |    internal     |           168 |              0 | notoptions:options
+  704 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  705 |     cached      |    internal     |           168 |              0 | notoptions:options
+  706 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  707 |   not cached    |   persistent    |               |         0.0004 | 33519:post_meta
+  708 |   not cached    |    internal     |               |              0 | 33519:post_meta
+  709 |   not cached    |    internal     |               |              0 | 33519:post_meta
+  710 |     cached      |    internal     |           172 |              0 | 33519:post_meta
+  711 |   not cached    |   persistent    |               |         0.0004 | 32182:post_meta
+  712 |   not cached    |    internal     |               |              0 | 32182:post_meta
+  713 |   not cached    |    internal     |               |              0 | 32182:post_meta
+  714 |   not cached    |   persistent    |               |         0.0005 | 34942:post_meta
+  715 |   not cached    |    internal     |               |              0 | 34942:post_meta
+  716 |   not cached    |    internal     |               |              0 | 34942:post_meta
+  717 |   not cached    |   persistent    |               |         0.0004 | 3073:post_meta
+  718 |   not cached    |    internal     |               |              0 | 3073:post_meta
+  719 |   not cached    |    internal     |               |              0 | 3073:post_meta
+  720 |     cached      |   persistent    |           504 |         0.0004 | 8508:post_meta
+  721 |   not cached    |   persistent    |               |         0.0004 | 33520:posts
+  722 |   not cached    |   persistent    |               |         0.0004 | 35152:posts
+  723 |   not cached    |    internal     |               |              0 | 33520:posts
+  724 |   not cached    |    internal     |               |              0 | 35152:posts
+  725 |   not cached    |   persistent    |               |         0.0004 | 33520:post_meta
+  726 |   not cached    |   persistent    |               |         0.0004 | 35152:post_meta
+  727 |   not cached    |    internal     |               |              0 | 33520:post_meta
+  728 |   not cached    |    internal     |               |              0 | 35152:post_meta
+  729 |     cached      |    internal     |           866 |              0 | 33520:posts
+  730 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  731 |     cached      |    internal     |           168 |              0 | notoptions:options
+  732 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  733 |     cached      |    internal     |           168 |              0 | notoptions:options
+  734 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  735 |     cached      |    internal     |           168 |              0 | notoptions:options
+  736 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  737 |     cached      |    internal     |           168 |              0 | notoptions:options
+  738 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  739 |     cached      |    internal     |           168 |              0 | notoptions:options
+  740 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  741 |     cached      |    internal     |           877 |              0 | 33520:posts
+  742 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  743 |     cached      |    internal     |           168 |              0 | notoptions:options
+  744 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  745 |     cached      |    internal     |           168 |              0 | notoptions:options
+  746 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  747 |     cached      |    internal     |           168 |              0 | notoptions:options
+  748 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  749 |     cached      |    internal     |           168 |              0 | notoptions:options
+  750 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  751 |     cached      |    internal     |           168 |              0 | notoptions:options
+  752 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  753 |     cached      |    internal     |           877 |              0 | 33520:posts
+  754 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  755 |     cached      |    internal     |           877 |              0 | 33520:posts
+  756 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  757 |     cached      |    internal     |           877 |              0 | 33520:posts
+  758 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  759 |     cached      |    internal     |           168 |              0 | notoptions:options
+  760 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  761 |     cached      |    internal     |           168 |              0 | notoptions:options
+  762 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  763 |     cached      |    internal     |           168 |              0 | notoptions:options
+  764 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  765 |     cached      |    internal     |           168 |              0 | notoptions:options
+  766 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  767 |     cached      |    internal     |           168 |              0 | notoptions:options
+  768 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  769 |     cached      |    internal     |           877 |              0 | 33520:posts
+  770 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  771 |     cached      |    internal     |           172 |              0 | 33519:post_meta
+  772 |     cached      |    internal     |           172 |              0 | 33519:post_meta
+  773 |     cached      |    internal     |           877 |              0 | 33520:posts
+  774 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  775 |     cached      |    internal     |           168 |              0 | notoptions:options
+  776 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  777 |     cached      |    internal     |           168 |              0 | notoptions:options
+  778 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  779 |     cached      |    internal     |           168 |              0 | notoptions:options
+  780 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  781 |     cached      |    internal     |           168 |              0 | notoptions:options
+  782 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  783 |     cached      |    internal     |           168 |              0 | notoptions:options
+  784 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  785 |     cached      |    internal     |           877 |              0 | 33520:posts
+  786 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  787 |     cached      |    internal     |           168 |              0 | notoptions:options
+  788 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  789 |     cached      |    internal     |           168 |              0 | notoptions:options
+  790 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  791 |     cached      |    internal     |           168 |              0 | notoptions:options
+  792 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  793 |     cached      |    internal     |           168 |              0 | notoptions:options
+  794 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  795 |     cached      |    internal     |           168 |              0 | notoptions:options
+  796 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  797 |     cached      |    internal     |           877 |              0 | 33520:posts
+  798 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  799 |     cached      |    internal     |           877 |              0 | 33520:posts
+  800 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  801 |     cached      |    internal     |           877 |              0 | 33520:posts
+  802 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  803 |     cached      |    internal     |           168 |              0 | notoptions:options
+  804 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  805 |     cached      |    internal     |           168 |              0 | notoptions:options
+  806 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  807 |     cached      |    internal     |           168 |              0 | notoptions:options
+  808 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  809 |     cached      |    internal     |           168 |              0 | notoptions:options
+  810 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  811 |     cached      |    internal     |           168 |              0 | notoptions:options
+  812 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  813 |     cached      |    internal     |           168 |              0 | notoptions:options
+  814 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  815 |     cached      |    internal     |           168 |              0 | notoptions:options
+  816 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  817 |     cached      |    internal     |           877 |              0 | 33520:posts
+  818 |     cached      |    internal     |          1885 |              0 | 33520:post_meta
+  819 |     cached      |    internal     |           398 |              0 | 4:users
+  820 |     cached      |    internal     |          3657 |              0 | 4:user_meta
+  821 |     cached      |    internal     |           168 |              0 | notoptions:options
+  822 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  823 |     cached      |    internal     |           168 |              0 | notoptions:options
+  824 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  825 |     cached      |    internal     |            90 |              0 | 32182:post_meta
+  826 |     cached      |    internal     |           168 |              0 | notoptions:options
+  827 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  828 |     cached      |    internal     |           168 |              0 | notoptions:options
+  829 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  830 |     cached      |    internal     |           168 |              0 | notoptions:options
+  831 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  832 |     cached      |    internal     |           168 |              0 | notoptions:options
+  833 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  834 |     cached      |    internal     |           168 |              0 | notoptions:options
+  835 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  836 |     cached      |    internal     |           168 |              0 | notoptions:options
+  837 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  838 |     cached      |   persistent    |           412 |         0.0005 | 809:users
+  839 |     cached      |   persistent    |          2938 |         0.0004 | 809:user_meta
+  840 |     cached      |    internal     |           168 |              0 | notoptions:options
+  841 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  842 |     cached      |    internal     |           168 |              0 | notoptions:options
+  843 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  844 |     cached      |    internal     |           253 |              0 | 34942:post_meta
+  845 |     cached      |    internal     |           888 |              0 | 35152:posts
+  846 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  847 |     cached      |    internal     |           168 |              0 | notoptions:options
+  848 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  849 |     cached      |    internal     |           168 |              0 | notoptions:options
+  850 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  851 |     cached      |    internal     |           168 |              0 | notoptions:options
+  852 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  853 |     cached      |    internal     |           168 |              0 | notoptions:options
+  854 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  855 |     cached      |    internal     |           168 |              0 | notoptions:options
+  856 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  857 |     cached      |    internal     |           899 |              0 | 35152:posts
+  858 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  859 |     cached      |    internal     |           168 |              0 | notoptions:options
+  860 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  861 |     cached      |    internal     |           168 |              0 | notoptions:options
+  862 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  863 |     cached      |    internal     |           168 |              0 | notoptions:options
+  864 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  865 |     cached      |    internal     |           168 |              0 | notoptions:options
+  866 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  867 |     cached      |    internal     |           168 |              0 | notoptions:options
+  868 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  869 |     cached      |    internal     |           899 |              0 | 35152:posts
+  870 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  871 |     cached      |    internal     |           899 |              0 | 35152:posts
+  872 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  873 |     cached      |    internal     |           899 |              0 | 35152:posts
+  874 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  875 |     cached      |    internal     |           168 |              0 | notoptions:options
+  876 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  877 |     cached      |    internal     |           168 |              0 | notoptions:options
+  878 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  879 |     cached      |    internal     |           168 |              0 | notoptions:options
+  880 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  881 |     cached      |    internal     |           168 |              0 | notoptions:options
+  882 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  883 |     cached      |    internal     |           168 |              0 | notoptions:options
+  884 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  885 |     cached      |    internal     |           899 |              0 | 35152:posts
+  886 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  887 |     cached      |    internal     |           253 |              0 | 34942:post_meta
+  888 |     cached      |    internal     |           253 |              0 | 34942:post_meta
+  889 |     cached      |    internal     |           899 |              0 | 35152:posts
+  890 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  891 |     cached      |    internal     |           168 |              0 | notoptions:options
+  892 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  893 |     cached      |    internal     |           168 |              0 | notoptions:options
+  894 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  895 |     cached      |    internal     |           168 |              0 | notoptions:options
+  896 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  897 |     cached      |    internal     |           168 |              0 | notoptions:options
+  898 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  899 |     cached      |    internal     |           168 |              0 | notoptions:options
+  900 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  901 |     cached      |    internal     |           899 |              0 | 35152:posts
+  902 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  903 |     cached      |    internal     |           168 |              0 | notoptions:options
+  904 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  905 |     cached      |    internal     |           168 |              0 | notoptions:options
+  906 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  907 |     cached      |    internal     |           168 |              0 | notoptions:options
+  908 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  909 |     cached      |    internal     |           168 |              0 | notoptions:options
+  910 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  911 |     cached      |    internal     |           168 |              0 | notoptions:options
+  912 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  913 |     cached      |    internal     |           899 |              0 | 35152:posts
+  914 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  915 |     cached      |    internal     |           899 |              0 | 35152:posts
+  916 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  917 |     cached      |    internal     |           899 |              0 | 35152:posts
+  918 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  919 |     cached      |    internal     |           168 |              0 | notoptions:options
+  920 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  921 |     cached      |    internal     |           168 |              0 | notoptions:options
+  922 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  923 |     cached      |    internal     |           168 |              0 | notoptions:options
+  924 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  925 |     cached      |    internal     |           168 |              0 | notoptions:options
+  926 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  927 |     cached      |    internal     |           168 |              0 | notoptions:options
+  928 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  929 |     cached      |    internal     |           168 |              0 | notoptions:options
+  930 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  931 |     cached      |    internal     |           168 |              0 | notoptions:options
+  932 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  933 |     cached      |    internal     |           899 |              0 | 35152:posts
+  934 |     cached      |    internal     |          2660 |              0 | 35152:post_meta
+  935 |     cached      |    internal     |           398 |              0 | 4:users
+  936 |     cached      |    internal     |          3657 |              0 | 4:user_meta
+  937 |     cached      |    internal     |           168 |              0 | notoptions:options
+  938 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  939 |     cached      |    internal     |           168 |              0 | notoptions:options
+  940 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  941 |     cached      |    internal     |            94 |              0 | 3073:post_meta
+  942 |     cached      |    internal     |           168 |              0 | notoptions:options
+  943 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  944 |     cached      |    internal     |           168 |              0 | notoptions:options
+  945 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  946 |     cached      |    internal     |           168 |              0 | notoptions:options
+  947 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  948 |     cached      |    internal     |           168 |              0 | notoptions:options
+  949 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  950 |     cached      |    internal     |           168 |              0 | notoptions:options
+  951 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  952 |     cached      |    internal     |           168 |              0 | notoptions:options
+  953 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  954 |     cached      |   persistent    |           448 |         0.0004 | 259:users
+  955 |     cached      |   persistent    |           730 |         0.0003 | 259:user_meta
+  956 |     cached      |    internal     |           168 |              0 | notoptions:options
+  957 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  958 |     cached      |    internal     |           168 |              0 | notoptions:options
+  959 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  960 |     cached      |    internal     |           504 |              0 | 8508:post_meta
+  961 |     cached      |    internal     |           168 |              0 | notoptions:options
+  962 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  963 |     cached      |    internal     |           168 |              0 | notoptions:options
+  964 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  965 |     cached      |    internal     |           168 |              0 | notoptions:options
+  966 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  967 |     cached      |    internal     |           168 |              0 | notoptions:options
+  968 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  969 |     cached      |    internal     |           168 |              0 | notoptions:options
+  970 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  971 |     cached      |    internal     |           168 |              0 | notoptions:options
+  972 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  973 |     cached      |    internal     |           168 |              0 | notoptions:options
+  974 |     cached      |    internal     |         92673 |              0 | alloptions:options
+  975 |     cached      |    internal     |           168 |              0 | notoptions:options
+  976 |     cached      |    internal     |         92673 |              0 | alloptions:options
+-->
+
+<!-- W3 Total Cache: Minify debug info:
+Engine:             disk
+Theme:              da5ea
+Template:           single
+-->

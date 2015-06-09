@@ -1,0 +1,481 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="keywords" content="Science,Video,Glossary,Berkeley Lab,Biology,Cosmology,Light sources,Clean Energy,Computing,Materials science,Physics,Earth Science,Energy Efficiency" />
+<meta name="description" content="A science video glossary in which Lawrence Berkeley National Laboratory scientists define science terms." />
+<title>Berkeley Lab - Science Video Glossary</title>
+<link href="assets/css/main.css" rel="stylesheet" type="text/css" />
+<link href="assets/css/custom.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.validate.min.js"></script>
+<script type="text/javascript">
+
+var theQueryString=window.location.href;
+var queryLocation=(theQueryString.indexOf('#'))+1;
+theQueryString=theQueryString.substring(queryLocation);
+
+
+var newIdForCat;
+			$(function(){
+
+				// Tabs
+				$('#tabs').tabs();
+
+				//hover states on the static widgets
+				$('#dialog_link, ul#icons li').hover(
+					function() { $(this).addClass('ui-state-hover'); },
+					function() { $(this).removeClass('ui-state-hover'); }
+				);
+				
+				preloadImages('assets/img/related_o.jpg');
+				
+				$("#myform").validate({
+		
+					errorPlacement: function(error, element) {
+ 
+       				error.insertBefore(element);
+  				 },
+   				errorElement: "div",
+    			 ignore: ".ignore"
+		
+				});
+				
+				//thank you from form submission
+				var theQueryString2=window.location.search.substring(1);
+				if(theQueryString2.match(/^thanks$/))
+					{
+						$("#tabs-4 form").addClass("hide");
+						$("#tabs-4 #thx").addClass("show");
+					
+					}
+
+				
+			});
+			
+			function preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+</script>
+
+</style>
+<!--[if lte IE 7]>
+<style type="text/css">
+</style>
+<![endif]-->
+</head>
+<body>
+<div id="wrapper">
+  <img height="101" width="960" usemap="#mastheadMap" src="http://www.lbl.gov/assets/img/mastheads/masthead_960x100.png" alt="LBNL Masthead"/>
+  <map id="mastheadMap" name="mastheadMap">
+    <area alt="Berkeley Lab" href="http://www.lbl.gov/" coords="0,0,490,100" shape="rect"/>
+    <area alt="U.S. Department of Energy" href="http://energy.gov/" coords="750,0,960,60" shape="rect"/>
+    <area alt="A-Z Index" href="http://www.lbl.gov/lab-index/" coords="555,70,658,100" shape="rect"/>
+    <area alt="Phone Book" href="http://www.lbl.gov/ds/" coords="658,70,780,100" shape="rect"/>
+    <area alt="Careers" href="http://jobs.lbl.gov/" coords="780,70,874,100" shape="rect"/>
+    <area alt="Search" href="http://search.lbl.gov/" coords="874,70,960,100" shape="rect"/>
+  </map>
+ 
+<div id="content">
+<h1>Science Video Glossary</h1>
+<div id="playerWrap" >
+<div id="player"></div>
+</div>
+<div id="related">
+<h2>RELATED VIDEOS</h2>
+<ul>
+	<li id="r1"></li>
+  <li id="r2"></li>
+  <li id="r3"></li>
+  <li id="r4"></li>
+</ul>
+
+</div>
+<div id="vidname"></div>
+		<div id="tabs">
+			<ul>
+				<li><a href="#tabs-1">FAQ</a></li>
+				<li><a href="#tabs-2">CATEGORIES</a></li>
+				<li><a href="#tabs-3">A&ndash;Z</a></li>
+                <li><a href="#tabs-4">SEND US YOUR IDEAS</a></li>
+			</ul>
+			<div id="tabs-1">
+            
+                          <ul id="indexleft">
+                <li class="az">Where did the universe come from, and where is it going?  </li>
+                               <li><a href="#n17" onclick="loadVideo('n17');" class='n17' > cosmic microwave background</a></li>
+                <li><a href="#n18" onclick="loadVideo('n18');" class='n18' > cosmological inflation</a></li>
+                <li><a href="#n26" onclick="loadVideo('n26');" class='n26' > expanding universe </a></li>
+                <li><a href="#n38" onclick="loadVideo('n38');" class='n38' > Higgs boson</a></li>
+                <li><a href="#n40" onclick="loadVideo('n40');" class='n40' > Large Hadron Collider</a></li>
+                <li><a href="#n46" onclick="loadVideo('n46');" class='n46' > measuring the universe</a></li>
+
+                <li class="az">What's the future of energy?  </li>
+                                <li><a href="#n2" onclick="loadVideo('n2');" class='n2' > artificial photosynthesis</a></li>
+                <li><a href="#n5" onclick="loadVideo('n5');" class='n5' > biofuels</a></li>
+                <li><a href="#n16" onclick="loadVideo('n16');" class='n16' > cool roof</a></li>
+                <li><a href="#n22" onclick="loadVideo('n22');" class='n22' > daylighting</a></li>
+                <li><a href="#n23" onclick="loadVideo('n23');" class='n23' > demand response</a></li>
+                <li><a href="#n30" onclick="loadVideo('n30');" class='n30' > fuel cell</a></li>
+                <li><a href="#n33" onclick="loadVideo('n33');" class='n33' > geologic carbon sequestration</a></li>
+                <li><a href="#n37" onclick="loadVideo('n37');" class='n37' > green computing</a></li>
+                <li><a href="#n76" onclick="loadVideo('n76');" class='n76' > heat island</a></li>
+               <li><a href="#n62" onclick="loadVideo('n62');" class='n62' > smart grid</a></li>
+
+                <li><a href="#n64" onclick="loadVideo('n64');" class='n64' > smart windows</a></li>
+                <li><a href="#n65" onclick="loadVideo('n65');" class='n65' > solar cell</a></li>
+                <li><a href="#n79" onclick="loadVideo('n79');" class='n79' > ventilation rate</a></li>
+
+                <li class="az">How do we know that climate change is real? </li>
+                                <li><a href="#n10" onclick="loadVideo('n10');" class='n10' > carbon cycle</a></li>
+                <li><a href="#n14" onclick="loadVideo('n14');" class='n14' > climate change</a></li>
+                <li><a href="#n3" onclick="loadVideo('n3');" class='n3' > atmospheric aerosols</a></li>
+                <li><a href="#n74" onclick="loadVideo('n74');" class='n74' > weather and climate</a></li>
+
+                <li class="az">What new materials might bring us huge technological advances? </li>
+   
+                <li><a href="#n6" onclick="loadVideo('n6');" class='n6' > biologically inspired polymers</a></li>
+                <li><a href="#n34" onclick="loadVideo('n34');" class='n34' > graphene</a></li>
+                <li><a href="#n47" onclick="loadVideo('n47');" class='n47' > metamaterials</a></li>
+                <li><a href="#n48" onclick="loadVideo('n48');" class='n48' > nanotechnology</a></li>
+                <li><a href="#n58" onclick="loadVideo('n58');" class='n58' > quantum dot</a></li>
+              </ul>
+              <ul id="indexright">
+                <li class="az">How do scientists explore the very big and the very small? </li>
+                <li><a href="#n78" onclick="loadVideo('n78');" class='n78' > big data</a></li>
+                
+                <li><a href="#n24" onclick="loadVideo('n24');" class='n24' > electron microscopy</a></li>
+                <li><a href="#n29" onclick="loadVideo('n29');" class='n29' > free electron laser</a></li>
+                <li><a href="#n36" onclick="loadVideo('n36');" class='n36' > gravitational lensing</a></li>
+                <li><a href="#n40" onclick="loadVideo('n40');" class='n40' > Large Hadron Collider</a></li>
+                <li><a href="#n41" onclick="loadVideo('n41');" class='n41' > laser wakefield acceleration</a></li>
+                <li><a href="#n44" onclick="loadVideo('n44');" class='n44' > light source</a></li>
+                <li><a href="#n50" onclick="loadVideo('n50');" class='n50' > neutrino astronomy</a></li>
+                <li><a href="#n56" onclick="loadVideo('n56');" class='n56' > protein crystallography</a></li>
+                <li><a href="#n58" onclick="loadVideo('n58');" class='n58' > quantum dot</a></li>
+                <li><a href="#n67" onclick="loadVideo('n67');" class='n67' > supercomputing</a></li>
+                <li><a href="#n68" onclick="loadVideo('n68');" class='n68' > supernova</a></li>
+                <li><a href="#n70" onclick="loadVideo('n70');" class='n70' > synchrotron radiation</a></li>
+                <li><a href="#n46" onclick="loadVideo('n46');" class='n46' > measuring the universe</a></li>
+
+                <li class="az">What are some of the biggest mysteries in science? </li>
+                               <li><a href="#n1" onclick="loadVideo('n1');" class='n1' > antimatter</a></li>
+                <li><a href="#n49" onclick="loadVideo('n49');" class='n49' > neutrino</a></li>
+                <li><a href="#n61" onclick="loadVideo('n61');" class='n61' > radioactivity</a></li>
+                <li><a href="#n19" onclick="loadVideo('n19');" class='n19' > cp violation</a></li>
+                <li><a href="#n38" onclick="loadVideo('n38');" class='n38' > Higgs boson</a></li>
+                <li><a href="#n59" onclick="loadVideo('n59');" class='n59' > quantum entanglement </a></li>
+                <li><a href="#n21" onclick="loadVideo('n21');" class='n21' > dark matter</a></li>
+                <li><a href="#n20" onclick="loadVideo('n20');" class='n20' > dark energy</a></li>
+
+
+               
+                <li class="az">What can we learn from nature to improve how we live? </li>
+                               <li><a href="#n2" onclick="loadVideo('n2');" class='n2' > artificial photosynthesis</a></li>
+                <li><a href="#n6" onclick="loadVideo('n6');" class='n6' > biologically inspired polymers</a></li>
+                <li><a href="#n7" onclick="loadVideo('n7');" class='n7' > biomimicry</a></li>
+                <li><a href="#n8" onclick="loadVideo('n8');" class='n8' > bioremediation</a></li>
+                <li><a href="#n11" onclick="loadVideo('n11');" class='n11' > cellular microenvironment</a></li>
+                <li><a href="#n12" onclick="loadVideo('n12');" class='n12' > cellular senescence</a></li>
+                <li><a href="#n27" onclick="loadVideo('n27');" class='n27' > extremophile</a></li>
+                <li><a href="#n75" onclick="loadVideo('n75');" class='n75' > microbiome</a></li>
+                <li><a href="#n71" onclick="loadVideo('n71');" class='n71' > synthetic biology</a></li>
+                <li><a href="#n72" onclick="loadVideo('n72');" class='n72' > systems biology</a></li>
+				<li><a href="#n77" onclick="loadVideo('n77');" class='n77' > tree of life</a></li>
+              </ul>
+             
+              <div class="clear"> &nbsp; </div>
+            
+            </div>
+			<div id="tabs-2">
+            
+                          <ul id="indexleft">
+                <li class="az">Biology</li>
+                               <li><a href="#n11" onclick="loadVideo('n11');" class='n11' > cellular microenvironment</a></li>
+                <li><a href="#n12" onclick="loadVideo('n12');" class='n12' > cellular senescence</a></li>
+                <li><a href="#n27" onclick="loadVideo('n27');" class='n27' > extremophile</a></li>
+                <li><a href="#n32" onclick="loadVideo('n32');" class='n32' > genomics</a></li>
+                <li><a href="#n75" onclick="loadVideo('n75');" class='n75' > microbiome</a></li>
+                <li><a href="#n56" onclick="loadVideo('n56');" class='n56' > protein crystallography</a></li>
+                <li><a href="#n71" onclick="loadVideo('n71');" class='n71' > synthetic biology</a></li>
+                <li><a href="#n72" onclick="loadVideo('n72');" class='n72' > systems biology</a></li>
+                <li><a href="#n77" onclick="loadVideo('n77');" class='n77' > tree of life</a></li>
+
+
+                <li class="az">Clean Energy</li>
+                                <li><a href="#n2" onclick="loadVideo('n2');" class='n2' > artificial photosynthesis</a></li>
+                <li><a href="#n5" onclick="loadVideo('n5');" class='n5' > biofuels</a></li>
+                <li><a href="#n30" onclick="loadVideo('n30');" class='n30' > fuel cell</a></li>
+                <li><a href="#n65" onclick="loadVideo('n65');" class='n65' > solar cell</a></li>
+
+                
+                
+             
+                <li class="az">Computing</li>
+                <li><a href="#n78" onclick="loadVideo('n78');" class='n78' > big data</a></li>
+                <li><a href="#n9" onclick="loadVideo('n9');" class='n9' > bits and bytes</a></li>
+                <li><a href="#n15" onclick="loadVideo('n15');" class='n15' > computational science</a></li>
+                <li><a href="#n37" onclick="loadVideo('n37');" class='n37' > green computing</a></li>
+                <li><a href="#n39" onclick="loadVideo('n39');" class='n39' > IPv6</a></li>
+                <li><a href="#n51" onclick="loadVideo('n51');" class='n51' > petabytes</a></li>
+                <li><a href="#n52" onclick="loadVideo('n52');" class='n52' > petaflop computing</a></li>
+                <li><a href="#n57" onclick="loadVideo('n57');" class='n57' > quantum computing</a></li>
+                <li><a href="#n63" onclick="loadVideo('n63');" class='n63' > science network</a></li>
+                <li><a href="#n67" onclick="loadVideo('n67');" class='n67' > supercomputing</a></li>
+               
+              
+
+                
+               
+              </ul>
+              <ul id="indexcenter">
+    
+                <li class="az">Cosmology </li>
+                                <li><a href="#n17" onclick="loadVideo('n17');" class='n17' > cosmic microwave background</a></li>
+                <li><a href="#n18" onclick="loadVideo('n18');" class='n18' > cosmological inflation</a></li>
+                <li><a href="#n20" onclick="loadVideo('n20');" class='n20' > dark energy</a></li>
+                <li><a href="#n21" onclick="loadVideo('n21');" class='n21' > dark matter</a></li>
+                <li><a href="#n26" onclick="loadVideo('n26');" class='n26' > expanding universe </a></li>
+                <li><a href="#n28" onclick="loadVideo('n28');" class='n28' > fluctuations in the cosmic microwave background</a></li>
+                <li><a href="#n31" onclick="loadVideo('n31');" class='n31' > galactic emissions</a></li>
+                <li><a href="#n36" onclick="loadVideo('n36');" class='n36' > gravitational lensing</a></li>
+                <li><a href="#n35" onclick="loadVideo('n35');" class='n35' > gravity</a></li>
+                <li><a href="#n46" onclick="loadVideo('n46');" class='n46' > measuring the universe</a></li>
+                <li><a href="#n50" onclick="loadVideo('n50');" class='n50' > neutrino astronomy</a></li>
+                <li><a href="#n68" onclick="loadVideo('n68');" class='n68' > supernova</a></li>
+                <li class="az">Earth Science </li>
+                               <li><a href="#n3" onclick="loadVideo('n3');" class='n3' > atmospheric aerosols</a></li>
+                <li><a href="#n8" onclick="loadVideo('n8');" class='n8' > bioremediation</a></li>
+                <li><a href="#n10" onclick="loadVideo('n10');" class='n10' > carbon cycle</a></li>
+                                <li><a href="#n74" onclick="loadVideo('n74');" class='n74' > weather and climate</a></li>
+
+                <li><a href="#n14" onclick="loadVideo('n14');" class='n14' > climate change</a></li>
+                <li><a href="#n33" onclick="loadVideo('n33');" class='n33' > geologic carbon sequestration</a></li>
+				<li><a href="#n80" onclick="loadVideo('n80');" class='n80' > induced seismicity</a></li>
+                <li class="az">Energy Efficiency</li>
+                               <li><a href="#n16" onclick="loadVideo('n16');" class='n16' > cool roof</a></li>
+                <li><a href="#n22" onclick="loadVideo('n22');" class='n22' > daylighting</a></li>
+                <li><a href="#n23" onclick="loadVideo('n23');" class='n23' > demand response</a></li>
+                <li><a href="#n25" onclick="loadVideo('n25');" class='n25' > energy efficiency</a></li>
+                <li><a href="#n76" onclick="loadVideo('n76');" class='n76' > heat island</a></li>
+                <li><a href="#n42" onclick="loadVideo('n42');" class='n42' > life cycle assessment</a></li>
+                                <li><a href="#n62" onclick="loadVideo('n62');" class='n62' > smart grid</a></li>
+
+                <li><a href="#n64" onclick="loadVideo('n64');" class='n64' > smart windows</a></li>
+                              <li><a href="#n79" onclick="loadVideo('n79');" class='n79' > ventilation rate</a></li>
+				
+              </ul>
+              <ul id="indexright">
+                <li class="az">Light sources</li>
+                            <li><a href="#n29" onclick="loadVideo('n29');" class='n29' > free electron laser</a></li>
+                <li><a href="#n44" onclick="loadVideo('n44');" class='n44' > light source</a></li>
+                <li><a href="#n53" onclick="loadVideo('n53');" class='n53' > photon</a></li>
+                <li><a href="#n70" onclick="loadVideo('n70');" class='n70' > synchrotron radiation</a></li>
+
+                <li class="az">Materials science</li>
+                               <li><a href="#n6" onclick="loadVideo('n6');" class='n6' > biologically inspired polymers</a></li>
+                <li><a href="#n7" onclick="loadVideo('n7');" class='n7' > biomimicry</a></li>
+                <li><a href="#n24" onclick="loadVideo('n24');" class='n24' > electron microscopy</a></li>
+                <li><a href="#n34" onclick="loadVideo('n34');" class='n34' > graphene</a></li>
+                <li><a href="#n47" onclick="loadVideo('n47');" class='n47' > metamaterials</a></li>
+                <li><a href="#n48" onclick="loadVideo('n48');" class='n48' > nanotechnology</a></li>
+                <li><a href="#n58" onclick="loadVideo('n58');" class='n58' > quantum dot</a></li>
+                <li><a href="#n69" onclick="loadVideo('n69');" class='n69' > surface science</a></li>
+
+                <li class="az">Physics </li>
+               <li><a href="#n1" onclick="loadVideo('n1');" class='n1' > antimatter</a></li>
+                <li><a href="#n4" onclick="loadVideo('n4');" class='n4' > attosecond</a></li>
+                <li><a href="#n19" onclick="loadVideo('n19');" class='n19' > cp violation</a></li>
+                <li><a href="#n38" onclick="loadVideo('n38');" class='n38' > Higgs boson</a></li>
+                <li><a href="#n40" onclick="loadVideo('n40');" class='n40' > Large Hadron Collider</a></li>
+                <li><a href="#n41" onclick="loadVideo('n41');" class='n41' > laser wakefield acceleration</a></li>
+                <li><a href="#n43" onclick="loadVideo('n43');" class='n43' > light</a></li>
+                <li><a href="#n45" onclick="loadVideo('n45');" class='n45' > Maxwell&#8217;s equations</a></li>
+                <li><a href="#n49" onclick="loadVideo('n49');" class='n49' > neutrino</a></li>
+                <li><a href="#n54" onclick="loadVideo('n54');" class='n54' > plasma</a></li>
+                <li><a href="#n59" onclick="loadVideo('n59');" class='n59' > quantum entanglement </a></li>
+                <li><a href="#n60" onclick="loadVideo('n60');" class='n60' > quarks</a></li>
+                <li><a href="#n61" onclick="loadVideo('n61');" class='n61' > radioactivity</a></li>
+                <li><a href="#n66" onclick="loadVideo('n66');" class='n66' > standard model</a></li>
+                <li><a href="#n73" onclick="loadVideo('n73');" class='n73' > weak interaction</a></li>
+
+                
+              </ul>
+              <div class="clear"> &nbsp; </div>
+            
+            </div>
+			<div id="tabs-3">
+              <ul id="indexleft">
+                <li class="az">A</li>
+                <li><a href="#n1" onclick="loadVideo('n1');" class='n1' > antimatter</a></li>
+                <li><a href="#n2" onclick="loadVideo('n2');" class='n2' > artificial photosynthesis</a></li>
+                <li><a href="#n3" onclick="loadVideo('n3');" class='n3' > atmospheric aerosols</a></li>
+                <li><a href="#n4" onclick="loadVideo('n4');" class='n4' > attosecond</a></li>
+                <li class="az">B</li>
+                <li><a href="#n78" onclick="loadVideo('n78');" class='n78' > big data</a></li>
+                <li><a href="#n5" onclick="loadVideo('n5');" class='n5' > biofuels</a></li>
+                <li><a href="#n6" onclick="loadVideo('n6');" class='n6' > biologically inspired polymers</a></li>
+                <li><a href="#n7" onclick="loadVideo('n7');" class='n7' > biomimicry</a></li>
+                <li><a href="#n8" onclick="loadVideo('n8');" class='n8' > bioremediation</a></li>
+                <li><a href="#n9" onclick="loadVideo('n9');" class='n9' > bits and bytes</a></li>
+                <li class="az">C</li>
+                <li><a href="#n10" onclick="loadVideo('n10');" class='n10' > carbon cycle</a></li>
+                <li><a href="#n11" onclick="loadVideo('n11');" class='n11' > cellular microenvironment</a></li>
+                <li><a href="#n12" onclick="loadVideo('n12');" class='n12' > cellular senescence</a></li>
+                <!--<li><a href="#n13" onclick="loadVideo('n13');" class='n13' > climate and weather</a></li>-->
+                <li><a href="#n14" onclick="loadVideo('n14');" class='n14' > climate change</a></li>
+                <li><a href="#n15" onclick="loadVideo('n15');" class='n15' > computational science</a></li>
+                <li><a href="#n16" onclick="loadVideo('n16');" class='n16' > cool roof</a></li>
+                <li><a href="#n17" onclick="loadVideo('n17');" class='n17' > cosmic microwave background</a></li>
+                <li><a href="#n18" onclick="loadVideo('n18');" class='n18' > cosmological inflation</a></li>
+                <li><a href="#n19" onclick="loadVideo('n19');" class='n19' > cp violation</a></li>
+                <li class="az">D</li>
+                <li><a href="#n20" onclick="loadVideo('n20');" class='n20' > dark energy</a></li>
+                <li><a href="#n21" onclick="loadVideo('n21');" class='n21' > dark matter</a></li>
+                <li><a href="#n22" onclick="loadVideo('n22');" class='n22' > daylighting</a></li>
+                <li><a href="#n23" onclick="loadVideo('n23');" class='n23' > demand response</a></li>
+                <li class="az">E</li>
+                <li><a href="#n24" onclick="loadVideo('n24');" class='n24' > electron microscopy</a></li>
+                <li><a href="#n25" onclick="loadVideo('n25');" class='n25' > energy efficiency</a></li>
+                <li><a href="#n26" onclick="loadVideo('n26');" class='n26' > expanding universe </a></li>
+                <li><a href="#n27" onclick="loadVideo('n27');" class='n27' > extremophile</a></li>
+              </ul>
+              <ul id="indexcenter">
+                <li class="az">F</li>
+                <li><a href="#n28" onclick="loadVideo('n28');" class='n28' > fluctuations in the cosmic microwave background</a></li>
+                <li><a href="#n29" onclick="loadVideo('n29');" class='n29' > free electron laser</a></li>
+                <li><a href="#n30" onclick="loadVideo('n30');" class='n30' > fuel cell</a></li>
+                <li class="az">G</li>
+                <li><a href="#n31" onclick="loadVideo('n31');" class='n31' > galactic emissions</a></li>
+                <li><a href="#n32" onclick="loadVideo('n32');" class='n32' > genomics</a></li>
+                <li><a href="#n33" onclick="loadVideo('n33');" class='n33' > geologic carbon sequestration</a></li>
+                <li><a href="#n34" onclick="loadVideo('n34');" class='n34' > graphene</a></li>
+                <li><a href="#n35" onclick="loadVideo('n35');" class='n35' > gravity</a></li>
+                <li><a href="#n36" onclick="loadVideo('n36');" class='n36' > gravitational lensing</a></li>
+                <li><a href="#n37" onclick="loadVideo('n37');" class='n37' > green computing</a></li>
+                <li class="az">H</li>
+                <li><a href="#n76" onclick="loadVideo('n76');" class='n76' > heat island</a></li>
+                <li><a href="#n38" onclick="loadVideo('n38');" class='n38' > Higgs boson</a></li>
+                <li class="az">I - L</li>
+                <li><a href="#n80" onclick="loadVideo('n80');" class='n80' > induced seismicity</a></li>
+                <li><a href="#n39" onclick="loadVideo('n39');" class='n39' > IPv6</a></li>
+                <li><a href="#n40" onclick="loadVideo('n40');" class='n40' > Large Hadron Collider</a></li>
+                <li><a href="#n41" onclick="loadVideo('n41');" class='n41' > laser wakefield acceleration</a></li>
+                <li><a href="#n42" onclick="loadVideo('n42');" class='n42' > life cycle assessment</a></li>
+                <li><a href="#n43" onclick="loadVideo('n43');" class='n43' > light</a></li>
+                <li><a href="#n44" onclick="loadVideo('n44');" class='n44' > light source</a></li>
+                <li class="az">M</li>
+                <li><a href="#n45" onclick="loadVideo('n45');" class='n45' > Maxwell&#8217;s equations</a></li>
+                <li><a href="#n46" onclick="loadVideo('n46');" class='n46' > measuring the universe</a></li>
+                <li><a href="#n47" onclick="loadVideo('n47');" class='n47' > metamaterials</a></li>
+                <li><a href="#n75" onclick="loadVideo('n75');" class='n75' > microbiome</a></li>
+                <li class="az">N</li>
+                <li><a href="#n48" onclick="loadVideo('n48');" class='n48' > nanotechnology</a></li>
+                <li><a href="#n49" onclick="loadVideo('n49');" class='n49' > neutrino</a></li>
+                <li><a href="#n50" onclick="loadVideo('n50');" class='n50' > neutrino astronomy</a></li>
+              </ul>
+              <ul id="indexright">
+                <li class="az">O, P</li>
+                <li><a href="#n51" onclick="loadVideo('n51');" class='n51' > petabytes</a></li>
+                <li><a href="#n52" onclick="loadVideo('n52');" class='n52' > petaflop computing</a></li>
+                <li><a href="#n53" onclick="loadVideo('n53');" class='n53' > photon</a></li>
+                <li><a href="#n54" onclick="loadVideo('n54');" class='n54' > plasma</a></li>
+                <li><a href="#n55" onclick="loadVideo('n55');" class='n55' > plasmon</a></li>
+                <li><a href="#n56" onclick="loadVideo('n56');" class='n56' > protein crystallography</a></li>
+                <li class="az">Q</li>
+                <li><a href="#n57" onclick="loadVideo('n57');" class='n57' > quantum computing</a></li>
+                <li><a href="#n58" onclick="loadVideo('n58');" class='n58' > quantum dot</a></li>
+                <li><a href="#n59" onclick="loadVideo('n59');" class='n59' > quantum entanglement </a></li>
+                <li><a href="#n60" onclick="loadVideo('n60');" class='n60' > quarks</a></li>
+                <li class="az">R, S</li>
+                <li><a href="#n61" onclick="loadVideo('n61');" class='n61' > radioactivity</a></li>
+                <li><a href="#n62" onclick="loadVideo('n62');" class='n62' > smart grid</a></li>
+                <li><a href="#n63" onclick="loadVideo('n63');" class='n63' > science network</a></li>
+                <li><a href="#n64" onclick="loadVideo('n64');" class='n64' > smart windows</a></li>
+                <li><a href="#n65" onclick="loadVideo('n65');" class='n65' > solar cell</a></li>
+                <li><a href="#n66" onclick="loadVideo('n66');" class='n66' > standard model</a></li>
+                <li><a href="#n67" onclick="loadVideo('n67');" class='n67' > supercomputing</a></li>
+                <li><a href="#n68" onclick="loadVideo('n68');" class='n68' > supernova</a></li>
+                <li><a href="#n69" onclick="loadVideo('n69');" class='n69' > surface science</a></li>
+                <li><a href="#n70" onclick="loadVideo('n70');" class='n70' > synchrotron radiation</a></li>
+                <li><a href="#n71" onclick="loadVideo('n71');" class='n71' > synthetic biology</a></li>
+                <li><a href="#n72" onclick="loadVideo('n72');" class='n72' > systems biology</a></li>
+                <li class="az">T - Z</li>
+                <li><a href="#n77" onclick="loadVideo('n77');" class='n77' > tree of life</a></li>
+                <li><a href="#n79" onclick="loadVideo('n79');" class='n79' > ventilation rate</a></li>
+                <li><a href="#n73" onclick="loadVideo('n73');" class='n73' > weak interaction</a></li>
+                <li><a href="#n74" onclick="loadVideo('n74');" class='n74' > weather and climate</a></li>
+              </ul>
+              <div class="clear"> &nbsp; </div>
+            </div>
+            <div id="tabs-4"><form name="myform" method="post" action="http://www.lbl.gov/cgi-bin/PID/videoglossary.cgi"><input type="hidden" name="confirm" value="http://www.lbl.gov/publicinfo/videoglossary/index.html?thanks#tabs-4" class="hidden">
+<table border="0" cellspacing="0">
+  <tr>
+   <td colspan="2">Have a question? Have a suggestion? Need help?<br>
+Please leave your comment here.</td>
+  </tr>
+  <tr>
+    <td colspan="2">* Indicates a Required field</td>
+    
+  </tr>
+  <tr>
+    <td id="tt1"><label for="firstname">First Name</label></td>
+    <td id="tt2"><input type="text"  name="firstname" id="firstname" class="ignore" ></td>
+  </tr>
+  <tr>
+    <td><label for="">Last Name</label></td>
+    <td><input type="text"  name="lastname" id="lastname" class="ignore" ></td>
+  </tr>
+  <tr>
+    <td><label for="organization">Organization</label></td>
+    <td>
+      <input type="text" name="organization" id="organization" class="ignore" ></td>
+  </tr>
+
+  <tr>
+    <td><label for="email">Email*</label></td>
+    <td><input type="email" class="required valid" required value="" name="email" id="email"></td>
+  </tr>
+  <tr>
+    <td><label for="phone">Phone</label></td>
+    <td><input type="text" name="phone" id="phone" class="ignore" ></td>
+  </tr>
+  <tr>
+    <td><label for="comments">Comments*</label></td>
+    <td><textarea id="comments" rows="5" class="required valid" required  name="comments"></textarea></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td><input type="submit" value="SUBMIT" id="submit"></td>
+  </tr>
+</table>
+
+</form>
+
+<div id="thx"><h3>Thanks for the comment</h3></div>
+
+
+          </div>
+		</div>
+ </div>
+<div id="footer">
+<span class="normal" style="font-weight:normal">
+A U.S. Department of Energy National Laboratory Operated by the University of California</span><br />
+<a href="http://www.universityofcalifornia.edu/"><img src="http://www.lbl.gov/assets/img/logo-uc.gif" alt="UC logo" width="55" height="55" border="0" usemap="#logoMap" /></a><br />
+<a href="http://www.lbl.gov/websupport.html">Questions &amp; Comments</a> &middot; <a href="http://www.lbl.gov/Disclaimers.html">Privacy &amp; Security Notice</a></div></div>
+
+<script type="text/javascript"  src="assets/js/vid.js"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5565065-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>

@@ -1,0 +1,705 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>
+	The Haynes Lab</title>
+
+<meta name="author" content="The Haynes Lab" />
+<link rel="shortcut icon" href="http://haynes.lab.asu.edu/wp-content/themes/edegree/images/favicon.ico" type="image/x-icon" />
+<link rel="alternate" type="application/rss+xml" title="The Haynes Lab RSS Feed" href="http://haynes.lab.asu.edu/feed/" />
+<link rel="pingback" href="http://haynes.lab.asu.edu/xmlrpc.php" />
+<link rel='stylesheet' id='jetpack-widgets-css'  href='http://haynes.lab.asu.edu/wp-content/plugins/jetpack/modules/widgets/widgets.css?ver=20121003' type='text/css' media='all' />
+<script type='text/javascript' src='http://widgets.twimg.com/j/2/widget.js?ver=3.4.2'></script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-includes/js/jquery/jquery.js?ver=1.7.2'></script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-content/plugins/wp-charts/js/Chart.min.js?ver=3.4.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://haynes.lab.asu.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://haynes.lab.asu.edu/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.4.2" />
+<link rel='shortlink' href='http://wp.me/48Dta' />
+
+	<!-- begin gallery scripts -->
+    <link rel="stylesheet" href="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/css/jd.gallery.css.php" type="text/css" media="screen" charset="utf-8"/>
+	<link rel="stylesheet" href="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/css/jd.gallery.css" type="text/css" media="screen" charset="utf-8"/>
+	<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/scripts/mootools.v1.11.js"></script>
+	<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.js.php"></script>
+	<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/plugins/featured-content-gallery/scripts/jd.gallery.transitions.js"></script>
+	<!-- end gallery scripts -->
+<style type="text/css">
+	#header {text-align:left }
+	#description { clear:left;float: left; }
+</style>
+<!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://haynes.lab.asu.edu/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+<!--[if lte IE 8]><script src="http://haynes.lab.asu.edu/wp-content/plugins/wp-charts/js/excanvas.compiled.js"></script><![endif]-->	<style>
+    			/*wp_charts_js responsive canvas CSS override*/
+    			.wp_charts_canvas {
+    				width:100%!important;
+    				max-width:100%;
+    			}
+
+    			@media screen and (max-width:480px) {
+    				div.wp-chart-wrap {
+    					width:100%!important;
+    					float: none!important;
+						margin-left: auto!important;
+						margin-right: auto!important;
+						text-align: center;
+    				}
+    			}
+    		</style><style type="text/css" media="all">
+/* <![CDATA[ */
+@import url("http://haynes.lab.asu.edu/wp-content/plugins/wp-table-reloaded/css/plugin.css?ver=1.9.4");
+@import url("http://haynes.lab.asu.edu/wp-content/plugins/wp-table-reloaded/css/datatables.css?ver=1.9.4");
+/* ]]> */
+</style>
+<link href="http://haynes.lab.asu.edu/wp-content/themes/edegree/style.css" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/themes/edegree/js/superfish.js"></script>
+<script type="text/javascript" src="http://haynes.lab.asu.edu/wp-content/themes/edegree/js/functions.js"></script>
+
+<!--[if gte IE 5.5]>
+<style type="text/css">.post img, .page img, .customhtml img {width: expression(this.width > 495 ? 495: true) }</style>
+<![endif]-->
+ <!-- START /asuthemes/4.0/heads/default.shtml -->
+
+<link type="text/css" rel="stylesheet" media="all" href="//www.asu.edu/asuthemes/4.0/css/asu_header.css" />
+<!--[if lte IE 8]>
+<style type="text/css">
+  #asu_search_module input.asu_search_box { line-height: 19px; }
+  #asu_universal_nav ul li:hover > ul {top: 25px;}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style type="text/css">
+  #asu_search_module {height:17px;float:none; text-align:right; top:3px;}
+  .asu_search_selection {position:relative; top:-2px;}
+  #asu_universal_nav ul li.parent ul {display: none;}
+  #asu_universal_nav > ul > li.parent > a {background-image: none; padding-right: 8px;}
+  #asu_universal_nav > ul > li.parent:hover > a {background-image: none; background-color: transparent; color: #903; filter: none;}
+</style>
+<![endif]-->
+<!--[if lte IE 6]>
+<style type="text/css">
+  #asu_hdr.asu_hdr_maroon {background: #903;}
+</style>
+<![endif]-->
+
+<!--[if IE 9]>
+<style type="text/css">
+  #asu_universal_nav ul ul {filter: none; box-shadow: 0px 6px 6px 0px #999;}
+  #asu_universal_nav > ul > li.parent:hover > a {filter: none; box-shadow: 6px 0px 6px -6px #999, -6px 0px 6px -6px #999;}
+</style>
+<![endif]-->
+
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];
+_gaq.push(['asu._setAccount', 'UA-2392647-1'], ['asu._setDomainName', '.asu.edu']);
+_gaq.push(['asu._trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = 'https://ssl.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var ASUHeader = ASUHeader || {};
+//--><!]]>
+</script>
+
+<script type="text/javascript" src="//www.asu.edu/asuthemes/4.0/js/asu_header.js"></script>
+<!-- END /asuthemes/4.0/heads/default.shtml -->
+</head>
+
+<body class="home blog" style="background-repeat:repeat-x;font-size:13px;color:#575757;">
+
+<!-- START /asuthemes/4.0/headers/fulton_engineering_white.shtml -->
+
+<div id="asu_hdr" class=" asu_hdr_white">
+	<div id="asu_logo">
+    	<a target="_top" href="http://engineering.asu.edu" title="Arizona State University - Ira A. Fulton Schools of Engineering">
+    		<img src="//www.asu.edu/asuthemes/4.0/images/logos/fulton_engineering_logo_mg.png" alt="Arizona State University - Ira A. Fulton Schools of Engineering" height="36" width="225" style="margin-top:12px" title="Arizona State University - Ira A. Fulton Schools of Engineering" />
+    	</a>
+	</div>
+	
+	<img src="//www.asu.edu/asuthemes/4.0/images/logos/fulton_engineering_logo_mg.png" height="36" width="225" id="asu_print_logo" />
+	
+	<div id="asu_nav_wrapper">
+	
+	  <h2 class="hidden">Sign In / Sign Out</h2>
+	  <ul id="asu_login_module">
+		 	       <li id="asu_hdr_ssi" class="end">
+	         <a target="_top" href="https://weblogin.asu.edu/cgi-bin/login?callapp=**w.l**"
+	           onmouseover="this.href = ASUHeader.alterLoginHref(this.href);"
+		       onfocus="this.href = ASUHeader.alterLoginHref(this.href);"
+	           onclick="this.href = ASUHeader.alterLoginHref(this.href);">SIGN IN</a>
+	       </li>
+		 	  </ul>	
+	
+            <h2 class="hidden">Navigation: ASU Universal</h2>
+      <div id="asu_universal_nav">
+        <ul>
+      	  <li><a target="_top" href="http://www.asu.edu/">ASU Home</a></li>
+      	  <li><a target="_top" href="https://my.asu.edu/">My ASU</a></li>
+      	  <li class="parent"><a target="_top" href="http://www.asu.edu/colleges/">Colleges &amp; Schools</a>
+	  		<ul>
+				<li><a target="_top" class="first" href="http://artsandsciences.asu.edu/" title="Arts and Sciences website">Arts and Sciences</a></li>     
+				<li><a target="_top" href="http://wpcarey.asu.edu/" title="W. P. Carey School of Business Web  and Morrison School of Agribusiness website">Business</a></li>          
+				<li><a target="_top" href="http://herbergerinstitute.asu.edu" title="Herberger Institute for Design and the Arts website">Design and the Arts</a></li>
+				<li><a target="_top" href="http://education.asu.edu/" title="Mary Lou Fulton Teachers College website">Education </a></li>
+				<li><a target="_top" href="http://engineering.asu.edu/" title="Engineering website">Engineering</a></li>
+				<li><a target="_top" href="http://graduate.asu.edu" title="Graduate College website">Graduate</a></li>
+				<li><a target="_top" href="https://chs.asu.edu/" title="Health Solutions website">Health Solutions</a></li>
+				<li><a target="_top" href="http://honors.asu.edu/" title="Barrett, The Honors College website">Honors</a></li>
+				<li><a target="_top" href="http://cronkite.asu.edu" title="Walter Cronkite School of Journalism and Mass Communication website">Journalism</a></li>
+				<li><a target="_top" href="http://www.law.asu.edu/" title="Sandra Day O' Connor College of Law website">Law</a></li>
+				<li><a target="_top" href="http://nursingandhealth.asu.edu/" title="College of Nursing and Health Innovation website">Nursing and Health Innovation</a></li>
+				<li><a target="_top" href="http://copp.asu.edu" title="College of Public Programs website">Public Service and Community Solutions</a></li>
+				<li><a target="_top" href="http://schoolofsustainability.asu.edu" title="School of Sustainability website">Sustainability</a></li>
+				<li><a target="_top" href="http://uc.asu.edu/" title="University College website">University  College</a></li>
+				<li><a target="_top" href="http://www.thunderbird.edu/" title="Thunderbird School of Global Management website">New: Thunderbird School of Global Management</a></li>
+			</ul>
+      	  </li>
+      	  <li class="parent"><a target="_top" href="http://www.asu.edu/map/">Map &amp; Locations</a>
+      		<ul>
+				<li><a target="_top" class="border first" href="http://www.asu.edu/map/">Map</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/tempe/" title="Tempe campus">Tempe</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/west/" title="West campus">West</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/polytechnic/" title="Polytechnic campus">Polytechnic</a></li>
+				<li><a target="_top" href="http://campus.asu.edu/downtown/" title="Downtown Phoenix campus">Downtown Phoenix</a></li>
+				<li><a target="_top" href="http://asuonline.asu.edu/" title="Online and Extended campus">Online and Extended</a></li>
+				<li><a target="_top" class="border" href="http://havasu.asu.edu/">Lake Havasu</a></li>
+				<li><a target="_top" href="http://www.thunderbird.edu/about-thunderbird/locations/phoenix-arizona">Thunderbird</a></li>
+				<li><a target="_top" href="http://skysong.asu.edu/">Skysong</a></li>
+				<li><a target="_top" href="http://asuresearchpark.com/">Research Park</a></li>
+				<li><a target="_top" href="http://washingtoncenter.asu.edu/">Washington D.C.</a></li>
+				<li><a target="_top" href="http://wpcarey.asu.edu/mba/china-program/english/">China</a></li>
+			</ul>
+	  	  </li>      
+      	  <li><a target="_top" href="http://www.asu.edu/contactasu/" title="Directory, Index and other info">Directory</a></li>
+	    </ul>
+	    <img class="asu_touch" src="//www.asu.edu/asuthemes/4.0/images/ipad_close.gif" alt="" />
+      </div><!-- /#asu_universal_nav -->
+          
+    </div><!-- /#asu_nav_wrapper -->
+
+        <h2 class="hidden">Search</h2>
+    <div id="asu_search_module"><form target="_top" action="https://search.asu.edu/search" method="get" name="gs">
+	<label class="hidden" for="asu_search_box">Search</label>
+			<fieldset class="asu_search_selection">
+			<label for="engineering_collection"><input type="radio" checked="checked" value="engineering_collection" id="engineering_collection" name="site" onclick="ASUHeader.searchSwitch('Engineering')"/>Engineering</label>
+			<label for="asu_collection"><input type="radio" value="default_collection" id="asu_collection" name="site" onclick="ASUHeader.searchSwitch('ASU')"/>ASU</label>
+		</fieldset>
+		<input type="text" name="q" size="32" value="Search Engineering" id="asu_search_box" class="asu_search_box" onfocus="ASUHeader.searchFocus(this)" onblur="ASUHeader.searchBlur(this)" /> 
+	<input type="submit" value="Search" title="Search" class="asu_search_button" />
+	<input name="sort" value="date:D:L:d1" type="hidden" /> 
+	<input name="output" value="xml_no_dtd" type="hidden" /> 
+	<input name="ie" value="UTF-8" type="hidden" /> 
+	<input name="oe" value="UTF-8" type="hidden" /> 
+	<input name="client" value="asu_frontend" type="hidden" /> 
+	<input name="proxystylesheet" value="asu_frontend" type="hidden" />
+</form></div><!-- /#asu_search_module -->
+        
+</div><!-- /#asu_hdr -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+ASUHeader.default_search_text = "Search Engineering";
+ASUHeader.default_search_alttext = "Search Engineering";
+if (typeof ASUHeader.signin_callback_url == "undefined") {
+	ASUHeader.signin_callback_url = '';
+}
+if (typeof ASUHeader.signin_url == "undefined") {
+	ASUHeader.signin_url = '';
+}
+if (typeof ASUHeader.signout_url == "undefined") {
+	ASUHeader.signout_url = 'https://webapp4.asu.edu/myasu/Signout';
+}
+if (typeof ASUHeader.user_signedin == "undefined" ||
+		(ASUHeader.user_signedin != false && typeof ASUHeader.user_displayname == "undefined")) {
+	ASUHeader.checkSSOCookie();
+}
+if (ASUHeader.user_signedin == true) {
+	ASUHeader.setSSOLink();
+}if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
+	document.getElementById('asu_hdr').className = document.getElementById('asu_hdr').className+" chrome";
+}
+//--><!]]>
+</script><!-- END /asuthemes/4.0/headers/fulton_engineering_white.shtml -->
+<div style="clear:both;"></div>
+<div id="bg" >
+  <div id="wrapper">
+    <div id="shadow">
+     
+        <div id="header">
+          <h1 id="logo">
+			            	<a href="http://haynes.lab.asu.edu" id="blogname" style="background:none;text-indent:0;width:auto"><span class="blod">The Haynes Lab</span> </a>
+                      </h1>
+          
+			                <form name="search_form" class="search_form" action="http://haynes.lab.asu.edu/" method="get">
+    <input id="s" class="text_input" type="text" onblur="restoreDefault(this)" onfocus="clearDefault(this)" name="s" value="Search"/>
+    <input type="submit" align="middle" id="search-submit" value="Go" />
+    <input id="searchsubmit" type="hidden" value="Search"/>
+</form>                      
+
+        </div>
+        
+                <div id="featured-zone">            
+        	<div id="slidespot">
+            
+				                        <div id="featured">
+	<script type="text/javascript">
+        function startGallery() {
+            var myGallery = new gallery($('myGallery'), {
+                timed: true
+            });
+        }
+        window.addEvent('domready',startGallery);
+    </script>
+
+    <style type="text/css">
+	
+	.jdGallery .slideInfoZone
+	{
+		height: 50px;
+	}
+	</style>
+    
+    <div id="myGallery">
+    				 <div class="imageElement">
+					 <h2>Join</h2>
+					 					     <p>Join the Haynes Lab</p>
+					  					  <a href="http://haynes.lab.asu.edu/join/" title="Read More" class="open"></a>
+					  <img src="http://haynes.lab.asu.edu/wp-content/uploads/2014/08/SBHSE-Haynes-Lab-3212a1.jpg" alt="" class="full" />
+					  <img src="" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>Contact</h2>
+					 					     <p>Contact the Haynes Lab</p>
+					  					  <a href="http://haynes.lab.asu.edu/contact/" title="Read More" class="open"></a>
+					  <img src="http://haynes.lab.asu.edu/wp-content/uploads/2014/08/SBHSE-Haynes-Lab-3281a.jpg" alt="" class="full" />
+					  <img src="" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>People</h2>
+					 					     <p>Meet the people in the Haynes Lab</p>
+					  					  <a href="http://haynes.lab.asu.edu/people/" title="Read More" class="open"></a>
+					  <img src="http://haynes.lab.asu.edu/wp-content/uploads/2014/08/SBHSE-Haynes-Lab-3333a-e1408933240146.jpg" alt="" class="full" />
+					  <img src="" alt="" class="thumbnail" />
+				  </div>
+			 				 <div class="imageElement">
+					 <h2>Courses</h2>
+					 					     <p>Courses taught by Dr. Haynes</p>
+					  					  <a href="http://haynes.lab.asu.edu/courses/" title="Read More" class="open"></a>
+					  <img src="http://haynes.lab.asu.edu/wp-content/uploads/2014/08/SBHSE_Haynes_Garcia_Lab_9361.a..jpg" alt="" class="full" />
+					  <img src="" alt="" class="thumbnail" />
+				  </div>
+			 	     </div>
+	         
+</div>
+
+
+
+                        
+                                
+            </div>
+            
+            <div id="featured-wiz">
+                <div class="widget">			<div class="textwidget"><p>Karmella A. Haynes<br />
+School of Biological and Health Systems Engineering<br />
+Office: ISTB-4, 273<br />
+Lab: ISTB-4, 231</p>
+<p>karmella.haynes at asu dot edu<br />
+Phone: 480-965-4636<br />
+Fax: 480-727-7624</p>
+</div>
+		</div>            </div>
+        </div>
+                
+        <div id="container">
+			<div id="container-shoulder">
+            	<div id="left-col">	
+			<div id="post-642" class="post-642 post type-post status-publish format-standard sticky hentry category-pis-blog">
+    <div class="entry_header">
+        <p class="entry-date">Feb 15<br /><span class="date">14</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/pis-blog/cshl-synthetic-biology-course-2015/">CSHL Synthetic Biology Course &#8211; 2015</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p>The 2015 Cold Spring Harbor Summer Course in Synthetic Biology will take place July 27 &#8211; August 10.The course will focus on how the complexity of biological systems, combined with traditional engineering approaches, results in the emergence of new design principles for synthetic biology. The Course centers around an <strong>immersive laboratory experience</strong>. Here, students will work in teams to learn the practical and theoretical underpinnings of cutting edge research in the area of Synthetic Biology. Broadly, we will explore how cellular regulation – transcriptional, translational, post-translational, and epigenetic – can be used to engineer cells to accomplish well-defined goals.</p>
+<p><strong>Instructors for 2015:</strong><br /><a href="http://dueberlab.berkeley.edu/" target="_blank">John Dueber,</a>University of California, Berkeley<a href="http://www.uvm.edu/%7Ecems/?Page=employee/profile.php&amp;SM=employee/_employeemenu.html&amp;EmID=1058" target="_blank"><br /></a><a href="http://www.cems.uvm.edu/~mjdunlop/" target="_blank">Mary Dunlop</a>, University of Vermont<br /><a href="http://haynes.lab.asu.edu/" target="_blank">Karmella Haynes</a>, Arizona State University<br /><a href="http://www.cheme.cornell.edu/people/profile.cfm?netid=jl564" target="_blank">Julius Lucks</a>, Cornell University<br /><a href="http://www.chemistry.gatech.edu/people/Peralta-Yahya/Pamela%20" target="_blank">Pamela Peralta-Yahya</a>, Georgia Institute of Technology<br />Stanley Qi, Stanford University </p>
+<p>Read Instructor bios at  <a href="https://cshlsynbio.wordpress.com/instructors2015/" target="_blank">https://cshlsynbio.wordpress.com/instructors2015/</a></p>
+<p><strong>Invited Speakers </strong>are current leaders in synthetic biology, who will present seminars on their research, industrial developments, and other recent developments in the field. Students will have the opportunity to interact with the speakers in an intimate setting:<br /><strong>Elisa Franco</strong>, University of California, Riverside<br /><strong>Emma Frow</strong>, Arizona State University<br /><strong>Mo Khalil</strong>, Boston University<br /><strong>Nathan Hilton</strong>, Joint BioEnergy Institute<br /><strong>Thomas Knight</strong>, Ginkgo BioWorks<br /><strong>Vincent Noireaux</strong>, University of Minnesota<br /><strong>Pamela Silver</strong>, Harvard Medical School<br /><strong>Danielle Tullman-Erceck</strong>, University of California, Berkeley</p>
+<p>An up-to-date Speakers list is available at <a href="https://cshlsynbio.wordpress.com/speakers/" target="_blank">https://cshlsynbio.wordpress.com/speakers/</a></p>
+<p>For more information about the course and instruction on how to apply, visit <a href="http://cshlsynbio.wordpress.com" target="_blank">http://cshlsynbio.wordpress.com</a>.</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/pis-blog/" title="View all posts in PI&#039;s Blog" rel="category tag">PI's Blog</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-703" class="post-703 post type-post status-publish format-standard hentry category-student-research-2 tag-stem-minority tag-synberc tag-undergraduate">
+    <div class="entry_header">
+        <p class="entry-date">Jun 15<br /><span class="date">5</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/student-research-2/2015-synberc-scholars-program-for-stem-minorities/">2015 Synberc Scholars Program for STEM Minorities</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p dir="ltr"><strong>Haynes Lab Synberc Scholars 2015: Synthetic Biology for Cancer Research<br /></strong><em><strong>Build DNA &amp; make an impact on underserved communities.</strong></em></p>
+<p><strong>About the Synberc Scholars Program</strong>: The Synthetic Biology Engineering Research Center (Synberc) is a multi-institutional organization that is seeking talented and motivated underrepresented STEM minority undergraduates who are  interested in gaining research experience in the cutting-edge field of <a href="https://www.youtube.com/watch?v=rD5uNAMbDaQ" target="_blank">synthetic biology</a>. Synberc Scholars gain research experience in top-tier synthetic biology labs, preparing the Scholar for career opportunities in academia and industry. <a href="http://synberc.org/scholars" target="_blank">http://synberc.org/scholars</a></p>
+<p><strong>Research in the Haynes Lab</strong>: <em>It is imperative that new, high-tech fields benefit all people rather than a select few</em>. The lab of Dr. Karmella Haynes at ASU (Tempe Campus) uses synthetic biology to discover new treatments for <a href="https://www.youtube.com/watch?v=SGaQ0WwZ_0I" target="_blank">cancer</a>. Dr. Haynes is a Synberc Affiliated Investigator. She is also an early-career NIH Investigator for the Center to Reduce Cancer Health Disparities (CRCHD). Her project is supported by the “NCI Mentored Research Scientist Development Award to Promote Diversity.” The Synberc Scholar will work in the Haynes lab ~5 hours per week: (1) learning protocols and constructing synthetic DNA and (2) completing an investigative report to discover how synthetic biology can impact underserved communities. <a href="http://haynes.lab.asu.edu" target="_blank">http://haynes.lab.asu.edu</a></p>
+<p><strong>Eligibility &amp; Application</strong>: The applicant must be must be from a <span style="text-decoration: underline;">group underrepresented in the STEM fields</span> (African-American, Latino, Native American, Pacific Islander&#8230;<em>applicants from other groups may inquire about general lab volunteering opportunities</em>). The applicant must be enrolled at <span style="text-decoration: underline;">ASU</span> (any department) as an <span style="text-decoration: underline;">undergraduate</span> and be in <span style="text-decoration: underline;">good academic standing</span>. Please send a (1) cover letter (e-mail) explaining why you are a good fit for the aims of this program and research project, with a (2) resume or c.v. and (3) an unofficial transcript attached, to <a href="mailto:karmella.haynes@asu.edu">karmella.haynes@asu.edu</a> before <span style="color: #ff0000;"><strong>August 20, 2015</strong></span>. No letters of recommendation are required.</p>
+<div> </div>
+        
+        <div class="postedinfo"><span class="tag-meta">Tags: <a href="http://haynes.lab.asu.edu/tag/stem-minority/" rel="tag">STEM minority</a>, <a href="http://haynes.lab.asu.edu/tag/synberc/" rel="tag">synberc</a>, <a href="http://haynes.lab.asu.edu/tag/undergraduate/" rel="tag">undergraduate</a></span><br /> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/student-research-2/" title="View all posts in Student Research" rel="category tag">Student Research</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-686" class="post-686 post type-post status-publish format-standard hentry category-uncategorized">
+    <div class="entry_header">
+        <p class="entry-date">May 15<br /><span class="date">12</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/uncategorized/is-there-molecular-cell-biology-in-asu-bme/">Is There Molecular Cell Biology in ASU BME?</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p>Dear Biomedical Engineering (BME) First-year Student,</p>
+<p>As you know, the first year in a college program is a very critical year. You don&#8217;t have long to make a decision about which major(s) to seal a ~4-year long commitment with. You may have spoken with peers, second-year students and beyond, or professors at ASU and heard about all of the mathematical, programming, computer, and hardware design classes that are required in the BME curriculum. You may have heard some people comment that BME does not offer much for those interested in genetic engineering, molecular cell biology, synthetic biology, and other fields related to studying and manipulating DNA, proteins, stem cells, antibodies, etc.</p>
+<p>A bit worried, you may have approached me or other BME faculty and asked <em><strong>&#8220;should I stay in BME or switch to the School of Life Sciences (SOLS)?&#8221;</strong></em> You may have received different answers.</p>
+<p>I am writing this open letter to give you some helpful and important insights into BME. The molecular cell biology content offered in the BME major may not be obvious after just skimming the course titles. However, the content is indeed there and with the hiring of new faculty in Molecular Cell and Tissue Bioengineering and Synthetic Biology, the content is growing. Importantly, the molecular cell biology content offered by BME is presented in a way that makes the medical applications much more obvious than most other courses offered by other programs. If medical context appeals to you, I personally encourage you to stick with BME.</p>
+<p><em><strong>1. Start Planning Now to Take the Following Courses</strong></em></p>
+<p style="padding-left: 30px;"><strong>BME100 &#8211; Introduction to Biomedical Engineering</strong> (Lecture and Lab)<br />Offered: Fall, Spring<br />Offered by: Profs. <a href="http://faculty.engineering.asu.edu/garcia/" target="_blank">Garcia</a>, <a href="http://haynes.lab.asu.edu/" target="_blank">Haynes</a>, <a href="http://sbhse.engineering.asu.edu/faculty-and-staff/faculty/jeff-kleim/" target="_blank">Kleim</a> <br />You will learn about: <strong>Cell engineering, gene delivery, gene networks, DNA analysis</strong></p>
+<p style="padding-left: 30px;"><strong>BME318 &#8211; Biomaterials</strong> (Lecture and Lab)<br />Offered: Fall, Spring<br />Offered by: Prof. <a href="http://stabenfeldt.lab.asu.edu/" target="_blank">Stabenfeldt</a>, Dr. Ankeny<br />You will learn about: <strong>Protein interactions, cell adhesion/ scaffolding, inflammatory response, immune response, infection</strong></p>
+<p style="padding-left: 30px;"><strong>BME331 &#8211; Mass Transport</strong> <br />Offered: Fall, Spring<br />Offered by: Prof. <a href="http://faculty.engineering.asu.edu/caplan/" target="_blank">Caplan</a> <br />You will learn about: Biomolecules, cell transport</p>
+<p style="padding-left: 30px;"><strong>BME494/598 &#8211; Molecular Synthetic Biology</strong> <br />Offered: Spring (even years)<br />Offered by: Prof. <a href="http://haynes.lab.asu.edu/" target="_blank">Haynes</a> <br />You will learn about: Synthetic genes, molecular cloning, gene delivery, gene &amp; protein design</p>
+<p style="padding-left: 30px;"><strong>The International Genetically Engineered Machine Competition (<a href="http://igem.org/Main_Page" target="_blank">iGEM</a>)</strong><br />Not a course, but a spin-out of BME494/598. One of the student-designed projects developed in the course will be offered support (lab space, materials, iGEM registration fees, travel). The project will be completed over the following summer. The international conference/ competition occurs in early Fall.</p>
+<p style="padding-left: 30px;">&#8230;And several courses for MS and PhD graduate students (500-level and above)</p>
+<p style="padding-left: 30px;"> </p>
+<p><em><strong>2. Consider Adding a Life Sciences Class to Your Curriculum</strong></em></p>
+<p>Find a biology course that has a strong <span style="text-decoration: underline;"><em>quantitative</em></span> emphasis (e.g., bioinformatics, protein engineering, biochemistry). If you are going to engineer biological systems, you will need to learn how math and computer software is used to understand biology, in addition to the basic concepts and some wet lab techniques. Discuss with your academic advisor how to fit one or a few of these classes into your curriculum. <em><span style="text-decoration: underline;">Do not over-commit</span></em>&#8230;prioritize the classes that fit your interests.</p>
+<p><em><strong>3. Plan to Secure a Position in a Wet Lab</strong></em></p>
+<p>BME professors run research labs when they are not teaching. Visit the BME faculty page to find links to their labs&#8217; websites. Find one or more that you are interested in. Send them an e-mail and ask if they have any room for undergraduate volunteers. Over time while you are volunteering, if you find that the lab is a good fit write up an idea for a <a href="http://more.engineering.asu.edu/furi/" target="_blank">FURI proposal</a>.</p>
+<p><em><strong>4. Keep Track of Changes in the Course Offerings</strong></em></p>
+<p>ASU is growing very quickly. Almost every year, a new faculty joins a department here, including SBHSE (BME). Look out for new SBHSE faculty who focus on molecular cell biology and find out what classes they are offering. This information can be easily accessed by looking up that faculty&#8217;s directory profile page.</p>
+<p>&nbsp;</p>
+<p>I hope that you find this bit of advice helpful. All the best on your career path, wherever it may take you.</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-668" class="post-668 post type-post status-publish format-standard hentry category-research category-student-research-2">
+    <div class="entry_header">
+        <p class="entry-date">Mar 15<br /><span class="date">10</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/student-research-2/review-on-engineered-quorum-sensing-published-in-frontiers/">Review on Engineered Quorum Sensing Published in Frontiers</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <div id="attachment_669" class="wp-caption alignnone" style="width: 510px"><img class=" wp-image-669 " title="Paper_2015QS" src="http://haynes.lab.asu.edu/wp-content/uploads/2015/03/Paper_2015QS-1024x575.jpg" alt="" width="500" /><p class="wp-caption-text">Figure 2. Homoserine lactone (HSL)-based genetic wiring supports the function of sophisticated synthetic systems.</p></div>
+<p>&#8220;<strong>Can the natural diversity of quorum-sensing advance synthetic biology?</strong>&#8221; a review written by <strong>Rene Davis</strong> (Biological Design PhD student, SBHSE), <strong>Ryan Muller</strong> (Undergraduate, SOLS), and Dr. Karmella Haynes (SBHSE) was accepted by the journal Frontiers in Bioengineering and Biotechnology. This article is part of the research topic &#8220;Synthetic Biology: engineering complexity and refactoring cell capabilities.&#8221;</p>
+<p>View the article at this link: <a href="http://journal.frontiersin.org/article/10.3389/fbioe.2015.00030/full" target="_blank">http://journal.frontiersin.org/article/10.3389/fbioe.2015.00030/full</a></p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/research/" title="View all posts in Research" rel="category tag">Research</a> <a href="http://haynes.lab.asu.edu/category/student-research-2/" title="View all posts in Student Research" rel="category tag">Student Research</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-660" class="post-660 post type-post status-publish format-standard hentry category-student-research-2">
+    <div class="entry_header">
+        <p class="entry-date">Mar 15<br /><span class="date">7</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/student-research-2/haynes-lab-students-present-research-at-ibe/">Haynes Lab Students Present Research at IBE</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p><a href="http://haynes.lab.asu.edu/wp-content/uploads/2015/03/IBE2015_Cameron_Jimmy2.jpg"><img class="alignnone  wp-image-665" title="IBE2015_Cameron_Jimmy2" src="http://haynes.lab.asu.edu/wp-content/uploads/2015/03/IBE2015_Cameron_Jimmy2-1024x440.jpg" alt="" width="500" /></a></p>
+<p>On March 5 – 7, <strong>Cameron Gardner</strong> (BME, SBHSE) and <strong>Jimmy Xu</strong> (BME, SBHSE) presented their work on synthetic biology at the Institute of Biological Engineering 2015 Annual Conference in St. Louis, MO. Cameron Gardner presented his human cell research with a poster titled &#8220;Isolation and Testing of Synthetic Polycomb Transcription Factors&#8221;. Jimmy Xu presented his work in developing a synthetic biology project kit for high schools with a poster titled &#8221;Massively Open Online Research for Secondary Education in Synthetic Biology.&#8221;</p>
+<p>Cameron Gardner is supported by FURI.<br />Jimmy Xu is supported by NSF CBET.<br /><a href="http://www.ibe.org" target="_blank">The Institute of Biological Engineering (IBE)</a> is a professional organization which encourages inquiry and interest in biological engineering.</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/student-research-2/" title="View all posts in Student Research" rel="category tag">Student Research</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-620" class="post-620 post type-post status-publish format-standard hentry category-in-the-news category-lab-events">
+    <div class="entry_header">
+        <p class="entry-date">Nov 14<br /><span class="date">17</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/in-the-news/haynes-receives-nih-k-award/">Haynes Receives NIH K-Award</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p><strong>Dr. Karmella Haynes</strong> is the recipient of a Mentored Research Scientist Development Award to Promote Diversity (K01) from the National Cancer Institute (NCI) of the National Institutes of Health (NIH).</p>
+<p style="padding-left: 30px;"><em>Karmella Haynes wants to help the body fight cancer by designing proteins to stop the disease. “We have the ability to build new synthetic proteins by borrowing pieces of the natural DNA-folding proteins. The new synthetic proteins are designed to counteract cancer-associated chromatin folding,” Haynes explained. Supported by a grant from National Cancer Institute through the National Institutes of Health (NIH), she is working on a technique for effectively introducing the engineered proteins into chromatin structures.</em></p>
+<p style="padding-left: 30px;">~~~Building Proteins to Counteract Cancer. Joe Kullman, ASU News.</p>
+<p>Related news articles:</p>
+<ol>
+<li>Kullan, J. (2014) Building Proteins to Counteract Cancer. ASU Engineering Full Circle. http://fullcircle.asu.edu/2014/11/11439/
+<ul>
+<li>Also in: ASU News [now] Science &amp; Tech. https://asunews.asu.edu/20141110-haynes-proteins-fight-cancer</li>
+<li>Also in: ASU Inner Circle Fulton Schools News Roundup. http://innercircle.engineering.asu.edu/2014/11/10/fulton-schools-news-roundup-23/</li>
+</ul>
+</li>
+</ol>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/in-the-news/" title="View all posts in In the News" rel="category tag">In the News</a> <a href="http://haynes.lab.asu.edu/category/lab-events/" title="View all posts in Lab Events" rel="category tag">Lab Events</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-605" class="post-605 post type-post status-publish format-standard hentry category-lab-events category-student-research-2">
+    <div class="entry_header">
+        <p class="entry-date">Sep 14<br /><span class="date">29</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/lab-events/haynes-lab-students-present-research-at-synberc-mit-event/">Haynes Lab Students Present Research at Synberc MIT Event</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p><a href="http://haynes.lab.asu.edu/wp-content/uploads/2014/10/Synberc_Fall2014_photos.jpg"><img class="alignnone size-large wp-image-607" title="Synberc_Fall2014_photos" src="http://haynes.lab.asu.edu/wp-content/uploads/2014/10/Synberc_Fall2014_photos-1024x580.jpg" alt="" width="585" height="331" /></a></p>
+<p>Over the weekend of September 26 &#8211; 28, <strong>Rene Davis</strong> (Biological Design PhD, <a href="http://sbhse.engineering.asu.edu/" target="_blank">SBHSE</a>) and <strong>David Barclay</strong> (BME, <a href="http://sbhse.engineering.asu.edu/" target="_blank">SBHSE</a>) presented their work on engineering chromatin in mammalian cells at the <a href="http://www.synberc.org/" target="_blank">Synthetic Biology Engineering Research Center</a>&#8216;s Fall 2014 Retreat at the Massachusetts Institute of Technology. Rene Davis presented a talk on &#8220;Mammalian Cell Engineering and Chromatin,&#8221; which started with an overview of the chromatin engineering projects in the Haynes lab, followed by details of her own new project that investigates the impact of chromatin on genome engineering. David Barclay presented a poster, titled &#8220;A synthetic fusion protein for epigenetic control of pancreatic cell function,&#8221; which gave an update on his progress with experiments that are a key part of the Synberc &#8220;Programmable Organoids&#8221; collaboration with MIT and Harvard.</p>
+<p><a href="http://www.synberc.org/" target="_blank">Synberc</a> is an NSF-funded and <a href="http://synberc.org/industry/members" target="_blank">Industry</a>-supported center that provides full travel support twice a year for students from Synberc labs to share their research in synthetic biology. </p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/lab-events/" title="View all posts in Lab Events" rel="category tag">Lab Events</a> <a href="http://haynes.lab.asu.edu/category/student-research-2/" title="View all posts in Student Research" rel="category tag">Student Research</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-549" class="post-549 post type-post status-publish format-standard hentry category-uncategorized">
+    <div class="entry_header">
+        <p class="entry-date">Jul 14<br /><span class="date">23</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/uncategorized/synthetic-biology-meets-capitol-hill/">Synthetic Biology meets Capitol Hill</a> </h2>                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p>From ASU News: &#8220;<a href="https://asunews.asu.edu/20140718-haynes-congress-briefing-bioengineering" target="_blank">ASU professor speaks to Congress about supporting synthetic biology research</a>&#8220;</p>
+<p>&#8220;Karmella Haynes was among scientists and engineers to address national leaders at a recent U.S. Congressional briefing on issues raised by the emerging field of synthetic biology&#8230; The rapid advance of synthetic biology has prompted discussions about how to weigh the benefits of the research against potential social and ethical implications, and concerns about safety&#8230; Haynes and two colleagues – Steve Evans [Dow AgroSciences] and Jay Keasling [Director of Synberc] – gave presentations on those questions to staff members representing members of Congress, National Science Foundation officials, science journalists and other interested parties.&#8221;</p>
+<p>Remarks were given by <a href="http://en.wikipedia.org/wiki/Eric_Swalwell" target="_blank">U.S. Representative Eric Swalwell</a> of California. The session was moderated by Pramod Khargonekar, NSF assistant director for Engineering.</p>
+<p>Links</p>
+<ol>
+<li>ASU News. ASU professor speaks to Congress about supporting synthetic biology research. <a href="https://asunews.asu.edu/20140718-haynes-congress-briefing-bioengineering" target="_blank">https://asunews.asu.edu/20140718-haynes-congress-briefing-bioengineering</a></li>
+<li>National Science Foundation. Media advisory: Learn the latest on synthetic biology at a June 26 Capitol Hill briefing. <a href="http://www.nsf.gov/news/news_summ.jsp?cntn_id=131810" target="_blank">http://www.nsf.gov/news/news_summ.jsp?cntn_id=131810</a></li>
+<li>Genome Compiler. Leading scientists address congress on future of synthetic biology. <a href="http://www.genomecompiler.com/leading-scientists-address-congress-on-future-of-synthetic-biology/" target="_blank">http://www.genomecompiler.com/leading-scientists-address-congress-on-future-of-synthetic-biology/</a></li>
+</ol>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/uncategorized/" title="View all posts in Uncategorized" rel="category tag">Uncategorized</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><span>Comments Off</span></span>
+        </div>
+    </div>
+</div><div id="post-543" class="post-543 post type-post status-publish format-standard hentry category-pis-blog">
+    <div class="entry_header">
+        <p class="entry-date">Jul 14<br /><span class="date">22</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/pis-blog/gmo-labeling-a-chance-for-victory-for-gmos/">GMO Labeling: a (chance for) victory for GMO&#8217;s</a> </h2>                	<div class="comment-bubble"><span><a href="http://haynes.lab.asu.edu/pis-blog/gmo-labeling-a-chance-for-victory-for-gmos/#comments" title="Comment on GMO Labeling: a (chance for) victory for GMO&#8217;s">2 Comments</a></span></div>
+                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p>Think of the worst thing that the food industry has done with genetically modified foods (GMOs). If you say &#8220;sell them at all,&#8221; I&#8217;d disagree. I enjoy genetically modified foods, and they <strong>rely less on pesticides than &#8220;organically&#8221; grown foods</strong>. More on that later.</p>
+<p>The worst thing that industry has done regarding GMOs is hide the fact that they are GMOs. There is a strong public belief that there is something toxic about GMOs, and nondisclosure only fuels public suspicions. This is why as a pro-GMO consumer, I am actually happy to hear about <a href="http://www.npr.org/blogs/thesalt/2014/04/24/306442972/bracing-for-a-battle-vermont-passes-gmo-labeling-bill" target="_blank">Vermont&#8217;s recent legislation</a> [1] that requires any foods that contain GMOs be labeled as such. Now that genetic modification has been asked to come out of the closet, we can all learn the facts about various GMOs, and stop limiting our knowledge to scary catch-phrases and sound bytes like &#8220;Frankenfood.&#8221;</p>
+<p>This brings me back to the previous point about pesticides. According to the <a href="http://www.epa.gov/pesticides/food/organics.htm" target="_blank">US Environmental Protection Agency (EPA)</a> [2], &#8221;organically grown&#8221; food uses no <em><strong>synthetic</strong></em> fertilizers or pesticides, but <em><strong>pesticides derived from natural sources</strong></em> (<em>e.g.</em>, biological pesticides) <strong>may be used in producing organically grown food</strong>. The <a href="http://www.ecfr.gov/cgi-bin/text-idx?SID=db18e8182c5d577eff51a071cff3dbee&amp;node=7:3.1.1.9.32.3.354.7&amp;rgn=div8" target="_blank">US Department of Agriculture&#8217;s Organic Foods Program</a> [3] will allow foods to bear their certified organic label even if food pests and diseases have been managed with &#8220;application of nonsynthetic biological, botanical, or mineral inputs.&#8221;</p>
+<p>In conversations with some acquaintances, it is as if they fantasize that organic farmers are roving the fields each day, gingerly collecting crop-eating bugs from the plants into a jar and releasing them into the forest. At the end of the day, GMO, organic, or local*, no farmer wants to lose crops to enemies such as pests and disease. That farmer is going to use the least expensive and most effective method to poison bugs. That&#8217;s just how agriculture works.</p>
+<p>The thing that sets the GMO approach apart in the human struggle to protect crops is that it uses DNA biochemistry to make crop-protecting changes within plants. These new traits can be inherited from plant to plant. Some GMOs don&#8217;t need any pesticides, synthetic or &#8220;botanical,&#8221; to keep bugs away. Some are even designed to grow happily in the presence of less fertilizer. This reduces the amount of chemical run-off into the environment. In some cases, GMOs are even made to increase the nutritional value of plants (<em>e.g.</em>, <a href="http://www.goldenrice.org/Content2-How/how1_sci.php" target="_blank">golden rice</a> [4]).</p>
+<p>Unfortunately, the food industry has taken defensive actions in response to the Vermont bill. Companies, including Ben &amp; Jerry&#8217;s, <a href="http://www.npr.org/blogs/thesalt/2014/07/22/333725880/some-food-producers-are-quietly-dumping-gmo-ingredients" target="_blank">have started pulling some GMO products from their foods</a> [5]. Fabulous! Now our fat, salt, and cholesterol can be more &#8220;organic.&#8221; </p>
+<p>On the positive side, now that a label will make GMOs highly visible, we can all observe first-hand that GMOs, by virtue of being genetically altered, cause no harm to human health. Through conversations with each other around food, I can talk to more friends about how <a href="http://www.huffingtonpost.com/2010/11/29/non-browning-gmo-apple-usda_n_789123.html" target="_blank">transferring an anti-browning gene into an apple</a> [6] is no more &#8220;Frankenstein&#8221; than slicing up a lemon and squeezing its juices unnaturally onto cut apples. We can distinguish political and economic from scientific arguments. People who oppose GMO and those who support GMO can <em><strong>both</strong></em> shop with confidence. Hopefully, as the public becomes more educated about the science, people will be able to support or oppose specific engineered foods, rather than being forced to accept or reject any and all GMOs across the board. </p>
+<p>*Footnote: I support (reasonably priced) local food because it reduces the need to ship produce across the country, not because I believe it is somehow &#8220;healthier.&#8221; Now, if only I could find local GMOs&#8230;</p>
+<p>References:</p>
+<ol>
+<li>NPR Blog. Bracing For A Battle, Vermont Passes GMO Labeling Bill. http://www.npr.org/blogs/thesalt/2014/04/24/306442972/bracing-for-a-battle-vermont-passes-gmo-labeling-bill</li>
+<li>Environmental Protection Agency. Pesticides and Food: What &#8220;Organically Grown&#8221; Means. http://www.epa.gov/pesticides/food/organics.htm</li>
+<li>US Department of Agriculture. Electronic code of federal regulation: 205.206 - Crop pest, weed, and disease management practice standard. http://www.ecfr.gov/cgi-bin/text-idx?SID=db18e8182c5d577eff51a071cff3dbee&amp;node=7:3.1.1.9.32.3.354.7&amp;rgn=div8</li>
+<li>Golden Rice Project. The science of golden rice. http://www.goldenrice.org/Content2-How/how1_sci.php</li>
+<li>NPR Blog. Some Food Companies Are Quietly Dumping GMO Ingredients. http://www.npr.org/blogs/thesalt/2014/07/22/333725880/some-food-producers-are-quietly-dumping-gmo-ingredients</li>
+<li>Huffington Post. USDA asked to approve non-browning GMO apple. http://www.huffingtonpost.com/2010/11/29/non-browning-gmo-apple-usda_n_789123.html</li>
+</ol>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/pis-blog/" title="View all posts in PI&#039;s Blog" rel="category tag">PI's Blog</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><a href="http://haynes.lab.asu.edu/pis-blog/gmo-labeling-a-chance-for-victory-for-gmos/#comments" title="Comment on GMO Labeling: a (chance for) victory for GMO&#8217;s">2 Comments</a></span>
+        </div>
+    </div>
+</div><div id="post-531" class="post-531 post type-post status-publish format-standard hentry category-pis-blog">
+    <div class="entry_header">
+        <p class="entry-date">Jul 14<br /><span class="date">1</span></p>
+        <h2 class="home"><a href="http://haynes.lab.asu.edu/pis-blog/bullying-personal-comments-on-the-recent-assault-of-dr-ore/">Professional bullying: personal comments on the recent assault of Dr. Ore</a> </h2>                	<div class="comment-bubble"><span><a href="http://haynes.lab.asu.edu/pis-blog/bullying-personal-comments-on-the-recent-assault-of-dr-ore/#respond" title="Comment on Professional bullying: personal comments on the recent assault of Dr. Ore"><span class="nocomment">No Comment</span></a></span></div>
+                <div class="recover"></div>
+    </div>
+
+				
+    <div class="entry_content">
+        <p>Unfortunately, the disingenuous practice of disguising emotion-driven assaults with a veil of rules and laws is widespread, even amongst esteemed protectors, leaders, and professionals. This is what happened recently when a Tempe Police officer exploited his authority and applied excessive force in apprehending ASU Professor Ersula Ore for jay-walking in an area where the street is currently blocked off and there is no through-traffic on May 20, 2014. I have walked this exact area myself, just North of the Tempe campus. The very likely chance that this could have been me is chilling. View the video of her assault here: <a href="https://www.youtube.com/watch?v=XQJD2pqhMA4#t=145" target="_blank">https://www.youtube.com/watch?v=XQJD2pqhMA4#t=145</a></p>
+<p>After I posted a response to a very lazily-written, one-sided news article on the internet, an instigator from the comment thread emerged from the shadows to send a message via Facebook to inform me that Dr. Ore was simply an &#8220;uppity thing&#8221; (referring to her as &#8220;it&#8221;) that got what she deserved. The last time that &#8220;uppity&#8221; was a crime that warranted police brutality was back in the pre-Civil Rights era, when that &#8220;crime&#8221; mostly applied to black people. I am not sure how the <a href="http://en.wikipedia.org/wiki/Troll_(Internet)" target="_blank">internet troll</a> managed to find a time machine back in 1950, but welcome to 2014, time-traveler.</p>
+<p>Imagine that you are a student in one of my classes. You didn&#8217;t study as much as you should have for one of the exams, and wrote a lot of incorrect responses to pretty easy questions. You receive your graded exam not only with a D scrawled in red at the top, but a nice illustration of your head on the body of a mule alongside a quoted Miriam-Webster&#8217;s definition of idiot written in the margins, ending with with a phrase such as &#8220;drop out and just save your parents or the government some money, you worthless failure.&#8221;</p>
+<p>Think very carefully before you answer the following question. Would you shrug your shoulders and admit that you really deserved ALL of that for not studying? The D, maybe, but the written abuse along with it? I may not know you personally, but I highly doubt it.</p>
+<p>Now, imagine that you approach me regarding this excessive feedback.</p>
+<p style="padding-left: 30px;">Professor: &#8220;I am the professor and you are being insolent.&#8221;<br />You: &#8220;Are you serious?&#8221;<br />Professor: &#8220;Shut up or I&#8217;ll slam your grade down to the level of an F.&#8221;</p>
+<p>Understandably, you go immediately to the Dean with the graded exam in order to address the unprofessional and excessive manner in which you were &#8220;evaluated&#8221; by me, the professor. I hear about this from the Dean, and then use every logical loop-hole in my syllabus to score your assignments as low as possible so that you fail the course, and then I report you to the Dean for attempting to slander my character (verbal assault of a professor).</p>
+<p>Now if things aren&#8217;t already bad enough, the Dean&#8217;s written response to you looks something like this&#8230;</p>
+<p style="text-align: left; padding-left: 30px;"><em>&#8220;Administrative authorities have reviewed the unfortunate circumstances surrounding your course failure and have found that the professor involved did not violate protocol and no evidence was found of emotional motivation by the ASU faculty involved.&#8221;</em></p>
+<p>Imagine that an account of the incident has spread around campus, and you receive an e-mail from someone you do not know that says that you are just some uppity little college snot that got what you deserved because you didn&#8217;t study.</p>
+<p>Here&#8217;s a question to ponder: what on earth would provoke a trained professional to go to extra lengths to demean a person who he/she is expected to serve the best interests of? Perhaps a deeply-engrained nasty attitude, over-inflated sense of self-importance, or extreme insecurity? Perhaps an inability to see particular people as nothing more than insolent beasts who need to be taught a lesson every once in a while? Thankfully, my character and upbringing place me well above that base level of thinking. Unfortunately, a Tempe police officer who we have entrusted to protect and serve still has some growing up to do.</p>
+        
+        <div class="postedinfo"> <span class="folder-icon">Posted in</span> <span class="categories"><a href="http://haynes.lab.asu.edu/category/pis-blog/" title="View all posts in PI&#039;s Blog" rel="category tag">PI's Blog</a></span> by <span class="usr-meta">khaynes</span>.
+        <span class="comment-icon"><a href="http://haynes.lab.asu.edu/pis-blog/bullying-personal-comments-on-the-recent-assault-of-dr-ore/#respond" title="Comment on Professional bullying: personal comments on the recent assault of Dr. Ore">No Comments</a></span>
+        </div>
+    </div>
+</div>	    
+        <div class="navigation">
+        <p class="alignleft"></p>
+        <p class="alignright"><a href="http://haynes.lab.asu.edu/page/2/" >Next Page &raquo;</a></p>
+        <div class="recover"></div>
+    </div>
+    
+			<div class="recover"></div>
+        </div><!--End left-col-->
+              
+			  		<!-- begin sidebar -->
+		<div id="sidebar">
+			            
+            <div id="socialize-icons">
+                <ul>
+                                        	
+	                    <li id="icon-twitter"><a href="https://twitter.com/hayneslab" rel="nofollow" target="_blank">twitter</a></li>
+					                    	
+                                        	<li id="icon-youtube"><a href="http://openwetware.org/wiki/User:Karmella_Haynes" rel="nofollow" target="_blank">YouTube</a></li>
+                    	
+                </ul>
+            </div>
+            
+        	  
+			<ul>
+			  <li class="widget" id="linkcat-2"><h2>Blogroll</h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://cshlsynbio.wordpress.com/" rel="friend" title="The Cold Spring Harbor Synthetic Biology summer course" target="_blank">CSHL SynBio Course</a></li>
+
+	</ul>
+</li>
+		<li class="widget" id="recent-posts-2">		<h2>Recent Posts</h2>		<ul>
+				<li><a href="http://haynes.lab.asu.edu/student-research-2/2015-synberc-scholars-program-for-stem-minorities/" title="2015 Synberc Scholars Program for STEM Minorities">2015 Synberc Scholars Program for STEM Minorities</a></li>
+				<li><a href="http://haynes.lab.asu.edu/uncategorized/is-there-molecular-cell-biology-in-asu-bme/" title="Is There Molecular Cell Biology in ASU BME?">Is There Molecular Cell Biology in ASU BME?</a></li>
+				<li><a href="http://haynes.lab.asu.edu/student-research-2/review-on-engineered-quorum-sensing-published-in-frontiers/" title="Review on Engineered Quorum Sensing Published in Frontiers">Review on Engineered Quorum Sensing Published in Frontiers</a></li>
+				<li><a href="http://haynes.lab.asu.edu/student-research-2/haynes-lab-students-present-research-at-ibe/" title="Haynes Lab Students Present Research at IBE">Haynes Lab Students Present Research at IBE</a></li>
+				<li><a href="http://haynes.lab.asu.edu/pis-blog/cshl-synthetic-biology-course-2015/" title="CSHL Synthetic Biology Course &#8211; 2015">CSHL Synthetic Biology Course &#8211; 2015</a></li>
+				</ul>
+		</li>	
+              
+                                            	
+			</ul>
+		</div><!-- end sidebar -->              
+              <div class="recover"></div>
+			</div><!-- #container-shoulder -->
+        </div><!-- #Container-->
+         
+ 
+        <div id="globalnav">                
+        	<div id="navpocket">                
+                <ul id="nav">                
+                                        <li class="current_page_item"><a href="http://haynes.lab.asu.edu" rel="nofollow">Home</a></li>
+                                        
+                    <li class="page_item page-item-6"><a href="http://haynes.lab.asu.edu/contact/">Contact</a></li>
+<li class="page_item page-item-8"><a href="http://haynes.lab.asu.edu/join/">Join</a></li>
+<li class="page_item page-item-28"><a href="http://haynes.lab.asu.edu/people/">People</a></li>
+<li class="page_item page-item-32"><a href="http://haynes.lab.asu.edu/publications/">Publications</a></li>
+<li class="page_item page-item-34"><a href="http://haynes.lab.asu.edu/research/">Research</a></li>
+<li class="page_item page-item-75"><a href="http://haynes.lab.asu.edu/open-science/">Open Science</a></li>
+<li class="page_item page-item-445"><a href="http://haynes.lab.asu.edu/courses/">Courses</a></li>
+                    
+                                    </ul>
+        	</div>
+        </div>
+    </div><!--End shadow-->
+  </div><!--End wrapper-->
+  
+      <div id="footer" >
+        <div class="footer-content">
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-3">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-4">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+            <div class="footer-widget">
+                <ul class="footerlinks">
+                    <li class="widget" id="text-5">			<div class="textwidget"></div>
+		</li>	
+                </ul>
+            </div>
+          <div class="recover"></div>
+          
+          <span id="copyright"><span class="alignleft">Copyright &copy;             <script type="text/javascript">
+			/* <![CDATA[ */
+			var startCopyrightYear = 2012;
+			if(!startCopyrightYear) {
+				var d=new Date();
+				startCopyrightYear = d.getFullYear();
+			}
+			printCopyrightYears(startCopyrightYear)
+			/* ]]> */
+            </script>
+            The Haynes Lab</span><span id="footer-tag"> | &nbsp; <a href="http://www.topblogformula.com/wordpress-business-themes/edegree" target="_blank">eDegree&#176;</a> Theme by <a href="http://www.topblogformula.com/">Top Blog Formula</a> on <a href="http://www.wordpress.org" target="_blank">WordPress</a></span> | &nbsp; 
+                            <a href="http://haynes.lab.asu.edu/wp-login.php">Log In</a>
+                      </span>
+    
+        </div>
+      </div><!--End footer-->
+      <div id="eng-footer">
+<!-- FULTON FOOTER --> 
+ 
+<!-- Moved footer out of asu_container to stretch black bar background to the right --> 
+   <!-- START FOOTER /asuthemes/2.0/includes/html/asu_footer.shtml -->   
+   <ul id="asu_footer" class="asu_black_footer" style="padding-right:50px;" > 
+     <li><a href="http://www.asu.edu/copyright/">Copyright &amp; Trademark</a></li> 
+     <li><a href="http://www.asu.edu/accessibility/">Accessibility</a></li> 
+     <li><a href="http://www.asu.edu/privacy/">Privacy</a></li> 
+     <li><a href="http://www.asu.edu/emergency/">Emergency</a></li> 
+     <li class="no-border"><a href="http://www.asu.edu/contactasu/">Contact ASU</a></li> 
+   </ul> 
+   <!-- END FOOTER --> 
+	
+<div id="asu_footer_contact_info" style="padding-right:50px;"><div id="footer-inner" class="region region-footer">
+    <p></p>
+</div><!-- end footer contact info --> 
+<!-- END FULTON FOOTER --> 
+
+</div><!--End bg-->
+
+
+
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2015Junaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-content/plugins/jetpack/modules/wpgroho.js?ver=3.4.2'></script>
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524'></script>
+<script type='text/javascript' src='http://haynes.lab.asu.edu/wp-content/plugins/wp-charts/js/functions.js?ver=3.4.2'></script>
+
+	<script src="http://stats.wordpress.com/e-201524.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:1.8.2',blog:'61163692',post:'0'});
+	var load_cmc = function(){linktracker_init(61163692,0,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>
+</body>
+</html>

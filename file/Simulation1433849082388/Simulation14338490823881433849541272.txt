@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie6 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 7 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie7 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 8 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie8 lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js ie ie9 lte9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]-->
+	<head>
+		<meta charset="UTF-8" />
+		<title>Hal Alper - CSSB</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+        <link href='http://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="http://cssb.utexas.edu/wp-content/themes/cssb/style.css" />
+		<link rel="pingback" href="http://cssb.utexas.edu/xmlrpc.php" />
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://cssb.utexas.edu/members/hal-alper/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Hal Alper - CSSB" />
+<meta property="og:description" content="The Alper lab focuses on engineering biology to produce organic molecules of interest such as biofuels, commodity and specialty chemicals, and protein pharmaceuticals.  To accomplish these tasks, traditional pathway engineering approaches are merged with novel synthetic biology tools, protein engineering &hellip;" />
+<meta property="og:url" content="http://cssb.utexas.edu/members/hal-alper/" />
+<meta property="og:site_name" content="CSSB" />
+<meta property="og:image" content="http://cssb.utexas.edu/wp-content/uploads/2015/02/alper-for-web.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/cssb.utexas.edu\/","name":"CSSB"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="CSSB &raquo; Feed" href="http://cssb.utexas.edu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CSSB &raquo; Comments Feed" href="http://cssb.utexas.edu/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/cssb.utexas.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<script>window.html5 || document.write(unescape('%3Cscript src="http://cssb.utexas.edu/wp-content/themes/cssb/js/ieshiv.js"%3E%3C/script%3E'))</script>
+<![endif]-->
+<link rel='stylesheet' id='cyclone-template-style-dark-css'  href='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/templates/dark/style.css?ver=2.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-default-css'  href='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/default/style.css?ver=2.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-standard-css'  href='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/templates/standard/style.css?ver=2.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-thumbnails-css'  href='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/thumbnails/style.css?ver=2.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-black-css'  href='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/black/style.css?ver=2.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-blue-css'  href='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/blue/style.css?ver=2.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cyclone-template-style-myrtle-css'  href='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/myrtle/style.css?ver=2.10.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://cssb.utexas.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cssb.utexas.edu/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://cssb.utexas.edu/?p=960' />
+			<link rel="alternate" media="only screen and (max-width: 640px)" href="http://cssb.utexas.edu/#article/960" />
+<style>
+.member-sec .member-thumb img, .page-left .align-left img, .community-video .video-poster { behavior: url('http://cssb.utexas.edu/wp-content/themes/cssb/PIE/PIE.php'); position:relative; }
+</style><script type="text/javascript" src="http://cssb.utexas.edu/wp-content/themes/cssb/js/jquery-1.9.1.js"></script>
+<script type="text/javascript">
+$(function(){  
+$('.archive').find('.menu-item-20').addClass('current-menu-item');
+$('.author').find('.menu-item-20').addClass('current-menu-item');
+$('.single-post').find('.menu-item-20').addClass('current-menu-item');
+$('.single-projects').find('.menu-item-26').addClass('current-menu-item');
+});
+</script>
+<link rel="stylesheet" type="text/css" href="http://cssb.utexas.edu/wp-content/themes/cssb/shadowbox-3.0.3/shadowbox.css"><script type="text/javascript" src="http://cssb.utexas.edu/wp-content/themes/cssb/shadowbox-3.0.3/shadowbox.js"></script>
+<script type="text/javascript">
+Shadowbox.init();
+</script>
+<script type="text/javascript">
+$(function(){
+$("li:first-child").addClass("first_item");
+$("li:last-child").addClass("last_item");
+});
+</script>
+	</head>
+<body class="single single-members postid-960">
+<div class="header-sec header_sec">
+<div class="header_left_bg">&nbsp;</div>
+<div class="header_right_bg">&nbsp;</div>
+<div class="wrapper">
+	<div class="header-inner-main-sec">
+		<div class="header-logo">
+			<a href="http://cssb.utexas.edu/"><img src="http://cssb.utexas.edu/wp-content/themes/cssb/images/logo_new.png"></a>
+		</div>
+        <div class="header_right">
+        <div class="header-right-menu"><ul id="menu-header-menu" class="menu"><li id="menu-item-919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-919"><a href="http://cssb.utexas.edu/staff/">Staff</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://cssb.utexas.edu/giving/">Giving</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://cssb.utexas.edu/about/">About</a></li>
+<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-595"><a href="http://cssb.utexas.edu/big-bio-job-board/">Big Bio Job Board</a></li>
+<li id="menu-item-23" class="last menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://cssb.utexas.edu/contact/">Contact</a></li>
+</ul>		</div>
+		<div class="main-menu">
+			<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-358" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-358"><a href="/members/">MEMBERS</a>
+<ul class="sub-menu">
+	<li id="menu-item-962" class="menu-item menu-item-type-post_type menu-item-object-members current-menu-item menu-item-962"><a href="http://cssb.utexas.edu/members/hal-alper/">Hal Alper</a></li>
+	<li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-467"><a href="http://cssb.utexas.edu/members/jeffrey-barrick/">Jeffrey Barrick</a></li>
+	<li id="menu-item-976" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-976"><a href="http://cssb.utexas.edu/members/marcelo-behar/">Marcelo Behar</a></li>
+	<li id="menu-item-939" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-939"><a href="http://cssb.utexas.edu/members/bryan-davies/">Bryan Davies</a></li>
+	<li id="menu-item-466" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-466"><a href="http://cssb.utexas.edu/members/andrew-ellington/">Andrew Ellington</a></li>
+	<li id="menu-item-460" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-460"><a href="http://cssb.utexas.edu/members/ilya-finkelstein/">Ilya Finkelstein</a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-450"><a href="http://cssb.utexas.edu/members/george-georgiou/">George Georgiou</a></li>
+	<li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-465"><a href="http://cssb.utexas.edu/members/vishwanath-iyer/">Vishwanath Iyer</a></li>
+	<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-735"><a href="http://cssb.utexas.edu/members/jenny-jiang/">Jenny Jiang</a></li>
+	<li id="menu-item-856" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-856"><a href="http://cssb.utexas.edu/members/jonghwan-kim/">Jonghwan Kim</a></li>
+	<li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-468"><a href="http://cssb.utexas.edu/members/edward-marcotte/">Edward Marcotte</a></li>
+	<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-459"><a href="http://cssb.utexas.edu/members/andreas-matouschek/">Andreas Matouschek</a></li>
+	<li id="menu-item-929" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-929"><a href="http://cssb.utexas.edu/members/hong-qiao/">Hong Qiao</a></li>
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-449"><a href="http://cssb.utexas.edu/members/chris-sullivan/">Chris Sullivan</a></li>
+	<li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-464"><a href="http://cssb.utexas.edu/members/scott-hunicke-smith/">Scott Hunicke Smith</a></li>
+	<li id="menu-item-463" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-463"><a href="http://cssb.utexas.edu/members/john-wallingford/">John Wallingford</a></li>
+	<li id="menu-item-469" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-469"><a href="http://cssb.utexas.edu/members/marvin-whiteley/">Marvin Whiteley</a></li>
+	<li id="menu-item-470" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-470"><a href="http://cssb.utexas.edu/members/claus-wilke/">Claus Wilke</a></li>
+	<li id="menu-item-936" class="menu-item menu-item-type-post_type menu-item-object-members menu-item-936"><a href="http://cssb.utexas.edu/members/blerta-xhemalce/">Blerta Xhemalce</a></li>
+</ul>
+</li>
+<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25"><a href="http://cssb.utexas.edu/fellows/">FELLOWS</a>
+<ul class="sub-menu">
+	<li id="menu-item-482" class="menu-item menu-item-type-post_type menu-item-object-fellows menu-item-482"><a href="http://cssb.utexas.edu/fellows/matt-cowperthwaite/">Matt Cowperthwaite</a></li>
+	<li id="menu-item-850" class="menu-item menu-item-type-post_type menu-item-object-fellows menu-item-850"><a href="http://cssb.utexas.edu/fellows/max-shpak/">Max Shpak</a></li>
+	<li id="menu-item-483" class="menu-item menu-item-type-post_type menu-item-object-fellows menu-item-483"><a href="http://cssb.utexas.edu/fellows/zack-simpson/">Zack Simpson</a></li>
+	<li id="menu-item-481" class="menu-item menu-item-type-post_type menu-item-object-fellows menu-item-481"><a href="http://cssb.utexas.edu/fellows/christopher-yellman/">Christopher Yellman</a></li>
+</ul>
+</li>
+<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-443"><a href="http://cssb.utexas.edu/news/">News</a></li>
+<li id="menu-item-387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a href="http://cssb.utexas.edu/research/">RESEARCH</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26"><a href="http://cssb.utexas.edu/project/">RECENT PROJECTS</a>
+<ul class="sub-menu">
+	<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-454"><a href="http://cssb.utexas.edu/projects/predicting-disease-genes/"><span>PREDICTING</span> DISEASE GENES</a></li>
+	<li id="menu-item-455" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-455"><a href="http://cssb.utexas.edu/projects/point-of-care-diagnostics/"><span>POINT-OF-CARE</span> DIAGNOSTICS</a></li>
+	<li id="menu-item-456" class="menu-item menu-item-type-post_type menu-item-object-projects menu-item-456"><a href="http://cssb.utexas.edu/projects/immunity/">IMMUNITY</a></li>
+</ul>
+</li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://cssb.utexas.edu/publications/">PUBLICATIONS</a></li>
+<li id="menu-item-28" class="last menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-28"><a href="http://cssb.utexas.edu/resources/">RESOURCES</a>
+<ul class="sub-menu">
+	<li id="menu-item-645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-645"><a href="http://cssb.utexas.edu/gene-synthesis-facility-2/">Gene Synthesis Facility</a></li>
+	<li id="menu-item-900" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-900"><a href="http://cssb.utexas.edu/genome-sequencing-analysis-facility/">Genome Sequencing and Analysis Facility</a></li>
+	<li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="http://cssb.utexas.edu/texas-advanced-computing-center/">Texas Advanced Computing Center</a></li>
+</ul>
+</li>
+</ul></div>		</div>
+        </div>
+        <div class="clear"></div>
+	</div>
+</div>
+</div>
+<section id="content" role="main">
+<div class="content-wrapper">
+
+
+<div class="page-left">
+	<div class="page-news">
+    <div class="entry-content">
+	<div class="member-sec member-sec-first">
+<div class="member-thumb"><img width="199" height="300" src="http://cssb.utexas.edu/wp-content/uploads/2015/02/alper-for-web-199x300.jpg" class="attachment-medium wp-post-image" alt="alper-for web" /></div><h2>Hal Alper</h2>
+<em>Associate Professor and Graduate Advisor</em><br /><strong>Main Office:</strong>CPE 5.408<br /><strong>Phone:</strong>(512) 471-4417<br /><strong><a href="http://www.che.utexas.edu/alper_group/" target="_blank">Website</a></strong><br /><br />
+
+<p>The Alper lab focuses on engineering biology to produce organic molecules of interest such as biofuels, commodity and specialty chemicals, and protein pharmaceuticals.  To accomplish these tasks, traditional pathway engineering approaches are merged with novel synthetic biology tools, protein engineering strategies, systems biology paradigms and applied genetic engineering capabilities.  The group utilizes a variety of host systems including microbial (eg. Escherichia coli), fungal (eg. the yeasts Saccharomyces cerevisiae and Yarrowia lipolytica), and mammalian cells (eg. Chinese Hamster Ovary (CHO) cells and Human HEK293) to produce a diverse array of products.  In each case, the goal is to “rewire” cellular systems into industrially-relevant biochemical factories.</p>
+ 
+
+
+<br /><br />
+
+
+</div>
+</div>
+
+</div>
+			</div>
+<div class="page-right">
+<div class="page-right-inner">
+
+
+<div class="member-list">
+<h2>All members</h2>
+<ul>
+
+
+<li ><a href="http://cssb.utexas.edu/members/marcelo-behar/">Marcelo Behar</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/hal-alper/">Hal Alper</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/bryan-davies/">Bryan Davies</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/blerta-xhemalce/">Blerta Xhemalce</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/hong-qiao/">Hong Qiao</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/jonghwan-kim/">Jonghwan Kim</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/jenny-jiang/">Jenny Jiang</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/chris-sullivan/">Chris Sullivan</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/george-georgiou/">George Georgiou</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/andreas-matouschek/">Andreas Matouschek</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/ilya-finkelstein/">Ilya Finkelstein</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/john-wallingford/">John Wallingford</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/scott-hunicke-smith/">Scott Hunicke</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/vishwanath-iyer/">Vishwanath Iyer</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/andrew-ellington/">Andrew Ellington</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/jeffrey-barrick/">Jeffrey Barrick</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/edward-marcotte/">Edward Marcotte</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/marvin-whiteley/">Marvin Whiteley</a></li>
+
+
+<li ><a href="http://cssb.utexas.edu/members/claus-wilke/">Claus Wilke</a></li>
+
+
+	
+	
+		</ul>
+</div>
+</div></div>
+<div class="clear"></div>
+<div class="member-news-pub recent-publications" style="border-top:0px;">
+
+
+
+<h2 class="entry-title">News</h2>
+
+	<div class="post-920 post type-post status-publish format-standard hentry category-publications" id="post-920">
+		<h2><a href="http://cssb.utexas.edu/new-publications-month-december/">New Publications for the Month of December</a></h2>
+        <div class="entry-meta"><span class="meta-prep meta-prep-author">Posted on</span> <span class="entry-date"><a href="http://cssb.utexas.edu/2014/12/" title="View Archives for December 2014" rel="bookmark">December</a> <a href="http://cssb.utexas.edu/2014/12/03/" title="View Archives for December 3 2014" rel="bookmark">3</a>, <a href="http://cssb.utexas.edu/2014/" title="View Archives for 2014" rel="bookmark">2014</a></span></div>
+		Kwon T, Chung MI, Gupta R, Baker JC, <strong>Wallingford JB</strong>, <strong>Marcotte EM</strong> (2014). "Identifying direct targets of transcription factor Rfx2 that coordinate ciliogenesis and cell movement." <em>Genom Data.</em> 2014 Dec 1;2:192-194. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25419512">PubMed</a>
+
+Ding Z, <strong>Ni Y</strong>, Timmer SW, <strong>Lee BK</strong>, <strong>Battenhouse A</strong>, Louzada S, Yang F, Dunham I, Crawford GE, Lieb JD, Durbin R, <strong>Iyer VR</strong>, Birney E (2014). "Quantitative Genetics of CTCF Binding Reveal Local Sequence Effects and Different Modes of X-Chromosome Association." <em>PLOS Genetics.</em> 2014 Nov 20;10(11):e1004798. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25411781">PubMed</a>
+
+Park TJ, Kim SK, <strong>Wallingford JB</strong> (2014). "The planar cell polarity effector protein Wdpcp (Fritz) controls epithelial cell cortex dynamics via septins and actomyosin." <em>Biochem Biophys Res Commun.</em> 2014 Nov 28. pii: S0006-291X(14)02109-3. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25436430">PubMed</a>
+
+<strong>Barrick JE</strong>, Colburn G, Deatherage DE, Traverse CC, Strand MD, Borges JJ, Knoester DB, Reba A, Meyer AG (2014). "Identifying structural variation in haploid microbial genomes from short-read resequencing data using breseq." <em>BMC Genomics.</em> 2014 Nov 29;15(1):1039. | PubMed
+
+Burke JM, Bass CR, Kincaid RP, <strong>Sullivan CS</strong> (2014). "Identification of tri-phosphatase activity in the biogenesis of retroviral microRNAs and RNAP III-generated shRNAs." <em>Nucleic Acids Res.</em> 2014 Nov 26. pii: gku1247. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25428356">PubMed</a>	</div>
+
+
+	<div class="post-890 post type-post status-publish format-standard hentry category-news category-publications category-trent" id="post-890">
+		<h2><a href="http://cssb.utexas.edu/new-publications-week-november-10-2014/">New Publications for the Week of November 10, 2014</a></h2>
+        <div class="entry-meta"><span class="meta-prep meta-prep-author">Posted on</span> <span class="entry-date"><a href="http://cssb.utexas.edu/2014/11/" title="View Archives for November 2014" rel="bookmark">November</a> <a href="http://cssb.utexas.edu/2014/11/13/" title="View Archives for November 13 2014" rel="bookmark">13</a>, <a href="http://cssb.utexas.edu/2014/" title="View Archives for 2014" rel="bookmark">2014</a></span></div>
+		O'Brien JP, Needham BD, Brown DB, <strong>Trent MS</strong>, Brodbelt JS (2014).  Top-Down Strategies for the Structural Elucidation of Intact Gram-negative Bacterial Endotoxins.  <em><span class="x_jrnl" title="Chemical science (Royal Society of Chemistry : 2010)">Chem Sci</span></em>.  5(11):4291-4301. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25386333" target="_blank">PubMed</a>
+
+&nbsp;	</div>
+
+
+	<div class="post-885 post type-post status-publish format-standard hentry category-publications" id="post-885">
+		<h2><a href="http://cssb.utexas.edu/new-publications-week-november-3-2014/">New Publications for the Week of November 3, 2014</a></h2>
+        <div class="entry-meta"><span class="meta-prep meta-prep-author">Posted on</span> <span class="entry-date"><a href="http://cssb.utexas.edu/2014/11/" title="View Archives for November 2014" rel="bookmark">November</a> <a href="http://cssb.utexas.edu/2014/11/11/" title="View Archives for November 11 2014" rel="bookmark">11</a>, <a href="http://cssb.utexas.edu/2014/" title="View Archives for 2014" rel="bookmark">2014</a></span></div>
+		Robison AD, <strong>Finkelstein IJ</strong> (2014).  High-throughput single-molecule studies of protein-DNA interactions.  <em><span class="x_jrnl" title="FEBS letters">FEBS Lett</span>. </em> 588(19):3539-46. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24859086" target="_blank">PubMed</a>	</div>
+
+
+	<div class="post-878 post type-post status-publish format-standard hentry category-ellington category-iyer category-marcotte category-news category-publications category-sawyer category-trent category-wallingford category-whiteley" id="post-878">
+		<h2><a href="http://cssb.utexas.edu/new-publications-october-2014/">New Publications for October 2014</a></h2>
+        <div class="entry-meta"><span class="meta-prep meta-prep-author">Posted on</span> <span class="entry-date"><a href="http://cssb.utexas.edu/2014/11/" title="View Archives for November 2014" rel="bookmark">November</a> <a href="http://cssb.utexas.edu/2014/11/11/" title="View Archives for November 11 2014" rel="bookmark">11</a>, <a href="http://cssb.utexas.edu/2014/" title="View Archives for 2014" rel="bookmark">2014</a></span></div>
+		Lee C, <strong>Wallingford JB</strong>, Gross JM (2014).  Cluap1 is essential for ciliogenesis and photoreceptor maintenance in the vertebrate eye.  <em><span class="x_jrnl" title="Investigative ophthalmology &amp; visual science">Invest Ophthalmol Vis Sci</span></em>.  55(7):4585-92. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24970261">PubMed</a>
+
+Enyeart PJ, Simpson ZB, <strong>Ellington AD </strong>(2014). A microbial model of economic trading and comparative advantage. <em>Journal of Theoretical Biology.</em> pii: S0022-5193(14)00569-4. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25265557">PubMed</a>
+
+Jiang YS, Bhadra S, Li B, <strong>Ellington AD</strong> (2014).  Mismatches improve the performance of strand-displacement nucleic Acid circuits.  <em><span class="x_jrnl" title="Angewandte Chemie (International ed. in English)">Angew Chem Int Ed Engl</span>.</em>  53(7):1845-8. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24402831">PubMed</a>
+
+Park D, Lee Y, Bhupindersingh G, <strong>Iyer VR</strong> (2013).  Widespread misinterpretable ChIP-seq bias in yeast.  <em><span class="x_jrnl" title="PloS one">PLoS One</span>.</em>  8(12):e83506. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24349523">PubMed</a>
+
+Jones RA, Gnanam AJ, Arambula JF, Jones JN, Swaminathan J, Yang X, Schipper D, Hall JW, DePue LJ, Dieye Y, Vadivelu J, Chandler DJ, <strong>Marcotte EM</strong>, Sessler JL, Ehrlich LI, Brown KA (2014). Lanthanide nano-drums: a new class of molecular nanoparticles for potential biomedical applications. <em>Faraday Discussions.</em> | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25284181">PubMed</a>
+
+Ki S, Park D, Selden HJ, Seita J, Chung H, Kim J, <strong> Iyer VR</strong>, Ehrlich LI (2014). Global Transcriptional Profiling Reveals Distinct Functions of Thymic Stromal Subsets and Age-Related Changes during Thymic Involution. <em>Cell Report</em>. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25284794">PubMed</a>
+
+Fage CD, Brown DB, Boll JM, Keatinge-Clay AT, <strong>Trent MS</strong> (2014).  Crystallographic study of the phosphoethanolamine transferase EptC required for polymyxin resistance and motility in Campylobacter jejuni.  <em><span class="x_jrnl" title="Acta crystallographica. Section D, Biological crystallography">Acta Crystallogr D Biol Crystallogr</span>.</em>  70(Pt 10):2730-9. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25286856">PubMed</a>
+
+Brooks ER,<strong> Wallingford JB </strong>(2014). Multiciliated Cells. <em>Current Biology.</em> 24(19):R973-R982. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25291643">PubMed</a>
+
+Meyer AJ, Ellefson JW, <strong>Ellington AD </strong>(2014). Directed Evolution of a Panel of Orthogonal T7 RNA Polymerase Variants for in Vivo or in Vitro Synthetic Circuitry. <em>ACS Synthetic Biology.  </em>[Epub ahead of print] | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25279711">PubMed</a>
+
+Lou DI, McBee RM, Le UQ, Stone AC, Wilkerson GK, Demogines AM, <strong>Sawyer SL</strong> (2014).  Rapid evolution of BRCA1 and BRCA2 in humans and other primates.  <em><span class="x_jrnl" title="BMC evolutionary biology">BMC Evol Biol</span></em>.  14:155. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25011685">PubMed </a>
+
+Malfavon-Borja R, <strong>Sawyer SL</strong>, Wu LI, Emerman M, Malik HS (2013).  An evolutionary screen highlights canonical and noncanonical candidate antiviral <span class="highlight">genes</span> within the primate TRIM <span class="highlight">gene</span> family.  <em><span class="x_jrnl" title="Genome biology and evolution">Genome Biol Evol</span></em>.  5(11):2141-54. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24158625">PubMed</a>
+
+Rubin EJ, <strong>Trent MS</strong> (2013).  Colonize, evade, flourish: how glyco-conjugates promote virulence of Helicobacter pylori.  <em><span class="x_jrnl" title="Gut microbes">Gut Microbes</span></em>.  4(6):439-53. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/23859890">PubMed</a>
+
+Tabler JM, Bolger TG, <strong>Wallingford J</strong>, Liu KJ (2014).  Hedgehog activity controls opening of the primary mouth.  <em><span class="x_jrnl" title="Developmental biology">Dev Biol</span>.</em>  pii: S0012-1606(14)00498-9. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25300580">PubMed</a>
+
+Zhao A, Tsechansky M, <strong>Ellington AD</strong>, <strong>Marcotte EM</strong> (2014).  Revisiting and revising the purinosome.  <em><span class="x_jrnl" title="Molecular bioSystems">Mol Biosyst</span>.</em>  10(3):369-74. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24413256">PubMed</a>
+
+Gerster S, Kwon T, Ludwig C, Matondo M, Vogel C, <strong>Marcotte EM</strong>, Aebersold R, Bühlmann P (2014).  Statistical approach to protein quantification.  <em>Mol Cell Proteomics</em>.  13(2):666-77. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24255132">PubMed</a>
+
+Murray JL, Connell JL, Stacy A, Turner KH, <strong>Whiteley M</strong> (2014).  Mechanisms of synergy in polymicrobial infections.  <em><span class="x_jrnl" title="Journal of microbiology (Seoul, Korea)">J Microbiol</span></em>.  52(3):188-99. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24585050">PubMed</a>
+
+Zamora-Olivares D, Kaoud TS, Jose J, <strong>Ellington A</strong>, Dalby KN, Anslyn EV (2014).  Differential Sensing of MAP Kinases Using SOX-Peptides.  <em>Angew Chem Int Ed Engl</em>.  [Epub ahead of print] | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25319433">PubMed</a>
+
+Rubin EJ, O'Brien JP, Ivanov PL, Brodbelt JS, <strong>Trent MS</strong> (2014).  Identification of a broad family of lipid A late acyltransferases with non-canonical substrate specificity.  <em><span class="x_jrnl" title="Molecular microbiology">Mol Microbiol</span></em>.  91(5):887-99. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24372821">PubMed</a>
+
+Wessel AK, Arshad TA, Fitzpatrick M, Connell JL, Bonnecaze RT, Shear JB, <strong>Whiteley M</strong> (2014).  Oxygen limitation within a bacterial aggregate.  <em><span class="x_jrnl" title="mBio">MBio</span></em>.  5(2):e00992. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24736225">PubMed</a>
+
+Jorth P, Turner KH, Gumus P, Nizam N, Buduneli N, <strong>Whiteley M</strong> (2014).  Metatranscriptomics of the human oral microbiome during health and disease.  <em><span class="x_jrnl" title="mBio">MBio</span></em>.  5(2):e01012-14. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24692635">PubMed</a>	</div>
+
+
+	<div class="post-876 post type-post status-publish format-standard hentry category-barrick category-ellington category-georgiou category-iyer category-marcotte category-matouschek category-news category-publications category-sawyer category-trent category-whiteley category-wilke" id="post-876">
+		<h2><a href="http://cssb.utexas.edu/new-publications-september-2014/">New Publications for September 2014</a></h2>
+        <div class="entry-meta"><span class="meta-prep meta-prep-author">Posted on</span> <span class="entry-date"><a href="http://cssb.utexas.edu/2014/11/" title="View Archives for November 2014" rel="bookmark">November</a> <a href="http://cssb.utexas.edu/2014/11/11/" title="View Archives for November 11 2014" rel="bookmark">11</a>, <a href="http://cssb.utexas.edu/2014/" title="View Archives for 2014" rel="bookmark">2014</a></span></div>
+		Hidalgo-Romano B, Gollihar JD, Brown SA, <strong>Whiteley M</strong>, Valenzuela E, Kaplan HB, Wood TK, McLean RJ (2014).  Indole inhibition of N-acylated homoserine lactone-mediated quorum signalling is widespread in Gram-negative bacteria.  <em>Microbiology</em>.  160(Pt 11):2464-73. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25165125">PubMed</a>
+
+Stacy A, Everett J, Jorth P, Trivedi U, Rumbaugh KP, <strong>Whiteley M</strong> (2014).  Bacterial fight-and-flight responses enhance virulence in a polymicrobial infection.  <em>PNAS</em>.  111(21):7819-24. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24825893">PubMed</a>
+
+Ellefson JW, Meyer AJ, Hughes RA, Cannon JR, Brodbelt JS, <strong>Ellington AD </strong>(2014).  Directed evolution of genetic parts and circuits by compartmentalized partnered replication.  <em><span class="x_jrnl" title="Nature biotechnology">Nat Biotechnol</span></em>.  32(1):97-101. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24185096">PubMed</a>
+
+Wortham M, Guo C, Zhang M, Song L, Lee BK, <strong>Iyer VR</strong>, Furey TS, Crawford GE, Yan H, He Y (2014).  Chromatin accessibility mapping identifies mediators of basal transcription and retinoid-induced repression of OTX2 in medulloblastoma.<em>  <span class="x_jrnl" title="PloS one">PLoS One</span></em>.  9(9):e107156. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25198066">PubMed</a>
+
+Raeside C, Gaffé J, Deatherage DE, Tenaillon O, Briska AM, Ptashkin RN, Cruveiller S, Médigue C, Lenski RE, <strong>Barrick JE</strong>, Schneider D (2014).  Large chromosomal rearrangements during a long-term evolution experiment with Escherichia coli.  <em><span class="x_jrnl" title="mBio">MBio</span></em>.  5(5). pii: e01377-14. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25205090">PubMed</a>
+
+van der Lee R, Lang B, Kruse K, Gsponer J, Sánchez de Groot N, Huynen MA, <strong>Matouschek A</strong>, Fuxreiter M, Babu MM (2014).  Intrinsically disordered segments affect protein half-life in the cell and during evolution.  <em>Cell Rep</em>.  8(6):1832-44. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25220455">PubMed</a>
+
+White TE, Brandariz-Nuñez A, Valle-Casuso JC, Knowlton C, Kim B, <strong>Sawyer SL</strong>, Diaz-Griffero F (2014).  Effects of human SAMHD1 polymorphisms on HIV-1 susceptibility.  <em>Virology</em>.  460-461:34-44. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25010268">PubMed</a>
+
+Nowicki EM, O'Brien JP, Brodbelt JS, <strong>Trent MS </strong>(2014).  Characterization of Pseudomonas aeruginosa LpxT reveals dual positional lipid A kinase activity and co-ordinated control of outer membrane modification.  <em>Mol Microbiol</em>.  94(3):728-41. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25223756">PubMed</a>
+
+Shahmoradi A, Sydykova DK, Spielman SJ, Jackson EL, Dawson ET, Meyer AG, <strong>Wilke CO</strong> (2014).  Predicting evolutionary site variability from structure in viral proteins: buriedness, packing, flexibility, and design.  <em>J Mol Evol</em>.  79(3-4):130-42. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25217382">PubMed</a>
+
+Bhadra S, <strong>Ellington AD</strong> (2014).  A Spinach molecular beacon triggered by strand displacement.  <em>RNA.</em>  20(8):1183-94. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24942625">PubMed</a>
+
+Meyer AJ, Ellefson JW, <strong>Ellington AD</strong> (2014).  Library generation by <span class="highlight">gene</span> shuffling.  <em><span class="x_jrnl" title="Current protocols in molecular biology / edited by Frederick M. Ausubel ... [et al.]">Curr Protoc Mol Biol</span>.</em>  105:Unit 15.12. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24510437">PubMed</a>
+
+Xu J, Tack D, Hughes RA, <strong>Ellington AD</strong>, Gray JJ (2014).  Structure-based non-canonical amino acid design to covalently crosslink an antibody-antigen complex.  <em><span class="x_jrnl" title="Journal of structural biology">J Struct Biol</span></em>. 185(2):215-22. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/23680795">PubMed</a>
+
+Hwang S, Kim E, Yang S, <strong>Marcotte EM</strong>, Lee I (2014).  MORPHIN: a web tool for human disease research by projecting model organism biology onto a human integrated <span class="highlight">gene</span> network.  <em><span class="x_jrnl" title="Nucleic acids research">Nucleic Acids Res</span>.</em>  42:W147-53. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24861622">PubMed</a>
+
+Romain G, Senyukov V, Rey-Villamizar N, Merouane A, Kelton W, Liadi I, Mahendra A, Charab W, <strong>Georgiou G</strong>, Roysam B, Lee DA, Varadarajan N (2014).  Antibody Fc-engineering improves frequency and promotes kinetic boosting of serial killing mediated by NK cells.  <em>Blood</em>.  pii: blood-2014-04-569061. [Epub ahead of print] | <a href="http://www.ncbi.nlm.nih.gov/pubmed/25232058">PubMed</a>
+
+<strong>Georgiou G</strong>, Ippolito GC, Beausang J, Busse CE, Wardemann H, Quake SR (2014).  The promise and challenge of high-throughput sequencing of the antibody repertoire.  <em><span class="x_jrnl" title="Nature biotechnology">Nat Biotechnol</span></em>.  32(2):158-68. | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24441474">PubMed</a>
+
+Tien MZ, Meyer AG, Sydykova DK, Spielman SJ, <strong>Wilke CO</strong> (2013).  Maximum allowed solvent accessibilites of residues in proteins.  <em><span class="x_jrnl" title="PloS one">PLoS One</span>.</em>  8(11):e80635 | <a href="http://www.ncbi.nlm.nih.gov/pubmed/24278298">PubMed</a>	</div>
+
+
+<a href="http://cssb.utexas.edu/category//" style="float:right;">See more news</a>
+
+
+
+
+
+		
+
+
+</div>
+
+<script>
+$(document).ready(function() {
+	
+	$('.ab-title').click(function() {
+		$(this).toggleClass('active');
+		
+		if($(this).hasClass('active')){
+		$(this).next('ul').slideDown();	
+		}else{
+			
+			$(this).next('ul').slideUp();	
+		}
+		
+	})
+
+
+
+});
+
+</script>
+
+<div class="clear"></div>
+		</div>
+		</section><!-- #main -->
+		<footer class="footer" role="contentinfo">
+		<div class="wrapper">
+
+<div class="footer_bg1">&nbsp;</div>
+			<div class="footer-sec">
+				<div class="footer-menu"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33"><a href="http://cssb.utexas.edu/resources/">Resources</a></li>
+<li id="menu-item-394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-394"><a href="http://www.utexas.edu/cio/policies/web-privacy/">Terms of Use</a></li>
+<li id="menu-item-435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-435"><a href="http://cssb.utexas.edu/sitemap/">Sitemap</a></li>
+<li id="menu-item-121" class="copy-right menu-item menu-item-type-custom menu-item-object-custom menu-item-121"><a>Copyright Center for Systems and Synthetic Biology 2013</a></li>
+</ul></div></div>
+				<div class="copyright"></div>
+			</div>
+			<div class="clear"></div>
+			</div>
+		</footer><!-- footer -->
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.swipe.min.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.tile.min.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/libs/cycle2/jquery.cycle2.video.min.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/templates/dark/script.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/default/script.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/thumbnails/script.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/black/script.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/blue/script.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/themes/cssb/cycloneslider/myrtle/script.js?ver=2.10.0'></script>
+<script type='text/javascript' src='http://cssb.utexas.edu/wp-content/plugins/cyclone-slider-2/js/client.js?ver=2.10.0'></script>
+	</body>
+</html>

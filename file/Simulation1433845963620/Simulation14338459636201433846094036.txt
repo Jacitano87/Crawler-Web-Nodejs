@@ -1,0 +1,376 @@
+
+<!DOCTYPE html> 
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+	<head>
+	
+		<meta charset="UTF-8">
+		<meta name="google-site-verification" content="ciK6Udk5rMffH4TjRmgVoyfSvgzruAz-LYvuU7WP_lg" />
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+		<meta property="og:title" content="LEAP - Synthetic Biology Leadership Excellence Accelerator Program" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://synbioleap.org/" />
+		<meta property="og:image" content="http://synbioleap.org/wp-content/themes/leap/images/buttons/logo-menu.png" />
+		<meta property="og:site_name" content="LEAP" />
+		<meta property="og:description" content="Check out the Syn BioLEAP Initiative and sign up to join! #synbioleap @synbioleap" />
+		
+		<title>Mentors - LEAP</title>		
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="pingback" href="http://synbioleap.org/xmlrpc.php" />
+		
+		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://synbioleap.org/community/mentors/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Mentors - LEAP" />
+<meta property="og:description" content="The LEAP Mentors LEAP Mentors are influential experts from across disciplines who reflect and act on synthetic biology’s societal role. LEAP Mentors act as program ambassadors, helping LEAP identify, assess and support the most promising emerging leaders in synthetic biology. Spencer Adler Spencer Adler is an attorney, entrepreneur, and investor with a history of launching &hellip;" />
+<meta property="og:url" content="http://synbioleap.org/community/mentors/" />
+<meta property="og:site_name" content="LEAP" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="The LEAP Mentors LEAP Mentors are influential experts from across disciplines who reflect and act on synthetic biology’s societal role. LEAP Mentors act as program ambassadors, helping LEAP identify, assess and support the most promising emerging leaders in synthetic biology."/>
+<meta name="twitter:title" content="Mentors - LEAP"/>
+<meta name="twitter:domain" content="LEAP"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/synbioleap.org\/","name":"Synbio LEAP","alternateName":"Synthetic Biology Leadership Excellence Accelerator Program"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/synbioleap.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='noakes-framework-css'  href='http://synbioleap.org/wp-content/themes/noakes-framework/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://synbioleap.org/wp-content/themes/leap/style.css?ver=20150527' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://synbioleap.org/wp-content/themes/leap/css/responsive.css?ver=20150527' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://synbioleap.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.5.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-45232401-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js?ver=1.5.10'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/jquery.validate.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/additional-methods.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/noakes-framework/js/noakes.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/main.js?ver=20150312'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://synbioleap.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='http://synbioleap.org/?p=52' />
+<!-- All in one Favicon 4.3 --><link rel="shortcut icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.ico" />
+<link rel="icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.gif" type="image/gif"/>
+<link rel="icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.png" type="image/png"/>
+<link rel="apple-touch-icon" href="http://synbioleap.org/wp-content/uploads/2013/05/apple-touch.png" />
+		
+		<script type="text/javascript">
+		
+			(function ($)
+			{
+				$.leap.theme_prefix = "leap";
+				$.leap.logo_menu = "logo-menu";
+				$.leap.main_menu = "main-menu";
+			})
+			(jQuery);
+			
+		</script>
+		
+	</head>
+	
+	<body id="leap-mentors" class="page page-id-52 page-child parent-pageid-10 page-template-default default">
+	
+		<div id="outer-wrapper">
+		
+			<div id="wrapper">
+			
+				<header>
+				
+					<div id="header-logos">
+					
+						<ul id="logo-menu" class="menu"><li id="logo-menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21 menu-object-2"><a title="LEAP &#8211; Synthetic Biology Leadership Excellence Accelerator Program" href="http://synbioleap.org/">LEAP &#8211; Synthetic Biology Leadership Excellence Accelerator Program</a></li></ul>						
+						<a href="http://synbioleap.org/community/sponsors/"><img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-header-201411.jpg" height="59" width="463" alt="" /></a>
+						
+					</div>
+					
+					
+<div id="search-wrapper">
+
+	<a href="javascript:void(0);" id="search-closed"><img src="http://synbioleap.org/wp-content/themes/leap/images/buttons/search-closed.png" height="23" width="28" alt="" /></a>
+	
+	<div id="search-form-wrapper">
+	
+		<form id="search-form" name="search-form" role="search" method="get" action="http://synbioleap.org/">
+		
+			<img src="http://synbioleap.org/wp-content/themes/leap/images/search-left.png" height="23" width="1" alt="" id="search-left" />
+			<input id="search" name="search" type="submit" value="Search" />
+			<input id="s" name="s" type="text" value="search" class="noakes-watermarked" />
+			
+		</form>
+		
+	</div>
+	
+</div>
+<nav class="menu-main-menu-container"><ul id="main-menu" class="menu"><li id="main-menu-item-22" class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-22 menu-object-2"><a href="http://synbioleap.org/">Excellence in Biotechnology Leadership</a></li><li id="main-menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-819 menu-object-810"><a href="http://synbioleap.org/about/">About</a><ul class="sub-menu"><li id="main-menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152 menu-object-1132"><a href="http://synbioleap.org/about/mission-2/">Principles</a></li><li id="main-menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887 menu-object-640"><a href="http://synbioleap.org/activities/leadership-workshops/history/">History</a></li></ul></li><li id="main-menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-922 menu-object-546"><a href="http://synbioleap.org/overview/program/">Fellowship</a><ul class="sub-menu"><li id="main-menu-item-1335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335 menu-object-1269"><a href="http://synbioleap.org/overview/program/2015-fellowship/">2015 Fellowship</a></li></ul></li><li id="main-menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-801 menu-object-799"><a href="http://synbioleap.org/action-plans/">Fellow Plans &#038; Insights</a><ul class="sub-menu"><li id="main-menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26 menu-object-14"><a href="http://synbioleap.org/action-plans/visions-and-plans/">2012 Strategic Action Plans</a></li><li id="main-menu-item-1499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1499 menu-object-1383"><a href="http://synbioleap.org/insight-papers/">Insight Papers</a></li></ul></li><li id="main-menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-24 menu-object-10 first-parent"><a href="http://synbioleap.org/community/">Community</a><ul class="sub-menu"><li id="main-menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55 menu-object-50"><a href="http://synbioleap.org/community/advisoryboard/">Advisory Board</a></li><li id="main-menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240 menu-object-236"><a href="http://synbioleap.org/community/sponsors/">Sponsors</a></li><li id="main-menu-item-1183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1183 menu-object-1029"><a href="http://synbioleap.org/community/fellows/">Fellows</a><ul class="sub-menu"><li id="main-menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54 menu-object-48"><a href="http://synbioleap.org/community/fellows/past/">Past Fellows</a></li></ul></li><li id="main-menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-52 current_page_item menu-item-1212 menu-object-52"><a href="http://synbioleap.org/community/mentors/">Mentors</a></li><li id="main-menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235 menu-object-227"><a href="http://synbioleap.org/community/organizers/">Team</a></li></ul></li><li id="main-menu-item-1253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1253 menu-object-1178"><a href="http://synbioleap.org/news-2/">News</a></li><li id="main-menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28 menu-object-18"><a href="http://synbioleap.org/about/contact/">Contact</a></li></ul></nav>					
+				</header>
+				
+				<script type="text/javascript">jQuery.leap.prepare_header();</script>
+				
+				<img width="958" height="257" src="http://synbioleap.org/wp-content/uploads/2013/05/banner-community.jpg" class="attachment-header wp-post-image" alt="Community" id="header-graphic" />				
+				<div id="content-wrapper">
+				
+					<div id="content">
+					
+						<h1>The LEAP Mentors</h1>
+<h3>LEAP Mentors are influential experts from across disciplines who reflect and act on synthetic biology’s societal role. LEAP Mentors act as program ambassadors, helping LEAP identify, assess and support the most promising emerging leaders in synthetic biology.</h3>
+<div class="noakes-accordion community-member" rel="leap" data-keep-centered="true" data-include-close-button="true" data-include-arrow="true">
+<div id="leap-spencer-adler" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/spencer-adler.jpg" class="thumbnail wp-post-image" alt="Spencer Adler" /><br />Spencer Adler</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Spencer Adler</strong> is an attorney, entrepreneur, and investor with a history of launching disruptive technology companies (see <a href="http://www.hybridcars.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.hybridcars.com', 'www.hybridcars.com']);" target="_blank">www.hybridcars.com</a> and Tennant&#8217;s ECH2O). With PBS, he backed and co-produced a film on climate change with music by Radiohead (“<a href="http://theislandpresident.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://theislandpresident.com/', 'The Island President']);" target="_blank">The Island President</a>”), which won the audience award at the Toronto Film Festival and was broadcast this year across America for Earth Day. Together with the world&#8217;s largest social impact communications firm, he created <a href="http://www.bcauses.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bcauses.org/', 'bcauses']);" target="_blank">bcauses</a>, an incubator for social impact companies and nonprofits in Times Square. He is a fan of and has attended TED and The Skoll World Forum. A founding investor behind the first SynBio company incubator (created by John Cumbers of NASA), Adler also founded SynBio Investors, LLC and New Bioeconomy Capital, LP.</p>
+</div>
+</div>
+<div id="leap-benzion-gary" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2015/04/GBenzion-Bio-Pic-1-200x200.jpg" class="thumbnail wp-post-image" alt="Gary Benzion" /><br />Gary Benzion</a></div>
+<div class="noakes-accordion-item-content">
+<p><span data-sheets-value="[null,2,&quot;Gary Benzion, Ph.D., is a geneticist serving as a Supervisory Patent Examiner at the United States Patent and Trademark office where he manages an examining unit directed to nucleic acid methodologies.  Gary has received two Bronze Medals for superior federal service along with a Leadership-in-Action award and an Exceptional Career award.  Before joining the USPTO in 1988 he worked as a Post-doctoral research fellow at John Hopkins school of Medicine and the University of Kentucky College of Agriculture, Food and Environment.  Gary has a Ph.D. from the University of Minnesota, a master from the University of Florida and a B.S. from Cornell University.&quot;]" data-sheets-userformat="[null,null,705,[null,0],null,null,null,null,null,0,0,null,0]">Gary Benzion, Ph.D., is a geneticist serving as a Supervisory Patent Examiner at the United States Patent and Trademark office where he manages an examining unit directed to nucleic acid methodologies. Gary has received two Bronze Medals for superior federal service along with a Leadership-in-Action award and an Exceptional Career award. Before joining the USPTO in 1988 he worked as a Post-doctoral research fellow at John Hopkins school of Medicine and the University of Kentucky College of Agriculture, Food and Environment. Gary has a Ph.D. from the University of Minnesota, a master from the University of Florida and a B.S. from Cornell University.</span></p>
+</div>
+</div>
+<div id="leap-nancy-k-burgess" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/nancy-k-burgess.jpg" class="thumbnail wp-post-image" alt="Nancy K. Burgess" /><br />Nancy K. Burgess</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Nancy K. Burgess</strong> is a biophysicist serving as a Science and Technology Manager at the Defense Threat Reduction Agency. She manages a multimillion-dollar portfolio focused on developing medical pretreatments for chemical weapon exposure. In addition, she has worked to engage the broader public in defense research. Dr. Burgess was selected for the Program for Emerging Leaders from the National Defense University’s Center for the Study of Weapons of Mass Destruction in 2013, for a detail at the United States Mission to the North Atlantic Treaty Organization in 2010, and as a Presidential Management Fellow in 2009. She has a Ph.D. in Molecular Biophysics from the Johns Hopkins University and a B.S. in Zoology from Brigham Young University.</p>
+</div>
+</div>
+<div id="leap-robert-carlson" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/robert-carlson.jpg" class="thumbnail wp-post-image" alt="Robert Carlson" /><br />Robert Carlson</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Robert Carlson</strong> is a Principal at Biodesic, an engineering, consulting, and design firm in Seattle. At the broadest level, Rob is interested in the future role of biology as a human technology. He has worked to develop new biological technologies in both academic and commercial environments, focusing on molecular measurement and microfluidic systems. Rob has also developed a number of new technical and economic metrics for measuring the progress of biological technologies. He is the author of the book Biology is Technology: The Promise, Peril, and New Business of Engineering Life, published in 2010 by Harvard University Press; it received the PROSE award for the Best Science and Engineering Book of 2010 and was named to the Best Books of 2010 lists at both The Economist and Foreign Policy. He earned his Ph.D. in Physics from Princeton University.</p>
+</div>
+</div>
+<div id="leap-dehgan-alex" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2015/04/Alex-Dehgan-3-200x200.jpg" class="thumbnail wp-post-image" alt="Alex Dehgan" /><br />Alex Dehgan</a></div>
+<div class="noakes-accordion-item-content">
+<p><span data-sheets-value="[null,2,&quot;Alex Dehgan is the founder of a new startup, Conservation X Labs focused on bringing technological, financial and behavior change innovations to conservation. He is also the inaugural David Rubenstein Fellow in the new Academy of Fellows at the Office of the Provost at Duke University where he is co-developing university initiatives on development and conservation. He is also teaching a university course on innovation &amp; entrepreneurship for conservation and development. Dr. Alex Dehgan mostly recently served as the Chief Scientist at the U.S. Agency for International Development, with rank of Assistant Administrator, and founded and headed the Office of Science and Technology. As the Agency\u2019s first chief scientist in two decades, Dr. Dehgan implemented the President\u2019s promise to restore science and technology to its rightful place within USAID. During his tenure at USAID, Alex has been the architect of a number of new Agency institutions, including the position of the chief scientist, the independent office of science and technology, the position of the Agency geographer, and the GeoCenter. Alex built the Office of Science and Technology from scratch to an 80 person office, and $100 M dollar research program, in less than four years, and leveraged or raised $500 million dollars, including a $200 M dollar commitment from the Swedish government to his office. In 2014, this program received congressional approval to become the new USAID Development Lab and was launched in New York City in April 2014. Prior to coming to USAID, Dr. Dehgan worked in multiple positions within the Office of the Secretary at the Department of State and the Bureau of Near Eastern Affairs where he developed a science diplomacy strategy towards addressing our most challenging foreign policy issues in Iraq, Iran, Afghanistan, and the greater Islamic world. Dr. Alex Dehgan was the founding Afghanistan Country Director for the Wildlife Conservation Society\u2019s Afghanistan Biodiversity Conservation Program. Through his leadership, WCS led efforts to create Afghanistan\u2019s first national park, conducted the first comprehensive biological surveys of the country in 30 years, helped develop Afghanistan\u2019s biodiversity conservation laws and policies, and curtailed illegal wildlife trade on US and ISAF military bases. Dr. Dehgan holds a Ph.D and M.Sc. from The University of Chicago\u2019s Committee on Evolutionary Biology, where he focused on extinction and adaptation of 12 lemur species during environmental change in tropical forests in Madagascar. He also holds a J.D. from the University of California, Hastings, and a B.S. from Duke University. He was chosen as an \u201cIcon of Science\u201d by Seed Magazine in 2005, received the World Technology Award for Policy in 2011, and has been recognized through multiple awards from the Departments of State and Defense, and the US Agency for International Development. In 2013, AAAS selected Alex as one of its 40@40 fellows out of 2,600 AAAS Science Policy Fellows globally for its 40th Anniversary based on individuals who have made exemplary dedication to applying science to serve society, were creative, innovative, and collaborative problem solvers in addressing global challenges, and were uncommon ambassadors for the role of science and technology. Alex has worked, lived, and traveled in more than 80 countries on 6 continents.&quot;]" data-sheets-userformat="[null,null,705,[null,0],null,null,null,null,null,0,0,null,0]">Alex Dehgan is the founder of a new startup, Conservation X Labs focused on bringing technological, financial and behavior change innovations to conservation. He is also the inaugural David Rubenstein Fellow in the new Academy of Fellows at the Office of the Provost at Duke University where he is co-developing university initiatives on development and conservation. He is also teaching a university course on innovation &amp; entrepreneurship for conservation and development. Dr. Alex Dehgan mostly recently served as the Chief Scientist at the U.S. Agency for International Development, with rank of Assistant Administrator, and founded and headed the Office of Science and Technology. As the Agency’s first chief scientist in two decades, Dr. Dehgan implemented the President’s promise to restore science and technology to its rightful place within USAID. During his tenure at USAID, Alex has been the architect of a number of new Agency institutions, including the position of the chief scientist, the independent office of science and technology, the position of the Agency geographer, and the GeoCenter. Alex built the Office of Science and Technology from scratch to an 80 person office, and $100 M dollar research program, in less than four years, and leveraged or raised $500 million dollars, including a $200 M dollar commitment from the Swedish government to his office. In 2014, this program received congressional approval to become the new USAID Development Lab and was launched in New York City in April 2014. Prior to coming to USAID, Dr. Dehgan worked in multiple positions within the Office of the Secretary at the Department of State and the Bureau of Near Eastern Affairs where he developed a science diplomacy strategy towards addressing our most challenging foreign policy issues in Iraq, Iran, Afghanistan, and the greater Islamic world. Dr. Alex Dehgan was the founding Afghanistan Country Director for the Wildlife Conservation Society’s Afghanistan Biodiversity Conservation Program. Through his leadership, WCS led efforts to create Afghanistan’s first national park, conducted the first comprehensive biological surveys of the country in 30 years, helped develop Afghanistan’s biodiversity conservation laws and policies, and curtailed illegal wildlife trade on US and ISAF military bases. Dr. Dehgan holds a Ph.D and M.Sc. from The University of Chicago’s Committee on Evolutionary Biology, where he focused on extinction and adaptation of 12 lemur species during environmental change in tropical forests in Madagascar. He also holds a J.D. from the University of California, Hastings, and a B.S. from Duke University. He was chosen as an “Icon of Science” by Seed Magazine in 2005, received the World Technology Award for Policy in 2011, and has been recognized through multiple awards from the Departments of State and Defense, and the US Agency for International Development. In 2013, AAAS selected Alex as one of its 40@40 fellows out of 2,600 AAAS Science Policy Fellows globally for its 40th Anniversary based on individuals who have made exemplary dedication to applying science to serve society, were creative, innovative, and collaborative problem solvers in addressing global challenges, and were uncommon ambassadors for the role of science and technology. Alex has worked, lived, and traveled in more than 80 countries on 6 continents.</span></p>
+</div>
+</div>
+<div id="leap-margaret-dick" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/margaret-dick.jpg" class="thumbnail wp-post-image" alt="Margaret Dick" /><br />Margaret Dick</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Margaret Dick</strong> is a communications professional who applies her wide range of communication, media, client relations and business skills to translate expert knowledge for lay audiences. Currently she is serving as the Director of Strategic Communications for the Showtime series about climate change, “Years of Living Dangerously,” with executive producers James Cameron, Arnold Schwarzenegger and Jerry Weintraub. She was the Communications Director of the Synthetic Biology Engineering Research Center (Synberc), where she helped to revitalize the Center’s brand and vision. Previously, she was the Executive Director of Avoided Deforestation Partners, where she helped build alliances among public and private sector organizations, convened international events that influenced global policy, and persuaded the U.S. government to institute a multiagency task force designed to scale up multiple climate change initiatives. She also served as Assistant Professor of Communications at St. Mary’s College of California.</p>
+</div>
+</div>
+<div id="leap-david-singh-grewal" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/david-singh-grewal.jpg" class="thumbnail wp-post-image" alt="David Singh Grewal" /><br />David Singh Grewal</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>David Singh Grewal</strong> is an Associate Professor of Law at Yale Law School. His teaching focuses on international trade law, intellectual property law and biotechnology, and law and economics. He was a Junior Fellow of the Harvard University Society of Fellows and received his Ph.D. from the Harvard Government Department in 2010. His first book, Network Power: The Social Dynamics of Globalization, was published by Yale University Press in2008, and his second, The Invention of the Economy: A History of Economic Thought, is forthcoming from Harvard University Press. He is a Faculty Fellow of the Information Society Project at Yale Law School and a member of the board of directors of the BioBricks Foundation. He holds B.A. and Ph.D. degrees from Harvard University and a J.D. from Yale Law School.</p>
+</div>
+</div>
+<div id="leap-nathan-hillson" class="noakes-accordion-item community-member">
+<div><a href="https://www.linkedin.com/pub/nathan-hillson/15/29/737" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.linkedin.com/pub/nathan-hillson/15/29/737', 'Nathan Hillson']);" target="_blank" class="external-url"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/05/nathan-hillson-200x200.jpg" class="thumbnail wp-post-image" alt="Nathan Hillson" /><br />Nathan Hillson</a></div>
+<div class="noakes-accordion-item-content">
+<p class="p1">Nathan J. Hillson is the Director of Synthetic Biology Informatics, Fuels Synthesis and Technologies Divisions, at the Joint BioEnergy Institute.  Hillson is also the Group Lead of Synthetic Biology Informatics at the Department of Energy’s Joint Genome Institute; Computational Staff Scientist in the Physical Biosciences Division at Lawrence Berkeley National Laboratory; Affiliate Investigator at the Synthetic Biology Engineering Research Center (Synberc); and co-founder and Chief Scientific Officer at TeselaGen Biotechnologies.  He holds a PhD in Biophysics from Harvard.</p>
+</div>
+</div>
+<div id="leap-louise-horsfall" class="noakes-accordion-item community-member">
+<div><a href="http://horsfall.bio.ed.ac.uk/index.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://horsfall.bio.ed.ac.uk/index.html', 'Louise Horsfall']);" target="_blank" class="external-url"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/05/louise-horsfall-200x200.jpg" class="thumbnail wp-post-image" alt="Louise Horsfall" /><br />Louise Horsfall</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Louise Horsfall</strong> is a lecturer in Biotechnology and Synthetic Biology, based within SynthSys – Centre for Synthetic and Systems Biology, at the University of Edinburgh. Her research group is interested in multidisciplinary challenges, and her current projects include the application of synthetic biology tools and techniques to bacterial nanoparticle production, bioremediation and complex polymer degradation. She has a number of partnerships with industry as well as academic collaborations within the UK and across Europe. Prior to joining Edinburgh, she worked as a postdoctoral research associate at the University of Glasgow with Prof. Susan Rosser, and at the University of Leeds in the interdisciplinary Astbury Centre. Louise holds an M.Chem. from the University of Oxford, and a DEA and Ph.D. in Biochemistry from the Université de Liège, Belgium.</p>
+</div>
+</div>
+<div id="leap-richard-johnson" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/richard-johnson.jpg" class="thumbnail wp-post-image" alt="Richard “Rick” Johnson" /><br />Richard “Rick” Johnson</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Richard “Rick” Johnson</strong> is a former senior partner of Arnold &amp; Porter LLP and continues an active practice as senior counsel on legal and regulatory issues related to research and innovation, international trade, intellectual property, and national security. Mr. Johnson also is engaged in broader policy issues that focus on innovation, the globalization of R&amp;D, intellectual property policy, technology standards, knowledge markets, and public-private partnerships. He formerly served as General Counsel for International Trade at the US Commerce Department. Rick serves on four OECD Committees/Task Forces. He also is a member of the MIT Corporation Visiting Committee, Brown’s Advisory Council on Biology and Medicine, the BioBricks Foundation Board of Directors, and advisory groups exploring new approaches to university-industry-government relationships and to innovation and translational research. He participates on several advisory groups at the National Academy of Sciences, and serves as Co-Chair of the new National Academies’ project on synthetic biology. He received a J.D. from the Yale Law School where he was Editor of the Yale Law Journal and a Masters from MIT where he was an NSF National Fellow.</p>
+</div>
+</div>
+<div id="leap-peter-jutro" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/peter-jutro.jpg" class="thumbnail wp-post-image" alt="Peter Jutro" /><br />Peter Jutro</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Peter Jutro</strong> has long had involvement with issues surrounding emerging or evolving technologies. He is Deputy Director for Science and Policy of EPA’s National Homeland Security Research Center, the group responsible for research needed to provide the science and technology for EPA’s homeland security mandates, which fall primarily in the areas of decontamination, water protection, environmental protection, and risk assessment. Peter is a member of several science advisory and intergovernmental groups and is currently Chair of the intergovernmental Civil Applications Committee, which oversees federal policy for the civilian scientific and technical use of classified data. He was founding Director of the EPA Global Change Research Program, a founding member of the U.S. Global Change Research Program, and a U.S. negotiator for the United Nations Convention on the Conservation of Biological Diversity. Peter received his Ph.D. from Cornell University, for research on the geography of infectious disease and natural pharmaceuticals, chemical ecology, and conservation, and then joined the faculty, where he taught in the areas of risk assessment and environmental security. He is an elected Fellow of AAAS.</p>
+</div>
+</div>
+<div id="leap-david-kong" class="noakes-accordion-item community-member">
+<div><a href="https://www.linkedin.com/in/davidsunkong" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.linkedin.com/in/davidsunkong', 'David Kong']);" target="_blank" class="external-url"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/05/david-kong-200x200.jpg" class="thumbnail wp-post-image" alt="David Kong" /><br />David Kong</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>David Kong</strong> is a synthetic biologist, artist, and community organizer based out of Cambridge, MA. He conducted his graduate studies at MIT’s Media Laboratory and received a masters in developing technology for printing nanostructures with energetic beams. He was awarded a Ph.D. for demonstrating the first gene synthesis in a microfluidic, or “lab-on-a-chip,” system. He currently conducts synthetic biology, microfluidics, and digital fabrication research at MIT’s Lincoln Laboratory. He is also leading the formation of EMW, a new art, technology and community center in Cambridge, MA. David has performed around the country as a DJ, beat-boxer, vocalist, and rapper and he is an award-winning vocal arranger and producer. He is also a published photographer, and has an upcoming exhibit at the Smithsonian in Washington, D.C.</p>
+</div>
+</div>
+<div id="leap-thane-kreiner-phd" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/thane-kreiner.jpg" class="thumbnail wp-post-image" alt="Thane Kreiner, Ph.D." /><br />Thane Kreiner, Ph.D.</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Thane Kreiner, Ph.D.</strong>, is Executive Director of the Center for Science, Technology, and Society at Santa Clara University, where he is also the Howard and Alida Charney University Professor of Science and Technology for Social Benefit. Thane was previously Founder, President, and CEO of PhyloTech, Inc. (now Second Genome), which conducts comprehensive microbial community analysis for human health applications. He was Founder, President, and CEO of Presage Biosciences, Inc., a Seattle-based company dedicated to bringing better cancer drugs to market. Thane was the start-up President and CEO for iZumi Bio, Inc. (now iPierian), a regenerative medicine venture based on the break-through iPSc (induced pluripotent stem cell) technology. Prior to his efforts as a &#8220;parallel entrepreneur&#8221;, Thane spent 14 years in various senior leadership roles at Affymetrix, Inc., which pioneered the DNA chip industry. Thane currently serves on the Board of Directors for the BioBricks Foundation and as a Board member for Didimi, Inc.. Thane earned his MBA from the Stanford Graduate School of Business; his Ph.D. in Neurosciences from Stanford University School of Medicine; and his B.S. in Chemistry from the University of Texas, Austin.</p>
+</div>
+</div>
+<div id="leap-chitra-krishnan" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/chitra-krishnan.jpg" class="thumbnail wp-post-image" alt="Chitra Krishnan" /><br />Chitra Krishnan</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Chitra Krishnan</strong> is Executive Director of the Transverse Myelitis Association (TMA), a disease advocacy organization for people with rare neuro-immune disorders of the central nervous system. Prior to joining the TMA, Chitra was the Director of Knowledge and Learning at Ashoka Changemakers, a non-profit that creates opportunities for organizations, corporations, and individuals to drive meaningful and measurable social change. She previously worked in the Department of Neurology at Johns Hopkins University where she helped develop a clinical center of excellence in a rare disease of the nervous system and conducted clinical translational research. Chitra co-founded and led as Executive Director, an initiative called Project RESTORE at Johns Hopkins to expand institutional research and patient care out into the community and be a vehicle of change to transform the way diseases are traditionally studied. She currently is also a part-time Research Associate in the Department of Neurology at Johns Hopkins University. She received a Masters in Health Systems Management from the Johns Hopkins Bloomberg School of Public Health.</p>
+</div>
+</div>
+<div id="leap-natalie-kuldell" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/natalie-kuldell.jpg" class="thumbnail wp-post-image" alt="Natalie Kuldell" /><br />Natalie Kuldell</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Natalie Kuldell</strong> teaches in the Department of Biological Engineering at the Massachusetts Institute of Technology. She develops discovery-based curricula drawn from the current literature to engage undergraduate students in structured, reasonably authentic laboratory and project-based experiences. Dr. Kuldell is the founder and President of the Biobuilder Educational Foundation, a nonprofit organization that takes cutting-edge research projects in synthetic biology and transforms them into teachable modules that students and teachers can investigate together. Started in 2007, BioBuilder was created in response to numerous requests for synthetic biology learning materials from policy makers, environmental groups, and members of the media needing to know more about the basic biology involved, as well as scientists wanting to know more about engineering aspects of the field. Dr. Kuldell completed her doctoral and post-doctoral work at Harvard Medical School, and taught at Wellesley College before joining the faculty at MIT.</p>
+</div>
+</div>
+<div id="leap-mary-maxon" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/mary-maxon.jpg" class="thumbnail wp-post-image" alt="Mary Maxon" /><br />Mary Maxon</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Mary Maxon</strong> is the Biosciences Head of Strategic Planning and Development at Lawrence Berkeley National Labs where she works with Associate Lab Director Jay Keasling to develop new research programs, centers and facilities in the biosciences fields. Prior to joining Lawrence Berkeley Labs, Mary spent three years as Assistant Director for Biological Research at the White House Office of Science and Technology Policy (OSTP), where she helped author the &#8220;National Bioeconomy Blueprint&#8221;. Before serving in the White House, Maxon led The Gordon and Betty Moore Foundation’s Marine Microbiology Initiative. She has also served with the California Institute for Regenerative Medicine (CIRM) and as an Associate Director and Program Leader at Cytokinetics. Maxon holds a Ph.D. in molecular and cell biology from UC Berkeley.</p>
+</div>
+</div>
+<div id="leap-ken-oye" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/ken-oye.jpg" class="thumbnail wp-post-image" alt="Ken Oye" /><br />Ken Oye</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Ken Oye</strong> holds a joint appointment in Political Science and Engineering Systems at MIT and directs the Program on Emerging Technologies (PoET). He is currently a faculty PI in the NSF Synthetic Biology Engineering Research Center and an Advisory Board Member for the International Risk Governance Council of Geneva and EU iNTeg-Risk. He has been a consultant on trade and financial issues for U.S. Treasury, Commerce, and EX-IM and the Institute for International Economics; on technology transfer for the UN; and on Asian energy and environmental issues for PNC and NEDO. Before coming to MIT, he served on the faculties of the Kennedy School at Harvard, the University of California, Princeton and Swarthmore and was a guest scholar at the Brookings Institution. He holds a BA in Economics and Political Science from Swarthmore with Highest Honors and a Ph.D in Political Science from Harvard with the Chase Dissertation Prize.</p>
+</div>
+</div>
+<div id="leap-hemai-parthasarathy-ph-d" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/hemai-parthasarathy.jpg" class="thumbnail wp-post-image" alt="Hemai Parthasarathy, Ph.D." /><br />Hemai Parthasarathy, Ph.D.</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Hemai Parthasarathy, Ph.D.</strong>, is Scientific Director for the Thiel Foundation. She is responsible for establishing the scientific priorities for the Foundation&#8217;s newest program, Breakout Labs, which funds radical, early-stage science and technology companies. Hemai has a deep commitment to scientific innovation, with extensive experience in high-profile scientific publishing and as a consultant to research institutes, non-profits, and biotechnology companies on the development and communication of their scientific portfolios. Hemai was a founding editor at the Public Library of Science (PLoS), where she worked to establish a series of successful open-access journals, including PLoS Biology and PLoS ONE. As the Managing Editor of PLoS Biology, she led an international team that published research articles and magazine content across all areas of the biological sciences. Hemai began her editorial career at Nature, where she evaluated and selected research articles for publication, with a focus on neuroscience. She received a Ph.D. in Systems Neuroscience from the MIT.</p>
+</div>
+</div>
+<div id="leap-eleonore-pauwels" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/eleonore-pauwels.jpg" class="thumbnail wp-post-image" alt="Eleonore Pauwels" /><br />Eleonore Pauwels</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Eleonore Pauwels</strong> is a Research Scholar with the Project on Emerging Nanotechnologies and the Foresight and Governance Project at the Woodrow Wilson International Center for Scholars. Her primary focus is a comparative and critical analysis of the EU and US approaches towards the societal governance of synthetic biology. She is also examining the challenges that new forms of biotechnology pose for political and public policy organizations, and the regulatory innovations that emerge alongside developments in cutting edge technologies. Her past research has included risk communication, citizen participation in technical controversies, and the epistemology of regulatory and social scientific experiments. Eleonore holds an M.A. in European Public Policy and Politics awarded by L’Institut d’études politiques de Paris (IEP) and Bath University within the European American University Consortium. She pursued postgraduate studies at the College of Europe (Academic University Institute for Postgraduate European Studies, Bruges) where she completed a cursus in European Law and Regulatory Governance related to EU Research Policy.</p>
+</div>
+</div>
+<div id="leap-rao-g-nagesh" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2015/04/Nagesh-Headshot-200x200.png" class="thumbnail wp-post-image" alt="Nagesh Rao" /><br />G. Nagesh Rao</a></div>
+<div class="noakes-accordion-item-content">
+<p><span data-sheets-value="[null,2,&quot;G. Nagesh Rao currently serves as Chief Technologist with the US Small Business Administration\u2019s Office of Investment &amp; Innovation. He is a practicing technologist and commercialization strategist working at the intersection of applied science, law, business, and public policy from both domestic and international perspectives with over 10+ years of successful experience. His current portfolio of work includes the $2 Billion SBIR/STTR program (America\u2019s Innovation Seed Fund) and coordination of the Fueling Small Business Innovation Interagency Policy Committee for the White House\u2019s Lab to Market Commercialization Agenda. Furthermore, Nagesh has been afforded the privilege to work with top-tier cutting edge organizations such as Rensselaer Polytechnic Institute\u2019s Office of Technology Commercialization, The National Academies (NAS, NAE, IOM &amp; NRC), US Department of Commerce (USPTO, EDA, &amp; OIE), LAUNCH, CleanTech Los Angeles, Global Access in Action, NCET2, Innovation Endeavors, Planet Labs, Ecovative Design, Publicbeat, Peek, Stiefel Family Foundation, and most recently Virginia Tech\u2019s Applied Research Corporation. As well groundbreaking endeavors he has helped create include i6 Green, FLoW, Patents for Humanity, VT-ARC Additive Manufacturing Grand Challenge, and AAAS-Lemelson Invention Ambassador Program. His credentials include a MBA (Global Strategy and Entrepreneurship) from the University of Maryland-College Park, a MSc in Legal Studies-Intellectual Property Law from Albany Law School, a BSc dual-major in Materials Engineering and Philosophy from Rensselaer Polytechnic Institute, and his Patent Bar License from the USPTO (Registration Number: 69006), as well he serves on the Rensselaer Alumni Association Board of Trustees. Currently he splits his time between Washington-DC, San Francisco-CA, and Albany-NY.\n\n&quot;]" data-sheets-userformat="[null,null,705,[null,0],null,null,null,null,null,0,0,null,0]">G. Nagesh Rao currently serves as Chief Technologist with the US Small Business Administration’s Office of Investment &amp; Innovation. He is a practicing technologist and commercialization strategist working at the intersection of applied science, law, business, and public policy from both domestic and international perspectives with over 10+ years of successful experience. His current portfolio of work includes the $2 Billion SBIR/STTR program (America’s Innovation Seed Fund) and coordination of the Fueling Small Business Innovation Interagency Policy Committee for the White House’s Lab to Market Commercialization Agenda. Furthermore, Nagesh has been afforded the privilege of working with top-tier cutting edge organizations such as Rensselaer Polytechnic Institute’s Office of Technology Commercialization, The National Academies (NAS, NAE, IOM &amp; NRC), US Department of Commerce (USPTO, EDA, &amp; OIE), LAUNCH, CleanTech Los Angeles, Global Access in Action, NCET2, Innovation Endeavors, Planet Labs, Ecovative Design, Publicbeat, Peek, Stiefel Family Foundation, and most recently Virginia Tech’s Applied Research Corporation. As well groundbreaking endeavors he has helped create include i6 Green, FLoW, Patents for Humanity, VT-ARC Additive Manufacturing Grand Challenge, and AAAS-Lemelson Invention Ambassador Program. His credentials include a MBA (Global Strategy and Entrepreneurship) from the University of Maryland-College Park, a MSc in Legal Studies-Intellectual Property Law from Albany Law School, a BSc dual-major in Materials Engineering and Philosophy from Rensselaer Polytechnic Institute, and his Patent Bar License from the USPTO (Registration Number: 69006), as well he serves on the Rensselaer Alumni Association Board of Trustees. Currently he splits his time between Washington-DC, San Francisco-CA, and Albany-NY.</span></p>
+<p>&nbsp;</p>
+</div>
+</div>
+<div id="leap-rejeski-david" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2015/04/DaveRejeski-200x200.jpg" class="thumbnail wp-post-image" alt="Dave Rejeski" /><br />David Rejeski</a></div>
+<div class="noakes-accordion-item-content">
+<p><span data-sheets-value="[null,2,&quot;David Rejeski directs the Science and Technology Innovation Program at the Woodrow Wilson Center, a non-partisan policy research institute in Washington, DC.  The program focuses on emerging technologies and the critical choices innovation presents to public policy in areas such as: synthetic biology, nanotechnology, neural engineering, citizen science (including DIYBio), geo-engineering, and additive manufacturing.  He is presently a Visiting Scholar at the Environmental Law Institute and recently a Guest Scholar at the International Institute for Applied Systems Analysis (IIASA) in Vienna.  He was previously a Visiting Fellow at Yale University\u2019s School of Forestry and Environmental Studies.  Between 1994 and 2000, he worked at both the White House Council on Environmental Quality (CEQ) and the Office of Science and Technology Policy (OSTP) on a variety of technology and R&amp;D issues, including the development and implementation of the National Environmental Technology Strategy.  He sits on the advisory boards of a number of organizations, including the expert panel for DARPA\u2019s \u2018Living Foundries\u2019 Program; NSF\u2019s Synthetic Biology Engineering Research Center (SynBERC); the Center for Environmental Policy at American University; and the Journal of Industrial Ecology.  Between 2004 and 2009, he was a member of EPA\u2019s Science Advisory Board and also served for four years on the National Science Foundation\u2019s Advisory Committee on Environmental Research and Education.  He has graduate degrees in public administration and environmental design from Harvard and Yale Universities and a degree in industrial design from the Rhode Island School of Design.&quot;]" data-sheets-userformat="[null,null,705,[null,0],null,null,null,null,null,0,0,null,0]">David Rejeski directs the Science and Technology Innovation Program at the Woodrow Wilson Center, a non-partisan policy research institute in Washington, DC. The program focuses on emerging technologies and the critical choices innovation presents to public policy in areas such as: synthetic biology, nanotechnology, neural engineering, citizen science (including DIYBio), geo-engineering, and additive manufacturing. He is presently a Visiting Scholar at the Environmental Law Institute and recently a Guest Scholar at the International Institute for Applied Systems Analysis (IIASA) in Vienna. He was previously a Visiting Fellow at Yale University’s School of Forestry and Environmental Studies. Between 1994 and 2000, he worked at both the White House Council on Environmental Quality (CEQ) and the Office of Science and Technology Policy (OSTP) on a variety of technology and R&amp;D issues, including the development and implementation of the National Environmental Technology Strategy. He sits on the advisory boards of a number of organizations, including the expert panel for DARPA’s ‘Living Foundries’ Program; NSF’s Synthetic Biology Engineering Research Center (SynBERC); the Center for Environmental Policy at American University; and the Journal of Industrial Ecology. Between 2004 and 2009, he was a member of EPA’s Science Advisory Board and also served for four years on the National Science Foundation’s Advisory Committee on Environmental Research and Education. He has graduate degrees in public administration and environmental design from Harvard and Yale Universities and a degree in industrial design from the Rhode Island School of Design.</span></p>
+</div>
+</div>
+<div id="leap-robertson-andrew" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2015/04/HS-AndrewRobertson-resize1-Copy-1-Version-2-200x200.jpg" class="thumbnail wp-post-image" alt="Andrew Robertson" /><br />Andrew Robertson</a></div>
+<div class="noakes-accordion-item-content">
+<p><span data-sheets-value="[null,2,&quot;Andrew S. Robertson joined Merck &amp; Co. in 2012, where his focus is on global regulatory policies concerning vaccines, biologics, biosimilars, in vitro diagnostics, mobile medical apps, social media and software medical devices.  Over the past 12 years, Andrew has developed a broad career in life science and regulatory policy, including a faculty research position in genetics at the Wellcome Trust Sanger Centre, International Science Advisor at the HHS Office of the Secretary, and as the Chief Policy Officer at BIO Ventures for Global Health.  Andrew has authored multiple peer-reviewed articles on topics pertaining to health product development, in vitro diagnostics, health technology and genetic privacy, and innovation incentives.  He has received numerous awards for his work, including from the Wellcome Trust, Sloan Foundation, and the Gates Cambridge Trust, through a grant by the Bill &amp; Melinda Gates Foundation.  Andrew holds a JD from the University of California, Berkeley, School of Law, a Ph.D. in molecular biology from Cambridge University (w/ honors), and a MS and BS in genetics from the University of California, San Diego.\n&quot;]" data-sheets-userformat="[null,null,705,[null,0],null,null,null,null,null,0,0,null,0]">Andrew S. Robertson joined Merck &amp; Co. in 2012, where his focus is on global regulatory policies concerning vaccines, biologics, biosimilars, in vitro diagnostics, mobile medical apps, social media and software medical devices. Over the past 12 years, Andrew has developed a broad career in life science and regulatory policy, including a faculty research position in genetics at the Wellcome Trust Sanger Centre, International Science Advisor at the HHS Office of the Secretary, and as the Chief Policy Officer at BIO Ventures for Global Health. Andrew has authored multiple peer-reviewed articles on topics pertaining to health product development, in vitro diagnostics, health technology and genetic privacy, and innovation incentives. He has received numerous awards for his work, including from the Wellcome Trust, Sloan Foundation, and the Gates Cambridge Trust, through a grant by the Bill &amp; Melinda Gates Foundation. Andrew holds a JD from the University of California, Berkeley, School of Law, a Ph.D. in molecular biology from Cambridge University (w/ honors), and a MS and BS in genetics from the University of California, San Diego.<br />
+</span></p>
+</div>
+</div>
+<div id="leap-daniel-sarewitz" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/daniel-sarewitz.jpg" class="thumbnail wp-post-image" alt="Daniel Sarewitz" /><br />Daniel Sarewitz</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Daniel Sarewitz</strong> is Professor of Science and Society, and co-director and co-founder of the Consortium for Science, Policy, and Outcomes (CSPO), at Arizona State University (<a href="http://www.cspo.org" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.cspo.org', 'http://www.cspo.org']);" target="_blank">http://www.cspo.org</a>). His work focuses on revealing the connections between science policy decisions, scientific research and social outcomes. How does the distribution of the social benefits of science relate to the way that we organize scientific inquiry? What accounts for the highly uneven advance of know-how related to solving human problems? How do the interactions between scientific uncertainty and human values influence decision making? How does technological innovation influence politics? And how can improved insight into such questions contribute to real-world practice? His most recent book is The Techno-Human Condition (co-authored with Braden Allenby; MIT Press). He is also a regular columnist for Nature. From 1989-1993 he worked on R&amp;D policy issues for the U.S. House of Representatives Committee on Science, Space, and Technology.</p>
+</div>
+</div>
+<div id="leap-singh-rina" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2015/04/Rina-Singh-200x200.jpg" class="thumbnail wp-post-image" alt="Rina Singh" /><br />Rina Singh</a></div>
+<div class="noakes-accordion-item-content">
+<p><span data-sheets-value="[null,2,&quot;Rina Singh is the senior director of policy, science, and renewable chemicals, at the Biotechnology Industry Organization (BIO). Prior to joining BIO, Singh served as the business development manager at Ashland Incorporated in the Growth Office. There she was appointed by the President and CEO to an innovative, corporate, ten-member team assembled to develop a new strategic direction for Ashland Incorporated and to identify specific investment opportunities for $1.5B resulting from divesture of petroleum refining operations. She started her career at Dow Chemical Company, Central Research, as a senior research chemist in the Engineering Thermoplastics Group. Singh received honors bachelors of science degree in chemistry and a doctorate in natural products from McGill University, where she also conducted post-doctoral research in polymer science.&quot;]" data-sheets-userformat="[null,null,705,[null,0],null,null,null,null,null,0,0,null,0]">Rina Singh is the senior director of policy, science, and renewable chemicals, at the Biotechnology Industry Organization (BIO). Prior to joining BIO, Singh served as the business development manager at Ashland Incorporated in the Growth Office. There she was appointed by the President and CEO to an innovative, corporate, ten-member team assembled to develop a new strategic direction for Ashland Incorporated and to identify specific investment opportunities for $1.5B resulting from divesture of petroleum refining operations. She started her career at Dow Chemical Company, Central Research, as a senior research chemist in the Engineering Thermoplastics Group. Singh received honors bachelors of science degree in chemistry and a doctorate in natural products from McGill University, where she also conducted post-doctoral research in polymer science.</span></p>
+</div>
+</div>
+<div id="leap-john-warner" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/john-warner.jpg" class="thumbnail wp-post-image" alt="John Warner" /><br />John Warner</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>John Warner</strong> is Founder, President, and CTO of Warner Babcock Institute for Green Chemistry, LLC, a research organization developing green chemistry technologies, and Beyond Benign, a non-profit dedicated to sustainability and green chemistry education. He is one of the founders of the field of green chemistry, co-authoring the defining text, “Green Chemistry: Theory and Practice”, with Paul Anastas. Previously, John worked at the Polaroid Corporation and served as tenured full professor at UMASS Boston and Lowell (Chemistry and Plastics Engineering). He has published over 200 patents, papers and books. His recent work in the fields of semiconductor design, biodegradable plastics, personal care products, solar energy and polymeric photoresists are examples of how green chemistry principles can be incorporated into commercially relevant applications. John received the 2004 Presidential Award for Excellence in Science Mentoring, the 2002 American Institute of Chemistry&#8217;s NE Division&#8217;s Distinguished Chemist of the Year, and the Council of Science Society President’s 2008 Leadership award. He was elected a Fellow of the American Chemical Society and named one of “25 Visionaries Changing the World” by Utne Reader. John received his Ph.D. in Chemistry from Princeton University.</p>
+</div>
+</div>
+<div id="leap-windham-patrick" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2015/04/Windham-photo2-Version-2-200x200.jpg" class="thumbnail wp-post-image" alt="Pat Windham" /><br />Patrick Windham</a></div>
+<div class="noakes-accordion-item-content">
+<p><span data-sheets-value="[null,2,&quot;Patrick Windham is a policy consultant and university teacher. He is a Principal with the consulting firm Technology Policy International (TPI) and also teaches at the University of California\u2019s Washington, DC, Center and the University of Maryland\u2019s School of Public Policy. From 1999 to 2012, when he lived in California, he was a Lecturer in the Public Policy Program at Stanford University.  From 1984 until 1997 he served as a Senior Professional Staff Member for the Subcommittee on Science, Technology, and Space of the Committee on Commerce, Science, and Transportation, United States Senate. In recent years he has served on five committees and roundtables of the National Research Council. Mr. Windham received an undergraduate degree from Stanford University and a Master of Public Policy degree from the University of California at Berkeley. He currently lives in Arlington, Virginia.\n&quot;]" data-sheets-userformat="[null,null,705,[null,0],null,null,null,null,null,0,0,null,0]">Patrick (Pat) Windham is a policy consultant and university teacher. He is a Principal with the consulting firm Technology Policy International (TPI) and also teaches at the University of California’s Washington, DC, Center and the University of Maryland’s School of Public Policy. From 1999 to 2012, when he lived in California, he was a Lecturer in the Public Policy Program at Stanford University. From 1984 until 1997 he served as a Senior Professional Staff Member for the Subcommittee on Science, Technology, and Space of the Committee on Commerce, Science, and Transportation, United States Senate. In recent years he has served on five committees and roundtables of the National Research Council. Mr. Windham received an undergraduate degree from Stanford University and a Master of Public Policy degree from the University of California at Berkeley. He currently lives in Arlington, Virginia.<br />
+</span></p>
+</div>
+</div>
+<div id="leap-edward-you" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/edward-you.jpg" class="thumbnail wp-post-image" alt="Edward You" /><br />Edward You</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Edward You</strong> is a Supervisory Special Agent in the FBI&#8217;s Weapons of Mass Destruction Directorate, Biological Countermeasures Unit. Ed is responsible for creating programs and activities to coordinate and improve FBI and interagency efforts to identify, assess, and respond to potential intentional biological threats or incidents. These efforts include expanding FBI outreach to the Biological Sciences community to address biosecurity. Ed has also been directly involved in policy-making efforts with a focus on biosecurity. He is an ex-officio member of the NIH National Science Advisory Board for Biosecurity and the Synthetic Biology and Engineering Research Center (SynBERC) Scientific Advisory Board. He is also an active Working Group member of the National Security Council Interagency Policy Committee on Countering Biological Threats; was the FBI representative on the Executive Order 13546 Select Agent Program Federal Experts Security Advisory Panel; and presented, on behalf of the FBI, to the Presidential Commission for the Study of Bioethical Issues regarding biosecurity and synthetic biology. Prior to joining the FBI, Ed conducted human gene therapy research at the University of Southern California, Keck School of Medicine and oncology research at AMGEN Inc. He received an MS in Biochemistry and Molecular Biology from the University of Southern California and a Certificate from the Harvard University Kennedy School of Government&#8217;s National Preparedness Leadership Initiative.</p>
+</div>
+</div>
+<div id="leap-laurie-zoloth" class="noakes-accordion-item community-member">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button"><img width="200" height="200" src="http://synbioleap.org/wp-content/uploads/2013/07/laurie-zoloth.jpg" class="thumbnail wp-post-image" alt="Laurie Zoloth" /><br />Laurie Zoloth</a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Laurie Zoloth</strong> was the founding Director of The Center for Bioethics, Science and Society at Northwestern University Feinberg School of Medicine, where she is professor of Medical Humanities and Bioethics and professor of Religion and Jewish Studies at Northwestern University&#8217;s Weinberg College of Arts and Science. Laurie is the incoming President of the American Academy of Religion and in 2001 was President of the American Society for Bioethics and Humanities. She has held faculty positions at San Francisco State University, and board positions at the Society for Jewish Ethics, the NASA National Advisory Council, the International Society for Stem Cell Research, and as Chair of the Howard Hughes Medical Institute&#8217;s Bioethics Advisory Board. Her book, Health Care and The Ethics of Encounter, on justice, health policy, and the ethics of community, was published in 1999, her book on error in medicine, in 2000, her co-edited book on stem cells in 2002 and on cofertility in 2010. Her current research projects include work on the emerging issues in medical and research genetics, religion and science, and justice. Laurie received her BA in Women&#8217;s Studies and History from the University of California at Berkeley, her BSN from the University of the State of New York, her MA in English from San Francisco State University, her MA in Jewish Studies and her Ph.D. in Social Ethics at the Graduate Theological Union in Berkeley.</p>
+</div>
+</div>
+</div>
+						
+					</div>
+					
+					<script type="text/javascript">jQuery.leap.prepare_content();</script>
+					
+										
+						<div id="right-bar">
+						
+							<div id="leap_community_widget-2" class="leap-widget right-bar-widget widget_leap_community_widget"><div id="community-widget-wrapper"><div id="community-widget-form"><h2>Keep In Touch</h2><p>Sign up for Program Updates and Event Announcements</p>
+<form id="sign-up" name="sign-up" method="get" action="http://synbioleap.us5.list-manage.com/subscribe" target="_blank">
+
+	<input id="u" name="u" type="hidden" value="8eaae4fe0e73ccf861da3b4b7" />
+	<input id="id" name="id" type="hidden" value="00b9245ae5" />
+	
+	<div id="sign-up-wrapper">
+	
+		<input id="MERGE0" name="MERGE0" type="text" value="enter your email address" class="email required noakes-watermarked" />
+		<input id="submit-button" name="submit-button" type="submit" value="Submit" />
+		
+	</div>
+	
+</form>
+</div></div></div><div id="noakes_html_widget-3" class="leap-widget default-right-bar-widget widget_noakes_html_widget"><div class="noakes-html-widget"><h2><img class="alignright size-full wp-image-754" alt="Leap 2012 Annual Report" src="http://synbioleap.org/wp-content/uploads/2013/09/leap-2012-annual-report.jpg" width="120" height="98" />Look Before LEAPing</h2>
+<p>Learn about the LEAP initiative, the 2012 Inaugural Workshop and New Visions and Plans for Leading the Future of Synthetic Biology in our informative eBook.</p>
+<p><a class="button arrow-small" href="http://issuu.com/synbioleap/docs/leap_2012_ebook_bypage?e=0/5312249" target="_blank">Download eBook</a></p>
+</div></div>							
+						</div>
+						
+										
+				</div>
+				
+				<footer>
+				
+					<a href="http://synbioleap.org/community/sponsors/"><img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-201506.jpg" height="119" width="957" alt="" class="phone-hide" />
+					<img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-phone-201506.jpg" height="133" width="320" alt="" class="phone-only" /></a>
+					
+				</footer>
+			
+			</div>
+			
+		</div>
+		
+		<div id="wp-footer">
+		
+			<div id="breakpoint"></div>
+			
+						
+		</div>
+	
+	</body>
+	
+</html>

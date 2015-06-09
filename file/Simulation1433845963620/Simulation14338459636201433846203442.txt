@@ -1,0 +1,1946 @@
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://ogp.me/ns/fb#" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <!-- chartbeat -->
+  <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=1040" /><link rel="next" href="http://www.technologyreview.com/news/406809/bizarre-bacterial-creations/page/2/" />
+<link rel="canonical" href="http://www.technologyreview.com/news/406809/bizarre-bacterial-creations/" />
+<meta name="description" content="Banana-scented bacteria, engineered to order, are just one offering at this weekend’s International Genetically Engineered Machine competition." />
+<meta name="robots" content="NOODP" />
+<meta name="news_keywords" content="Biomedicine" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="http://www.technologyreview.com/news/406809/bizarre-bacterial-creations/" />
+<link rel="shortlink" href="http://www.technologyreview.com/node/406809/" />
+<meta property="og:site_name" content="MIT Technology Review" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.technologyreview.com/news/406809/bizarre-bacterial-creations/" />
+<meta property="og:title" content="Bizarre Bacterial Creations | MIT Technology Review" />
+<meta property="og:description" content="Banana-scented bacteria, engineered to order, are just one offering at this weekend’s International Genetically Engineered Machine competition." />
+<meta property="og:updated_time" content="2012-10-21T23:59:45-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@techreview" />
+<meta name="twitter:site:id" content="15808647" />
+<meta property="article:published_time" content="2006-11-03T00:00:00-05:00" />
+<meta property="article:modified_time" content="2012-10-21T23:59:45-04:00" />
+<meta name='parsely-page' content='{"title":"Bizarre Bacterial Creations","link":"http:\/\/www.technologyreview.com\/news\/406809\/bizarre-bacterial-creations\/","type":"post","post_id":"406809","pub_date":"2006-11-03T05:00:00Z","section":"Biomedicine","author":"Emily Singer"}' />
+  <meta http-equiv="content-language" content="en-us" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <link rel="search" type="application/opensearchdescription+xml" href="http://www.technologyreview.com/opensearch.xml" title="Search MIT Technology Review" />
+
+  <title>Bizarre Bacterial Creations | MIT Technology Review</title>
+  <link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/default/files/css/css_M3MVjPa7LUxFguW0ui5mVeg_9JzJpvmjAFAFGBfLJDw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/default/files/css/css_n7aK8s-ciXhQyEYWNOJtISbWxtxQiQvnD-N_xWUtD5A.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/default/files/css/css_PVGUWMyNFDpblsnGsrry7yFGu2RtHK23UUojMeb_ZYI.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/all/themes/mittr/global/css/utilities.css?np9yd1" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/all/themes/mittr/global/css/sections.css?np9yd1" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/all/themes/mittr/global/css/base.css?np9yd1" media="all" />
+
+<!--[if (gte IE 9)|(!IE)]><!-->
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/default/files/css/css_WT8-THJCv4XICWrqqjtlUgp6GFtiCDDO9wjIrJPJ79Y.css" media="all" />
+<!--<![endif]-->
+
+<!--[if lte IE 9]>
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/default/files/css/css__fVvpbpc3eAFQd6IcCzBRfkkll3c7dtqxrAgRYsXPLo.css" media="all" />
+<![endif]-->
+
+<!--[if lt IE 9]>
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/default/files/css/css_kFqDhf280EHTyixVGzwMz-b-EDAnpkR9vms2v09LBiI.css" media="all" />
+<![endif]-->
+
+<!--[if IE 8]>
+<link type="text/css" rel="stylesheet" href="http://www.technologyreview.com/sites/default/files/css/css_ej7fEeO3AKwwJmmsXDgI-u4KDp-OSdJq622Cn83w7no.css" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.technologyreview.com/sites/default/files/js/js_PdiuypZMI8o81AYEdTHwjRslVPEF69JFzr7Y9sMWt4s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://www.technologyreview.com/sites/default/files/js/js_grZchma6N5l-nv2tQMD7oKiAiwGnuF_8OUvvo29416I.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["tr_www_body_content_portrait_in_story"] = googletag.defineSlot("/3293/technologyreview/www/body/content/portrait-in-story", [[300, 250], [300, 600]], "dfp-ad-tr_www_body_content_portrait_in_story")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["tr_www_head_post_nav_landscape"] = googletag.defineSlot("/3293/technologyreview/www/head/post-nav/landscape", [[728, 90], [970, 90], [970, 66], [1020, 90], [970, 250], [1, 1]], "dfp-ad-tr_www_head_post_nav_landscape")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["tr_www_body_rail_right_top_portrait"] = googletag.defineSlot("/3293/technologyreview/www/body/rail-right/top-portrait", [[300, 250], [300, 600], [300, 1050], [160, 600]], "dfp-ad-tr_www_body_rail_right_top_portrait")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["tr_www_body_rail_right_bottom_portrait_sticky"] = googletag.defineSlot("/3293/technologyreview/www/body/rail-right/bottom-portrait-sticky", [[300, 250], [300, 600], [160, 600]], "dfp-ad-tr_www_body_rail_right_bottom_portrait_sticky")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["tr_www_footer_post_body_landscape"] = googletag.defineSlot("/3293/technologyreview/www/footer/post-body/landscape", [[728, 90], [970, 90], [970, 66], [1020, 90]], "dfp-ad-tr_www_footer_post_body_landscape")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs();
+  googletag.pubads().setTargeting("pubdate", "2006-11-03");
+  googletag.pubads().setTargeting("channel", "Biomedicine");
+  googletag.pubads().setTargeting("contributor", "Emily Singer");
+  googletag.pubads().setTargeting("page_id", "tr_www_406809");
+  googletag.pubads().setTargeting("section", "news");
+  googletag.pubads().setTargeting("story_type", "News");
+});
+
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.technologyreview.com/sites/default/files/js/js_LqTJFPJxFHw5gZrI5oEM5FFLRsvtm1dyEv3TEJIgmvM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-7747898-5"]);_gaq.push(["_setDomainName", "technologyreview.com"]);_gaq.push(['_setCustomVar', 1, "PageDetails", "PageType*News", 3]);_gaq.push(['_setCustomVar', 2, "Contributor", "Name*Emily Singer", 3]);_gaq.push(['_setCustomVar', 3, "Channel", "Biomedicine", 3]);var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+_gaq.push(['_require', 'inpage_linkid', pluginUrl]);_gaq.push(["_trackPageview"]);_gaq.push(['rollup._setAccount', 'UA-7747898-17']);
+_gaq.push(['rollup._trackPageview', '/tr/www' + window.location.pathname + window.location.search]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.technologyreview.com/sites/default/files/js/js_CC-zfeuQHcDhFtVRuKW53h30TL7j_105J32Nz8b8R38.js"></script>
+<script type="text/javascript" src="http://www.technologyreview.com/sites/default/files/js/js_ymGq8Yztdf63alZ3BcA9GkIBH_8KBeeQzW1G4QlTdSw.js"></script>
+<script type="text/javascript" src="https://www.gstatic.com/swiffy/v5.3/runtime.js"></script>
+<script type="text/javascript" src="http://www.technologyreview.com/sites/default/files/js/js_JS4qZZvEY0zot_cVzrihSpfrsbaroSpkxEp6Vr1Cp-g.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mittr","theme_token":"BRxYDbZBoj-iEanhodpRzrWYICFlPCMunLmkUo41j3Q","js":{"https:\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.11.2\/jquery.min.js":1,"misc\/jquery.once.js":1,"0":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"1":1,"2":1,"3":1,"4":1,"5":1,"6":1,"sites\/all\/modules\/mittr\/mittr_livefyre_sync\/js\/livefyre.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"7":1,"misc\/jquery.cookie.js":1,"sites\/all\/themes\/mittr_shared\/global\/js\/vendor\/jquery.sticky.js":1,"sites\/all\/themes\/mittr_shared\/global\/js\/vendor\/jquery.simplemodal.js":1,"sites\/all\/themes\/mittr_shared\/global\/js\/vendor\/jquery.tinyscrollbar.js":1,"sites\/all\/themes\/mittr_shared\/global\/js\/vendor\/jquery.cookie.js":1,"sites\/all\/themes\/mittr_shared\/global\/js\/vendor\/rivets.min.js":1,"sites\/all\/themes\/mittr_shared\/global\/js\/global.js":1,"sites\/all\/themes\/mittr_shared\/global\/js\/swiffy\/loading.js":1,"https:\/\/www.gstatic.com\/swiffy\/v5.3\/runtime.js":1,"sites\/all\/themes\/mittr\/global\/js\/main.js":1,"sites\/all\/themes\/mittr\/global\/js\/MobileCompatibilityScript.js":1,"sites\/all\/themes\/mittr\/global\/js\/createArticleFlash.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"profiles\/acquia\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/panels\/css\/panels.css":1,"sites\/all\/modules\/typogrify\/typogrify.css":1,"modules\/taxonomy\/taxonomy.css":1,"sites\/all\/themes\/mittr\/global\/css\/utilities.css":1,"sites\/all\/themes\/mittr\/global\/css\/sections.css":1,"sites\/all\/themes\/mittr\/global\/css\/base.css":1,"sites\/all\/themes\/mittr_shared\/global\/css\/fonts.css":1,"sites\/all\/themes\/mittr\/global\/css\/ie-lte9.css":1,"sites\/all\/themes\/mittr\/global\/css\/ie-specific.css":1,"sites\/all\/themes\/mittr\/global\/css\/ie8-specific.css":1}},"better_exposed_filters":{"views":{"story_explore_author":{"displays":{"block":{"filters":[]}}},"homepage_feed":{"displays":{"story_explore_latest":{"filters":[]},"story_explore_popular":{"filters":[]},"story_explore_shared":{"filters":[]}}},"popular_bar":{"displays":{"nav":{"filters":[]},"new_and_trending":{"filters":[]}}},"new_and_trending_recent":{"displays":{"block":{"filters":[]}}},"from_the_archives":{"displays":{"block":{"filters":[]}}}}},"mittrInsider":{"active":false,"unlocked":false,"removeAdsUrl":"\/removeads\/#destination=node%2F406809"},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackDomainMode":"1"}});
+//--><!]]>
+</script>
+
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TRBQMN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>
+dataLayer = [{"PageDetails":"News","Contributor":"Emily Singer","Channel":"Biomedicine","Zones":"Biomedicine","Label":"Biomedicine","LoggedInHit":"no","InsiderStatusHit":"unknown","AccountLevel":"anonymous","AlumStatusHit":"unknown"}];
+(function(e,t,n,r,i){e[r]=e[r]||[];e[r].push({"gtm.start":(new Date).getTime(),event:"gtm.js"});var s=t.getElementsByTagName(n)[0],o=t.createElement(n),u=r!="dataLayer"?"&l="+r:"";o.async=true;o.src="//www.googletagmanager.com/gtm.js?id="+i+u;s.parentNode.insertBefore(o,s)})(window,document,"script","dataLayer","GTM-TRBQMN");
+</script>
+<!-- // end Google Tag Manager -->
+
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-406809 node-type-article i18n-en"  id="section-news">
+    
+
+    <header id="tr-global-header">
+      <div class="wrapper">
+        <nav id="tr-global-nav">
+          <ul>
+            <li class="global"><a href="/editions/" class="global menu"><span>Global Edition</span></a></li>
+            <li><a href="/getinsider/" >Insider</a></li>
+            <li><a href="/magazine/">Magazine</a></li>
+            <li><a href="/businessreports/">Business Reports</a></li>
+            <li><a href="/lists/">Lists</a></li>
+            <li><a href="/events/">Events</a></li>
+            <li id="menu_standard_more_button">
+              <a href="#" class="menu candrop"><span>More</span></a>
+
+              <div id="menu_standard_more">
+                <ul>
+                  <li><a href="/about/">About</a></li>
+                  <li><a href="http://newsletters.technologyreview.com">Newsletters</a></li>
+                  <li><a href="/support/">Support</a></li>
+                  <li><a href="/contact/">Contact Us</a></li>
+                  <li><a href="http://www.emtechmit.com">Emtech MIT</a></li>
+                  <li><a href="http://www.mitef.org">MIT Enterprise Forum</a></li>
+                </ul>
+              </div><!-- / menu_sticky_sections -->
+            </li>
+          </ul>
+          <ul class="connect" id="menu_standard_connect_button" >
+            <li><a href="/connect/" class="menu">Connect</a></li><!--
+                add back: class=candrop and <span />
+                <div id="menu_standard_connect"></div>--><!-- /menu_standard_connect -->
+          </ul>
+        </nav>
+
+        
+        <section id="tr-global-editions">
+          <header>
+            <h2>Select your localized edition:</h2>
+            <!-- <h2><strong>Welcome to MIT Technology Review</strong></h2>
+            <p class="half-margin">We have detected that your browser's default language does not match the language of the site you are trying to visit.<br />
+              <a href="#">Continuar con el MIT Technology Review en español &raquo;</a>
+            </p> -->
+            <a class="closer" href="#">Close <span>&times;</span></a>
+          </header>
+          <aside>
+            <ul class="languages news">
+              <li class="en" data-lang="en"><a href="http://www.technologyreview.com">English</a></li>
+              <li class="es" data-lang="es"><a href="http://es.technologyreview.com">Espa&ntilde;ol</a></li>
+              <li class="de" data-lang="de"><a href="http://de.technologyreview.com">Deutsch</a></li>
+              <li class="it" data-lang="it"><a href="http://it.technologyreview.com">Italiano</a></li>
+              <li class="pt" data-lang="pt"><a href="http://pt.technologyreview.com">Portugu&ecirc;s</a></li>
+              <li class="zh" data-lang="zh"><a href="http://cn.technologyreview.com">&#x4E2D;&#x6587;</a></li>
+              <li class="ar" data-lang="ar"><a href="http://www.technologyreviewpanarab.com">العربية</a></li>
+            </ul>
+
+            <form>
+              <h3>Filter by:</h3>
+              <ul>
+                <li>
+                  <label>
+                    <input type="radio" name="filter" checked="checked" value="news" /> News and Analysis
+                  </label>
+                </li>
+                <li>
+                  <label>
+                    <input type="radio" name="filter" value="magazine" /> Magazine
+                  </label>
+                </li>
+                <li>
+                  <label>
+                    <input type="radio" name="filter" value="list" /> List: Innovators Under 35
+                  </label>
+                </li>
+                <li>
+                  <label>
+                    <input type="radio" name="filter" value="events" /> Conferences and Events
+                  </label>
+                </li>
+              </ul>
+            </form>
+          </aside>
+
+          <div class="filters news">
+            <div class="editions">
+              <ul>
+                <li class="ar" data-edition="ar" data-lang="es"><a href="http://es.technologyreview.com">Argentina</a></li>
+                <li class="br" data-edition="br" data-lang="pt"><a href="http://pt.technologyreview.com">Brasil</a></li>
+                <li class="co" data-edition="co" data-lang="es"><a href="http://es.technologyreview.com">Colombia</a></li>
+                <li class="de" data-edition="de" data-lang="de"><a href="http://de.technologyreview.com">Deutschland</a></li>
+              </ul>
+              <ul>
+                <li class="it" data-edition="it" data-lang="it"><a href="http://it.technologyreview.com">Italia</a></li>
+                <li class="mx" data-edition="mx" data-lang="es"><a href="http://es.technologyreview.com">México</a></li>
+                <li class="pt" data-edition="pt" data-lang="pt"><a href="http://pt.technologyreview.com">Portugal</a></li>
+                <li class="es" data-edition="es" data-lang="es"><a href="http://es.technologyreview.com">Espa&ntilde;a</a></li>
+              </ul>
+              <ul>
+                <li class="us" data-edition="us" data-lang="en"><a href="http://www.technologyreview.com">United States</a></li>
+                <li class="uy" data-edition="uy" data-lang="es"><a href="http://es.technologyreview.com">Uruguay</a></li>
+                <li class="cn" data-edition="cn" data-lang="zh"><a href="http://cn.technologyreview.com">&#x4E2D;&#x56FD;&#x5927;&#x9646;</a></li>
+                <li class="pa" data-edition="pa" data-lang="ar"><a href="http://www.technologyreviewpanarab.com">Pan Arab</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="more">
+            <h3>More Ways to Connect</h3>
+            <p><a href="http://www.mitef.org/">Discover one of our 28 local entrepreneurial communities &raquo;</a></p>
+            <p class="no-margin"><a href="/connect/">Be the first to know</a> as we launch in new countries and markets around the globe.</p>
+            <p class="mini no-margin">Interested in <a href="/contact/submit/?type=internationalpartnerships">bringing MIT Technology Review to your local market?</a></p>
+          </div>
+        </section>
+
+        <section id="tr-global-search">
+          <form action="/search/" method="get" accept-charset="UTF-8"><div><div class="container-inline">
+            <div class="form-item form-type-textfield form-item-search-block-form">
+              <label class="element-invisible" for="edit-search-block-form--2">
+                Search
+              </label>
+              <input title="Enter the terms you wish to search for." onblur="if (this.value == &#039;&#039;) {this.value = &#039;Search&#039;;}" onfocus="this.value = &#039;&#039;;" onclick="this.value = &#039;&#039;;" type="text" id="edit-search-block-form--2" name="keys" value="Search" size="30" maxlength="128" class="form-text" />
+            </div>
+            <div class="form-actions form-wrapper" id="edit-actions">
+              <input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" />
+            </div>
+            </div>
+            </div>
+          </form>
+        </section>
+
+        <section id="tr-global-reads">
+                                    <a class="login" href="/login/" data-overlay="modal">Log In / Join</a>
+                              </section>
+
+        <nav id="tr-global-reads-collapsed">
+          <ul class="reads">
+            <li><a href="/stream/">New</a></li>
+            <li><a href="/popular/">Popular</a></li>
+            <li><a href="/my/">Login / Join</a></li>
+          </ul>
+        </nav>
+      </div>
+      <div class="backing">
+      </div>
+    </header>
+
+    <section id="tr-masthead">
+      <div class="wrapper">
+        <h2 id="logotype"><a href="/"><span>MIT Technology Review</span><img src="/sites/all/themes/mittr/global/i/logo-mittr-black.png" alt="MIT Technology Review - logo" /></a></h2>
+                <nav id="tr-main-nav">
+          <div id="menu_nav_home_button" >
+            <a href="/" class="candrop">
+              <span>Home</span>
+              <strong>News &amp; Analysis</strong>
+              <em>▾</em>
+            </a>
+
+            <div id="menu_nav_home"></div><!-- /menu_nav_home -->
+          </div>
+
+        <ul class="static-nav">
+  <li><a href="/features/">Features</a></li>
+  <li><a href="/views/">Views</a></li>
+  <li><a href="/multimedia/">Multimedia</a></li>
+  <li><a href="/discussions/">Discussions</a></li>
+  <li><a href="/topics/">Topics</a></li>
+</ul>
+
+    <div class="region region-nav-popular-bar">
+    <div id="block-views-popular-bar-nav" class="block block-views">
+
+    
+  <div >
+    <div class="view view-popular-bar view-id-popular_bar view-display-id-nav view-dom-id-a20c2ce2cea8c1fbb7fefafced148d41">
+        
+  
+  
+          <div class="view-content">
+          <ul class="popular-topics off">
+  <li><a href="/stream/?sort=popular">Popular</a>:</li>
+            <li><a href="/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/">Robot Teammates</a></li>
+      <li><a href="/news/538136/a-transformer-wins-darpas-2-million-robotics-challenge/">DARPA Winner</a></li>
+      <li><a href="/news/537916/rebooting-the-human-genome/">Graph Genome</a></li>
+      <li><a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/">Lithium Technologies</a></li>
+      <li><a href="/news/537936/the-quest-to-engineer-the-perfect-potato/">Super GMO Potato</a></li>
+      <li><a href="/view/537971/seven-must-read-stories-week-ending-june-6-2015/">Seven Reads (June 1-June 6)</a></li>
+      <li><a href="/news/537911/new-device-could-be-a-safer-alternative-to-lung-ventilators/">Artificial Lung</a></li>
+    </ul><!-- /.popular-topics -->
+        </div>
+      
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+
+<div id="navbar-promo-1" class="navbar-promo off">
+  <a href="/getinsider/pricing/" class="clickevent" data-click-category="Insider" data-click-action="Clicked Subscribe" data-click-label="Global Nav Bar - Magazine Cover">
+    <img src="/sites/all/themes/mittr/assets/magazine/current-issue/107wide.jpg?d=2015-05" alt="cover of latest MIT Technology Review magazine issue" />
+    <span><strong>Subscribe</strong></span>
+  </a>
+</div>
+<div id="navbar-promo-2" class="navbar-promo off">
+  <a href="https://ssl.drgnetwork.com/ecom/MTR/app/live/subscriptions?&org=MTR&publ=TR&key_code=TRPRD12&type=S" class="clickevent" data-click-category="Special Publications" data-click-action="Click Buy Now" data-click-label="Global Nav Bar - Twelve Tomorrows 2014 Cover">
+    <img src="http://www.technologyreview.com/sites/default/files/publications/twelve-tomorrows/twelvetomorrows_2014_107.jpg" alt="cover of 2014 edition of Twelve Tomorrows" />
+    <span><strong>Buy Now</strong></span>
+  </a>
+</div>
+<div id="navbar-promo-3" class="navbar-promo off">
+  <a href="/emtech/digital/15/register/" class="clickevent" data-click-category="Events" data-click-action="Clicked Register Now" data-click-label="Global Nav Bar – EmTech Digital 2015">
+    <p class="event-name"><img src="/sites/all/themes/mittr/assets/events/logo-emtech-digital-white-text-navbar-promo.png" width="88" height="38" alt="EmTech Digital"></p>
+    <p>June 1-2, 2015<br>St. Regis Hotel<br>San Francisco</p>
+  </a>
+  <a href="/emtech/digital/15/video/" class="clickevent" data-click-category="Events" data-click-action="Clicked Watch Video" data-click-label="Global Nav Bar – EmTech Digital 2015"><strong>Watch Video</strong></a>
+</div>
+        </nav>
+        <div style="clear: both;">&nbsp;</div>
+      </div>
+    </section>
+
+    
+    <header id="tr-global-header-sticky">
+      <div class="wrapper">
+        <nav>
+          <ul>
+            <!-- home menu -->
+            <li id="menu_sticky_home_button">
+              <a href="/" class="home candrop"><span>Home</span></a>
+
+              <div id="menu_sticky_home">
+                <div class="wrapper">
+                  <div class="column menu">
+                    <ul>
+                      <li><a href="/" class="on cta-block">Home</a></li>
+                      <li><a href="/biomedicine">Biomedicine</a></li>
+                      <li><a href="/business/">Business</a></li>
+                      <li><a href="/computing/">Computing</a></li>
+                      <li><a href="/energy/">Energy</a></li>
+                      <li><a href="/materials/">Materials</a></li>
+                      <li><a href="/mobile/">Mobile</a></li>
+                    </ul>
+                  </div>
+
+                  <div class="name">
+                    <p><a href="/">Top Stories</a></p>
+                  </div>
+
+                  <div class="columns">
+                                            <div class="region region-nav-top-stories-menu">
+    <div id="block-mittr-ui-mittr-ui-nav-top-stories-menu" class="block block-mittr-ui">
+
+    
+  <div >
+    <div class="column large-thumb">
+      <article>
+      <a href="http://www.technologyreview.com/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/"><img src="http://www.technologyreview.com/sites/default/files/styles/menu_homepage_top_stories_large_thumb/public/images/darpa.thumb_.gradientx392.jpg?itok=Ba7JnJrH" alt="" /></a>
+        <h2>Photo Essay</h2>
+    <a href="http://www.technologyreview.com/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/"><h1>Robot-Human Teamwork</h1></a>
+      <h3>Will Knight</h3>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_538156" data-lf-min-comments="10" style="display: none;">1</p></article>
+  </div><!-- /.column /.large-thumb -->
+
+<div class="column no-thumbs">
+      <ul>
+              <li>
+          <article>
+  <a href="http://www.technologyreview.com/news/538086/race-for-a-smart-contact-lens-gets-new-entry-from-a-thiel-dropout/"><h1>Startup to Help Diabetics Measure Glucose</h1></a>
+      <h3>Caleb Garling</h3>
+  </article>
+        </li>
+              <li>
+          <article>
+  <a href="http://www.technologyreview.com/news/538136/a-transformer-wins-darpas-2-million-robotics-challenge/"><h1>Transformer Wins DARPA Challenge</h1></a>
+      <h3>Will Knight</h3>
+  </article>
+        </li>
+              <li>
+          <article>
+  <a href="http://www.technologyreview.com/view/538091/open-letter-on-the-digital-economy/"><h1>Open Letter on the Digital Economy</h1></a>
+      <h3>Erik Brynjolfsson, Andrew McAfee, Steve Jurvetson, et al</h3>
+  </article>
+        </li>
+              <li>
+          <a href="/" class="cta">See More Top Stories</a>
+    </ul>
+  </div><!-- /.column /.no-thumbs -->
+  </div>
+</div>
+  </div>
+                                      </div><!-- /columns -->
+                </div><!-- /wrapper -->
+              </div><!-- /menu_sticky_home -->
+            </li><!-- home menu -->
+
+            <!-- "menu" menu -->
+            <li id="menu_sticky_sections_button">
+              <a href="/" class="sections candrop"><span>Menu</span></a>
+
+              <div id="menu_sticky_sections">
+                <div class="panel-list">
+                  <ul>
+                    <li class="news">
+                      <a href="/"  class="active">News &amp; Analysis</a>
+                    </li>
+                    <li class="magazine">
+                      <a href="/magazine/">Magazine</a>
+                    </li>
+                    <li class="lists">
+                      <a href="/lists/">Lists</a>
+                    </li>
+                    <li class="events">
+                      <a href="/events/">Events</a>
+                    </li>
+                    <li class="about">
+                      <a href="/about/" >About</a>
+                    </li>
+                    <li class="more">
+                      <a href="#">More</a>
+                    </li>
+                  </ul>
+                </div><!-- /panel-list -->
+
+                <div class="panel-holder">
+                  <div class="panel-contents news on">
+                    <ul class="static-nav">
+  <li><a href="/features/">Features</a></li>
+  <li><a href="/views/">Views</a></li>
+  <li><a href="/multimedia/">Multimedia</a></li>
+  <li><a href="/discussions/">Discussions</a></li>
+  <li><a href="/topics/">Topics</a></li>
+</ul>
+
+    <div class="region region-nav-popular-bar">
+      <div class="region region-nav-popular-bar">
+    <div id="block-views-popular-bar-nav" class="block block-views">
+
+    
+  <div >
+    <div class="view view-popular-bar view-id-popular_bar view-display-id-nav view-dom-id-a20c2ce2cea8c1fbb7fefafced148d41">
+        
+  
+  
+          <div class="view-content">
+          <ul class="popular-topics off">
+  <li><a href="/stream/?sort=popular">Popular</a>:</li>
+            <li><a href="/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/">Robot Teammates</a></li>
+      <li><a href="/news/538136/a-transformer-wins-darpas-2-million-robotics-challenge/">DARPA Winner</a></li>
+      <li><a href="/news/537916/rebooting-the-human-genome/">Graph Genome</a></li>
+      <li><a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/">Lithium Technologies</a></li>
+      <li><a href="/news/537936/the-quest-to-engineer-the-perfect-potato/">Super GMO Potato</a></li>
+      <li><a href="/view/537971/seven-must-read-stories-week-ending-june-6-2015/">Seven Reads (June 1-June 6)</a></li>
+      <li><a href="/news/537911/new-device-could-be-a-safer-alternative-to-lung-ventilators/">Artificial Lung</a></li>
+    </ul><!-- /.popular-topics -->
+        </div>
+      
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+  </div>
+
+                  </div>
+
+                  <div class="panel-contents magazine ">
+                              <ul class="static-nav">
+            <li><a href="/magazine/">Current Issue</a></li>
+            <li><a href="/magazine/archive/">Past Issues</a></li>
+            <li><a href="/magazine/mitnews/">MIT News Magazine</a></li>
+            <li><a href="/magazine/editions/">International Editions</a></li>
+            <li><a href="/magazine/businessreports/">Business Reports</a></li>
+            <li><a href="/magazine/specialpublications/">Special Publications</a></li>
+          </ul>
+
+          <ul class="action-nav">
+            <li><a href="/subscribe/">Subscriptions &raquo;</a></li>
+          </ul>
+                  </div>
+
+                  <div class="panel-contents lists ">
+                    <ul class="static-nav">
+  <li><a href="/lists/smartest-companies/">Smartest Companies</a></li>
+  <li><a href="/lists/innovators-under-35/">Innovators Under 35</a></li>
+  <li><a href="/lists/technologies/">Breakthrough Technologies</a></li>
+</ul>
+
+<ul class="action-nav">
+  <li><a href="/lists/nominations/">Nominations &raquo;</a></li>
+</ul>
+                  </div>
+
+                  <div class="panel-contents events ">
+                              <ul class="static-nav">
+            <li><a href="/events/#events-upcoming">Upcoming Events</a></li>
+            <li><a href="/events/#partner-events">Partner Events</a></li>
+            <li><a href="http://www.emtechmit.com">Emtech MIT</a></li>
+            <li><a href="http://www.mitef.org">MIT Enterprise Forum</a></li>
+          </ul>
+                  </div>
+
+                  <div class="panel-contents about ">
+                              <ul class="static-nav">
+            <li><a href="/about/team/">Our Team</a></li>
+            <li><a href="/careers/">Join Us</a></li>
+            <li><a href="/pressroom/">Press Room</a></li>
+            <li><a href="/awards/">Awards</a></li>
+            <li><a href="/media/">Advertise</a></li>
+            <li><a href="/about/permissions/">Permissions</a></li>
+            <!--<li><a href="/about/international-partners">International</a></li>-->
+            <li><a href="/contact/">Contact Us</a></li>
+          </ul>
+
+          <ul class="action-nav">
+            <li><a href="/support/">Customer Support &raquo;</a></li>
+          </ul>
+                  </div>
+
+                  <div class="panel-contents more ">
+                    <ul class="static-nav">
+                      <li><a href="/support/">Support</a></li>
+                      <li><a href="/contact/">Contact Us</a></li>
+                      <li><a href="http://www.emtechmit.com">Emtech MIT</a></li>
+                      <li><a href="http://www.mitef.org">MIT Enterprise Forum</a></li>
+                    </ul>
+                  </div>
+                </div><!-- /panel-holder -->
+              </div><!-- / menu_sticky_sections -->
+            </li><!-- "menu" menu -->
+
+            <!-- insider menu -->
+            <li id="menu_sticky_insider_button">
+              <a href="/getinsider/" class="insider"><span>Insider</span></a><!-- add back: class=candrop -->
+              <div id="menu_sticky_insider"><!-- insider dropdown options --></div><!-- / menu_sticky_insider -->
+            </li><!-- /insider menu -->
+
+            <!-- connect menu -->
+            <li id="menu_sticky_connect_button">
+              <a href="/connect/" class="connect"><span>Connect</span></a><!-- add back: class=candrop -->
+              <div id="menu_sticky_connect"><!-- connect dropdown options --></div><!-- / menu_sticky_connect -->
+            </li><!-- /connect menu -->
+          </ul>
+          <ul class="the-feed-header">
+                          <li class="active"><a href="/stream/">The Latest</a></li>
+              <li><a href="/popular/">Popular</a></li>
+              <li><a href="/stream/?sort=shared">Most Shared</a></li>
+                        <li class="my-profile"><a class="login" href="/my/">My Profile</a></li>
+          </ul>
+        </nav>
+      </div><!-- /wrapper -->
+      <div class="backing"></div>
+    </header>
+    
+<section id="warning-bar">
+  <div class="wrapper">
+    <p><strong>Unsupported browser:</strong> Your browser does not meet modern web standards. <a href="http://html5test.com/" target="_blank" onclick="_gaq.push(['_trackEvent', 'warning-bar: unsupported browser', 'click', 'http://html5test.com/']);">See how it scores &raquo;</a></p>
+  </div>
+</section>
+
+    
+  
+  <div id="page-wrapper"><div id="page">
+
+    
+    <div id="main-wrapper"><div id="main" class="clearfix">
+
+      <div id="content" class="column"><div class="section">
+        <a id="main-content"></a>
+                                <div class="tabs"></div>                        
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div >
+    
+
+        <section class="ad-bar gray">
+      <div class="wrapper">
+        <div id="dfp-ad-tr_www_head_post_nav_landscape-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-tr_www_head_post_nav_landscape" class="dfp-tag-wrapper" data-cb-ad-id="Head post nav landscape">
+  <script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.display("dfp-ad-tr_www_head_post_nav_landscape");
+  });
+  </script>
+</div>
+</div>      </div>
+    </section>
+  
+<div class="insider-status" data-conditional-content="insider-content" rv-if="access" rv-class-visible="action">
+  <div class="inner">
+    <p>{ action.text }</p>
+  </div>
+</div>
+
+
+<article id="main-article" class=" news mobile">
+
+    
+    <div class="wrapper">
+
+          <div class="sidebar left">
+        <script type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4df12eda07a410ab&async=1"></script>
+<script>
+var addthis_share_details = {
+  url: "http:\/\/www.technologyreview.com\/news\/406809\/bizarre-bacterial-creations\/",
+  templates: {
+    twitter: "Bizarre Bacterial Creations {{url}} \u003E@TechReview"  }
+};
+</script>
+<ul id="sharing-bar">
+      <li id="sb-comment"><a href="#comments" title="Jump to Comments">
+        <div class="icon">Comments</div>
+      </a></li>
+  
+  
+  <li id="sb-mail"><a class="atbutton addthis_button_email" title="Share by Email">
+      <div class="icon">Email</div>
+    </a></li>
+  <li id="sb-at-1"><a class="addthis_button_preferred_1" title="Share on ...">
+      <div class="icon">Service</div>
+    </a></li>
+  <li id="sb-at-2"><a class="addthis_button_preferred_2" title="Share on ...">
+      <div class="icon">Service</div>
+    </a></li>
+  <li id="sb-share"><a class="atbutton addthis_button" title="More Sharing Options">
+      <div class="icon">More Share</div>
+    </a></li>
+    <li id="sb-print"><a href="#print" title="Print">
+      <div class="icon">Print</div>
+    </a></li>
+</ul>
+      </div>
+    
+    <header class="article-meta" >
+
+              <div class="meta-bar">
+  <div class="sticky-wrap">
+    <h1>Bizarre Bacterial Creations</h1>
+          <h2>
+  <a href="/biomedicine/">
+          Biomedicine        News  </a>
+  </h2>
+                    <ul>
+          <li class="icon-comment">
+            <a href="#comments">
+              <span class="livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_17716" data-lf-format-singular="@count comment" data-lf-format-plural="@count comments" data-lf-display-parents="ul">7 comments</span>            </a>
+          </li>
+        </ul>
+        </div>
+</div>
+      
+      
+      
+      
+      
+        <h1>Bizarre Bacterial Creations</h1>
+                  <p class="intro">
+      Banana-scented bacteria, engineered to order, are just one offering at this weekend’s International Genetically Engineered Machine competition.  </p>
+        
+        
+      
+      
+              <ul class="byline">
+  <li>
+                  By <a href="/contributor/emily-singer/">Emily Singer</a> on November 3, 2006                </li>
+</ul>      
+      
+      
+      
+      
+      <div class="clearfix"></div>
+
+    </header>
+
+    
+    
+    
+    
+    
+    <div class="sidebar right">
+
+                                <aside class="ad-right">
+            <div id="dfp-ad-tr_www_body_rail_right_top_portrait-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-tr_www_body_rail_right_top_portrait" class="dfp-tag-wrapper" data-cb-ad-id="Body rail right top portrait">
+  <script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.display("dfp-ad-tr_www_body_rail_right_top_portrait");
+  });
+  </script>
+</div>
+</div>          </aside>
+              
+      
+      
+      
+    </div>
+
+                <section class="body"><aside class="img-left">
+  <img src="http://www.technologyreview.com/sites/default/files/legacy/bananalg.gif" width="180" height="254" alt="" />  </aside>
+    <aside class="caption-left">
+            <p >E. coli bacteria engineered to smell like ripe bananas are just one of the designed biological devices to be presented at this weekend’s synthetic-biology competition. (Credit: Istockphoto/Douglas Freer)</p>
+    </aside>
+  
+Anyone who has ever smelled <i>E. coli</i> bacteria knows that they smell bad. Putridly bad. So, a group of student bioengineers at MIT set out to sweeten the scent of this commonly used lab bacteria. The team constructed its creation from a collection of biological “parts”–bits of DNA that, when inserted into living organisms, can make the organisms glow, detect light, and perform a number of other unusual functions. The team will showcase its sweet-smelling bug this weekend at <a href="http://www.igem2006.com/" target="_blank">the International Genetically Engineered Machine</a> competition (iGEM) at MIT, along with 37 other student groups from around the world. <p></p><p>While the projects are executed largely by undergraduate students (with guidance from faculty and graduate-student advisors), the designs represent some of the most complex biologically engineered machines to date–and they promise to further the field of synthetic biology, a newly emerging discipline that views living systems from an engineering point of view. </p>  <aside class="ad-left">
+              <div id="dfp-ad-tr_www_body_content_portrait_in_story-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-tr_www_body_content_portrait_in_story" class="dfp-tag-wrapper" data-cb-ad-id="Body content portrait in story">
+  <script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.display("dfp-ad-tr_www_body_content_portrait_in_story");
+  });
+  </script>
+</div>
+</div>      </aside>
+<p></p><p>The MIT team, for example, tosses out wacky applications for its technology: minty-fresh foot fungus or baker’s yeast that smells of bananas. But its real goal is the construction of functional biological parts. “The key idea here is to develop a library of composable parts which we think of in the same way as Lego blocks,” says<a href="http://people.csail.mit.edu/tk/" target="_blank"> Tom Knight,</a> an engineer at MIT who cofounded the competition with MIT bioengineer <a href="http://web.mit.edu/be/people/endy.htm" target="_blank">Drew Endy</a>. (Both advise the MIT team.) “These parts can be assembled into more-complex pieces, which in many cases are functional when inserted into living cells.”</p><p></p><p>To create the scented bacteria, the students looked for different genes that convert chemicals naturally made by bacteria into chemical precursors of aromatic compounds, as well as genes that convert the precursors to the aromatics themselves – methyl salicylate, commonly known as oil of wintergreen, and isoamyl acetate, a component of the ripe-banana smell. The genes were then hooked up to genetic controllers, known as promoters, which determine when and where that gene is turned on. A gene from a plant, for example, might be controlled by a promoter from bacteria. </p><p></p><p>The various DNA components, collected from fellow scientists and from a genetic repository housed at MIT, were then embedded in a circular string of DNA and inserted into bacteria. The end result is a new strain of <i>E. coli</i> that smells of mint and bananas. The team also eliminated the gene responsible for <i>E. coli</i>’s natural stink.</p><p></p><p></p></section>    
+    
+    
+          <section class="pagination">
+        <div class="smart-paging-pager"><h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/news/406809/bizarre-bacterial-creations/page/2/">2</a></li>
+<li class="pager-next"><a title="Go to next page" href="/news/406809/bizarre-bacterial-creations/page/2/">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/news/406809/bizarre-bacterial-creations/page/2/">last »</a></li>
+</ul></div></div>      </section>
+    
+  </div>
+
+  
+      
+</article>
+
+
+
+
+  <section class="comments article">
+    <h3><a href="#comments">
+            <span class="has-comments">
+        <span class="livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_17716" data-lf-format-singular="&lt;span class=&quot;number&quot;&gt;@count&lt;/span&gt; comment." data-lf-format-plural="&lt;span class=&quot;number&quot;&gt;@count&lt;/span&gt; comments." data-lf-display-parents=".has-comments" data-lf-display-alt-parents="a" data-lf-display-alt=".no-comments"><span class="number">7</span> comments.</span>        <span class="link">Share your thoughts &raquo;</span>
+      </span>
+      <span class="no-comments" style="display: none;">
+        <span class="number">0</span>
+        comments
+        <span class="lowercase">about this story.</span>
+        <span class="link">Start the discussion &raquo;</span>
+      </span>
+    </a></h3>
+  </section>
+
+
+
+  <section id="authors" class="article">
+    
+  <p class="credits">
+    Tagged:
+          <a href="/biomedicine/">Biomedicine</a>      </p>
+
+<p class="credits">
+      <a href="/about/permissions/">Reprints</a>
+    and    <a href="/about/permissions/" class="rightslink" target="_blank">Permissions</a>
+    |
+    <a href="/contact/submit/?type=editorfeedback">Send feedback to the editor</a>
+
+    <!-- start: rightlink custom link -->
+    <script type="text/javascript">
+      $().ready(function() {
+
+        var rightslinkURI = "https://s100.copyright.com/AppDispatchServlet?publisherName=mittechreview&publication=1099-274X&orderBeanReset=true" +
+          "&publicationDate=" + encodeURI("2006-11-03") +
+          "&author=" + encodeURI("Emily Singer") +
+          "&title=" + encodeURI("Bizarre Bacterial Creations") +
+          "&contentid=" + encodeURI("406809") +
+                      "&cc=" + encodeURI("Biomedicine") +
+                                "&ap=" + encodeURI("News") +
+                              "&end";
+
+        $("a.rightslink").prop('href', rightslinkURI);
+
+      });
+    </script>
+
+  </p>
+  </section>
+
+  <section id="related" class="article">
+    <div class="wrapper">
+              <div class="panels">
+
+  <ul class="tab-nav">
+          <li class="active"><a href="#">Related stories</a></li>
+              <li><a href="#">You may have missed</a></li>
+              <li><a href="#">More from this author</a></li>
+      </ul>
+
+  
+      
+    <div class="panel related">
+      
+              <div class="col">
+          <ul class="articles-grid">
+                                        <li>
+                <a href="/news/411165/engineering-edible-bacteria/">
+  <article >
+          <img src="http://www.technologyreview.com/sites/default/files/styles/185x185/public/legacy/lacto_x116.jpg?itok=FkywmxlO" alt="" />
+        <h1>Engineering Edible Bacteria</h1>
+    <div class="meta">
+              <p>Synthetic biology could yield microbes that fight cavities and produce vitamins.</p>
+            <p class="cta">Continue</p>
+      <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_21654" data-lf-min-comments="10" style="display: none;">2</p>    </div>
+  </article>
+</a>
+              </li>
+                      </ul>
+        </div><!-- /.col -->
+          
+                                                      <div class="col">
+            <ul class="articles-list">
+                                                                  <li>
+                  
+<a href="/news/537936/the-quest-to-engineer-the-perfect-potato/">
+  <article>
+    <h1>The Quest to Engineer the Perfect Potato</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537936" data-lf-min-comments="10" style="display: none;">9</p>
+  </article>
+</a>
+                </li>
+                                                                      <li>
+                  
+<a href="/news/537916/rebooting-the-human-genome/">
+  <article>
+    <h1>Rebooting the Human Genome</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537916" data-lf-min-comments="10">10</p>
+  </article>
+</a>
+                </li>
+                                                                      <li>
+                  
+<a href="/news/537911/new-device-could-be-a-safer-alternative-to-lung-ventilators/">
+  <article>
+    <h1>New Device Could Be a Safer Alternative to Lung Ventilators</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537911" data-lf-min-comments="10" style="display: none;">5</p>
+  </article>
+</a>
+                </li>
+                                                                      <li>
+                  
+<a href="/news/537416/single-cells-analyzed-at-unprecedented-scale/">
+  <article>
+    <h1>Can We Identify Every Kind of Cell in the Body?</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537416" data-lf-min-comments="10" style="display: none;">4</p>
+  </article>
+</a>
+                </li>
+                                                </ul>
+          </div><!-- /.col -->
+                                                          <div class="col">
+            <ul class="articles-list">
+                                                                  <li>
+                  
+<a href="/news/537081/apple-has-plans-for-your-dna/">
+  <article>
+    <h1>Apple Has Plans for Your DNA</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537081" data-lf-min-comments="10">13</p>
+  </article>
+</a>
+                </li>
+                                                                      <li>
+                  
+<a href="/news/537166/a-3-d-printed-implant-saves-lives/">
+  <article>
+    <h1>A 3-D-Printed Implant Saves Lives</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537166" data-lf-min-comments="10" style="display: none;">5</p>
+  </article>
+</a>
+                </li>
+                                                                      <li>
+                  
+<a href="/news/536971/chinese-team-reports-gene-editing-human-embryo/">
+  <article>
+    <h1>Chinese Team Reports Gene-Editing Human Embryos</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_536971" data-lf-min-comments="10" style="display: none;">1</p>
+  </article>
+</a>
+                </li>
+                                                                      <li>
+                  
+<a href="/news/536756/a-potato-made-with-gene-editing/">
+  <article>
+    <h1>A Potato Made with Gene Editing</h1>
+    <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_536756" data-lf-min-comments="10" style="display: none;">8</p>
+  </article>
+</a>
+                </li>
+                                                </ul>
+          </div><!-- /.col -->
+                              
+    </div><!-- /.panel related -->
+      
+  
+      <div class="panel">
+        <ul class="articles-grid">
+          <li>
+        <a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/">
+  <article>
+          <img src="http://www.technologyreview.com/sites/default/files/styles/homepage_you_may_have_missed/public/images/lithium.gradient2x392.jpg?itok=fE2wVA2b" width="185" height="185" alt="" />        <h1>Quest to Mine Seawater for Lithium Advances</h1>
+          <div class="meta">
+        <p>Predicted lithium shortages are leading to novel technologies for recovering the element, now found mostly in salt lakes in...</p>
+        <p class="cta">Continue</p>
+        <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_538036" data-lf-min-comments="10" style="display: none;">4</p>      </div>
+          </article>
+</a>      </li>
+          <li>
+        <a href="/news/537936/the-quest-to-engineer-the-perfect-potato/">
+  <article>
+          <img src="http://www.technologyreview.com/sites/default/files/styles/homepage_you_may_have_missed/public/images/miraclepotatox392.gif?itok=qlVVfi1Q" width="185" height="185" alt="" />        <h1>The Quest to Engineer the Perfect Potato</h1>
+          <div class="meta">
+        <p>Researchers in the U.K. aim for a new commercial potato that resists many of the worst vulnerabilities of potato crops...</p>
+        <p class="cta">Continue</p>
+        <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537936" data-lf-min-comments="10" style="display: none;">9</p>      </div>
+          </article>
+</a>      </li>
+          <li>
+        <a href="/featuredstory/429690/why-we-cant-solve-big-problems/">
+  <article>
+          <img src="http://www.technologyreview.com/sites/default/files/styles/homepage_you_may_have_missed/public/images/essayx378.jpg?itok=_xaLUddk" width="185" height="185" alt="" />        <h1>Why We Can&#039;t Solve Big Problems</h1>
+          <div class="meta">
+        <p>Has technology failed us?</p>
+        <p class="cta">Continue</p>
+        <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_41563" data-lf-min-comments="10">247</p>      </div>
+          </article>
+</a>      </li>
+          <li>
+        <a href="/news/537931/darpas-robot-challenge-may-equip-robots-to-one-day-walk-among-us/">
+  <article>
+          <img src="http://www.technologyreview.com/sites/default/files/styles/homepage_you_may_have_missed/public/images/darpa.walkup.gradientx392.jpg?itok=2PARin5d" width="185" height="185" alt="" />        <h1>DARPA’s Robot Challenge May Equip Robots to One Day Walk Among Us</h1>
+          <div class="meta">
+        <p>The DARPA challenge, designed to make robots disaster-ready, could have far-reaching technological benefits.</p>
+        <p class="cta">Continue</p>
+        <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537931" data-lf-min-comments="10" style="display: none;">0</p>      </div>
+          </article>
+</a>      </li>
+          <li>
+        <a href="/news/537916/rebooting-the-human-genome/">
+  <article>
+          <img src="http://www.technologyreview.com/sites/default/files/styles/homepage_you_may_have_missed/public/images/graph.genomex392.jpg?itok=i2fE1DC2" width="185" height="185" alt="" />        <h1>Rebooting the Human Genome</h1>
+          <div class="meta">
+        <p>The official map of the human genome can’t tell you everything about your genes. Does graph theory offer a better way?</p>
+        <p class="cta">Continue</p>
+        <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_537916" data-lf-min-comments="10">10</p>      </div>
+          </article>
+</a>      </li>
+          <li>
+        <a href="/review/522676/the-geopolitics-of-geoengineering/">
+  <article>
+          <img src="http://www.technologyreview.com/sites/default/files/styles/homepage_you_may_have_missed/public/images/david.keith_.reviewx519.png?itok=1FyDFjfy" width="185" height="185" alt="" />        <h1>The Geopolitics of Geoengineering</h1>
+          <div class="meta">
+        <p>Does humanity’s tightening grip on the fate of nature portend new sources of global conflict?</p>
+        <p class="cta">Continue</p>
+        <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_522676" data-lf-min-comments="10">22</p>      </div>
+          </article>
+</a>      </li>
+      </ul><!-- /.articles-grid -->
+<!-- story: you may have missed: generated: 2015-06-09T06:00:38-04:00 -->
+    </div><!-- /.panel -->
+    
+      <div class="panel">
+              
+  
+  
+                  <div class="col author">
+  <a href="/contributor/emily-singer/">
+          <img src="http://www.technologyreview.com/sites/default/files/styles/story_explore_author/public/avatars/emily_singer.jpg?itok=gmFxceV4" alt="" />
+        <p class="name">
+      Emily Singer              <span>Guest Contributor</span>
+          </p>
+    <p class="cta">View Profile &raquo;</p>
+  </a>
+    <ul class="author-social-icons">
+        <li><a href="/contributor/emily-singer/rss/" class="social-rss" target="_blank">RSS</a></li>
+  </ul>
+</div><!-- /.col author -->
+                <div class="col">
+        <ul class="articles-list">
+              <li>
+            <a href="/lists/innovators-under-35/2013/inventor/christine-fleming/">
+              <article>
+                <h1>Christine Fleming | Innovators Under 35</h1>
+                              </article>
+            </a>
+          </li>
+                    <li>
+            <a href="/news/513441/microbes-can-mass-produce-malaria-drug/">
+              <article>
+                <h1>Microbes Can Mass-Produce Malaria Drug</h1>
+                <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_42836" data-lf-min-comments="10" style="display: none;">3</p>              </article>
+            </a>
+          </li>
+                    <li>
+            <a href="/news/512956/gut-microbes-could-help-us-lose-weight/">
+              <article>
+                <h1>Gut Microbes Could Help Us Lose Weight</h1>
+                <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_42753" data-lf-min-comments="10">23</p>              </article>
+            </a>
+          </li>
+                    <li>
+            <a href="/view/512221/scientists-create-tadpoles-that-see-from-their-tails/">
+              <article>
+                <h1>Scientists Create Tadpoles That See from Their Tails</h1>
+                <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="blogpost_29125" data-lf-min-comments="10" style="display: none;">1</p>              </article>
+            </a>
+          </li>
+                      </ul>
+      </div><!-- /col -->
+                <div class="col">
+        <ul class="articles-list">
+              <li>
+            <a href="/news/511916/brain-boosting-technique-might-help-some-functions-while-hurting-others/">
+              <article>
+                <h1>Brain-Boosting Technique Might Help Some Functions While Hurting Others</h1>
+                <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_42550" data-lf-min-comments="10" style="display: none;">6</p>              </article>
+            </a>
+          </li>
+                    <li>
+            <a href="/photoessay/426386/ghosts-in-the-machines/">
+              <article>
+                <h1>Ghosts in the Machines</h1>
+                <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="article_39201" data-lf-min-comments="10" style="display: none;">6</p>              </article>
+            </a>
+          </li>
+                    <li>
+            <a href="/view/426247/printing-bones-in-3-d/">
+              <article>
+                <h1>Printing Bones in 3-D</h1>
+                <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="blogpost_27378" data-lf-min-comments="10" style="display: none;">1</p>              </article>
+            </a>
+          </li>
+                    <li>
+            <a href="/photogallery/426224/disease-in-a-dish/">
+              <article>
+                <h1>Disease in a Dish</h1>
+                <p class="comment-count livefyre-commentcount" data-lf-site-id="296821" data-lf-article-id="nid_426224" data-lf-min-comments="10" style="display: none;">0</p>              </article>
+            </a>
+          </li>
+                          <li><a class="cta" href="/contributor/emily-singer/">See all from this author</a></li>
+                  </ul>
+      </div><!-- /col -->
+      <!-- story explore author: generated: 2015-06-04T01:44:32-04:00 --> 
+        
+  
+  
+  
+  
+  
+    </div><!-- /.panel -->
+  
+</div><!-- /.panels -->
+<!-- related: generated: 2015-06-09T06:36:41-04:00 -->
+                    <div class="feed-wrap">
+  <ul class="tab-nav">
+          <li class="active">
+        <a href="/stream/">
+          The Latest        </a>
+      </li>
+          <li>
+        <a href="/stream/?sort=popular">
+          Popular        </a>
+      </li>
+          <li>
+        <a href="/stream/?sort=shared">
+          Most Shared        </a>
+      </li>
+      </ul>
+  <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+  <div class="viewport">
+    <div id="the-feed" class="overview">
+              <div >
+          <ul class="articles-list">
+      <li>
+      <a href="/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/" title="The falls and fumbles of robots in the DARPA Challenge point to the remaining hurdles for human-robot interfaces.">
+  <article>
+          <h3><time datetime="2015-06-09T00:00:00-04:00" title="2015-06-09T00:00:00-04:00" class="ago">6 hours ago</time></h3>
+            <h1>Collaboration Between Humans and Machines Is Key at DARPA’s Robot Challenge</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538171/with-updates-siri-will-hopefully-be-brainier/" title="Siri, Apple’s Digital Assistant, will attempt to figure out what you want before you want it.">
+  <article>
+          <h3><time datetime="2015-06-08T16:48:00-04:00" title="2015-06-08T16:48:00-04:00" class="ago">13 hours ago</time></h3>
+            <h1>With Updates, Siri Will (Hopefully) Be Brainier</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538106/need-top-technology-talent-look-online/">
+  <article>
+              <h2>View from the Marketplace</h2>
+        <h1>Need Top Technology Talent? Look Online</h1>
+          <div class="sponsor">
+        Produced in partnership with         Upwork      </div>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/" title="Predicted lithium shortages are leading to novel technologies for recovering the element, now found mostly in salt lakes in South America.">
+  <article>
+          <h3><time datetime="2015-06-08T00:00:00-04:00" title="2015-06-08T00:00:00-04:00" class="ago">1 day ago</time></h3>
+            <h1>As Demand for Lithium Grows, the Race to Extract It Intensifies</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538131/other-interesting-arxiv-papers-week-ending-june-6-2015/" title="The best of the rest from the Physics arXiv this week.">
+  <article>
+          <h3><time datetime="2015-06-06T00:00:00-04:00" title="2015-06-06T00:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Other Interesting arXiv Papers (Week ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538086/race-for-a-smart-contact-lens-gets-new-entry-from-a-thiel-dropout/" title="With fresh funding from the Thiel Foundation, startup Medella is going up against Google and Microsoft to build a smart contact lens.">
+  <article>
+          <h3><time datetime="2015-06-05T13:40:00-04:00" title="2015-06-05T13:40:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Thiel Foundation Backs Startup Building a Smart Contact Lens</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538136/a-transformer-wins-darpas-2-million-robotics-challenge/" title="A robot capable of rolling on four wheels or walking on two legs shows the value of adaptability during the DARPA’s robot event.">
+  <article>
+          <h3><time datetime="2015-06-05T13:34:00-04:00" title="2015-06-05T13:34:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Transformer Triumphs in DARPA’s Robot Challenge</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/537971/seven-must-read-stories-week-ending-june-6-2015/" title="Another chance to catch the most interesting, and important, articles from the previous week on MIT Technology Review.">
+  <article>
+          <h3><time datetime="2015-06-05T13:00:00-04:00" title="2015-06-05T13:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Seven Must-Read Stories <br />(Week Ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/537976/recommended-from-around-the-web-week-ending-june-6-2015/" title="A roundup of the most interesting stories from other sites, collected by the staff at MIT Technology Review.">
+  <article>
+          <h3><time datetime="2015-06-05T12:00:00-04:00" title="2015-06-05T12:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Recommended from Around the Web (Week Ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538126/how-mobile-phone-data-reveals-the-true-toll-of-mass-layoffs/" title="Economists have never been able to study the economic shock of mass layoffs on the scale of towns, villages, and households. But anonymized mobile phone data is changing that.">
+  <article>
+          <h3><time datetime="2015-06-05T09:56:36-04:00" title="2015-06-05T09:56:36-04:00" class="ago">3 days ago</time></h3>
+            <h1>How Mobile Phone Data Reveals the True Toll of Mass Layoffs</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/537936/the-quest-to-engineer-the-perfect-potato/" title="Researchers in the U.K. aim for a new commercial potato that resists many of the worst vulnerabilities of potato crops around the world.">
+  <article>
+          <h3><time datetime="2015-06-05T00:00:00-04:00" title="2015-06-05T00:00:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>Genetic Engineers Seek to Develop Super-Resilient Potato Variety</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538121/hp-puts-the-future-of-computing-on-hold/" title="Plans by Hewlett-Packard for computers based on an exotic new electronic device called the memristor are scaled back.">
+  <article>
+          <h3><time datetime="2015-06-04T19:18:00-04:00" title="2015-06-04T19:18:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>HP Puts the Future of Computing On Hold</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538111/why-and-how-baidu-cheated-an-artificial-intelligence-test/" title="Machine learning gets its first cheating scandal.">
+  <article>
+          <h3><time datetime="2015-06-04T16:18:00-04:00" title="2015-06-04T16:18:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>Why and How Baidu Cheated an Artificial Intelligence Test</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538081/why-the-new-nsa-restrictions-wont-harm-national-security/" title="Intelligence and law enforcement agencies will have to appeal to a special court on a case-by-case basis for phone data, but it’s not likely to harm security.">
+  <article>
+          <h3><time datetime="2015-06-04T15:15:00-04:00" title="2015-06-04T15:15:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>NSA Phone Data Curtailment Won’t Stop Communication Surveillance</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538101/the-emerging-science-of-human-computation/" title="The Web has turned the wisdom of the crowd into a valuable, on-demand resource. Now scientists are asking how best to put crowdsourced cognition to work.">
+  <article>
+          <h3><time datetime="2015-06-04T15:06:31-04:00" title="2015-06-04T15:06:31-04:00" class="ago">4 days ago</time></h3>
+            <h1>The Emerging Science of Human Computation</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538091/open-letter-on-the-digital-economy/" title="A group of leading technologists, economists, and investors propose a new approach to help us adapt to new technologies.">
+  <article>
+          <h3><time datetime="2015-06-04T12:45:00-04:00" title="2015-06-04T12:45:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>How to Make the Digital Revolution More Fair</h1>
+      </article>
+</a>
+    </li>
+    <li>
+    <a href="/stream/" class="cta">See full archive</a>
+  </li>
+</ul><!-- /.articles-list -->
+        </div>
+              <div  style="display: none;">
+                  
+  
+  
+            <ul class="articles-list">
+      <li>
+      <a href="/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/" title="The falls and fumbles of robots in the DARPA Challenge point to the remaining hurdles for human-robot interfaces.">
+  <article>
+          <h3><time datetime="2015-06-09T00:00:00-04:00" title="2015-06-09T00:00:00-04:00" class="ago">6 hours ago</time></h3>
+            <h1>Collaboration Between Humans and Machines Is Key at DARPA’s Robot Challenge</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538171/with-updates-siri-will-hopefully-be-brainier/" title="Siri, Apple’s Digital Assistant, will attempt to figure out what you want before you want it.">
+  <article>
+          <h3><time datetime="2015-06-08T16:48:00-04:00" title="2015-06-08T16:48:00-04:00" class="ago">13 hours ago</time></h3>
+            <h1>With Updates, Siri Will (Hopefully) Be Brainier</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538106/need-top-technology-talent-look-online/">
+  <article>
+              <h2>View from the Marketplace</h2>
+        <h1>Need Top Technology Talent? Look Online</h1>
+          <div class="sponsor">
+        Produced in partnership with         Upwork      </div>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/" title="Predicted lithium shortages are leading to novel technologies for recovering the element, now found mostly in salt lakes in South America.">
+  <article>
+          <h3><time datetime="2015-06-08T00:00:00-04:00" title="2015-06-08T00:00:00-04:00" class="ago">1 day ago</time></h3>
+            <h1>As Demand for Lithium Grows, the Race to Extract It Intensifies</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538131/other-interesting-arxiv-papers-week-ending-june-6-2015/" title="The best of the rest from the Physics arXiv this week.">
+  <article>
+          <h3><time datetime="2015-06-06T00:00:00-04:00" title="2015-06-06T00:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Other Interesting arXiv Papers (Week ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538086/race-for-a-smart-contact-lens-gets-new-entry-from-a-thiel-dropout/" title="With fresh funding from the Thiel Foundation, startup Medella is going up against Google and Microsoft to build a smart contact lens.">
+  <article>
+          <h3><time datetime="2015-06-05T13:40:00-04:00" title="2015-06-05T13:40:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Thiel Foundation Backs Startup Building a Smart Contact Lens</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538136/a-transformer-wins-darpas-2-million-robotics-challenge/" title="A robot capable of rolling on four wheels or walking on two legs shows the value of adaptability during the DARPA’s robot event.">
+  <article>
+          <h3><time datetime="2015-06-05T13:34:00-04:00" title="2015-06-05T13:34:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Transformer Triumphs in DARPA’s Robot Challenge</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/537971/seven-must-read-stories-week-ending-june-6-2015/" title="Another chance to catch the most interesting, and important, articles from the previous week on MIT Technology Review.">
+  <article>
+          <h3><time datetime="2015-06-05T13:00:00-04:00" title="2015-06-05T13:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Seven Must-Read Stories <br />(Week Ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/537976/recommended-from-around-the-web-week-ending-june-6-2015/" title="A roundup of the most interesting stories from other sites, collected by the staff at MIT Technology Review.">
+  <article>
+          <h3><time datetime="2015-06-05T12:00:00-04:00" title="2015-06-05T12:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Recommended from Around the Web (Week Ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538126/how-mobile-phone-data-reveals-the-true-toll-of-mass-layoffs/" title="Economists have never been able to study the economic shock of mass layoffs on the scale of towns, villages, and households. But anonymized mobile phone data is changing that.">
+  <article>
+          <h3><time datetime="2015-06-05T09:56:36-04:00" title="2015-06-05T09:56:36-04:00" class="ago">3 days ago</time></h3>
+            <h1>How Mobile Phone Data Reveals the True Toll of Mass Layoffs</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/537936/the-quest-to-engineer-the-perfect-potato/" title="Researchers in the U.K. aim for a new commercial potato that resists many of the worst vulnerabilities of potato crops around the world.">
+  <article>
+          <h3><time datetime="2015-06-05T00:00:00-04:00" title="2015-06-05T00:00:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>Genetic Engineers Seek to Develop Super-Resilient Potato Variety</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538121/hp-puts-the-future-of-computing-on-hold/" title="Plans by Hewlett-Packard for computers based on an exotic new electronic device called the memristor are scaled back.">
+  <article>
+          <h3><time datetime="2015-06-04T19:18:00-04:00" title="2015-06-04T19:18:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>HP Puts the Future of Computing On Hold</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538111/why-and-how-baidu-cheated-an-artificial-intelligence-test/" title="Machine learning gets its first cheating scandal.">
+  <article>
+          <h3><time datetime="2015-06-04T16:18:00-04:00" title="2015-06-04T16:18:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>Why and How Baidu Cheated an Artificial Intelligence Test</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538081/why-the-new-nsa-restrictions-wont-harm-national-security/" title="Intelligence and law enforcement agencies will have to appeal to a special court on a case-by-case basis for phone data, but it’s not likely to harm security.">
+  <article>
+          <h3><time datetime="2015-06-04T15:15:00-04:00" title="2015-06-04T15:15:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>NSA Phone Data Curtailment Won’t Stop Communication Surveillance</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538101/the-emerging-science-of-human-computation/" title="The Web has turned the wisdom of the crowd into a valuable, on-demand resource. Now scientists are asking how best to put crowdsourced cognition to work.">
+  <article>
+          <h3><time datetime="2015-06-04T15:06:31-04:00" title="2015-06-04T15:06:31-04:00" class="ago">4 days ago</time></h3>
+            <h1>The Emerging Science of Human Computation</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538091/open-letter-on-the-digital-economy/" title="A group of leading technologists, economists, and investors propose a new approach to help us adapt to new technologies.">
+  <article>
+          <h3><time datetime="2015-06-04T12:45:00-04:00" title="2015-06-04T12:45:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>How to Make the Digital Revolution More Fair</h1>
+      </article>
+</a>
+    </li>
+    <li>
+    <a href="/stream/" class="cta">See full archive</a>
+  </li>
+</ul><!-- /.articles-list -->
+      
+  
+  
+  
+  
+  
+        </div>
+              <div  style="display: none;">
+                  
+  
+  
+            <ul class="articles-list">
+      <li>
+      <a href="/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/" title="The falls and fumbles of robots in the DARPA Challenge point to the remaining hurdles for human-robot interfaces.">
+  <article>
+          <h3><time datetime="2015-06-09T00:00:00-04:00" title="2015-06-09T00:00:00-04:00" class="ago">6 hours ago</time></h3>
+            <h1>Collaboration Between Humans and Machines Is Key at DARPA’s Robot Challenge</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538171/with-updates-siri-will-hopefully-be-brainier/" title="Siri, Apple’s Digital Assistant, will attempt to figure out what you want before you want it.">
+  <article>
+          <h3><time datetime="2015-06-08T16:48:00-04:00" title="2015-06-08T16:48:00-04:00" class="ago">13 hours ago</time></h3>
+            <h1>With Updates, Siri Will (Hopefully) Be Brainier</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538106/need-top-technology-talent-look-online/">
+  <article>
+              <h2>View from the Marketplace</h2>
+        <h1>Need Top Technology Talent? Look Online</h1>
+          <div class="sponsor">
+        Produced in partnership with         Upwork      </div>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/" title="Predicted lithium shortages are leading to novel technologies for recovering the element, now found mostly in salt lakes in South America.">
+  <article>
+          <h3><time datetime="2015-06-08T00:00:00-04:00" title="2015-06-08T00:00:00-04:00" class="ago">1 day ago</time></h3>
+            <h1>As Demand for Lithium Grows, the Race to Extract It Intensifies</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538131/other-interesting-arxiv-papers-week-ending-june-6-2015/" title="The best of the rest from the Physics arXiv this week.">
+  <article>
+          <h3><time datetime="2015-06-06T00:00:00-04:00" title="2015-06-06T00:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Other Interesting arXiv Papers (Week ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538086/race-for-a-smart-contact-lens-gets-new-entry-from-a-thiel-dropout/" title="With fresh funding from the Thiel Foundation, startup Medella is going up against Google and Microsoft to build a smart contact lens.">
+  <article>
+          <h3><time datetime="2015-06-05T13:40:00-04:00" title="2015-06-05T13:40:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Thiel Foundation Backs Startup Building a Smart Contact Lens</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538136/a-transformer-wins-darpas-2-million-robotics-challenge/" title="A robot capable of rolling on four wheels or walking on two legs shows the value of adaptability during the DARPA’s robot event.">
+  <article>
+          <h3><time datetime="2015-06-05T13:34:00-04:00" title="2015-06-05T13:34:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Transformer Triumphs in DARPA’s Robot Challenge</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/537971/seven-must-read-stories-week-ending-june-6-2015/" title="Another chance to catch the most interesting, and important, articles from the previous week on MIT Technology Review.">
+  <article>
+          <h3><time datetime="2015-06-05T13:00:00-04:00" title="2015-06-05T13:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Seven Must-Read Stories <br />(Week Ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/537976/recommended-from-around-the-web-week-ending-june-6-2015/" title="A roundup of the most interesting stories from other sites, collected by the staff at MIT Technology Review.">
+  <article>
+          <h3><time datetime="2015-06-05T12:00:00-04:00" title="2015-06-05T12:00:00-04:00" class="ago">3 days ago</time></h3>
+            <h1>Recommended from Around the Web (Week Ending June 6, 2015)</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538126/how-mobile-phone-data-reveals-the-true-toll-of-mass-layoffs/" title="Economists have never been able to study the economic shock of mass layoffs on the scale of towns, villages, and households. But anonymized mobile phone data is changing that.">
+  <article>
+          <h3><time datetime="2015-06-05T09:56:36-04:00" title="2015-06-05T09:56:36-04:00" class="ago">3 days ago</time></h3>
+            <h1>How Mobile Phone Data Reveals the True Toll of Mass Layoffs</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/537936/the-quest-to-engineer-the-perfect-potato/" title="Researchers in the U.K. aim for a new commercial potato that resists many of the worst vulnerabilities of potato crops around the world.">
+  <article>
+          <h3><time datetime="2015-06-05T00:00:00-04:00" title="2015-06-05T00:00:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>Genetic Engineers Seek to Develop Super-Resilient Potato Variety</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538121/hp-puts-the-future-of-computing-on-hold/" title="Plans by Hewlett-Packard for computers based on an exotic new electronic device called the memristor are scaled back.">
+  <article>
+          <h3><time datetime="2015-06-04T19:18:00-04:00" title="2015-06-04T19:18:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>HP Puts the Future of Computing On Hold</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538111/why-and-how-baidu-cheated-an-artificial-intelligence-test/" title="Machine learning gets its first cheating scandal.">
+  <article>
+          <h3><time datetime="2015-06-04T16:18:00-04:00" title="2015-06-04T16:18:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>Why and How Baidu Cheated an Artificial Intelligence Test</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/news/538081/why-the-new-nsa-restrictions-wont-harm-national-security/" title="Intelligence and law enforcement agencies will have to appeal to a special court on a case-by-case basis for phone data, but it’s not likely to harm security.">
+  <article>
+          <h3><time datetime="2015-06-04T15:15:00-04:00" title="2015-06-04T15:15:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>NSA Phone Data Curtailment Won’t Stop Communication Surveillance</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538101/the-emerging-science-of-human-computation/" title="The Web has turned the wisdom of the crowd into a valuable, on-demand resource. Now scientists are asking how best to put crowdsourced cognition to work.">
+  <article>
+          <h3><time datetime="2015-06-04T15:06:31-04:00" title="2015-06-04T15:06:31-04:00" class="ago">4 days ago</time></h3>
+            <h1>The Emerging Science of Human Computation</h1>
+      </article>
+</a>
+    </li>
+      <li>
+      <a href="/view/538091/open-letter-on-the-digital-economy/" title="A group of leading technologists, economists, and investors propose a new approach to help us adapt to new technologies.">
+  <article>
+          <h3><time datetime="2015-06-04T12:45:00-04:00" title="2015-06-04T12:45:00-04:00" class="ago">4 days ago</time></h3>
+            <h1>How to Make the Digital Revolution More Fair</h1>
+      </article>
+</a>
+    </li>
+    <li>
+    <a href="/stream/" class="cta">See full archive</a>
+  </li>
+</ul><!-- /.articles-list -->
+      
+  
+  
+  
+  
+  
+        </div>
+          </div><!-- /#the-feed /.overview -->
+  </div><!-- /.viewport -->
+</div><!-- /.feed-wrap -->
+<!-- homepage feed: story explore: generated: 2015-06-09T05:50:18-04:00 -->
+          </div><!-- /.wrapper -->
+  </section><!-- /#related -->
+
+
+
+
+<section id="comments" class="clearfix article">
+        <div class="sidebar right">
+      <aside id="comments-ad-right" class="ad-right sticky" data-stick-to="#comments">
+        <div id="dfp-ad-tr_www_body_rail_right_bottom_portrait_sticky-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-tr_www_body_rail_right_bottom_portrait_sticky" class="dfp-tag-wrapper" data-cb-ad-id="Body rail right bottom portrait sticky">
+  <script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.display("dfp-ad-tr_www_body_rail_right_bottom_portrait_sticky");
+  });
+  </script>
+</div>
+</div>      </aside>
+    </div>
+  
+  <div class="comments-container">
+    
+  <!--[ LiveFyre conversational comments ]-->
+  <div id="livefyre"></div>
+  <div id="livefyre-mobile"><a href="#">Show comments &raquo;</a></div>
+  <div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Conversation powered by Livefyre</a></div>
+  <script type="text/javascript">
+  (function($) {
+    $(function() {
+      livefyreInit(
+        // loginUrl
+        "/login/?destination=node/406809#comments",
+        // overlayLoginUrl
+        "/login/?return=livefyreOverlayReturn&destination=node/406809#comments",
+        // logoutUrl
+        "/logout/?destination=node/406809#comments",
+        // configInit
+        function() {
+        var lf_config = [{"collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IkJpemFycmUgQmFjdGVyaWFsIENyZWF0aW9ucyIsInVybCI6Imh0dHA6XC9cL3d3dy50ZWNobm9sb2d5cmV2aWV3LmNvbVwvbmV3c1wvNDA2ODA5XC9iaXphcnJlLWJhY3RlcmlhbC1jcmVhdGlvbnNcLyIsInRhZ3MiOiIiLCJjaGVja3N1bSI6Ijg5ZGZjOWZlY2E1ZmYwZjZiNGMyMzk1YzEyZmQzY2VjIiwiYXJ0aWNsZUlkIjoiYXJ0aWNsZV8xNzcxNiJ9.GSP2NDJrgzFNUFNCqaOxJoYlUWQFxyNTmjS92lRby2A","checksum":"89dfc9feca5ff0f6b4c2395c12fd3cec","siteId":"296821","articleId":"article_17716","el":"livefyre"}];var conv = fyre.conv.load({"network": "technologyreview.fyre.co", "authDelegate": livefyreAuthDelegate}, lf_config);
+        }
+      );
+    });
+  })(jQuery);
+  </script>
+    </div>
+</section>
+
+  </div>
+</div>
+  </div>
+        
+      </div></div> <!-- /.section, /#content -->
+
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+  </div></div> <!-- /#page, /#page-wrapper -->
+  
+        <section class="ad-bar white">
+    <div class="wrapper">
+      <div id="block-dfp-2bdcdff3e37522940050806b53efb5e9" class="block block-dfp">
+
+    
+  <div >
+    <div id="dfp-ad-tr_www_footer_post_body_landscape-wrapper" class="dfp-tag-wrapper"><div  id="dfp-ad-tr_www_footer_post_body_landscape" class="dfp-tag-wrapper" data-cb-ad-id="Footer post body landscape">
+  <script type="text/javascript">
+  googletag.cmd.push(function() {
+    googletag.display("dfp-ad-tr_www_footer_post_body_landscape");
+  });
+  </script>
+</div>
+</div>  </div>
+</div>
+    </div>
+  </section>
+    
+      
+  <div class="hr"></div>
+  
+  <section id="elsewhere">
+    
+    <div id="new-and-trending">
+              <h2>New &amp; Trending</h2>
+        <div class="view view-popular-bar view-id-popular_bar view-display-id-new_and_trending view-dom-id-f8cbb4304ab102b13a85907957d53688">
+        
+  
+  
+          <div class="view-content">
+          <ul class="trends">
+            <li><a href="/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/">Robot Teammates</a></li>
+      <li><a href="/news/538136/a-transformer-wins-darpas-2-million-robotics-challenge/">DARPA Winner</a></li>
+      <li><a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/">Lithium Technologies</a></li>
+      <li><a href="/news/537916/rebooting-the-human-genome/">Graph Genome</a></li>
+      <li><a href="/view/538091/open-letter-on-the-digital-economy/">Fairer Digital Revolution</a></li>
+      <li><a href="/view/537971/seven-must-read-stories-week-ending-june-6-2015/">Seven Reads (June 1-June 6)</a></li>
+      <li><a href="/news/537936/the-quest-to-engineer-the-perfect-potato/">Super GMO Potato</a></li>
+    </ul><!-- /.trends -->
+        </div>
+      
+  
+  
+  
+  
+  
+</div><div class="view view-new-and-trending-recent view-id-new_and_trending_recent view-display-id-block view-dom-id-f05a016d2c5723423fd33fcf157044ab">
+        
+  
+  
+          <div class="view-content">
+                <ul class="articles">                  <li class="">
+              <article>
+  <h1><a href="/photoessay/538156/why-robots-and-humans-struggled-with-darpas-challenge/">Why Robots and Humans Struggled with DARPA’s Challenge</a></h1>
+  </article>            </li>
+                      <li class="">
+              <article>
+  <h1><a href="/view/538171/with-updates-siri-will-hopefully-be-brainier/">With Updates, Siri Will (Hopefully) Be Brainier</a></h1>
+  </article>            </li>
+                      <li class="">
+              <article>
+  <h1><a href="/news/538036/quest-to-mine-seawater-for-lithium-advances/">Quest to Mine Seawater for Lithium Advances</a></h1>
+  </article>            </li>
+                      <li class="">
+              <article>
+  <h1><a href="/view/538131/other-interesting-arxiv-papers-week-ending-june-6-2015/">Other Interesting arXiv Papers (Week ending June 6, 2015)</a></h1>
+  </article>            </li>
+              </ul>          </div>
+      
+  
+  
+  
+  
+  
+</div>          </div><!-- /#new-and-trending -->
+    
+    <div id="from-the-archives">
+              <h2>From the Archives</h2>
+        
+                
+  
+  
+                  <ul class="articles">                  <li class="">
+              <article>
+  <h1><a href="/featuredstory/401085/the-light-brigade/">The Light Brigade</a></h1>
+  <h2><a href="/featuredstory/401085/the-light-brigade/">13 years ago</a></h2>
+</article>            </li>
+                      <li class="">
+              <article>
+  <h1><a href="/featuredstory/401033/breaking-the-metro-bottleneck/">Breaking the Metro Bottleneck</a></h1>
+  <h2><a href="/featuredstory/401033/breaking-the-metro-bottleneck/">14 years ago</a></h2>
+</article>            </li>
+                      <li class="">
+              <article>
+  <h1><a href="/notebook/410657/broadening-technologys-reach/">Broadening Technology&#039;s Reach</a></h1>
+  <h2><a href="/notebook/410657/broadening-technologys-reach/">6 years ago</a></h2>
+</article>            </li>
+                      <li class="">
+              <article>
+  <h1><a href="/featuredstory/400833/search-us-says-google/">Search Us, Says Google</a></h1>
+  <h2><a href="/featuredstory/400833/search-us-says-google/">14 years ago</a></h2>
+</article>            </li>
+              </ul>        
+  
+  
+  
+  
+  
+      
+        <ul class="timeline">
+          <li><a href="/magazine/archive/2012/" class="more up">more</a></li>
+          <li><a href="/magazine/archive/2012/">2012</a></li>
+          <li><a href="/magazine/archive/2011/">2011</a></li>
+          <li><a href="/magazine/archive/2010/">2010</a></li>
+          <li><a href="/magazine/archive/2000s/">2009</a></li>
+          <li><a href="/magazine/archive/2000s/">2008</a></li>
+          <li><a href="/magazine/archive/1899/">...1899</a></li>
+          <li><a href="/magazine/archive/2012/" class="more down">more</a></li>
+        </ul>
+          </div><!-- /#from-the-archives -->
+    
+  </section><!-- /#elsewhere -->
+  
+  
+    <div id="welcome-overlay">
+      <a href="#" class="closer img">Close</a>
+
+      <h1>Introducing MIT Technology Review Insider.</h1>
+
+      <div id="container">
+        <section>
+          <h3>Already a Magazine subscriber?</h3>
+          <p>
+            You're automatically an Insider. It's easy to activate or upgrade your account.
+          </p>
+        <a href="/getinsider/activate/">Activate Your Account</a>
+        </section>
+
+        <section>
+          <h3>Become an Insider</h3>
+          <p>
+            It's the new way to subscribe. Get even more of the tech news, research, and discoveries you crave.
+          </p>
+          <a href="/getinsider/">Sign Up</a>
+        </section>
+
+        <section>
+          <h3>Learn More</h3>
+          <p>
+            Find out why MIT Technology Review Insider is for you and explore your options.
+          </p>
+          <a href="/getinsider/#benefits">Show Me</a>
+        </section>
+      </div><!-- /#container -->
+    </div><!-- /#welcome-overlay -->
+
+
+    <footer id="tr-global-footer">
+      <nav>
+        <div class="wrapper">
+        <div id="menu_footer_selector">
+    <a href="/">News and Analysis</a>
+</div>
+
+<ul>
+  <li><a href="/">Home</a></li>
+  <li><a href="/popular/">Popular</a></li>
+  <li><a href="/stream/">Today's News</a></li>
+  <li><a href="/views/">Blogs</a></li>
+  <li><a href="/photogalleries/">Photo Galleries</a></li>
+  <li><a href="/videos/">Videos</a></li>
+</ul>
+          <a id="btt" href="#tr-global-nav">Back to Top</a>
+        </div>
+      </nav>
+
+      <div class="wrapper">
+        <p class="mission">The mission of MIT Technology Review is to equip its audiences with the intelligence to understand a world shaped by technology.</p>
+
+        <ul class="boxes">
+          <a href="/editions/" class="go-editions-selector"><li>
+            <h3>Editions</h3>
+            <p>Find your preferred version. Choose from six languages and in 13 regions worldwide.</p>
+          </li></a>
+          <a href="/magazine/archives/"><li>
+            <h3>Archives</h3>
+            <p>Explore 116 years of innovation from the most respected technology publication.</p>
+          </li></a>
+          <a href="/lists/"><li>
+            <h3>Lists</h3>
+            <p>Discover the most important people, companies and technologies shaping our future.</p>
+          </li></a>
+          <a href="/events/"><li>
+            <h3>Events</h3>
+            <p>Attend one of our over 400 thought-provoking live events worldwide.</p>
+          </li></a>
+          <a href="/subscribe/" class="last"><li>
+            <h3>Subscribers</h3>
+            <p>Have <em>MIT Technology Review</em> delivered to your doorstep, desktop, or tablet. <!--<strong>Subscribe &raquo;</strong>--></p>
+          </li></a>
+        </ul>
+
+        <div class="hr"></div>
+
+        <section class="footer-lists">
+          <ul class="footer-list first">
+            <li class="header"><h3>More</h3></li>
+            <li><a href="http://newsletters.technologyreview.com">Newsletters</a></li>
+            <li><a href="http://www.mitef.org" target="_blank">MIT Enterprise Forum</a></li>
+            <li><a href="/magazine/mitnews/">MIT News Magazine</a></li>
+            <li><a href="http://www.emtechmit.com" target="_blank">EmTech</a></li>
+          </ul>
+
+          <ul class="footer-list">
+            <li class="header"><h3><a href="/about/">Company</a></h3></li>
+            <li><a href="/about/">About Us</a></li>
+            <li><a href="/careers/">Work for Us</a></li>
+            <li><a href="/media/">Advertise with Us</a></li>
+            <li><a href="/about/permissions/">Reprints and Permissions</a></li>
+          </ul>
+
+          <ul class="footer-list">
+            <li class="header"><h3><a href="/my/">Your Account</a></h3></li>
+            <li><a href="/join/">Join</a></li>
+            <li><a href="/my/">View Profile</a></li>
+            <li><a href="/my/">Manage Account</a></li>
+            <li><a href="/support/">Manage Subscription</a></li>
+          </ul>
+
+          <ul class="footer-list">
+            <li class="header"><h3><a href="/support/">Customer Support</a></h3></li>
+            <li><a href="/support/">Help / Support</a></li>
+            <li><a href="/contact/">Contact us</a></li>
+            <li><a href="/contact/submit/">Feedback</a></li>
+            <li><a href="/sitemap/">Sitemap</a></li>
+          </ul>
+
+          <aside>
+            <h3><a href="/connect/">Connect</a></h3>
+            <ul class="social-icons">
+              <li><a target="_blank" href="http://twitter.com/techreview" id="social-twitter">Twitter</a></li>
+              <li><a target="_blank" href="https://www.linkedin.com/company/mit-technology-review" id="social-linkedin">LinkedIn</a></li>
+              <li><a target="_blank" href="http://www.youtube.com/user/technologyreview" id="social-youtube">YouTube</a></li>
+              <li><a target="_blank" href="https://google.com/+technologyreview/" id="social-google" rel="publisher">Google+</a></li>
+              <li><a target="_blank" href="http://www.stumbleupon.com/channel/TechReview" id="social-stumbleupon">StumbleUpon</a></li>
+              <li><a target="_blank" href="https://www.facebook.com/technologyreview" id="social-facebook">Facebook</a></li>
+              <li><a target="_blank" href="/connect/#rss" id="social-rss">RSS</a></li>
+              <li><a target="_blank" href="/connect/#mobile" id="social-mobile">Mobile</a></li>
+            </ul>
+          </aside>
+        </section>
+
+        <a href="/"><h2>MIT Technology Review</h2></a>
+
+        <ul id="terms-privacy">
+          <li><a href="/about/ethics-statement/">Ethics Statement</a></li>
+          <li><a href="/about/terms-of-service/">Terms of Service</a></li>
+                    <li><a href="/about/privacy/">Privacy</a></li>
+          <li><a href="/about/commenting-guidelines/">Commenting Guidelines</a></li>
+        </ul>
+
+        <ul id="copy-version">
+          <li><a href="/about/terms-of-service/">&copy; 2015</a></li>
+          <li>v1.13.05.10</li>
+        </ul>
+      </div>
+    </footer>
+
+<!-- Livefyre comment count -->
+<script type="text/javascript" data-lf-domain="technologyreview.fyre.co" src="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js"></script>
+<script type="text/javascript">
+LF.CommentCount({
+  replacer: function(element, count) {
+    var formatSingular = element.getAttribute("data-lf-format-singular");
+    var formatPlural = element.getAttribute("data-lf-format-plural");
+    if (formatSingular && formatPlural) {
+      if (count == 1) {
+        element.innerHTML = formatSingular.replace("@count", count);
+      } else {
+        element.innerHTML = formatPlural.replace("@count", count);
+      }
+    } else {
+      element.innerHTML = count;
+    }
+
+    var minComments = 1;
+    // Get the minimum comments from the HTML attribute, if there is one.
+    var htmlMinComments = element.getAttribute("data-lf-min-comments");
+    if (htmlMinComments) {
+      minComments = 1 * htmlMinComments;
+    }
+
+    var displayElement = element;
+    // If we need to hide/show a parent element instead of the element itself,
+    // we specify the jQuery .parent() selector in the attribute data-lf-display-parents.
+    var displayParentSelector = element.getAttribute("data-lf-display-parents");
+    if (displayParentSelector) {
+      var displayElementParents = $(displayElement).parents(displayParentSelector);
+      if (displayElementParents.length > 0)
+        displayElement = displayElementParents[0];
+    }
+
+    var displayAltElement = null;
+    var displayAltParentsSelector = element.getAttribute("data-lf-display-alt-parents");
+    var displayAltSelector = element.getAttribute("data-lf-display-alt");
+    if (displayAltParentsSelector && displayAltSelector) {
+      displayAltParents = $(element).parents(displayAltParentsSelector);
+      if (displayAltParents.length > 0) {
+        var displayAltParent = displayAltParents[0];
+        var displayAltElements = $(displayAltParent).find(displayAltSelector);
+        if (displayAltElements.length > 0)
+          displayAltElement = displayAltElements[0];
+      }
+    }
+
+    // Hide the element if it doesn't have enough comments.
+    if (count >= minComments) {
+      displayElement.style.display = "";
+      // Hide the alternate element.
+      if (displayAltElement)
+        displayAltElement.style.display = "none";
+    } else {
+      displayElement.style.display = "none";
+      // Show the alternate element.
+      if (displayAltElement)
+        displayAltElement.style.display = "";
+    }
+  }
+});
+</script>
+
+  </body>
+</html>

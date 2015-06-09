@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+<meta name="google-site-verification" content="IZ-2KmD6tijoiKg9ibj1CypvvEapcRQ8mZu18r9gA6A" />
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<title>Lee Hood | Molecular Me</title>
+<link rel="Shortcut Icon" href="http://isbmolecularme.com/wp-content/themes/organic_natural2/images/favicon.ico" type="image/x-icon">
+
+<style type="text/css" media="screen">
+		
+	body {
+		-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;	}
+	
+	.container #navigation, .container .menu ul.sub-menu, .container .menu ul.children {
+		background-color: #242424;	}
+	
+	.container a, .container a:link, .container a:visited, #wrap .widget ul.menu li a {
+		color: #ff9933;	}
+	
+	.container a:hover, .container a:focus, .container a:active,
+	#wrap .widget ul.menu li a:hover, #wrap .widget ul.menu li ul.sub-menu li a:hover,
+	#wrap .widget ul.menu .current_page_item a, #wrap .widget ul.menu .current-menu-item a {
+		color: #bbdf36;	}
+	
+	.container h1 a, .container h2 a, .container h3 a, .container h4 a, .container h5 a, .container h6 a,
+	.container h1 a:link, .container h2 a:link, .container h3 a:link, .container h4 a:link, .container h5 a:link, .container h6 a:link,
+	.container h1 a:visited, .container h2 a:visited, .container h3 a:visited, .container h4 a:visited, .container h5 a:visited, .container h6 a:visited {
+		color: #003f72;	}
+	
+	.container h1 a:hover, .container h2 a:hover, .container h3 a:hover, .container h4 a:hover, .container h5 a:hover, .container h6 a:hover,
+	.container h1 a:focus, .container h2 a:focus, .container h3 a:focus, .container h4 a:focus, .container h5 a:focus, .container h6 a:focus,
+	.container h1 a:active, .container h2 a:active, .container h3 a:active, .container h4 a:active, .container h5 a:active, .container h6 a:active,
+	#slideshow .headline a:hover,#slideshow .headline a:focus, #slideshow .headline a:active {
+		color: #bbdf36;	}
+	
+	#submit:hover, #searchsubmit:hover, .reply a:hover, .gallery a:hover, a.button:hover, .more-link:hover,
+	#comments #respond input#submit:hover, .container .gform_wrapper input.button:hover {
+		background-color: #ff9933 !important;	}
+	
+	.container .flex-control-nav li.flex-active a, .container .flex-control-nav li a.flex-active {
+		border-color: #ff9933;	}
+</style>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://isbmolecularme.com/xmlrpc.php">
+
+<!-- Social Buttons -->
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Molecular Me &raquo; Feed" href="http://isbmolecularme.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Molecular Me &raquo; Comments Feed" href="http://isbmolecularme.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Molecular Me &raquo; Lee Hood Tag Feed" href="http://isbmolecularme.com/tag/lee-hood/feed/" />
+<link rel='stylesheet' id='photomosaic_base_css-css'  href='http://isbmolecularme.com/wp-content/plugins/photomosaic-for-wordpress/css/photomosaic.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='photomosaic_prettyphoto_css-css'  href='http://isbmolecularme.com/wp-content/plugins/photomosaic-for-wordpress/includes/vendor/prettyphoto/prettyphoto.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='justifiedGalleryCSS-css'  href='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/justifiedgallery/css/justifiedGallery.min.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='swipeboxCSS-css'  href='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/swipebox/css/swipebox.min.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='natural-style-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/style.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='natural-style-mobile-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/style-mobile.css?ver=1.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='natural-style-ie8-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/style-ie8.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='organic-shortcodes-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/shortcodes/organic-shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='organic-shortcodes-ie8-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/shortcodes/organic-shortcodes-ie8.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/font-awesome.css?ver=1.0' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/font-awesome-ie7.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='organicons-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/organicons.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='montserrat-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='roboto-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A400%2C300italic%2C300%2C500%2C400italic%2C500italic%2C700%2C700italic&#038;ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='merriweather-css'  href='http://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C300%2C900&#038;ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='milonga-css'  href='http://fonts.googleapis.com/css?family=Milonga&#038;ver=4.1.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/plugins/photomosaic-for-wordpress/js/photomosaic.min.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/justifiedgallery/js/jquery.justifiedGallery.min.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/swipebox/js/jquery.swipebox.min.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/html5shiv.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/hoverIntent.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/superfish.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/imagesloaded.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.fitVids.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.isotope.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/retina.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.modal.min.js?ver=20130729'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://isbmolecularme.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://isbmolecularme.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.5" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-37898752-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://isbmolecularme.com/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.5.4';
+	window._wp_rp_post_id = '3730';
+	window._wp_rp_num_rel_posts = '6';
+	window._wp_rp_thumbnails = true;
+	window._wp_rp_post_title = 'Bio-Fiction+Recap';
+	window._wp_rp_post_tags = ['aron+m.+thompson', 'dr.+lee+hood', 'nick+newcombe', 'dr.+allison+kudla', 'lee+hood', 'tom+skerritt', 'bio-fiction', 'film', 'synthetic+biology', 'art%2Bscience', 'dr.+sui+huang', 'symposium', 'art+and+science', 'dr.+phillip+thurtle', 'sui+huang', 'art', 'dr.+nitin+baliga', 'nitin+baliga', 'events', 'dr.+lee+hood', 'isb+news', 'social', 'biologi', 'marku', 'anim', 'fiction', 'sebastian', 'martin', 'scienc', 'de', 'robert', 'film', 'seattl', 'art', 'recap', 'philipp'];
+</script>
+<link rel="stylesheet" href="http://isbmolecularme.com/wp-content/plugins/related-posts/static/themes/vertical-m.css?version=3.5.4" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://isbmolecularme.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+</head>
+
+<body class="archive tag tag-lee-hood tag-26 custom-background natural-relative-text">
+
+<!-- BEGIN #wrap -->
+<div id="wrap">
+
+	<!-- BEGIN .container -->
+	<div class="container">
+	
+		<!-- BEGIN #header -->
+		<div id="header">
+		
+			<!-- BEGIN .row -->
+			<div class="row">
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+				
+															<p id="logo"><a href="http://isbmolecularme.com/"><img src="http://isbmolecularme.com/wp-content/uploads/logo2.png?w=460&#038;h=120&#038;crop=1" alt="Molecular Me" />Molecular Me</a></p>
+													
+								
+				<!-- END .sixteen columns -->
+				</div>
+			
+			<!-- END .row -->
+			</div>
+		
+		<!-- END #header -->
+		</div>
+		
+		<!-- BEGIN #navigation -->
+		<nav id="navigation" class="navigation-main shadow radius-full" role="navigation">
+		
+			<!-- BEGIN .row -->
+			<div class="row">
+				
+				<h1 class="menu-toggle">Menu</h1>
+	
+				<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6"><a href="http://isbmolecularme.com/category/isb-news/">ISB News</a>
+<ul class="sub-menu">
+	<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://isbmolecularme.com/category/isb-news/awards/">Awards</a></li>
+	<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://isbmolecularme.com/category/isb-news/collaborations/">Collaborations</a></li>
+	<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://isbmolecularme.com/category/isb-news/communityphilanthropy/">Community/Philanthropy</a></li>
+	<li id="menu-item-1687" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1687"><a href="http://isbmolecularme.com/category/isb-news/education/">Education</a></li>
+	<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://isbmolecularme.com/category/isb-news/events/">Events</a></li>
+	<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://isbmolecularme.com/category/isb-news/impact/">Impact</a></li>
+	<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://isbmolecularme.com/category/isb-news/people/">People</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="http://isbmolecularme.com/category/isb-news/press/">Press</a></li>
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://isbmolecularme.com/category/isb-news/publications/">Publications</a></li>
+</ul>
+</li>
+<li id="menu-item-4" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4"><a href="http://isbmolecularme.com/category/connecting-the-dots/">Connecting the Dots</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://isbmolecularme.com/category/isb-science-report/">ISB Science Report</a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5"><a href="http://isbmolecularme.com/category/greater-good/">Greater Good</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="http://isbmolecularme.com/category/lab-notebook/">Lab Notebook</a></li>
+<li id="menu-item-3273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3273"><a href="http://isbmolecularme.com/headlines/">Timeline</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="https://www.systemsbiology.org/support">Support ISB</a></li>
+</ul></div>				
+			<!-- END .row -->
+			</div>
+		
+		<!-- END #navigation -->
+		</nav>	
+<!-- BEGIN .post class -->
+<div class="post-3730 post type-post status-publish format-standard has-post-thumbnail hentry category-dr-lee-hood category-events category-isb-news tag-aron-m-thompson tag-art tag-art-and-science tag-artscience tag-bio-fiction tag-dr-allison-kudla tag-dr-lee-hood tag-dr-nitin-baliga tag-dr-phillip-thurtle tag-dr-sui-huang tag-film tag-lee-hood tag-nick-newcombe tag-nitin-baliga tag-sui-huang tag-symposium tag-synthetic-biology tag-tom-skerritt" id="post-3730">
+
+	<!-- BEGIN .row -->
+	<div class="row">
+		
+				
+				
+					
+			<!-- BEGIN .eleven columns -->
+			<div class="eleven columns">
+		
+				<!-- BEGIN .postarea -->
+				<div class="postarea">
+				
+					
+<!-- BEGIN .post class -->
+<div class="post-3730 post type-post status-publish format-standard has-post-thumbnail hentry category-dr-lee-hood category-events category-isb-news tag-aron-m-thompson tag-art tag-art-and-science tag-artscience tag-bio-fiction tag-dr-allison-kudla tag-dr-lee-hood tag-dr-nitin-baliga tag-dr-phillip-thurtle tag-dr-sui-huang tag-film tag-lee-hood tag-nick-newcombe tag-nitin-baliga tag-sui-huang tag-symposium tag-synthetic-biology tag-tom-skerritt archive-holder" id="post-3730">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/bio-fiction-recap/" rel="bookmark">Bio-Fiction Recap</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 8, 2015 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/bio-fiction-recap/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/bio-fiction-recap/" rel="bookmark" title="Permalink to Bio-Fiction Recap"><img src="http://isbmolecularme.com/wp-content/uploads/17243538270_c130fb2b84_k-1200x800.jpg" class="attachment-featured-large wp-post-image" alt="17243538270_c130fb2b84_k" /></a>
+				
+	<p>On May 7, ISB hosted the first-ever screening of BIO·FICTION in North America. More than 120 people attended the event, which took place as part of the South Lake Union Art Walk. BIO·FICTION explores the emerging field of synthetic biology from different disciplinary angles&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/dr-lee-hood/" rel="category tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/category/isb-news/events/" rel="category tag">Events</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/aron-m-thompson/" rel="tag">Aron M. Thompson</a>, <a href="http://isbmolecularme.com/tag/art/" rel="tag">art</a>, <a href="http://isbmolecularme.com/tag/art-and-science/" rel="tag">art and science</a>, <a href="http://isbmolecularme.com/tag/artscience/" rel="tag">art+science</a>, <a href="http://isbmolecularme.com/tag/bio-fiction/" rel="tag">bio-fiction</a>, <a href="http://isbmolecularme.com/tag/dr-allison-kudla/" rel="tag">Dr. Allison Kudla</a>, <a href="http://isbmolecularme.com/tag/dr-lee-hood/" rel="tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/tag/dr-nitin-baliga/" rel="tag">Dr. Nitin Baliga</a>, <a href="http://isbmolecularme.com/tag/dr-phillip-thurtle/" rel="tag">Dr. Phillip Thurtle</a>, <a href="http://isbmolecularme.com/tag/dr-sui-huang/" rel="tag">Dr. Sui Huang</a>, <a href="http://isbmolecularme.com/tag/film/" rel="tag">film</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/nick-newcombe/" rel="tag">Nick Newcombe</a>, <a href="http://isbmolecularme.com/tag/nitin-baliga/" rel="tag">Nitin Baliga</a>, <a href="http://isbmolecularme.com/tag/sui-huang/" rel="tag">Sui Huang</a>, <a href="http://isbmolecularme.com/tag/symposium/" rel="tag">symposium</a>, <a href="http://isbmolecularme.com/tag/synthetic-biology/" rel="tag">synthetic biology</a>, <a href="http://isbmolecularme.com/tag/tom-skerritt/" rel="tag">Tom Skerritt</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-2984 post type-post status-publish format-standard has-post-thumbnail hentry category-awards category-dr-lee-hood category-impact category-isb-news category-lobby tag-awards tag-dr-lee-hood tag-dr-leroy-hood tag-ieee tag-ieee-medal-for-innovation-in-healthcare-technology tag-innovation tag-institute-for-systems-biology tag-lee-hood tag-p4-medicine tag-september-emailer tag-technology archive-holder" id="post-2984">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/lee-hood-receives-ieee-medal-for-innovations-in-healthcare-technology/" rel="bookmark">Lee Hood Receives IEEE Medal for Innovations in Healthcare Technology</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on September 16, 2014 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/lee-hood-receives-ieee-medal-for-innovations-in-healthcare-technology/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/lee-hood-receives-ieee-medal-for-innovations-in-healthcare-technology/" rel="bookmark" title="Permalink to Lee Hood Receives IEEE Medal for Innovations in Healthcare Technology"><img src="http://isbmolecularme.com/wp-content/uploads/IEEE_lhood.jpg" class="attachment-featured-large wp-post-image" alt="Dr. Leroy Hood" /></a>
+				
+	<p>Dr. Lee Hood received the IEEE Medal for Innovations in Healthcare Technology at a ceremony in Amsterdam on Aug. 23, 2014. Please watch a video of his acceptance speech here. IEEE Spectrum Magazine also published an article featuring an interview with Lee: &#8220;Medicine&#8217;s Next&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/awards/" rel="category tag">Awards</a>, <a href="http://isbmolecularme.com/category/isb-news/dr-lee-hood/" rel="category tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/category/isb-news/impact/" rel="category tag">Impact</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>, <a href="http://isbmolecularme.com/category/lobby/" rel="category tag">Lobby</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/awards/" rel="tag">Awards</a>, <a href="http://isbmolecularme.com/tag/dr-lee-hood/" rel="tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/tag/dr-leroy-hood/" rel="tag">Dr. Leroy Hood</a>, <a href="http://isbmolecularme.com/tag/ieee/" rel="tag">IEEE</a>, <a href="http://isbmolecularme.com/tag/ieee-medal-for-innovation-in-healthcare-technology/" rel="tag">IEEE Medal for Innovation in Healthcare Technology</a>, <a href="http://isbmolecularme.com/tag/innovation/" rel="tag">innovation</a>, <a href="http://isbmolecularme.com/tag/institute-for-systems-biology/" rel="tag">Institute for Systems Biology</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/p4-medicine/" rel="tag">P4 medicine</a>, <a href="http://isbmolecularme.com/tag/september-emailer/" rel="tag">September emailer</a>, <a href="http://isbmolecularme.com/tag/technology/" rel="tag">technology</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-2086 post type-post status-publish format-standard has-post-thumbnail hentry category-connecting-the-dots category-dr-lee-hood category-publications tag-charles-auffray tag-dr-lee-hood tag-dr-leroy-hood tag-eisbm tag-genome-medicine tag-lee-hood tag-p4-medicine tag-participatory-medicine tag-systems-medicine archive-holder" id="post-2086">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/participatory-medicine-is-revolutionizing-healthcare/" rel="bookmark">Participatory Medicine is Revolutionizing Healthcare</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on January 7, 2014 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/participatory-medicine-is-revolutionizing-healthcare/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/participatory-medicine-is-revolutionizing-healthcare/" rel="bookmark" title="Permalink to Participatory Medicine is Revolutionizing Healthcare"><img src="http://isbmolecularme.com/wp-content/uploads/teaser_newpub.jpg" class="attachment-featured-large wp-post-image" alt="teaser_newpub" /></a>
+				
+	<p>Dr. Lee Hood and his colleague Dr. Charles Auffray, of the European Institute for Systems Biology &amp; Medicine, published an editorial in the Dec. 23, 2013, issue of Genome Medicine. An excerpt: &quot;Healthcare is undergoing a profound revolution as a consequence of three contemporary&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/connecting-the-dots/" rel="category tag">Connecting the Dots</a>, <a href="http://isbmolecularme.com/category/isb-news/dr-lee-hood/" rel="category tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/category/isb-news/publications/" rel="category tag">Publications</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/charles-auffray/" rel="tag">Charles Auffray</a>, <a href="http://isbmolecularme.com/tag/dr-lee-hood/" rel="tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/tag/dr-leroy-hood/" rel="tag">Dr. Leroy Hood</a>, <a href="http://isbmolecularme.com/tag/eisbm/" rel="tag">EISBM</a>, <a href="http://isbmolecularme.com/tag/genome-medicine/" rel="tag">Genome Medicine</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/p4-medicine/" rel="tag">P4 medicine</a>, <a href="http://isbmolecularme.com/tag/participatory-medicine/" rel="tag">Participatory Medicine</a>, <a href="http://isbmolecularme.com/tag/systems-medicine/" rel="tag">systems medicine</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-2078 post type-post status-publish format-standard has-post-thumbnail hentry category-dr-lee-hood category-impact category-press category-slider tag-cancer tag-cancer-research tag-cancers tag-dr-lee-hood tag-innovation tag-lee-hood tag-video tag-world-free-from-cancer archive-holder" id="post-2078">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/innovation-game-changer-lee-hood/" rel="bookmark">Innovation Game Changer: Lee Hood</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on December 24, 2013 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/innovation-game-changer-lee-hood/#comments">Leave a Comment</a></p>
+	</div>
+	
+			<div class="feature-vid"><iframe width="560" height="315" src="//www.youtube.com/embed/AaYkfxRhilA?rel=0" frameborder="0" allowfullscreen></iframe></div>
+		
+	<p>Dr. Lee Hood appeared in a video series produced by World Free From Cancer and Value of Innovation about five &quot;game changers&quot; who will help make this a cancer-free world. &nbsp;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/dr-lee-hood/" rel="category tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/category/isb-news/impact/" rel="category tag">Impact</a>, <a href="http://isbmolecularme.com/category/isb-news/press/" rel="category tag">Press</a>, <a href="http://isbmolecularme.com/category/slider/" rel="category tag">Slider</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/cancer/" rel="tag">cancer</a>, <a href="http://isbmolecularme.com/tag/cancer-research/" rel="tag">cancer research</a>, <a href="http://isbmolecularme.com/tag/cancers/" rel="tag">cancers</a>, <a href="http://isbmolecularme.com/tag/dr-lee-hood/" rel="tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/tag/innovation/" rel="tag">innovation</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/video/" rel="tag">video</a>, <a href="http://isbmolecularme.com/tag/world-free-from-cancer/" rel="tag">World Free From Cancer</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-1810 post type-post status-publish format-standard has-post-thumbnail hentry category-dr-lee-hood category-events category-greater-good category-isb-news tag-bezos-center-for-innovation tag-innovation tag-jeff-bezos tag-lee-hood tag-mohai archive-holder" id="post-1810">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/lee-hood-among-featured-innovators-at-bezos-center-for-innovation-at-mohai/" rel="bookmark">Lee Hood Among Featured Innovators at Bezos Center for Innovation at MOHAI</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on October 16, 2013 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/lee-hood-among-featured-innovators-at-bezos-center-for-innovation-at-mohai/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/lee-hood-among-featured-innovators-at-bezos-center-for-innovation-at-mohai/" rel="bookmark" title="Permalink to Lee Hood Among Featured Innovators at Bezos Center for Innovation at MOHAI"><img src="http://isbmolecularme.com/wp-content/uploads/IMG_1994-1200x800.jpg" class="attachment-featured-large wp-post-image" alt="Lee Hood participates in an interview during the launch of the Bezos Center for Innovation at MOHAI on Oct. 11. Hood is one of the featured innovators." /></a>
+				
+	<p>On Oct. 11, MOHAI hosted a VIP event to celebrate the launch of the Bezos Center for Innovation. The exhibit features 13 innovators from the Seattle area, including ISB&#39;s president, Dr. Lee Hood. Each innovator sat for an interview and snippets from each interview&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/dr-lee-hood/" rel="category tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/category/isb-news/events/" rel="category tag">Events</a>, <a href="http://isbmolecularme.com/category/greater-good/" rel="category tag">Greater Good</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/bezos-center-for-innovation/" rel="tag">Bezos Center for Innovation</a>, <a href="http://isbmolecularme.com/tag/innovation/" rel="tag">innovation</a>, <a href="http://isbmolecularme.com/tag/jeff-bezos/" rel="tag">Jeff Bezos</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/mohai/" rel="tag">MOHAI</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-1548 post type-post status-publish format-standard has-post-thumbnail hentry category-connecting-the-dots category-dr-lee-hood category-isb-news tag-dr-lee-hood tag-indi tag-indi-molecular tag-isb-spinouts tag-lee-hood archive-holder" id="post-1548">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/dr-lee-hood-co-founds-indi-spinout/" rel="bookmark">Lee Hood Co-Founds New Spinout</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on September 20, 2013 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/dr-lee-hood-co-founds-indi-spinout/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/dr-lee-hood-co-founds-indi-spinout/" rel="bookmark" title="Permalink to Lee Hood Co-Founds New Spinout"><img src="http://isbmolecularme.com/wp-content/uploads/IMG_2013-1200x800.jpg" class="attachment-featured-large wp-post-image" alt="This file photo shows Dr. Lee Hood (second from left) chatting with Dr. Al Luderer and Dr. Jim Heath (hand on chin). All three are co-founders of Indi Molecular, a new spinout from Integrated Diagnostics (Indi)." /></a>
+				
+	<p>PRESS RELEASE Indi Molecular Launches with $1.5 Million Seed Round Led by InterWest Partners SEATTLE and CULVER CITY, CA, September 20, 2013 &ndash; Indi Molecular, which pioneered a synthetic replacement for antibodies, today announced that it has raised a $1.5 million seed round led&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/connecting-the-dots/" rel="category tag">Connecting the Dots</a>, <a href="http://isbmolecularme.com/category/isb-news/dr-lee-hood/" rel="category tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/dr-lee-hood/" rel="tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/tag/indi/" rel="tag">Indi</a>, <a href="http://isbmolecularme.com/tag/indi-molecular/" rel="tag">Indi Molecular</a>, <a href="http://isbmolecularme.com/tag/isb-spinouts/" rel="tag">ISB Spinouts</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-1521 post type-post status-publish format-standard has-post-thumbnail hentry category-awards category-isb-news tag-awards tag-dr-lee-hood tag-lee-hood tag-leroy-hood tag-mit-technology-review tag-network-of-networks archive-holder" id="post-1521">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/awards-lee-hood-named-one-of-seven-over-70/" rel="bookmark">Awards: &#8216;Seven over 70&#8242; Best Innovators</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on August 21, 2013 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/awards-lee-hood-named-one-of-seven-over-70/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/awards-lee-hood-named-one-of-seven-over-70/" rel="bookmark" title="Permalink to Awards: &#8216;Seven over 70&#8242; Best Innovators"><img src="http://isbmolecularme.com/wp-content/uploads/LeeHoodPhoto1_med.jpg" class="attachment-featured-large wp-post-image" alt="Dr. Lee Hood" /></a>
+				
+	<p>Dr. Lee Hood, ISB&#8217;s president, was named one of Seven Over 70 best innovators in MIT Technology Review Magazine. The list recognizes leaders for their lifelong achievements in innovation. Here&#8217;s an excerpt from the story: &#8221; &#8216;The physician and biologist Leroy Hood helped create&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/awards/" rel="category tag">Awards</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/awards/" rel="tag">Awards</a>, <a href="http://isbmolecularme.com/tag/dr-lee-hood/" rel="tag">Dr. Lee Hood</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/leroy-hood/" rel="tag">Leroy Hood</a>, <a href="http://isbmolecularme.com/tag/mit-technology-review/" rel="tag">MIT Technology Review</a>, <a href="http://isbmolecularme.com/tag/network-of-networks/" rel="tag">network of networks</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-1063 post type-post status-publish format-standard has-post-thumbnail hentry category-events category-isb-news category-people category-press tag-four-peaks tag-hanson-hosein tag-isb tag-lee-hood tag-p4-medicine archive-holder" id="post-1063">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/lee-hood-on-tv-may-4-5/" rel="bookmark">Lee Hood On TV: May 4 &#038; 5</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 3, 2013 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/lee-hood-on-tv-may-4-5/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/lee-hood-on-tv-may-4-5/" rel="bookmark" title="Permalink to Lee Hood On TV: May 4 &amp; 5"><img src="http://isbmolecularme.com/wp-content/uploads/904887_651383114878587_1261525857_o.jpeg" class="attachment-featured-large wp-post-image" alt="Dr. Lee Hood is a guest on &quot;Four Peaks&quot; is a monthly current affairs show on UWTV and Northwest Cable News." /></a>
+				
+	<p>Dr. Lee Hood is a guest on &#8220;Four Peaks&#8221; is a monthly current affairs show on UWTV and Northwest Cable News. On Four Peaks TV: ISB&#8217;s Dr. Leroy Hood discusses predictive, personalized, preventative &amp; participatory health care and and shows off his national medal&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/events/" rel="category tag">Events</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>, <a href="http://isbmolecularme.com/category/isb-news/people/" rel="category tag">People</a>, <a href="http://isbmolecularme.com/category/isb-news/press/" rel="category tag">Press</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/four-peaks/" rel="tag">Four Peaks</a>, <a href="http://isbmolecularme.com/tag/hanson-hosein/" rel="tag">Hanson Hosein</a>, <a href="http://isbmolecularme.com/tag/isb/" rel="tag">ISB</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/p4-medicine/" rel="tag">P4 medicine</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-1058 post type-post status-publish format-standard has-post-thumbnail hentry category-awards category-impact category-isb-news tag-aids tag-hiv tag-isb tag-lee-hood tag-martin-shelton tag-patents tag-peptides tag-proteins archive-holder" id="post-1058">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/isb-post-doc-gets-patent-for-protein-that-blocks-hiv/" rel="bookmark">ISB Post Doc Gets Patent for Protein that Blocks HIV</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 2, 2013 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/isb-post-doc-gets-patent-for-protein-that-blocks-hiv/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/isb-post-doc-gets-patent-for-protein-that-blocks-hiv/" rel="bookmark" title="Permalink to ISB Post Doc Gets Patent for Protein that Blocks HIV"><img src="http://isbmolecularme.com/wp-content/uploads/MartinShelton.jpg" class="attachment-featured-large wp-post-image" alt="MartinShelton" /></a>
+				
+	<p>Martin Shelton Martin Shelton, a post doc in the Lee Hood lab, just received his first patent. He shared the following explanation with his 10-year-old nephew who&#8217;s a burgeoning scientist/inventor/engineer. &#8220;We made a small molecule called a peptide (which is a sciency word for&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/awards/" rel="category tag">Awards</a>, <a href="http://isbmolecularme.com/category/isb-news/impact/" rel="category tag">Impact</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/aids/" rel="tag">AIDS</a>, <a href="http://isbmolecularme.com/tag/hiv/" rel="tag">HIV</a>, <a href="http://isbmolecularme.com/tag/isb/" rel="tag">ISB</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/martin-shelton/" rel="tag">Martin Shelton</a>, <a href="http://isbmolecularme.com/tag/patents/" rel="tag">patents</a>, <a href="http://isbmolecularme.com/tag/peptides/" rel="tag">peptides</a>, <a href="http://isbmolecularme.com/tag/proteins/" rel="tag">proteins</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<!-- BEGIN .post class -->
+<div class="post-904 post type-post status-publish format-standard has-post-thumbnail hentry category-impact category-isb-news category-people category-press category-slider tag-craig-mundie tag-douglas-howe tag-drew-senyei tag-enterprise-partners-venture-capital tag-geekwire-com tag-isb-board-of-directors tag-isb-bod tag-john-cook tag-lee-hood tag-touchstone-corp archive-holder" id="post-904">
+
+	<h2 class="headline small"><a href="http://isbmolecularme.com/microsofts-craig-mundie-joins-isb-board/" rel="bookmark">Microsoft&#8217;s Craig Mundie Joins ISB Board</a></h2>
+	
+	<div class="post-author">
+		<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 16, 2013 by <a href="http://isbmolecularme.com/author/admin/" title="Posts by ISBUSA" rel="author">ISBUSA</a></p>
+		<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/microsofts-craig-mundie-joins-isb-board/#comments">Leave a Comment</a></p>
+	</div>
+	
+						<a class="feature-img" href="http://isbmolecularme.com/microsofts-craig-mundie-joins-isb-board/" rel="bookmark" title="Permalink to Microsoft&#8217;s Craig Mundie Joins ISB Board"><img src="http://isbmolecularme.com/wp-content/uploads/new_board_membersMM.jpg" class="attachment-featured-large wp-post-image" alt="ISB New Board Members" /></a>
+				
+	<p>ISB announced three new board of directors members this morning. The full press release is here. Douglas Howe: Howe is the president and founder of Touchstone Corporation, a Seattle-based commercial real estate company that focuses on the development of urban infill projects and leads&#8230;</p>
+	
+	<!-- BEGIN .post-meta -->
+	<div class="post-meta radius-full">
+	
+		<p><i class="icon-reorder"></i> &nbsp;Category: <a href="http://isbmolecularme.com/category/isb-news/impact/" rel="category tag">Impact</a>, <a href="http://isbmolecularme.com/category/isb-news/" rel="category tag">ISB News</a>, <a href="http://isbmolecularme.com/category/isb-news/people/" rel="category tag">People</a>, <a href="http://isbmolecularme.com/category/isb-news/press/" rel="category tag">Press</a>, <a href="http://isbmolecularme.com/category/slider/" rel="category tag">Slider</a>  &nbsp; &nbsp; <i class="icon-tags"></i> &nbsp;Tags: <a href="http://isbmolecularme.com/tag/craig-mundie/" rel="tag">Craig Mundie</a>, <a href="http://isbmolecularme.com/tag/douglas-howe/" rel="tag">Douglas Howe</a>, <a href="http://isbmolecularme.com/tag/drew-senyei/" rel="tag">Drew Senyei</a>, <a href="http://isbmolecularme.com/tag/enterprise-partners-venture-capital/" rel="tag">Enterprise Partners Venture Capital</a>, <a href="http://isbmolecularme.com/tag/geekwire-com/" rel="tag">Geekwire.com</a>, <a href="http://isbmolecularme.com/tag/isb-board-of-directors/" rel="tag">ISB Board of Directors</a>, <a href="http://isbmolecularme.com/tag/isb-bod/" rel="tag">ISB BOD</a>, <a href="http://isbmolecularme.com/tag/john-cook/" rel="tag">John Cook</a>, <a href="http://isbmolecularme.com/tag/lee-hood/" rel="tag">Lee Hood</a>, <a href="http://isbmolecularme.com/tag/touchstone-corp/" rel="tag">Touchstone Corp.</a></p>
+	
+	<!-- END .post-meta -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+			<!-- BEGIN .pagination -->
+		<div class="pagination">
+			<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://isbmolecularme.com/tag/lee-hood/page/2/'>2</a>
+<a class="next page-numbers" href="http://isbmolecularme.com/tag/lee-hood/page/2/">&raquo;</a>		<!-- END .pagination -->
+		</div>
+	
+				
+				<!-- END .postarea -->
+				</div>
+			
+			<!-- END .eleven columns -->
+			</div>
+			
+			<!-- BEGIN .five columns -->
+			<div class="five columns">
+			
+				
+
+	<div class="sidebar">
+		<div id="text-7" class="widget widget_text">			<div class="textwidget"><p><a href = "http://systemsbiology.org" target="_blank" ><img src= "http://www.systemsbiology.org/sites/default/files/ISB_logo2012color.png" width = "280"></a><br />
+Molecular Me is the news site for ISB. </p>
+<div class="su-button-center"><a href="http://systemsbiology.org/donate-online" class="su-button su-button-style-3d" style="color:#FFFFFF;background-color:#ff9933;border-color:#cc7a29;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_self"><span style="color:#FFFFFF;padding:0px 22px;font-size:17px;line-height:34px;border-color:#ffb870;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> Donate Now</span></a></div>
+</div>
+		</div><div id="rsgwidget-4" class="widget widget_rsg"><h6>The Minds of ISB</h6>
+	<dl class="rsgallery">
+		<dt class="rsg_item">
+			<a href="http://isbmolecularme.com/isb-minds/" title="Click to learn more about the Minds of ISB who infuse this place with a vibrant, collaborative, entrepreneurial and driven spirit.  Kai Wang"><img src="http://isbmolecularme.com/wp-content/uploads/KaiWang-copy-300x200.jpg" alt="Click to learn more about the Minds of ISB who infuse this place with a vibrant, collaborative, entrepreneurial and driven spirit.  Kai Wang" title="Click to learn more about the Minds of ISB who infuse this place with a vibrant, collaborative, entrepreneurial and driven spirit.  Kai Wang" width="300" height="200" class="rsg_image" /></a>
+		</dt>
+		<dd class="rsg_caption">"I knew I wanted to be a scientist when I got the correct answer for the bonus question in high school biology class. My advice to future scientists: be patient."  -- KAI WANG, Principal Scientist, Hood Lab</dd>
+	</dl></div><div id="dpe_fp_widget-6" class="widget widget_dpe_fp_widget"><h6>Recent Publications</h6>	<ul class="dpe-flexible-posts">
+			<li id="post-3650" class="post-3650 post type-post status-publish format-standard has-post-thumbnail hentry category-isb-science-report category-lobby category-publications category-slider tag-arjun-raman tag-baliga-publications tag-cmonkey tag-cmonkey2 tag-dr-nitin-baliga tag-software">
+			<a href="http://isbmolecularme.com/the-most-powerful-tool-for-reconstructing-a-gene-network/">
+				<img src="http://isbmolecularme.com/wp-content/uploads/cmonkeyMM-800x356.jpg" class="attachment-large wp-post-image" alt="cmonkeyMM" />				<h4 class="title">The Most Powerful Tool for Reconstructing a Gene Network</h4>
+			</a>
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+</div><div id="dpe_fp_widget-7" class="widget widget_dpe_fp_widget"><h6>Latest in Education</h6>	<ul class="dpe-flexible-posts">
+			<li id="post-3707" class="post-3707 post type-post status-publish format-standard has-post-thumbnail hentry category-education category-grants-isb-news category-lobby tag-awards tag-dr-dana-riley-black tag-isb-education tag-lce tag-logan-center-for-education tag-marysville-school-district tag-ospi">
+			<a href="http://isbmolecularme.com/new-500k-ospi-award-aids-isbs-work-with-marysville-school-district/">
+				<img src="http://isbmolecularme.com/wp-content/uploads/PD5A4182-800x533.jpg" class="attachment-large wp-post-image" alt="PD5A4182" />				<h4 class="title">New $500K OSPI Award Aids ISB&#8217;s Work with Marysville School District</h4>
+			</a>
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+</div><div id="tag_cloud-5" class="widget widget_tag_cloud"><h6>Tags</h6><div class="tagcloud"><a href='http://isbmolecularme.com/tag/100k-wellness-project/' class='tag-link-533' title='21 topics' style='font-size: 13.6pt;'>100K Wellness Project</a>
+<a href='http://isbmolecularme.com/tag/algae/' class='tag-link-71' title='13 topics' style='font-size: 10.4705882353pt;'>algae</a>
+<a href='http://isbmolecularme.com/tag/awards/' class='tag-link-4' title='17 topics' style='font-size: 12.2823529412pt;'>Awards</a>
+<a href='http://isbmolecularme.com/tag/baliga-publication/' class='tag-link-736' title='13 topics' style='font-size: 10.4705882353pt;'>Baliga publication</a>
+<a href='http://isbmolecularme.com/tag/big-data/' class='tag-link-237' title='28 topics' style='font-size: 15.5764705882pt;'>big data</a>
+<a href='http://isbmolecularme.com/tag/cancer/' class='tag-link-427' title='19 topics' style='font-size: 12.9411764706pt;'>cancer</a>
+<a href='http://isbmolecularme.com/tag/cancer-research/' class='tag-link-428' title='21 topics' style='font-size: 13.6pt;'>cancer research</a>
+<a href='http://isbmolecularme.com/tag/collaboration/' class='tag-link-75' title='18 topics' style='font-size: 12.6117647059pt;'>collaboration</a>
+<a href='http://isbmolecularme.com/tag/dr-ilya-shmulevich/' class='tag-link-84' title='15 topics' style='font-size: 11.2941176471pt;'>Dr. Ilya Shmulevich</a>
+<a href='http://isbmolecularme.com/tag/dr-lee-hood/' class='tag-link-50' title='70 topics' style='font-size: 22pt;'>Dr. Lee Hood</a>
+<a href='http://isbmolecularme.com/tag/dr-leroy-hood/' class='tag-link-25' title='21 topics' style='font-size: 13.6pt;'>Dr. Leroy Hood</a>
+<a href='http://isbmolecularme.com/tag/dr-nitin-baliga/' class='tag-link-45' title='34 topics' style='font-size: 16.8941176471pt;'>Dr. Nitin Baliga</a>
+<a href='http://isbmolecularme.com/tag/dr-robert-moritz/' class='tag-link-130' title='12 topics' style='font-size: 9.81176470588pt;'>Dr. Robert Moritz</a>
+<a href='http://isbmolecularme.com/tag/education-2/' class='tag-link-283' title='13 topics' style='font-size: 10.4705882353pt;'>education</a>
+<a href='http://isbmolecularme.com/tag/genomics/' class='tag-link-124' title='17 topics' style='font-size: 12.2823529412pt;'>genomics</a>
+<a href='http://isbmolecularme.com/tag/innovation/' class='tag-link-125' title='18 topics' style='font-size: 12.6117647059pt;'>innovation</a>
+<a href='http://isbmolecularme.com/tag/institute-for-systems-biology/' class='tag-link-21' title='53 topics' style='font-size: 20.0235294118pt;'>Institute for Systems Biology</a>
+<a href='http://isbmolecularme.com/tag/isb/' class='tag-link-20' title='55 topics' style='font-size: 20.3529411765pt;'>ISB</a>
+<a href='http://isbmolecularme.com/tag/isb-editorial-board/' class='tag-link-455' title='15 topics' style='font-size: 11.2941176471pt;'>ISB Editorial Board</a>
+<a href='http://isbmolecularme.com/tag/isb-education/' class='tag-link-209' title='24 topics' style='font-size: 14.5882352941pt;'>ISB education</a>
+<a href='http://isbmolecularme.com/tag/isb-in-antarctica/' class='tag-link-113' title='18 topics' style='font-size: 12.6117647059pt;'>ISB in Antarctica</a>
+<a href='http://isbmolecularme.com/tag/isb-software/' class='tag-link-361' title='10 topics' style='font-size: 8.65882352941pt;'>ISB software</a>
+<a href='http://isbmolecularme.com/tag/k-12-science-education/' class='tag-link-165' title='19 topics' style='font-size: 12.9411764706pt;'>K-12 Science Education</a>
+<a href='http://isbmolecularme.com/tag/lce/' class='tag-link-713' title='13 topics' style='font-size: 10.4705882353pt;'>LCE</a>
+<a href='http://isbmolecularme.com/tag/lee-hood/' class='tag-link-26' title='11 topics' style='font-size: 9.31764705882pt;'>Lee Hood</a>
+<a href='http://isbmolecularme.com/tag/logan-center-for-education/' class='tag-link-656' title='16 topics' style='font-size: 11.7882352941pt;'>Logan Center for Education</a>
+<a href='http://isbmolecularme.com/tag/mass-spectrometry/' class='tag-link-22' title='9 topics' style='font-size: 8pt;'>mass spectrometry</a>
+<a href='http://isbmolecularme.com/tag/microbes/' class='tag-link-329' title='11 topics' style='font-size: 9.31764705882pt;'>microbes</a>
+<a href='http://isbmolecularme.com/tag/nathan-price/' class='tag-link-40' title='18 topics' style='font-size: 12.6117647059pt;'>Nathan Price</a>
+<a href='http://isbmolecularme.com/tag/next-generation-science-standards/' class='tag-link-245' title='11 topics' style='font-size: 9.31764705882pt;'>Next Generation Science Standards</a>
+<a href='http://isbmolecularme.com/tag/nih/' class='tag-link-59' title='14 topics' style='font-size: 10.9647058824pt;'>NIH</a>
+<a href='http://isbmolecularme.com/tag/nitin-baliga/' class='tag-link-304' title='9 topics' style='font-size: 8pt;'>Nitin Baliga</a>
+<a href='http://isbmolecularme.com/tag/open-access-software/' class='tag-link-360' title='10 topics' style='font-size: 8.65882352941pt;'>open access software</a>
+<a href='http://isbmolecularme.com/tag/p4-medicine/' class='tag-link-91' title='42 topics' style='font-size: 18.3764705882pt;'>P4 medicine</a>
+<a href='http://isbmolecularme.com/tag/personalized-medicine/' class='tag-link-233' title='16 topics' style='font-size: 11.7882352941pt;'>personalized medicine</a>
+<a href='http://isbmolecularme.com/tag/proteomics/' class='tag-link-16' title='23 topics' style='font-size: 14.2588235294pt;'>Proteomics</a>
+<a href='http://isbmolecularme.com/tag/publications/' class='tag-link-11' title='17 topics' style='font-size: 12.2823529412pt;'>Publications</a>
+<a href='http://isbmolecularme.com/tag/seattle-biomed/' class='tag-link-219' title='11 topics' style='font-size: 9.31764705882pt;'>Seattle BioMed</a>
+<a href='http://isbmolecularme.com/tag/stem/' class='tag-link-246' title='31 topics' style='font-size: 16.4pt;'>STEM</a>
+<a href='http://isbmolecularme.com/tag/systems-biology/' class='tag-link-61' title='49 topics' style='font-size: 19.5294117647pt;'>systems biology</a>
+<a href='http://isbmolecularme.com/tag/systems-education/' class='tag-link-167' title='21 topics' style='font-size: 13.6pt;'>systems education</a>
+<a href='http://isbmolecularme.com/tag/systems-medicine/' class='tag-link-287' title='20 topics' style='font-size: 13.2705882353pt;'>systems medicine</a>
+<a href='http://isbmolecularme.com/tag/tcga/' class='tag-link-80' title='18 topics' style='font-size: 12.6117647059pt;'>TCGA</a>
+<a href='http://isbmolecularme.com/tag/technology/' class='tag-link-520' title='17 topics' style='font-size: 12.2823529412pt;'>technology</a>
+<a href='http://isbmolecularme.com/tag/video/' class='tag-link-208' title='14 topics' style='font-size: 10.9647058824pt;'>video</a></div>
+</div><div id="text-8" class="widget widget_text"><h6>ISBers Blogs</h6>			<div class="textwidget"><p>
+<a href = "http://karlynsandiego.wordpress.com">Where in the world is...? by Karlyn Beer </a><p>
+<a href = "http://biofabric.blogspot.com">BioFabric by Bill Longabaugh </a><p><a href = "http://antarcticallison.blogspot.com">Allison Lee in Antarctica</a>
+<p><a href = "http://epigeneticlandscape.wordpress.com">Sui Huang's Epigenetic Landscape</a></div>
+		</div><div id="search-6" class="widget widget_search"><h6>Search</h6><form method="get" id="searchform" action="http://isbmolecularme.com//" >
+		<label for="s">Search</label>
+		<div class="search-holder"><input type="search" class="search-field" placeholder="Search Here" value="" name="s"><input type="submit" id="searchsubmit" value="Go" />
+		</div>
+		</form></div><div id="archives-5" class="widget widget_archive"><h6>Archives</h6>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://isbmolecularme.com/2015/05/'> May 2015 &nbsp;(5)</option>
+	<option value='http://isbmolecularme.com/2015/04/'> April 2015 &nbsp;(7)</option>
+	<option value='http://isbmolecularme.com/2015/03/'> March 2015 &nbsp;(14)</option>
+	<option value='http://isbmolecularme.com/2015/02/'> February 2015 &nbsp;(12)</option>
+	<option value='http://isbmolecularme.com/2015/01/'> January 2015 &nbsp;(6)</option>
+	<option value='http://isbmolecularme.com/2014/12/'> December 2014 &nbsp;(4)</option>
+	<option value='http://isbmolecularme.com/2014/11/'> November 2014 &nbsp;(7)</option>
+	<option value='http://isbmolecularme.com/2014/10/'> October 2014 &nbsp;(5)</option>
+	<option value='http://isbmolecularme.com/2014/09/'> September 2014 &nbsp;(7)</option>
+	<option value='http://isbmolecularme.com/2014/08/'> August 2014 &nbsp;(7)</option>
+	<option value='http://isbmolecularme.com/2014/07/'> July 2014 &nbsp;(3)</option>
+	<option value='http://isbmolecularme.com/2014/06/'> June 2014 &nbsp;(3)</option>
+	<option value='http://isbmolecularme.com/2014/05/'> May 2014 &nbsp;(17)</option>
+	<option value='http://isbmolecularme.com/2014/04/'> April 2014 &nbsp;(7)</option>
+	<option value='http://isbmolecularme.com/2014/03/'> March 2014 &nbsp;(9)</option>
+	<option value='http://isbmolecularme.com/2014/02/'> February 2014 &nbsp;(15)</option>
+	<option value='http://isbmolecularme.com/2014/01/'> January 2014 &nbsp;(9)</option>
+	<option value='http://isbmolecularme.com/2013/12/'> December 2013 &nbsp;(6)</option>
+	<option value='http://isbmolecularme.com/2013/11/'> November 2013 &nbsp;(5)</option>
+	<option value='http://isbmolecularme.com/2013/10/'> October 2013 &nbsp;(17)</option>
+	<option value='http://isbmolecularme.com/2013/09/'> September 2013 &nbsp;(10)</option>
+	<option value='http://isbmolecularme.com/2013/08/'> August 2013 &nbsp;(9)</option>
+	<option value='http://isbmolecularme.com/2013/07/'> July 2013 &nbsp;(7)</option>
+	<option value='http://isbmolecularme.com/2013/06/'> June 2013 &nbsp;(10)</option>
+	<option value='http://isbmolecularme.com/2013/05/'> May 2013 &nbsp;(10)</option>
+	<option value='http://isbmolecularme.com/2013/04/'> April 2013 &nbsp;(12)</option>
+	<option value='http://isbmolecularme.com/2013/03/'> March 2013 &nbsp;(9)</option>
+	<option value='http://isbmolecularme.com/2013/02/'> February 2013 &nbsp;(26)</option>
+	<option value='http://isbmolecularme.com/2013/01/'> January 2013 &nbsp;(1)</option>
+	<option value='http://isbmolecularme.com/2012/12/'> December 2012 &nbsp;(8)</option>
+	<option value='http://isbmolecularme.com/2012/11/'> November 2012 &nbsp;(8)</option>
+	<option value='http://isbmolecularme.com/2012/10/'> October 2012 &nbsp;(3)</option>
+	<option value='http://isbmolecularme.com/2012/08/'> August 2012 &nbsp;(2)</option>
+	<option value='http://isbmolecularme.com/2012/07/'> July 2012 &nbsp;(2)</option>
+	<option value='http://isbmolecularme.com/2012/06/'> June 2012 &nbsp;(3)</option>
+	<option value='http://isbmolecularme.com/2012/05/'> May 2012 &nbsp;(2)</option>
+	<option value='http://isbmolecularme.com/2012/04/'> April 2012 &nbsp;(3)</option>
+	<option value='http://isbmolecularme.com/2012/03/'> March 2012 &nbsp;(9)</option>
+	<option value='http://isbmolecularme.com/2012/02/'> February 2012 &nbsp;(4)</option>
+	<option value='http://isbmolecularme.com/2012/01/'> January 2012 &nbsp;(4)</option>
+	<option value='http://isbmolecularme.com/2011/11/'> November 2011 &nbsp;(1)</option>
+	<option value='http://isbmolecularme.com/2011/10/'> October 2011 &nbsp;(1)</option>
+	<option value='http://isbmolecularme.com/2011/09/'> September 2011 &nbsp;(1)</option>
+	<option value='http://isbmolecularme.com/2011/08/'> August 2011 &nbsp;(1)</option>
+		</select>
+</div><div id="text-10" class="widget widget_text">			<div class="textwidget"><div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</div></div>
+		</div>	</div>
+
+				
+			<!-- END .five columns -->
+			</div>
+	
+						
+	<!-- END .row -->
+	</div>
+
+<!-- END .post class -->
+</div>
+
+
+<div class="clear"></div>
+
+<!-- END .container -->
+</div>
+
+<!-- BEGIN .footer -->
+<div class="footer radius-top">
+
+		
+	<!-- BEGIN .row -->
+	<div class="row">
+		
+		<!-- BEGIN .footer-information -->
+		<div class="footer-information">
+		
+			<!-- BEGIN .footer-content -->
+			<div class="footer-content">
+		
+				<div class="align-left">
+					</div>
+				
+				<div class="align-right">
+					<ul class="social-icons">
+													<li><a class="link-facebook" href="http://www.facebook.com/ISB.USA" target="_blank"><span aria-hidden="true" class="organicon-facebook"></span></a></li>
+																			<li><a class="link-twitter" href="https://twitter.com/ISBUSA" target="_blank"><span aria-hidden="true" class="organicon-twitter"></span></a></li>
+																																					<li><a class="link-google" href="https://plus.google.com/u/0/106111321817874683497" target="_blank"><span aria-hidden="true" class="organicon-googleplus"></span></a></li>
+																															<li><a class="link-instagram" href="http://www.flickr.com/photos/90930918@N08/" target="_blank"><span aria-hidden="true" class="organicon-instagram-2"></span></a></li>
+																			<li><a class="link-youtube" href="http://www.youtube.com/user/ISBSystemsBiology" target="_blank"><span aria-hidden="true" class="organicon-youtube"></span></a></li>
+						                        							<li><a class="link-rss" href="http://isbmolecularme.com/feed/" target="_blank"><span aria-hidden="true" class="organicon-feed"></span></a></li>
+																			<li><a class="link-email" href="mailto:communications@systemsbiology.org" target="_blank"><span aria-hidden="true" class="organicon-envelop"></span></a></li>
+											</ul>
+				</div>
+		
+			<!-- END .footer-content -->
+			</div>
+		
+		<!-- END .footer-information -->
+		</div>
+	
+	<!-- END .row -->
+	</div>
+
+<!-- END .footer -->
+</div>
+
+<!-- END #wrap -->
+</div>
+
+<link rel='stylesheet' id='su-content-shortcodes-css'  href='http://isbmolecularme.com/wp-content/plugins/shortcodes-ultimate/assets/css/content-shortcodes.css?ver=4.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.custom.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/navigation.js?ver=20130729'></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+</body>
+</html>

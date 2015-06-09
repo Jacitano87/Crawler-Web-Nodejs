@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:addthis="http://www.addthis.com/help/api-spec"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"> <!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=IE6" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+	<meta http-equiv="cleartype" content="on">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	
+	<title>Cambrian Genomics CEO: We’ll design every human on a computer and make poop smell like bananas | VentureBeat | Science | by Chris O&#039;Brien</title>
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="alternate" type="application/rss+xml" title="VentureBeat Feed" href="http://feeds.venturebeat.com/VentureBeat" />
+	
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,700,300,400,600' rel='stylesheet' type='text/css'>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/js/ie/html5shiv.js"></script>
+      <script src="http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/js/ie/assets/js/respond.min.js"></script>
+    <![endif]-->
+    
+  			<!-- Start | New Relic Browser -->
+		<script type="text/javascript">
+window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:22,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:9,2:8,3:6,4:10,5:3,6:23,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:9,2:8,3:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],6:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:23,2:24,ee:"QJf3ax",gos:"7eSDFh"}],7:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:24,2:23,ee:"QJf3ax"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:24,2:23,ee:"QJf3ax"}],9:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:24,2:23,ee:"QJf3ax"}],10:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:6,2:24,ee:"QJf3ax"}],11:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:12,3:10,4:6,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],12:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],13:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:22,2:23,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:22,2:13,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],22:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],23:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],24:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:23,ee:"QJf3ax"}]},{},["G9z0Bl",4,11,5]);
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"a146400df2",applicationID:"8705922",sa:1,agent:"js-agent.newrelic.com/nr-632.min.js"}
+</script>
+		<!-- End | New Relic Browser -->
+				<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/venturebeat.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='spoke-admin-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/spoke-profiles/css/admin.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='helm-frontend-css-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/helm/css/helm-frontend.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='community-styles-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/community/css/community.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vb-featured-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/styles/vb-featured.css?ver=1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='vb-brand-global-css'  href='//vbstatic.co/brand/css/news.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='vb-v3-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/styles/v3.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vb-v3-adjust-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/styles/v3-adjust.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='vb-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C700italic%2C800italic%2C400%2C300%2C600%2C700%2C800&#038;ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='taxonomy-image-plugin-public-css'  href='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/plugins/taxonomy-images/style.css?ver=0.8.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='//www.googletagservices.com/tag/js/gpt.js?ver=1'></script>
+<script type='text/javascript' src='//cdn.optimizely.com/js/2105380427.js?ver=1.00'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://venturebeat.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://venturebeat.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='EA is on a roll &#8212; and Wall Street loves&nbsp;it' href='http://venturebeat.com/2014/10/29/ea-is-on-a-roll-and-wall-street-loves-it/' />
+<link rel='next' title='David Hasselhoff wants to keep up with Kim Kardashian &#8212; by launching his own mobile&nbsp;game' href='http://venturebeat.com/2014/10/29/david-hasselhoff-wants-to-keep-up-with-kim-kardashian-by-launching-his-own-mobile-game/' />
+<link rel='canonical' href='http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/' />
+<link rel='shortlink' href='http://wp.me/p5hvhT-6FX1' />
+
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><meta name="description" content="VIENNA, Austria — Say this for Austen Heinz: His vision for the future will either thrill you or leave you fearing for the future of humanity. There&#8217;s not really any room in the middle."/><link rel="shortcut icon" type="image/x-icon" href="http://venturebeat.com/wp-content/themes/vbnews/img/favicon.ico" />			<script type="text/javascript">
+				var vb_page_info = {"title":"Cambrian Genomics CEO: We\u2019ll design every human on a computer and make poop smell like\u00a0bananas | VentureBeat | Science | by Chris O&#039;Brien","url":"venturebeat.com\/2014\/10\/29\/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas\/","page_type":"single","post_title":"Cambrian Genomics CEO: We\u2019ll design every human on a computer and make poop smell&nbsp;like\u00a0bananas","authors":["chris-obrien"],"categories":["Business","Science"],"tags":["Cambrian Genomics","DNA"],"designations":["homepage"],"story_type":false,"channel":"science"};
+			</script> 
+					<!-- Quantcast Tag --> 
+		<script type="text/javascript">
+		    var _qevents = _qevents || [];
+		    (function() {
+		        var elem = document.createElement('script');
+		        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") 
+		                    + ".quantserve.com/quant.js";
+		        elem.async = true;
+		        elem.type = "text/javascript";
+		        var scpt = document.getElementsByTagName('script')[0];
+		        scpt.parentNode.insertBefore(elem, scpt);  
+		    })();
+		</script>
+				<script type="text/javascript">
+		window.analytics=window.analytics||[],window.analytics.methods=["identify","group","track","page","pageview","alias","ready","on","once","off","trackLink","trackForm","trackClick","trackSubmit"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;i<window.analytics.methods.length;i++){var key=window.analytics.methods[i];window.analytics[key]=window.analytics.factory(key)}window.analytics.load=function(t){if(!document.getElementById("analytics-js")){var a=document.createElement("script");a.type="text/javascript",a.id="analytics-js",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.io/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)}},window.analytics.SNIPPET_VERSION="2.0.9",
+		window.analytics.load("gicy4fy2x2");
+		window.analytics.page({ path: window.location.pathname });
+		</script>
+				<script type="text/javascript">
+			var vb_sharrre_googleplus_json = {"url":"http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/","count":"127"};
+		</script>
+		
+		<!-- Google+ --> 
+	  	<link href="https://plus.google.com/111356039646926014229" rel="publisher" /><script type="text/javascript"> 
+	  	window.___gcfg = {lang: 'en'}; 
+	  	(function() 
+	  	{var po = document.createElement("script"); 
+	  	po.type = "text/javascript"; po.async = true;po.src = "https://apis.google.com/js/plusone.js"; 
+	  	var s = document.getElementsByTagName("script")[0]; 
+	  	s.parentNode.insertBefore(po, s); 
+	  	})();</script>
+	  
+	<meta property="og:site_name" content="VentureBeat" /><meta property="og:title" content="Cambrian Genomics CEO: We’ll design every human on a computer and make poop smell&nbsp;like bananas" /><meta property="og:description" content="VIENNA, Austria — Say this for Austen Heinz: His vision for the future will either thrill you or leave you fearing for the future of humanity. There&#039;s not really any room in the middle." /><meta property="og:type" content="article" /><meta property="og:url" content="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" /><meta property="og:image" content="http://i0.wp.com/venturebeat.com/wp-content/uploads/2014/10/2014-10-29-08-53-54.jpg?fit=780%2C9999" /><script type="text/javascript">var shortlink = "http://wp.me/p5hvhT-6FX1";</script><script type="text/javascript">googletag.pubads().setTargeting('session', 'B');
+googletag.pubads().setTargeting('env', 'production');
+googletag.pubads().setTargeting('page_type', 'article');
+googletag.pubads().setTargeting('post_id', '1591231');
+googletag.pubads().setTargeting('post_type', 'story');
+googletag.pubads().setTargeting('post_chan', 'science');
+googletag.pubads().setTargeting('post_category', 'business,science');
+googletag.pubads().setTargeting('post_tags', 'cambrian-genomics,dna');
+</script>
+<script type="text/javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=3_zf6yPmoICy1Yucx5y4o2U4hhlvFrl8pkjTOk1g-ZpIFIrBlF6DxyRd30cdIPJggY"></script>
+</head>
+<body class="single single-post postid-1591231 single-format-standard singular category-Business">
+	    <!-- Header -->
+    <header class="container site-header">
+      <a href="/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Logo"><div class="logo text-hide pull-left">VentureBeat</div></a>
+    	                  <a href="/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=News"><div class="site-name pull-left">News</div></a>
+              
+      <div class="pull-right hidden-xs" id="container-gigya-links-search">
+           <a class="mobile-search-icon"></a>
+
+        <div class="links-search">
+          <ul class="header-links">
+            <li><a href="/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=News" class="active">News</a></li>
+            <li><a href="http://events.venturebeat.com/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Events">Events</a></li>
+            <li><a href="http://insight.venturebeat.com/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Insight">Insight</a></li>
+          </ul>
+          <form class="search" method="get" action="http://venturebeat.com/">
+            <input type="search" class="form-control" name="s" value="">
+            <button class="btn btn-submit" type="submit">
+              <span class="glyphicon glyphicon-search"></span>
+            </button>
+          </form>
+        </div>
+            
+      </div>
+    </header>
+    <!-- END Header -->
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-static-top" role="navigation" data-spy="affix" data-offset-top="146">
+      <a id="scroll-main-logo" href="/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Logo-mobile"><div class="scroll-logo text-hide">VentureBeat</div></a>
+      <div class="container">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          Navigate
+          <div class="menu-icon">
+            <a href="#" class="mobile-nav-switch"></a>
+          </div>
+        </button>
+
+        <div class="collapse navbar-collapse">
+		  <ul id="menu-main-nav" class="nav navbar-nav navbar-left navigation"><li id="menu-item-1608499" class="dropdown menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Channels" class="dropdown-toggle" data-toggle="dropdown">Channels<b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li id="menu-item-1608500" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/games/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=GAMESBEAT">GAMESBEAT</a></li>
+	<li id="menu-item-1608501" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/health/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Health">Health</a></li>
+	<li id="menu-item-1608502" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent"><a href="http://venturebeat.com/category/business/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Business">Business</a></li>
+	<li id="menu-item-1608503" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/mobile/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Mobile">Mobile</a></li>
+	<li id="menu-item-1608504" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/cloud/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Cloud">Cloud</a></li>
+	<li id="menu-item-1608505" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/marketing/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Marketing">Marketing</a></li>
+	<li id="menu-item-1608506" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/big-data/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Data">Data</a></li>
+	<li id="menu-item-1608507" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/security/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Security">Security</a></li>
+	<li id="menu-item-1608508" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/deals/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Deals">Deals</a></li>
+	<li id="menu-item-1608509" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/small-biz/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Small+Biz">Small Biz</a></li>
+	<li id="menu-item-1608510" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/dev/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Dev">Dev</a></li>
+	<li id="menu-item-1608511" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/social/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Social">Social</a></li>
+	<li id="menu-item-1608512" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://venturebeat.com/category/entrepreneur/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Entrepreneur">Entrepreneur</a></li>
+</ul>
+</li>
+<li id="menu-item-1608513" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://events.venturebeat.com?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Events">Events</a></li>
+<li id="menu-item-1608514" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://insight.venturebeat.com?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Insight">Insight</a></li>
+<li id="menu-item-1608516" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://venturebeat.com/newsletters/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Newsletters">Newsletters</a></li>
+<li id="menu-item-1608532" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://venturebeat.com/contact/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Got+news%3F+Tell+us%21">Got news? Tell&nbsp;us!</a></li>
+</ul>          <div class="nav navbar-nav navbar-right social hidden-xs">
+            			<div class="vb-social-share">
+				<div class="feed_share sharrre">
+					<div class="box"><a class="share" href="http://feeds.venturebeat.com/science"> </a></div>
+				</div>
+				<div class="twitter_share sharrre">
+					<div class="box"><a class="share" href="http://twitter.com/venturebeat"> </a></div>
+				</div>
+				<div class="facebook_share sharrre">
+					<div class="box"><a class="share" href="http://facebook.com/venturebeat"> </a></div>
+				</div>
+				<div class="googleplus_share sharrre">
+					<div class="box"><a class="share" href="https://plus.google.com/u/0/111356039646926014229/posts"> </a></div>
+				</div>
+				<div class="linkedin_share sharrre">
+					<div class="box"><a class="share" href="http://www.linkedin.com/company/368927?trk=tyah"> </a></div>
+				</div>
+			</ul><!-- .vb-social-share -->
+		          </div>
+        </div>
+
+      </div>
+    </nav>
+    <!-- END Navigation -->
+    
+	    <div class="skin-wrapper">
+    <div class="body-container container clearfix">
+	<div class="vb-ad-leaderboard"></div>
+      <div class="content-wrap clearfix">
+		<div id="primary">
+			<div id="content" role="main">
+
+					<article id="post-1591231" class="border-top clearfix post-1591231 post type-post status-publish format-standard has-post-thumbnail hentry category-business category-science tag-cambrian-genomics tag-dna vb_post_designations-homepage has-thumbnail">
+				<span class="channel-label science-post"><a href="http://venturebeat.com/category/science/?utm_source=vbnews&utm_medium=Clicked+Channel+Callout&utm_campaign=science">Science</a></span>								<div class="entry-wrapper">
+					<header class="entry-header">
+						<h1 class="entry-title">Cambrian Genomics CEO: We’ll design every human on a computer and make poop smell&nbsp;like bananas</h1>
+												<div class="entry-content-thumbnail">
+							<img  src="//vbstatic.co/assets/img/logo-placeholder.png" data-src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2014/10/2014-10-29-08-53-54.jpg?fit=780%2C9999" class="attachment-single wp-post-image" alt="CEO Austen Heinz, right." /><noscript><img src="http://i0.wp.com/venturebeat.com/wp-content/uploads/2014/10/2014-10-29-08-53-54.jpg?fit=780%2C9999" class="attachment-single wp-post-image" alt="CEO Austen Heinz, right." /></noscript><div class="wp-caption"><p class="wp-caption-text">Above: CEO Austen Heinz, right.</p><div class="vb_image_source"><em>Image Credit: Chris O'Brien</em></div></div>						</div><!-- .entry-content-thumbnail -->
+						
+						<div class="entry-meta clearfix">
+							<div class="entry-meta-left">
+								<time class="the-time" title="2014-10-29T11:53:56+00:00" datetime="2014-10-29T11:53:56+00:00">October 29, 2014 11:53 AM</time><br/>
+								<a href="http://venturebeat.com/author/chris-obrien/" title="Posts by Chris O&#039;Brien" class="author url fn" rel="author">Chris O&#039;Brien</a>							</div><!-- .entry-meta-left -->
+							<div class="entry-meta-right">
+											<div class="vb-social-share sharrre_widget">
+				<div class="twitter_share" data-url="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" data-text="Cambrian Genomics CEO: We’ll design every human on a computer and make poop smell&nbsp;like bananas" data-title=" " data-related=""></div>
+				<div class="facebook_share" data-url="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" data-text="Cambrian Genomics CEO: We’ll design every human on a computer and make poop smell&nbsp;like bananas" data-title=" "></div>
+				<div class="googleplus_share" data-url="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" data-text="Cambrian Genomics CEO: We’ll design every human on a computer and make poop smell&nbsp;like bananas" data-title=" "></div>
+				<div class="linkedin_share" data-url="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" data-text="Cambrian Genomics CEO: We’ll design every human on a computer and make poop smell&nbsp;like bananas" data-title=" "></div>
+											
+		<div class="comments_share sharrre">
+			<div class="box"><a class="count livefyre-commentcount" data-lf-site-id="351509" data-lf-article-id="post-1591231" href="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/#comments">0</a><a class="share" href="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/#comments"> </a></div>
+		</div>
+		
+									</div>
+									</div><!-- .entry-meta-right -->
+
+						</div><!-- .entry-meta -->
+					</header><!-- .entry-header -->
+
+					<div class="entry-content">
+						<div class="post-content">
+						<p>VIENNA, Austria — Say this for Austen Heinz: His vision for the future will either thrill you or leave you fearing for the future of humanity. There&#8217;s not really any room in the middle.</p>
+<p>In a pair of interviews, on and off the stage at the <a href="http://pioneers.io/festival">Pioneers Festival</a> in Vienna today, the CEO of San Francisco-based <a href="http://cambriangenomics.com/">Cambrian Genomics</a> explained the mission of his company, which is often benignly described as &#8220;laser-printing DNA.&#8221;</p>
+<p>So what does that mean?</p>
+<p>&#8220;We want to make everything that is alive on the planet,&#8221; he explained. &#8220;Everything that is alive is not optimal. It can be made better.&#8221;</p>
+<p>But he doesn&#8217;t have plans for replication: &#8220;We want to make totally new organisms that have never existed,&#8221; he said. &#8220;And replace every existing organism with a better one. It just seems obvious that eventually every human will be designed on a computer.&#8221;</p>
+<p>Lest you think these are the ravings of a mad scientist, or the opening scene of a new sci-fi dystopian thriller, well, it&#8217;s not. Heinz is calm and rational in his view. And while his company has not disclosed its total fundraising, it&#8217;s backed by such notable Silicon Valley names as Peter Thiel.</p>
+<p>The technology at work here is complex, but essentially Cambrian Genomics says it has found a way to dramatically reduce the cost of printing a strand of DNA. Sequencing of the genome is so advanced, Heinz explained, that basically people can take DNA code from libraries and create organic mash-ups, much the way any programmer can pull computer code from code libraries. That new code is then laser printed for a fraction of what it used to cost.</p>
+<p>The most notable example of this technology at work was the <a href="https://www.kickstarter.com/projects/antonyevans/glowing-plants-natural-lighting-with-no-electricit">&#8220;glowing plants&#8221;</a> campaign on Kickstarter. Using these synthetic biology techniques, the campaign promised to take bioluminescence genes from bacteria and fireflies and insert them into several plants to make them glow in the dark.</p>
+<p>The backers raised $484,013 from 8,433 backers. But then Kickstarter responded by changing its rules by <a href="http://www.theverge.com/2013/8/2/4583562/kickstarter-bans-project-creators-from-giving-GMO-rewards">banning genetically modified organisms</a> from its platform.</p>
+<p>Now Heinz is fighting back. He said on stage that the company will soon launch its own crowd-funding platform for GMOs, called &#8220;creature creators.&#8221; Cambrian will also help other people create slick videos to promote their synthetic biological creations.</p>
+<p>One such project he mentioned on stage was Petomics. The project essentially aims to take genetic material for the odor of bananas and inject it into <em>E. coli</em> bacteria. The modified bacteria would be introduced into pet food and the result would be &#8230; poop that smells like bananas.</p>
+<p>&#8220;It&#8217;s a pretty strong smell, too,&#8221; Heinz said.</p>
+<p>Heinz doesn&#8217;t appear to fear the potential backlash such biological tinkering could provoke. For him, there is a simple logic at work at makes such technology inevitable. People are essentially badly designed computers, he said.</p>
+<p>&#8220;We are running a program that is designed for us to die,&#8221; he said. &#8220;I think obviously every organism will be designed synthetically. It&#8217;s not a stretch to take it to every human and everything that&#8217;s alive.&#8221;</p>
+						</div>
+					</div><!-- .entry-content -->
+
+					<footer class="entry-footer">
+
+									<div class="OUTBRAIN" data-src="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" data-widget-id="AR_1" data-ob-template="venturebeat"></div>
+			<div class="OUTBRAIN" data-src="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" data-widget-id="AR_2" data-ob-template="venturebeat"></div>
+		
+						<div id="tag-lists">
+							<div class="tag-list" id="tag-list-post_tag">
+							<h3>Topics &gt;</h3> <a href="http://venturebeat.com/tag/cambrian-genomics/" rel="tag">Cambrian Genomics</a> <a href="http://venturebeat.com/tag/dna/" rel="tag">DNA</a>							</div>
+						</div>
+					</footer><!-- #entry-meta -->
+				</div><!-- .entry-wrapper-->
+			</article><!-- #post-1591231 -->
+			
+			<div id="comments">
+							</div><!-- #comments -->
+
+					</div><!-- #content -->
+		</div><!-- #primary -->
+
+		
+<div id="secondary" class="column widget-area">
+	<aside role="complementary">
+		<div class="xoxo">
+					<meta id="reference_id" content="">
+			<meta id="keywords" content="">
+
+			<div id="vb_recommended_widget" class="widget widget_recommended_cloud">
+				<h2 class="widgettitle">Trending Research</h2>
+				<ul id="recommended"></ul>
+			</div>
+	  <div class="dfp_container"></div><div class="dfp_container"></div>		<script type="text/javascript" src="http://jsc.madisonlogic.com/jsc?pub=532&pgr=975&tgt=3315&src=10682&layrf=7232"></script>
+		<div class="dfp_container"></div><div class="dfp_container"></div>					<style type="text/css">
+						.vb-recent-business-sponsored-company-news-posts .read-more { float: none; } .vb-recent-business-sponsored-company-news-posts .recent-posts-attribution { min-height: 35px; } .vb-recent-business-sponsored-company-news-posts .recent-posts-attribution img { float: right; margin-top: -15px; }					</style>
+								<div class="vb_widget widget">
+					<div class="vb-recent-posts-widget vb-recent-business-sponsored-company-news-posts">
+						<h2 class="widgettitle">Press Releases</h2>
+						<ul class="recent-posts-list">
+													<li class="mini-post">
+															<div class="image-wrap">
+									<img  src="//vbstatic.co/assets/img/logo-placeholder.png" data-src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2014/11/businesswire-4.jpg?resize=52%2C52" class="attachment-mini wp-post-image" alt="businesswire-4" Adents_Raises_€8_5_Million_in="" nbsp;Funding="" /><noscript><img src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2014/11/businesswire-4.jpg?resize=52%2C52" class="attachment-mini wp-post-image" alt="businesswire-4" Adents_Raises_€8_5_Million_in="" nbsp;Funding="" /></noscript>								</div>
+															<div class="post-box">
+									<a class="post-title" href="http://venturebeat.com/2015/06/08/adents-raises-e8-5-million-in-funding/?utm_source=vbnews&utm_medium=sidebar-widget&utm_campaign=recent-posts-business-sponsored-company-news">
+										Adents Raises €8.5 Million in Funding									</a>
+								</div>
+							</li>
+													<li class="mini-post">
+															<div class="image-wrap">
+									<img  src="//vbstatic.co/assets/img/logo-placeholder.png" data-src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2014/11/businesswire-4.jpg?resize=52%2C52" class="attachment-mini wp-post-image" alt="businesswire-4" Local_Motors_Rolls_Out_Mobifactory_in_Crystal="" nbsp;City="" /><noscript><img src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2014/11/businesswire-4.jpg?resize=52%2C52" class="attachment-mini wp-post-image" alt="businesswire-4" Local_Motors_Rolls_Out_Mobifactory_in_Crystal="" nbsp;City="" /></noscript>								</div>
+															<div class="post-box">
+									<a class="post-title" href="http://venturebeat.com/2015/06/08/local-motors-rolls-out-mobifactory-in-crystal-city/?utm_source=vbnews&utm_medium=sidebar-widget&utm_campaign=recent-posts-business-sponsored-company-news">
+										Local Motors Rolls Out Mobifactory in Crystal City									</a>
+								</div>
+							</li>
+													<li class="mini-post">
+															<div class="image-wrap">
+									<img  src="//vbstatic.co/assets/img/logo-placeholder.png" data-src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2014/11/businesswire-4.jpg?resize=52%2C52" class="attachment-mini wp-post-image" alt="businesswire-4" KinectUs™_Launches_New_On-Demand_Social_App_That_Connects_People_for_Activities_While_Protecting_Mobile="" nbsp;Privacy="" /><noscript><img src="http://i1.wp.com/venturebeat.com/wp-content/uploads/2014/11/businesswire-4.jpg?resize=52%2C52" class="attachment-mini wp-post-image" alt="businesswire-4" KinectUs™_Launches_New_On-Demand_Social_App_That_Connects_People_for_Activities_While_Protecting_Mobile="" nbsp;Privacy="" /></noscript>								</div>
+															<div class="post-box">
+									<a class="post-title" href="http://venturebeat.com/2015/06/08/kinectus-launches-new-on-demand-social-app-that-connects-people-for-activities-while-protecting-mobile-privacy/?utm_source=vbnews&utm_medium=sidebar-widget&utm_campaign=recent-posts-business-sponsored-company-news">
+										KinectUs™ Launches New On-Demand Social App That Connects People for Activities While Protecting Mobile Privacy									</a>
+								</div>
+							</li>
+												</ul>
+						<div class="recent-posts-attribution">
+							<a href="http://venturebeat.com/tag/business-sponsored-company-news/" class="read-more">View more</a>
+															<a target="_blank" href="/tag/business-sponsored-company-news/">									<img width="150" src="http://venturebeat.com/wp-content/uploads/2014/11/business-wire-widget.png" class="recent-posts-logo" />
+								</a>													</div>
+					</div>
+				</div>
+							
+			<!-- Outbrain Sidebar Widget -->
+			<div class="vb_widget widget">
+				<div class="OUTBRAIN" data-src="http://venturebeat.com/2014/10/29/cambrian-genomics-ceo-were-going-to-design-every-human-on-a-computer-and-make-your-poop-smell-like-bananas/" data-widget-id="SB_1" data-ob-template="venturebeat"></div>
+			</div>
+					</div>
+	</aside>
+</div><!-- #secondary .widget-area -->
+
+
+	</div><!-- END .content-wrap -->
+	</div><!-- END .body-container -->
+	</div><!-- END .skin-wrapper -->
+	
+      <footer id="the_footer">
+        <div class="container footcontainer">
+          <ul class="nav navbar-nav">
+            <li><a href="/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Home">Home</a></li>
+            <li><a href="/about/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=About">About</a></li>
+            <li><a href="/contact/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Contact">Contact</a></li>
+            <li><a href="/careers/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Careers">Careers</a></li>
+            <li><a href="/advertise/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Advertise">Advertise</a></li>
+            <li><a href="http://events.venturebeat.com/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Events">Events</a></li>
+            <li><a href="/privacy-policy/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Privacy+Policy">Privacy Policy</a></li>
+            <li><a href="/terms-of-service/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Terms+of+Service">Terms of Service</a></li>
+          </ul>
+          <div class="row">
+            <div class="col-xs-12">
+              <p class="copyright">&copy; Copyright 2015 <a href="http://venturebeat.com/?utm_source=vbnews&utm_medium=clicked-menu&utm_campaign=Copyright">VentureBeat</a>. All rights reserved.</small>
+            </div>
+          </div>
+        </div>
+      </footer>
+	  <script type="text/javascript">var lfConvConfig = {"articleId":"post-1591231","collectionMeta":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOlwvXC92ZW50dXJlYmVhdC5jb21cLzIwMTRcLzEwXC8yOVwvY2FtYnJpYW4tZ2Vub21pY3MtY2VvLXdlcmUtZ29pbmctdG8tZGVzaWduLWV2ZXJ5LWh1bWFuLW9uLWEtY29tcHV0ZXItYW5kLW1ha2UteW91ci1wb29wLXNtZWxsLWxpa2UtYmFuYW5hc1wvIiwidGl0bGUiOiJDYW1icmlhbiBHZW5vbWljcyBDRU86IFdlXHUyMDE5bGwgZGVzaWduIGV2ZXJ5IGh1bWFuIG9uIGEgY29tcHV0ZXIgYW5kIG1ha2UgcG9vcCBzbWVsbCZuYnNwO2xpa2VcdTAwYTBiYW5hbmFzIiwiYXJ0aWNsZUlkIjoicG9zdC0xNTkxMjMxIiwidGFncyI6IiIsInR5cGUiOiJsaXZlY29tbWVudHMifQ.rGU9hkMIVrGEwwstlouVsnHPfRM9TVAmcdKzOWH4b6s","checksum":"d6652e0b80d269d6f6a97bda765e8431","el":"comments","siteId":"351509","disableAvatars":false,"disableThirdPartyAnalytics":false};</script><script
+				        type="text/javascript"
+				        data-lf-domain="venturebeat.fyre.co"
+				        src="//cdn.livefyre.com/libs/commentcount/v1.0/commentcount.js">
+				</script>		<!-- Bizo Insight Tag -->
+		<script type="text/javascript">
+		  _bizo_data_partner_id = "2938";
+		</script>
+		<script type="text/javascript">
+		(function(){var b,a,u;a=document.createElement("script");a.type="text/javascript";a.async=true;u=(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/insight.min.js";a.src=u;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();
+		</script>
+		<noscript>
+		  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=2938&fmt=gif" />
+		</noscript>
+			<!-- Perfect Audience -->
+		<script type="text/javascript">
+		(function() {
+			window._pa = window._pa || {};
+			var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+			pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/527cb3327a43f8412500003a.js";
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
+		})();
+		</script>
+		<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201524'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-lazy-load/js/lazyload.js?ver=1.3'></script>
+<script type='text/javascript' src='//cdn.livefyre.com/Livefyre.js?ver=3.0'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/lib/jquery.cookie.js?ver=2006'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vb_config = {"networkConfig":{"network":"venturebeat.fyre.co"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/livefyre/js/livefyre.js?ver=3.1'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/social/js/jquery.sharrre.js?ver=1.34'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/social/js/social-share.js?ver=1'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/lib/jquery.tools.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/lib/jquery.cycle.all.js?ver=2.9999'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/lib/vb-frontend.js?ver=1.51'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var vb_gigya_settings = {"user_url":"http:\/\/users.venturebeat.com"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/gigya/js/login.js?ver=2.0'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/vb-dfp.js?ver=3.3'></script>
+<script type='text/javascript' src='//c.amazon-adsystem.com/aax2/amzn_ads.js?ver=1.0'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/a9-get-ads.js?ver=1.1'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/a9-call.js?ver=1.1'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-dfp/js/openx.js?ver=1.0'></script>
+<script type='text/javascript' src='http://widgets.outbrain.com/outbrain.js?ver=latest'></script>
+<script type='text/javascript' src='//vbstatic.co/nova/recommend.min.js?ver=1.1'></script>
+<script type='text/javascript' src='http://1u88jj3r4db2x4txp44yqfj1.wpengine.netdna-cdn.com/wp-content/themes/vbnews/plugins/vb-analytics/tracking.js?ver=1.1'></script>
+				<!-- BEGIN custom Amobee, Inc. Native Ads code for venturebeat.com -->
+				<script type='text/javascript'>
+				var dc_AdLinkColor = '#1f81e5' ;
+				var dc_isBoldActive= 'no';
+				var dc_flowMode = 2;
+				var dc_PublisherID = 219690;
+				
+				document.body.onload = function(){
+				var s = document.createElement('script');
+				s.src = 'http://kona.kontera.com/javascript/lib/KonaLibInline.js';
+				s.onload = function(){startDynamicContentFlow();};
+				document.body.appendChild(s);
+				}
+				</script>
+				<!-- END custom Amobee, Inc. Native Ads code for venturebeat.com -->
+			<script type='text/javascript' src='http://stats.wp.com/e-201524.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:3.5.3',blog:'78053529',post:'1591231',tz:'-7',srv:'venturebeat.com'} ]);
+	_stq.push([ 'clickTrackerInit', '78053529', '1591231' ]);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"40195a0833","applicationID":"5451966","transactionName":"b1NRMRdTChAEBRFaDlYZcgYRWwsNShUMXQZUUw==","queueTime":0,"applicationTime":931,"atts":"QxRSR19JGR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

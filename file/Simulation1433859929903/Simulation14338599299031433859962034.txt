@@ -1,0 +1,215 @@
+
+<!DOCTYPE html> 
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+	<head>
+	
+		<meta charset="UTF-8">
+		<meta name="google-site-verification" content="ciK6Udk5rMffH4TjRmgVoyfSvgzruAz-LYvuU7WP_lg" />
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+		<meta property="og:title" content="LEAP - Synthetic Biology Leadership Excellence Accelerator Program" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://synbioleap.org/" />
+		<meta property="og:image" content="http://synbioleap.org/wp-content/themes/leap/images/buttons/logo-menu.png" />
+		<meta property="og:site_name" content="LEAP" />
+		<meta property="og:description" content="Check out the Syn BioLEAP Initiative and sign up to join! #synbioleap @synbioleap" />
+		
+		<title>News - LEAP</title>		
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="pingback" href="http://synbioleap.org/xmlrpc.php" />
+		
+		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://synbioleap.org/news-2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="News - LEAP" />
+<meta property="og:description" content="PRESS RELEASE: SynBio LEAP Announces 2015 Fellows Wednesday, January 28, 2015 San Francisco, CA and London, UK- Following a successful pilot, the Synthetic Biology Leadership Excellence Accelerator Program (SynBio LEAP) has awarded 23 Fellowships to an outstanding group of next generation leaders competitively selected for their visions and aspirations for shaping biotechnology for the public &hellip;" />
+<meta property="og:url" content="http://synbioleap.org/news-2/" />
+<meta property="og:site_name" content="LEAP" />
+<meta property="og:image" content="http://synbioleap.org/wp-content/uploads/2013/05/banner-general.jpg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="PRESS RELEASE: SynBio LEAP Announces 2015 Fellows Wednesday, January 28, 2015 San Francisco, CA and London, UK- Following a successful pilot, the Synthetic Biology Leadership Excellence Accelerator Program (SynBio LEAP) has awarded 23 Fellowships to an outstanding group of next generation leaders competitively selected for their visions and aspirations for shaping biotechnology for the public [&hellip;]"/>
+<meta name="twitter:title" content="News - LEAP"/>
+<meta name="twitter:domain" content="LEAP"/>
+<meta name="twitter:image:src" content="http://synbioleap.org/wp-content/uploads/2013/05/banner-general.jpg"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/synbioleap.org\/","name":"Synbio LEAP","alternateName":"Synthetic Biology Leadership Excellence Accelerator Program"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/synbioleap.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='noakes-framework-css'  href='http://synbioleap.org/wp-content/themes/noakes-framework/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://synbioleap.org/wp-content/themes/leap/style.css?ver=20150527' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://synbioleap.org/wp-content/themes/leap/css/responsive.css?ver=20150527' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://synbioleap.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.5.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-45232401-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js?ver=1.5.10'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/jquery.validate.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/additional-methods.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/noakes-framework/js/noakes.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/main.js?ver=20150312'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://synbioleap.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='http://synbioleap.org/?p=1178' />
+<!-- All in one Favicon 4.3 --><link rel="shortcut icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.ico" />
+<link rel="icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.gif" type="image/gif"/>
+<link rel="icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.png" type="image/png"/>
+<link rel="apple-touch-icon" href="http://synbioleap.org/wp-content/uploads/2013/05/apple-touch.png" />
+		
+		<script type="text/javascript">
+		
+			(function ($)
+			{
+				$.leap.theme_prefix = "leap";
+				$.leap.logo_menu = "logo-menu";
+				$.leap.main_menu = "main-menu";
+			})
+			(jQuery);
+			
+		</script>
+		
+	</head>
+	
+	<body id="leap-news-2" class="page page-id-1178 page-template-default default">
+	
+		<div id="outer-wrapper">
+		
+			<div id="wrapper">
+			
+				<header>
+				
+					<div id="header-logos">
+					
+						<ul id="logo-menu" class="menu"><li id="logo-menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21 menu-object-2"><a title="LEAP &#8211; Synthetic Biology Leadership Excellence Accelerator Program" href="http://synbioleap.org/">LEAP &#8211; Synthetic Biology Leadership Excellence Accelerator Program</a></li></ul>						
+						<a href="http://synbioleap.org/community/sponsors/"><img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-header-201411.jpg" height="59" width="463" alt="" /></a>
+						
+					</div>
+					
+					
+<div id="search-wrapper">
+
+	<a href="javascript:void(0);" id="search-closed"><img src="http://synbioleap.org/wp-content/themes/leap/images/buttons/search-closed.png" height="23" width="28" alt="" /></a>
+	
+	<div id="search-form-wrapper">
+	
+		<form id="search-form" name="search-form" role="search" method="get" action="http://synbioleap.org/">
+		
+			<img src="http://synbioleap.org/wp-content/themes/leap/images/search-left.png" height="23" width="1" alt="" id="search-left" />
+			<input id="search" name="search" type="submit" value="Search" />
+			<input id="s" name="s" type="text" value="search" class="noakes-watermarked" />
+			
+		</form>
+		
+	</div>
+	
+</div>
+<nav class="menu-main-menu-container"><ul id="main-menu" class="menu"><li id="main-menu-item-22" class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-22 menu-object-2"><a href="http://synbioleap.org/">Excellence in Biotechnology Leadership</a></li><li id="main-menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-819 menu-object-810"><a href="http://synbioleap.org/about/">About</a><ul class="sub-menu"><li id="main-menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152 menu-object-1132"><a href="http://synbioleap.org/about/mission-2/">Principles</a></li><li id="main-menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887 menu-object-640"><a href="http://synbioleap.org/activities/leadership-workshops/history/">History</a></li></ul></li><li id="main-menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-922 menu-object-546"><a href="http://synbioleap.org/overview/program/">Fellowship</a><ul class="sub-menu"><li id="main-menu-item-1335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335 menu-object-1269"><a href="http://synbioleap.org/overview/program/2015-fellowship/">2015 Fellowship</a></li></ul></li><li id="main-menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-801 menu-object-799"><a href="http://synbioleap.org/action-plans/">Fellow Plans &#038; Insights</a><ul class="sub-menu"><li id="main-menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26 menu-object-14"><a href="http://synbioleap.org/action-plans/visions-and-plans/">2012 Strategic Action Plans</a></li><li id="main-menu-item-1499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1499 menu-object-1383"><a href="http://synbioleap.org/insight-papers/">Insight Papers</a></li></ul></li><li id="main-menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24 menu-object-10"><a href="http://synbioleap.org/community/">Community</a><ul class="sub-menu"><li id="main-menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55 menu-object-50"><a href="http://synbioleap.org/community/advisoryboard/">Advisory Board</a></li><li id="main-menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240 menu-object-236"><a href="http://synbioleap.org/community/sponsors/">Sponsors</a></li><li id="main-menu-item-1183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1183 menu-object-1029"><a href="http://synbioleap.org/community/fellows/">Fellows</a><ul class="sub-menu"><li id="main-menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54 menu-object-48"><a href="http://synbioleap.org/community/fellows/past/">Past Fellows</a></li></ul></li><li id="main-menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212 menu-object-52"><a href="http://synbioleap.org/community/mentors/">Mentors</a></li><li id="main-menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235 menu-object-227"><a href="http://synbioleap.org/community/organizers/">Team</a></li></ul></li><li id="main-menu-item-1253" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1178 current_page_item menu-item-1253 menu-object-1178 first-parent"><a href="http://synbioleap.org/news-2/">News</a></li><li id="main-menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28 menu-object-18"><a href="http://synbioleap.org/about/contact/">Contact</a></li></ul></nav>					
+				</header>
+				
+				<script type="text/javascript">jQuery.leap.prepare_header();</script>
+				
+				<img width="958" height="257" src="http://synbioleap.org/wp-content/uploads/2013/05/banner-general.jpg" class="attachment-header wp-post-image" alt="General" id="header-graphic" />				
+				<div id="content-wrapper">
+				
+					<div id="content">
+					
+						<h3>PRESS RELEASE:</h3>
+<h1>SynBio LEAP Announces 2015 Fellows</h1>
+<p>Wednesday, January 28, 2015</p>
+<p>San Francisco, CA and London, UK- Following a successful pilot, the Synthetic Biology Leadership Excellence Accelerator Program (SynBio LEAP) has awarded 23 Fellowships to an outstanding group of next generation leaders competitively selected for their visions and aspirations for shaping biotechnology for the public good. The Fellowship will begin on February 1 in Washington DC with a set of landscaping meetings exploring the social, economic, technical, and political state of the field.</p>
+<p>The 2015 LEAP Fellows come from world-class universities, large corporations, start-up companies, government agencies, non-governmental organizations, national laboratories and community labs.  The LEAP Fellowship provides a unique opportunity for them to share knowledge, and develop new skills, for working effectively across diverse social and organizational contexts shaping biotechnology.</p>
+<p>Biographies for the 2015 SynBio LEAP Fellows are online at<a href="http://synbioleap.org/community/fellows/"> http://synbioleap.org/community/fellows/</a>.</p>
+<p>Over the next 12 months, and beyond, the 2015 LEAP Fellows will collaboratively develop a set of “<i>Strategic Action Plans</i>” that explore synthetic biology’s impacts and propose ways to advance its positive outcomes. Through a variety of activities, Fellows will examine key challenges in biotechnology development, including governance and oversight, education and accessibility, research and industry growth, and global development.</p>
+<p>LEAP’s Executive Director, Dr. Megan Palmer, remarked that “the LEAP Fellows are an inspiring group of individuals committed to exploring not simply what we <i>can</i> do with biotechnology, but what we <i>should</i> do, and their roles in guiding the field’s potentially far-reaching global impacts.”</p>
+<p class="p1"><span class="s1">Dr. James Brown, LEAP’s European Director, agreed and added “As we look to develop pragmatic solutions to the global grand challenges we face this century, it is important we consider not just technical questions, but ask who leads those solutions and what impact they will have on society.”</span></p>
+<p>Supported by a growing network of sponsors including the Alfred P. Sloan Foundation, the National Science Foundation, Synberc, and Imperial College SynbiCITE, LEAP is an incubator for emerging leaders across disciplines and sectors to develop strategies for advancing biotechnology in the public interest.  The year-long, non-residential programs centers on two meetings: a ‘landscaping meeting’ and an immersive ‘leadership workshop’ where Fellows develop Strategic Action Plans that address key individual and community challenges. Fellows are mentored by a world-class network of leaders across sectors and disciplines, and the most promising action plan ideas are awarded Catalyst seed grants to accelerate their development.</p>
+<p>For more information on LEAP visit <a href="http://www.synbioleap.org/">www.synbioleap.org</a>, #synbioleap</p>
+<p>Media interested in the LEAP program should contact <script type="text/javascript">(function(){var ml="gEdeD4b-0iC%namftcspok.ly3A2Fhr",mi=";I:=;K8AG=BB;I4;KK>=9G@D7G9<E;KK;K8MN3?;I4;KK>=9G@D;IJ>329=;58BH<69DG3=CFDN0;KK;K8;I1>329=;58BH<69DG3=CFDN0;I:;KL=;I1",o="";for(var j=0,l=mi.length;j<l;j++){o+=ml.charAt(mi.charCodeAt(j)-48);}document.write(decodeURIComponent(o));}());</script><noscript>*protected email*</noscript></p>
+						
+					</div>
+					
+					<script type="text/javascript">jQuery.leap.prepare_content();</script>
+					
+										
+						<div id="right-bar">
+						
+							<div id="leap_community_widget-2" class="leap-widget right-bar-widget widget_leap_community_widget"><div id="community-widget-wrapper"><div id="community-widget-form"><h2>Keep In Touch</h2><p>Sign up for Program Updates and Event Announcements</p>
+<form id="sign-up" name="sign-up" method="get" action="http://synbioleap.us5.list-manage.com/subscribe" target="_blank">
+
+	<input id="u" name="u" type="hidden" value="8eaae4fe0e73ccf861da3b4b7" />
+	<input id="id" name="id" type="hidden" value="00b9245ae5" />
+	
+	<div id="sign-up-wrapper">
+	
+		<input id="MERGE0" name="MERGE0" type="text" value="enter your email address" class="email required noakes-watermarked" />
+		<input id="submit-button" name="submit-button" type="submit" value="Submit" />
+		
+	</div>
+	
+</form>
+</div></div></div><div id="noakes_html_widget-3" class="leap-widget default-right-bar-widget widget_noakes_html_widget"><div class="noakes-html-widget"><h2><img class="alignright size-full wp-image-754" alt="Leap 2012 Annual Report" src="http://synbioleap.org/wp-content/uploads/2013/09/leap-2012-annual-report.jpg" width="120" height="98" />Look Before LEAPing</h2>
+<p>Learn about the LEAP initiative, the 2012 Inaugural Workshop and New Visions and Plans for Leading the Future of Synthetic Biology in our informative eBook.</p>
+<p><a class="button arrow-small" href="http://issuu.com/synbioleap/docs/leap_2012_ebook_bypage?e=0/5312249" target="_blank">Download eBook</a></p>
+</div></div>							
+						</div>
+						
+										
+				</div>
+				
+				<footer>
+				
+					<a href="http://synbioleap.org/community/sponsors/"><img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-201506.jpg" height="119" width="957" alt="" class="phone-hide" />
+					<img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-phone-201506.jpg" height="133" width="320" alt="" class="phone-only" /></a>
+					
+				</footer>
+			
+			</div>
+			
+		</div>
+		
+		<div id="wp-footer">
+		
+			<div id="breakpoint"></div>
+			
+						
+		</div>
+	
+	</body>
+	
+</html>

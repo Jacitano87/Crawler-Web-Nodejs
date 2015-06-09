@@ -1,0 +1,327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Ron Weiss | Weiss Lab for Synthetic Biology</title>
+
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/reset.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles.css" />
+<!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles-IE6-fix.css" />
+	<![endif]-->
+	
+	<!--[if gte IE 7]>
+	<link rel="stylesheet" type="text/css" href="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/styles-IE-fix.css" />
+	<![endif]-->
+
+<link rel="pingback" href="http://groups.csail.mit.edu/synbio/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Weiss Lab for Synthetic Biology &raquo; Feed" href="http://groups.csail.mit.edu/synbio/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Weiss Lab for Synthetic Biology &raquo; Comments Feed" href="http://groups.csail.mit.edu/synbio/comments/feed/" />
+<link rel='stylesheet' id='NextGEN-css'  href='http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/nggallery.css?ver=1.0.0' type='text/css' media='screen' />
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/l10n.js?ver=20101110'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/prototype.js?ver=1.6.1'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/scriptaculous/wp-scriptaculous.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/scriptaculous/effects.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/lightbox-2/lightbox-resize.js?ver=1.8'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-includes/js/jquery/jquery.js?ver=1.4.4'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/nextgen-gallery/js/jquery.cycle.all.min.js?ver=2.88'></script>
+<script type='text/javascript' src='http://groups.csail.mit.edu/synbio/wp-content/plugins/nextgen-gallery/js/ngg.slideshow.min.js?ver=1.05'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://groups.csail.mit.edu/synbio/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://groups.csail.mit.edu/synbio/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Weiss Lab for Synthetic Biology' href='http://groups.csail.mit.edu/synbio/' />
+<link rel='start' title='Stephen Firsing' href='http://groups.csail.mit.edu/synbio/people/stephen-firsing/' />
+<link rel='prev' title='Stephen Firsing' href='http://groups.csail.mit.edu/synbio/people/stephen-firsing/' />
+<link rel='next' title='Regulation Category Text' href='http://groups.csail.mit.edu/synbio/uncategorized/regulation-category/' />
+<meta name="generator" content="WordPress 3.1.2" />
+<link rel='canonical' href='http://groups.csail.mit.edu/synbio/people/ron-weiss/' />
+<link rel='shortlink' href='http://groups.csail.mit.edu/synbio/?p=161' />
+
+	<!-- begin lightbox scripts -->
+	<script type="text/javascript">
+    //<![CDATA[
+    document.write('<link rel="stylesheet" href="http://groups.csail.mit.edu/synbio/wp-content/plugins/lightbox-2/Themes/White/lightbox.css" type="text/css" media="screen" />');
+    //]]>
+    </script>
+	<!-- end lightbox scripts -->
+
+<meta name='NextGEN' content='1.7.4' />
+</head>
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38542179-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<div id="wrapper" class="peopleWrapper">	<div id="container">
+		
+        <div id="header">
+			<div id="utilities">
+             <form method="get" id="searchform" action="http://groups.csail.mit.edu/synbio/">
+             <label>Search</label>
+			 <input type="text" name="s" id="s" class="text" />
+			 <input type="submit" id="searchsubmit" value="Go" class="submit" />
+			</form>
+		</div>
+            
+            
+            
+         	
+			<div id="logo-mini"><a href="http://web.mit.edu" target="_new"><img src="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/images/logo-mit.gif" alt="MIT" title="MIT" /></a></div>
+			<!--<h1>
+				<a href="http://groups.csail.mit.edu/synbio/">WEISS</a>
+			</h1>-->
+			<div></div>
+			<h1 id="pageTitle">Weiss Lab for Synthetic Biology:  Ron Weiss</h1>
+			<a id="logo" href="http://groups.csail.mit.edu/synbio/"><img src="http://groups.csail.mit.edu/synbio/wp-content/themes/weiss/images/logo-weiss-lab.gif" alt="Weiss Lab for Synthetic Biology" title="Weiss Lab 	for Synthetic Biology" /></a>
+			<div id="topNav">
+				<ul>
+					<li><a href="http://groups.csail.mit.edu/synbio/about/" class='about'>About</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/people/" class='peopleOn'>People</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/projects/" class='projects'>Projects</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/publications/" class='publications'>Publications</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/news/" class='news'>News</a></li>
+					<li><a href="http://groups.csail.mit.edu/synbio/photos/" class='photos'>Photos</a></li>
+					<li class="last"><a href="http://groups.csail.mit.edu/synbio/jobs/" class='jobs'>Opportunities</a></li>
+				</ul>
+			</div>
+		</div>
+
+    			<div id="leftNavBorder">
+                
+                
+ 			<p class="title">Principal Investigator</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/ron-weiss/">Ron Weiss</a></li>
+              	</ul>
+ 			<p class="title">Lab Manager</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/stephen-firsing/">Stephen Firsing</a></li>
+              	</ul>
+ 			<p class="title">Lab Administrator</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/olga-parkin/">Olga Parkin</a></li>
+              	</ul>
+ 			<p class="title">Postdoctoral Scholars</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/allen-tseng/">Allen Tseng</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/kevin-lebo/">Kevin Lebo</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/leonid-gaidukov/">Leonid Gaidukov</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/elvira-vitu/">Elvira Vitu</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/jin-huh/">Jin Huh</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/stephen-payne/">Stephen Payne</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/eldi-schoenfeld/">Eldi Schoenfeld</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/samira-kiani/">Samira Kiani</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/brian-teague/">Brian Teague</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/tasuku-kitada/">Tasuku Kitada</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/velia-siciliano/">Velia Siciliano</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/jonathan-babb/">Jonathan Babb</a></li>
+              	</ul>
+ 			<p class="title">Graduate Students</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/sebastian-palacios/">Sebastian Palacios</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/nicholas-delateur/">Nicholas Delateur</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/jacob-becraft/">Jacob Becraft</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/breana-stillo/">Breanna Stillo</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/kristjan-eerik-kaseniit/">Kristjan Kaseniit</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/jeremy-gam/">Jeremy Gam</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/giulio-alighieri-5/">Giulio Alighieri</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/deepak-mishra/">Deepak Mishra</a></li>
+              	</ul>
+ 			<p class="title">Undergraduate Students</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/francis-chen/">Francis Chen</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/kyle-lathem/">Kyle Lathem</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/richard-hall/">Richard Hall</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/hao-xing/">Hao Xing</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/brandon-nadres/">Brandon Nadres</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/katie-bodner/">Katie Bodner</a></li>
+              	</ul>
+ 			<p class="title">Research Scientists</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/nevin-m-summers/">Nevin M. Summers</a></li>
+              	</ul>
+ 			<p class="title">Research Assistants</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/john-scarpa/">John Scarpa</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/amanda-woo/">Amanda Woo</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/xin-zhang/">Xin Zhang</a></li>
+              	</ul>
+ 			<p class="title">Technical Associates</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/kalpana-jagtap/">Kalpana Jagtap</a></li>
+              	</ul>
+ 			<p class="title">Graduate Alumni</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/noah-davidsohn/">Dr. Noah Davidsohn</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/saurabh-gupta/">Dr. Saurabh Gupta</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/jingjing-sun/">Dr. Jingjing Sun</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/allen-lin/">Allen Lin, M.S.</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/xavier-duportet/">Dr. Xavier Duportet</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/yinqing-li/">Yinqing Li, M.S.</a></li>
+              	</ul>
+ 			<p class="title">Postdoctoral Alumni</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/jameel-zayed/">Jameel Zayed</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/rimchala/">Joy Rimchala</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/eran-bram/">Eran Bram</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/cristian-grecu/">Cristian Grecu</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/zhen-xie/">Zhen Xie</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/liliana-wroblewska/">Liliana Wróblewska</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/patrick-guye/">Patrick Guye</a></li>
+              	</ul>
+ 			<p class="title">Undergraduate Alumni</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/allyse-terrell/">Allyse Terrell</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/james-kintzing/">James Kintzing</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/andrew-yang/">Andrew Yang</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/michelle-long/">Michelle Long</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/leanna-morinishi/">Leanna Morinishi</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/joy-jiao/">Joy Jiao</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/nathan-kipniss/">Nathan Kipniss</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/adam-rubin/">Adam Rubin</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/hattie-chung/">Hattie Chung</a></li>
+              	</ul>
+ 			<p class="title">Alumni</p>	<ul class="people">        		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/ana-castano/">Ana Castano</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/mafalda-graziano/">Mafalda Graziano</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/lizzie-ngo/">Lizzie Ngo</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/yael-ben-david/">Yael Ben-David</a></li>
+                      		
+                <li><a href="http://groups.csail.mit.edu/synbio/people/helena-shomar/">Helena Shomar</a></li>
+              	</ul>	
+
+	<!--		<p class="titleOn">Principal Investigator</p>
+			<ul class="people">
+				<li class="on">Prof. Ron Weiss</li>
+			</ul>
+			<p class="title">Lab Manager</p>
+			<ul class="people">
+
+				<li>Stephen Firsing</li>
+			</ul>
+			<p class="title">Post-doctoral Associates</p>
+			<ul class="people">
+				<li>Dr. Jonathan Babb</li>
+				<li>Dr. Cristian Grecu</li>
+				<li>Dr. Patrick Guye</li>
+
+				<li>Dr. Ting Lu</li>
+				<li>Dr. Lila Wroblewska</li>
+				<li>Dr. Zhen Xie</li>
+			</ul>	
+			<p class="title">Graduate Students</p>
+			<ul class="people">
+				<li>Noah Davidson</li>
+
+				<li>Yinqing Li</li>
+				<li>Deepak Mishra</li>
+				<li>Adrian Randall</li>
+				<li>Adrian Slusarczyk</li>
+				<li>Jingjing Sun</li>
+			</ul>
+
+			<p class="title">Undergraduate Students</p>
+			<ul class="people">
+				<li>Hattie Chung</li>
+				<li>Cory Li</li>
+			</ul>-->
+		</div>
+		<div id="interiorMain" class="oneColumnInterior peopleDetail">
+		<hr class="peopleHr" />
+                	<div id="peopleDetail" >
+        		
+        		<div id="peopleColumnOne" >
+        			<img width="210" height="210" src="http://groups.csail.mit.edu/synbio/wp-content/uploads/2011/01/Weiss-300x300.jpg" class="attachment-210x210 wp-post-image" alt="Weiss" title="Weiss" />        		</div>
+        		
+        		<div id="peopleColumnTwo" >
+        			<h2>Ron Weiss</h2>
+        			<p>
+					<strong>Title(s): </strong>Professor of Biological Engineering ;
+Director, Synthetic Biology Center at MIT<br />
+					<strong>Affiliated lab(s):</strong> Dept. of Biological Engineering | Dept. of Electrical Engineering and Computer Science | Center for Synthetic Biology | CSAIL         			</p>
+        			<p>
+						<strong>Email:</strong> <a href="mailto:rweiss@MIT.EDU">rweiss@MIT.EDU</a><br />
+						<strong>Phone:</strong> (617) 253-8966; (617) 715-4150<br />
+						<strong>Address:</strong> <a href="http://whereis.mit.edu/?go=NE47-223" target="_blank">NE47-223</a><br />
+					</p>
+					<p id="research">
+						<strong>Research interest:</strong>
+						    Synthetic biology. Construction and analysis of synthetic gene networks.  Use of computer engineering principles of abstraction, composition, and  interface specifications to program cells with sensors and actuators  precisely controlled by analog and digital logic circuitry. Emphasis on  establishing the engineering foundation for synthetic biology and the  pursuit of novel applications enabled by the technology (e.g. programmed  tissue engineering, diabetes, engineered neuronal circuits).					</p>
+						
+					
+                              		</div>
+        		
+        	</div>
+        	
+        	
+        	
+
+         		</div>
+	</div>
+</div>
+
+<div id="footerWrapper">
+	<div id="footer">
+          <div id="footerLogin">
+        <a href="http://groups.csail.mit.edu/synbio/wp-login.php" title="Login">Login</a>
+      </div>
+    		<div id="links">   
+        <ul> 
+        <li><a href="http://www.csail.mit.edu/" target="_blank">Computer Science and Artificial Intelligence Laboratory (CSAIL)</a></li>
+<li><a href="http://web.mit.edu/be/" target="_blank">Department of Biological Engineering</a></li>
+<li><a href="http://www.eecs.mit.edu/" target="_blank">Department of Electrical Engineering and Computer Science</a></li>
+ 
+        </ul>
+        </div>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,551 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Description" content="ICARIS 2012, The 11th International Conference on Artificial Immune Systems, 28-31 August, Taormina, Italy" /> 
+<meta name="keywords" content="ICARIS 2012 Artificial Immune Systems Bio-Inspired Algorithms Immune Systems Taormina" />
+<title>ICARIS 2012 - The 11th International Conference on Artificial Immune Systems</title>
+<link rel="stylesheet" type="text/css" href="style1.css"/>
+
+<link rel="Stylesheet" type="text/css" href="smoothDivScroll.css" />
+ 
+<link rel="Stylesheet" type="text/css" href="colorbox.css" /> 
+
+<script src="jquery.js" type="text/javascript"></script>
+<script src="jquery.ui.widget.js" type="text/javascript"></script>
+<script src="jquery.smoothDivScroll-1.1-min.js" type="text/javascript"></script> 
+<script src="jquery.colorbox-min.js" type="text/javascript"></script>
+
+<script type="text/javascript"> Cufon.now(); </script>
+<script type="text/javascript"> 
+		$(window).load(function() {
+	$("div#makeMeScrollable").smoothDivScroll({ autoScroll: "always", autoScrollDirection: "endlessloopright", autoScrollStep: 2, autoScrollInterval: 30 });
+														
+	$("div#makeMeScrollable a").colorbox({speed:"500"});
+
+	// Pause autoscrolling if the user clicks one of the images
+	$("div#makeMeScrollable").bind("click", function() {
+		$(this).smoothDivScroll("stopAutoScroll");
+	});
+	
+	// Start autoscrolling again when the user closes
+	// the colorbox overlay
+	$(document).bind('cbox_closed', function(){
+		$("div#makeMeScrollable").smoothDivScroll("startAutoScroll");
+	});
+	
+});
+		
+	</script>
+
+<link rel="stylesheet" type="text/css" href="css/superfish.css" media="screen">
+		<script type="text/javascript" src="js/superfish.js"></script>
+		<script type="text/javascript">
+		$(document).ready (function(){
+			// initialise plugins
+			$(function(){
+				$('ul.sf-menu').superfish();
+			});
+		});
+
+		</script>
+	
+	<script type="text/javascript" src="funcs.js"></script>
+<style type="text/css"> 
+	
+	#makeMeScrollable
+	{
+		width:100%;
+		border-radius:3px;
+		height: 250px;
+		position: relative;
+		margin-top:40px;
+		margin-bottom:0px;
+	}
+	
+	#makeMeScrollable div.scrollableArea a
+	{
+		border: none;
+		position: relative;
+		float: left;
+		margin: 0;
+		padding: 0;
+	}
+	#shadowSlider {
+		width:100%;
+		height:30px;
+		background:url(img/shadowSlider.png) no-repeat;
+	}
+	</style>
+	
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24118872-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+	
+<div id="header">
+	<div class="container">
+		<div id="logo"> <img src="img/icaris1.png" alt="ICARIS 2012" /> </div>
+		<div id="menuBox">
+			<ul class="sf-menu">
+				<li class="current"><a href="http://www.artificial-immune-systems.org/icaris/2012/">Home</a></li>
+				<li><a href="news.php">News</a></li>  
+				<li><a href="callForPapers.php">Calls</a></li>
+				<li><a href="submission.php">Submissions</a></li>
+				<li><a href="#">Conference</a>
+					<ul style="border-radius:5px 5px">
+						<li> <a href="./Program-ICARIS2012.pdf">Programme</a> </li> 
+						<li> <a href="plenary.php">Plenary Lectures</a> </li>
+<!--						<li> <a href="invited.php">Invited Talks</a> </li>  -->
+						<li> <a href="panel.php">Panel</a></li>
+						<li> <a href="tutorials.php">Tutorials</a> </li>
+						<li> <a href="workshop.php">Workshop</a></li>
+						<li> <a href="venue.php">Venue &amp; Transport</a> </li>
+						<li> <a href="accommodation.php">Accommodation</a> </li>
+						<li> <a href="visa.php">Visa</a></li>
+						<li> <a href="socialEvent.php">Social Event</a> </li>
+						<li> <a href="sponsorships.php">Sponsorships</a> </li>
+						<li> <a href="press.php">Press</a> </li>
+						<li> <a href="photos.php">Photos</a></li>
+					</ul>
+				</li>
+				<li><a href="comm.php">Committees</a></li>
+				<!--<li><a class="menu" href="#">Keynote &amp; Tutorials</a></li>-->
+				<li><a href="http://www.taosciences.it/payment_gateway/index.php?conference=1">Registration</a></li>
+				<li><a href="links.php">Links</a></li>
+			</ul>
+			
+			<!--<div id="smoothmenu1" class="ddsmoothmenu">
+<ul>
+<li><a href="http://www.dynamicdrive.com">Item 1</a></li>
+<li><a href="#">Folder 0</a>
+  <ul>
+  <li><a href="#">Sub Item 1.1</a></li>
+  <li><a href="#">Sub Item 1.2</a></li>
+  <li><a href="#">Sub Item 1.3</a></li>
+  <li><a href="#">Sub Item 1.4</a></li>
+  <li><a href="#">Sub Item 1.2</a></li>
+  <li><a href="#">Sub Item 1.3</a></li>
+  <li><a href="#">Sub Item 1.4</a></li>
+  </ul>
+</li>
+<li><a href="#">Folder 1</a>
+  <ul>
+  <li><a href="#">Sub Item 1.1</a></li>
+  <li><a href="#">Sub Item 1.2</a></li>
+  <li><a href="#">Sub Item 1.3</a></li>
+  <li><a href="#">Sub Item 1.4</a></li>
+  <li><a href="#">Sub Item 1.2</a></li>
+  <li><a href="#">Sub Item 1.3</a></li>
+  <li><a href="#">Sub Item 1.4</a></li>
+  </ul>
+</li>
+<li><a href="#">Item 3</a></li>
+<li><a href="#">Folder 2</a>
+  <ul>
+  <li><a href="#">Sub Item 2.1</a></li>
+  <li><a href="#">Folder 2.1</a>
+    <ul>
+    <li><a href="#">Sub Item 2.1.1</a></li>
+    <li><a href="#">Sub Item 2.1.2</a></li>
+    <li><a href="#">Folder 3.1.1</a>
+		<ul>
+    		<li><a href="#">Sub Item 3.1.1.1</a></li>
+    		<li><a href="#">Sub Item 3.1.1.2</a></li>
+    		<li><a href="#">Sub Item 3.1.1.3</a></li>
+    		<li><a href="#">Sub Item 3.1.1.4</a></li>
+    		<li><a href="#">Sub Item 3.1.1.5</a></li>
+		</ul>
+    </li>
+    <li><a href="#">Sub Item 2.1.4</a></li>
+    </ul>
+  </li>
+  </ul>
+</li>
+<li><a href="http://www.dynamicdrive.com/style/">Item 4</a></li>
+</ul>
+<br style="clear: left" />
+</div>--> 
+			
+		</div>
+	</div>
+	<div style="clear:both"></div>
+</div>
+	
+	<div id="main">	
+		<div class="container">
+			<div id="titlePage">
+				<img src="img/ica.png" alt="ICARIS 2012" />
+			
+			</div>
+			
+			<div id="makeMeScrollable"> 
+				<div class="scrollingHotSpotLeft"></div> 
+				<div class="scrollingHotSpotRight"></div> 
+				<div class="scrollWrapper"> 
+					<div class="scrollableArea">
+						<a href="img/tao/A1.jpg"><img src="img/tao/smallA1.jpg" width="980" height="250" alt="Taormina" /></a> 
+						<a href="img/tao/A2.jpg"><img src="img/tao/smallA2.jpg" width="980" height="250" alt="Taormina" /></a>
+						<a href="img/tao/A5.jpg"><img src="img/tao/smallA5.jpg" width="980" height="250" alt="Taormina" /></a>
+						<a href="img/tao/A4.jpg"><img src="img/tao/smallA4.jpg" width="980" height="250" alt="Taormina" /></a>
+						<a href="img/tao/A3.jpg"><img src="img/tao/smallA3.jpg" width="980" height="250" alt="Taormina" /></a>
+					</div> 
+				</div> 
+			</div>
+			<div id="shadowSlider"></div> 
+			
+			<!-- NEW - 1 October 2012 -->
+			<div id="col0_center">
+					<div class="bigTitle" style="text-align:center;">
+<!--						<p>&nbsp;&nbsp;</p>  -->
+						<p><font color="red" size="140%">We thank all participants for making <br>ICARIS 2012 a great success!</font></p>
+<!--						<p>&nbsp;&nbsp;</p>   -->
+						<h2><a href="photos.php"><img src="new.png" alt="New"> Photo Gallery </a></h2>
+						<h2><a href="http://www.artificial-immune-systems.org/icaris2013/" target="_blank">See you in Nottingham for ICARIS 2013</a></h2>
+						<br/>
+					</div>
+			</div>
+
+			<br><br><br>
+						
+			<div id="col1_left">
+				<div class="bigTitle">
+					Aim &amp; Scope
+				</div>
+				<div class="bigContent">
+					<p>Artificial immune systems (AIS) is a diverse and maturing area of research that bridges the disciplines of immunology, biology, medical science, computer science, physics, mathematics and engineering. The scope of AIS ranges from modelling and simulation of the immune system through to immune-inspired algorithms and in silico, in vitro and in vivo solutions.</p>
+
+<p>In recent years, algorithms inspired by theoretical immunology have been applied to a wide variety of domains, including computer security, fault tolerance, data-mining and optimisation. Increasingly, theoretical insight into aspects of artificial and real immune systems has been sought through mathematical and computational modelling and analysis.</p>
+
+<p><b>The proceedings will be published in <a href="http://www.springer.com/series/558" target="_new">Lecture Notes in Computer Science</a>, Springer.</b></p>
+
+<!--<p><b>Best Papers for the Track on Computational Immunology, Immunoinformatics, Theoretical Immunology, &amp; Systems Immunology will be published in 
+	<a href="http://immunome-research.net/journal/index.php/immunome/index" target="_new"><i>Immunome Research Journal</i></a></b></p>
+
+<p><b>Best Papers for the Track on Immunological Computation, Immune-inspired Engineering, &amp; Immune-inspired Heuristics will be published in 
+	<a href="http://www.springerlink.com/content/120932/" target="_new"><i>Evolutionary Intellingence</i></a></b></p> -->
+
+<p><b>Best Papers for both tracks will be published in 
+	<a href="http://www.springer.com/computer/theoretical+computer+science/journal/11047" target="_new"><i>Natural Computing</i></a></b></p>
+	
+<p>&nbsp;&nbsp;</p>
+
+<p><font style="color: #900"><b>The Scientific Program is now online</b></font>. </p>	
+	
+				</div>
+			</div>
+			<div id="col1_right">
+				<div class="bigTitle">
+					Location
+				</div>
+				<div class="bigContent">
+					<div class="image">
+						<img src="img/tao.jpg" alt="Taormina" />
+					</div>
+						<p>Taormina is one of the beautiful place in Italy, it's known from eighth century B.C.. The Ancient Greek influence is touchable in The Ancient Theatre in the picture on the left.</p>
+
+<!--						<p>
+							<b>Taormina</b><br />
+							
+							Taormina, Italy<br />
+						</p>
+						<p><a href="http://www.taormina.it" target="_blank" title="Taormina.it">Official Taormina Website</a></p>
+
+                  <p><br><a href="http://www.travelandleisure.com/articles/worlds-best-islands/8" target="_blank">
+	                   World's Best Islands: No. 6 Sicily, Italy (October 2011)</a></p>
+	
+						<p><a href="http://www.travelandleisure.com/worldsbest/2011/islands/europe-islands/242" target="_blank">
+							 Europe's Best Islands: No. 2 Sicily, Italy (2011)</a></p>
+						
+                  <p><a href="http://www.travelandleisure.com/articles/worlds-best-islands-2010/5" target="_blank">
+						    World's Best Islands: No. 7 Sicily, Italy (October 2010)</a></p>
+
+						<p><a href="http://www.travelandleisure.com/articles/worlds-best-islands-sicily-italy" target="_blank">
+							 World’s Best Trip: Sicily, Italy - How to take a World’s Best trip to Sicily</a></p>
+							
+						<p><a href="http://www.tripadvisor.co.uk/Attractions-g187892-Activities-Taormina_Province_of_Messina_Sicily.html" target="_blank">Things to do in Taormina</a></p>
+						
+						<p><a href="http://www.taorminaetna.it/default.asp?&SessionID=59354375-A9739RN-I3320IE-GO6095SM&lang=ENG" target="_new">
+							Taormina, Beaches &amp; Etna Volcano</a></p>
+						
+						<p><a href="http://www.tripadvisor.co.uk/Restaurants-g187892-Taormina_Province_of_Messina_Sicily.html">
+							Restaurants List</a></p>
+
+-->
+
+				</div>	
+
+				<br><!--<br><br><br> -->
+				<div class="bigTitle">Student Bursaries</div>
+
+				<div class="bigContent">
+            <p>ICARIS 2012 is pleased to announce that it is making available a small number of student bursaries. 
+	            Bursaries (paid in Euro) will be awarded on a competitive basis to PhD students from any country attending ICARIS 2012.</p>
+            <p>To apply for a bursary, please <a href="./ICARIS2012-student-bursary.doc">fill in this form</a> and email it to icaris2012@dmi.unict.it by July 15th 2012</p>
+
+            <p><font style="color: #900"><b>The winners of the ICARIS 2012 Travel Awards are:
+	 			<ul>
+					<li>Samir A. Mohamed Elsayed, Helwan University, Egypt &amp; University of Connecticut, USA</li>
+				   <li>Fabio De Luca, University of Salerno, Italy</li>
+				</ul>	
+				</b></font></p>
+
+            </div>
+
+				<br><!--<br><br><br>-->
+				<div class="bigTitle">Workshop</div>
+
+				<div class="bigContent">
+				<h3 align="center"><font color="#900"><b>Bio- &amp; Immune- Inspired Algorithms and Models for Multi-Level Complex Systems</b></font></h3>
+					
+				<p align="center">31 August 2012</p>
+				
+				<p align="center"><font size="2.5px"><a href="./workshop.php">http://www.artificial-immune-systems.org/icaris/2012/workshop.php</a></font></p>
+				
+				<p align="center"><b>submission deadline: <font color="#900"><!--<strike>23rd June 2012</strike>&nbsp;&nbsp;-->30th June 2012</b></font></p>				
+
+				<p align="center"><b>registration deadline: <font color="#900">25th July 2012</b></font></p>				
+				
+<!--            <p>As a bridge between Artificial Immune Systems and Natural Computing the workshop aims at providing an international forum for researchers working on bio-/immune- inspired algorithms and models for natural complex systems, at molecular, cellular, or higher levels. A cross fertilization of these research areas has recently started, and a deeper investigation on mutual relations, synergies, similarities, and differences should be promisingly explored.</p> -->
+
+
+
+            </div>
+
+			</div>
+			
+			<div style="clear:both; margin-top:10px; margin-bottom:10px;">&nbsp;</div>
+			<div class="col2_left">
+				<div class="normTitle">
+					Call for paper
+				</div>
+				<div class="content">
+					<p>The 11th International Conference on AIS (ICARIS) aims to build on the success of previous years to provide a forum for AIS researchers in academia and industry to present and discuss their latest advances. In addition to peer-reviewed papers, ICARIS will present a range of plenary lectures and tutorials to inspire and facilitate both the computer scientist and immunologist in their work.</p>
+					<a href="callForPapers.php" class="button"><span>Read More</span></a>
+				</div> 
+			</div>
+			<div class="col2_center">
+				<div class="normTitle">
+					Call for Oral/Poster Presentation
+				</div>
+				<div class="content">
+					<p><b>Application Deadline: <!--<strike>March 1st, 2012</strike> <font style="color: #900">April 15th, 2012</font>--> <font style="color: #900">15th June 2012</font>.</b></p>
+
+					<p>To apply for an oral presentation in the plenary session or to present a poster at the meeting, please use the submissions section: <a href="./submission_abstract.php">Abstract Submission</a>.</p>
+					<p>For questions or problems, email <a href="mailto:icaris2012@dmi.unict.it">icaris2012@dmi.unict.it</a></p>
+					<a href="callForPapers.php" class="button"><span>Read More</span></a>
+				</div> 
+			</div>
+			<div class="col2_right">
+				<div class="normTitle">
+					Important Dates
+				</div>
+				<div class="content"> <!-- style="color: #900" -->
+					<p><b>Paper submission: <font color="#900">14th May 2012</font></b></p>
+<!--					<blockquote>
+						<p><b>15th April 2012 (extended)</b></p>
+					</blockquote>  -->
+
+					<p><b>Author notification: <font color="#900">23rd June 2012</font></b></p>
+					
+					<p><b>Abstract/Poster/Short Presentation submission: <font color="#900">25th June 2012</font></b></p>
+
+					<p><b>Abstract Notification: <font color="#900">2 July 2012</font></b></p>
+
+					<p><b>Early Registration:  <font color="#900">15th July 2012</font></b></p>
+
+					<p><b>Paper final version: <font color="#900">15th July 2012</font></b></p>
+					
+				</div> 
+			</div>
+			<div style="clear:both"></div>
+		</div>
+	</div>
+
+	<div id="footer">
+		<div class="container">
+			<div class="col2_left">
+				<div class="footTitle">
+					Chairs
+				</div>
+				<div class="content">
+					<div class="list">
+						<div class="bullet">
+							<img src="img/bullet.png" width="25" height="25" alt="bullet" />
+						</div>
+						<div class="listItem">
+							<a href="http://delta.cs.cinvestav.mx/~ccoello/" target="_blank">Carlos A. Coello Coello</a><br />
+							<i>CINVESTAV-IPN<br />
+							M&eacute;xico</i>
+						</div>
+					</div>
+					<div style="clear:left"></div>
+					<div class="list">
+						<div class="bullet">
+							<img src="img/bullet.png" width="25" height="25" alt="bullet" />
+						</div>
+						<div class="listItem">
+							<a href="http://ima.ac.uk/greensmith" target="_blank">Julie Greensmith</a><br />
+							<i>University of Nottingham<br />
+							United Kingdom</i>
+						</div>
+					</div>
+					<div style="clear:left"></div>
+					<div class="list">
+						<div class="bullet">
+							<img src="img/bullet.png" width="25" height="25" alt="bullet" />
+						</div>
+						<div class="listItem">
+							<a href="http://www.cs.nott.ac.uk/~nxk/" target="_blank">Natalio Krasnogor</a><br />
+							<i>University of Nottingham<br />
+							United Kingdom</i>
+						</div>
+					</div>
+                    <div style="clear:left"></div>
+					<div class="list">
+						<div class="bullet">
+							<img src="img/bullet.png" width="25" height="25" alt="bullet" />
+						</div>
+						<div class="listItem">
+							<a href="http://www.cl.cam.ac.uk/~pl219/" target="_blank">Pietro Li&ograve;</a><br />
+							<i>University of Cambridge<br />
+							United Kingdom</i>
+						</div>
+					</div>
+					<div style="clear:left"></div>
+					<div class="list">
+						<div class="bullet">
+							<img src="img/bullet.png" width="25" height="25" alt="bullet" />
+						</div>
+						<div class="listItem">
+							<a href="http://www.dmi.unict.it/~nicosia" target="_blank">Giuseppe Nicosia</a><br />
+							<i>University of Catania<br />
+							Italy</i>
+						</div>
+					</div>
+					<div style="clear:left"></div>
+					<div class="list">
+						<div class="bullet">
+							<img src="img/bullet.png" width="25" height="25" alt="bullet" />
+						</div>
+						<div class="listItem">
+							<a href="http://www.dmi.unict.it/mpavone" target="_blank">Mario Pavone</a><br />
+							<i>University of Catania<br />
+							Italy</i>
+						</div>
+					</div>
+					<div style="clear:left"></div>
+				</div> 
+			</div>
+			<div class="col2_center">
+				<div class="footTitle">
+					Follow Us
+				</div>
+				<div class="content">
+					<div class="list">
+						<div class="followImg">
+							<img src="img/Inside-facebook-48.png" width="48" height="48" alt="Facebook" /> </div>
+						<div class="followItem">
+							<a href="http://www.facebook.com/group.php?gid=12481710452" target="_blank">Follow us on Facebook</a><br />
+						</div>
+					</div>
+					<div style="clear:left"></div>
+					<div class="list">
+						<div class="followImg">
+							<img src="img/Inside-google-48.png" width="48" height="48" alt="Google Maps" /> </div>
+						<div class="followItem">
+							<a href="http://maps.google.it/maps?f=q&source=s_q&hl=it&geocode=&q=Piazza+9+Aprile,+Taormina&aq=2&sll=41.442726,12.392578&sspn=15.603571,43.286133&ie=UTF8&hq=&hnear=Piazza+9+Aprile,+98039+Taormina+Messina,+Sicilia&ll=37.851582,15.285791&spn=0.001012,0.002642&t=h&z=19&layer=c&cbll=37.851582,15.285791&cbp=12,0,,0,0&photoid=pg-L2KUWYZGJub_wmOZ9NvamA" target="_blank">Find us on Google Maps</a><br />
+						</div>
+					</div>
+					<div style="clear:both"></div>
+					<div class="list">
+						<div class="followImg">
+							<img src="img/Inside-yahoo-48.png" width="48" height="48" alt="Yahoo Weather" /> </div>
+						<div class="followItem">
+							<a href="http://weather.yahoo.com/italy/sicily/taormina-724701/" target="_blank">Yahoo Weather Forecast</a><br />
+						</div>
+					</div>
+					<div style="clear:left"></div>
+				</div> 
+			</div>
+			<div class="col2_right">
+				<div class="footTitle">
+					Send us an email
+				</div>
+				<div class="content">
+					<form action="#" method="post" class="validate-form">
+						<div class="msg-thanks" style="display:none;">
+							<p><strong>Thank You!</strong> Your message was sent!</p>
+						</div>
+						<fieldset>
+							<input type="text" class="field blink required" id="name" title="Name" value="Name" name="name-field">
+							<input type="text" class="field blink required valid-email email-field" id="mail" title="Email" value="Email" name="mail-field">
+							<textarea cols="10" class="field blink required message-field" id="mex" rows="5" title="Your Message" name="message-field">Your Message</textarea>
+							<input type="hidden" class="text-field" name="footer-submit" value="1">
+							<input type="submit" class="form-btn" value="Send the Message">
+						</fieldset>
+					</form>
+				</div> 
+			</div>
+			<div style="clear:left;"></div>
+			<div id="bottomFooter">
+				<div id="menuFooter">
+					<a href="http://www.artificial-immune-systems.org/icaris/2012/">Home</a>
+					<span> | </span>
+     				<a href="news.php">News</a> 
+					<span> | </span>
+   				<a href="callForPapers.php">Calls</a>
+					<span> | </span> 
+					<a href="submission.php">Submissions</a>
+					<span> | </span>
+					<a href="#">Programme</a>
+					<span> | </span>
+					<a href="plenary.php">Plenary Lectures</a>
+					<span> | </span>
+					<a href="panel.php">Panel</a>
+					<span> | </span>
+					<a href="tutorials.php">Tutorials</a>
+					<span> | </span>
+					<a href="workshop.php">Workshop</a>  
+					<span> | </span>
+					<a href="comm.php">Commitees</a>
+					<span> | </span>
+					<a href="venue.php">Venue</a>
+					<span> | </span>	
+					<a href="accommodation.php">Accommodation</a> 
+					<span> | </span>
+					<a href="socialEvent.php">Social Event</a>
+  				   <span> | </span>
+					<a href="sponsorships.php">Sponsorships</a> 
+<!--					<span> | </span>
+					<a href="press.php">Press</a>				-->
+					<span> | </span>
+					<a href="http://www.taosciences.it/payment_gateway/index.php?conference=1">Registration</a>
+					<span> | </span>
+					<a href="links.php">Links</a>
+				</div>
+				<div style="clear:both"></div>
+
+				<div id="copy">
+					<p align="centre">TaoSciences Centre - Made in Italy</p>
+					<p>
+					&copy; <a href="http://digiapps.it/" target="_blank">DiGi Apps</a>. Design by <a href="http://gmurabito.altervista.org/" target="_blank">G. Murabito</a></p>
+				</div>
+				<div style="clear:both"></div>
+			</div>
+		</div>	
+	</div></body>
+</html>

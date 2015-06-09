@@ -1,0 +1,1175 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="MediaWiki 1.16.5" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/wiki/opensearch_desc.php" title="ung.igem.org (en)" />
+<link title="Creative Commons" type="application/rdf+xml" href="/wiki/index.php?title=Main_Page&amp;action=creativecommons" rel="meta" />
+<link rel="copyright" href="http://creativecommons.org/licenses/by/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="ung.igem.org Atom feed" href="/wiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>Main Page - ung.igem.org</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wiki/skins/common/shared.css?270";
+			@import "/wiki/skins/igem/main.css?270";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wiki/skins/common/commonPrint.css?270" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wiki/skins/igem/IE50Fixes.css?270";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wiki/skins/igem/IE55Fixes.css?270";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wiki/skins/igem/IE60Fixes.css?270";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wiki/skins/igem/IE70Fixes.css?270";</style><![endif]-->
+		<!--[if lt IE 7]><script type="text/javascript" src="/wiki/skins/common/IEFixes.js?270"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+		
+		<script>
+var skin="igem",
+stylepath="/wiki/skins",
+wgUrlProtocols="http\\:\\/\\/|https\\:\\/\\/|ftp\\:\\/\\/|irc\\:\\/\\/|gopher\\:\\/\\/|telnet\\:\\/\\/|nntp\\:\\/\\/|worldwind\\:\\/\\/|mailto\\:|news\\:|svn\\:\\/\\/",
+wgArticlePath="/$1",
+wgScriptPath="/wiki",
+wgScriptExtension=".php",
+wgScript="/wiki/index.php",
+wgVariantArticlePath=false,
+wgActionPaths={},
+wgServer="http://www.igem.org",
+wgCanonicalNamespace="",
+wgCanonicalSpecialPageName=false,
+wgNamespaceNumber=0,
+wgPageName="Main_Page",
+wgTitle="Main Page",
+wgAction="view",
+wgArticleId=1,
+wgIsArticle=true,
+wgUserName=null,
+wgUserGroups=null,
+wgUserLanguage="en",
+wgContentLanguage="en",
+wgBreakFrames=false,
+wgCurRevisionId=24080,
+wgVersion="1.16.5",
+wgEnableAPI=true,
+wgEnableWriteAPI=true,
+wgSeparatorTransformTable=["", ""],
+wgDigitTransformTable=["", ""],
+wgMainPageTitle="Main Page",
+wgFormattedNamespaces={"-2": "Media", "-1": "Special", "0": "", "1": "Talk", "2": "User", "3": "User talk", "4": "ung.igem.org", "5": "ung.igem.org talk", "6": "File", "7": "File talk", "8": "MediaWiki", "9": "MediaWiki talk", "10": "Template", "11": "Template talk", "12": "Help", "13": "Help talk", "14": "Category", "15": "Category talk"},
+wgNamespaceIds={"media": -2, "special": -1, "": 0, "talk": 1, "user": 2, "user_talk": 3, "ung.igem.org": 4, "ung.igem.org_talk": 5, "file": 6, "file_talk": 7, "mediawiki": 8, "mediawiki_talk": 9, "template": 10, "template_talk": 11, "help": 12, "help_talk": 13, "category": 14, "category_talk": 15, "image": 6, "image_talk": 7},
+wgSiteName="ung.igem.org",
+wgCategories=[],
+wgRestrictionEdit=["sysop"],
+wgRestrictionMove=["sysop"];
+</script>                
+		<script type="text/javascript" src="/wiki/skins/common/wikibits.js?270"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="/wiki/skins/common/ajax.js?270"></script>
+		<script type="text/javascript" src="/wiki/index.php?title=-&amp;action=raw&amp;gen=js&amp;useskin=igem"><!-- site js --></script>
+	<!-- jQuery Javascript -->
+	<script type='text/javascript'         src ='/common/jquery-1.11.1.min.js'></script>
+	<script type='text/javascript'         src ='/common/tablesorter/jquery.tablesorter.min.js'></script>
+        <link rel='stylesheet' type='text/css' href='/common/tablesorter/themes/groupparts/style.css' />
+        <link rel='stylesheet' type='text/css' href='/common/table_styles.css' />
+        <link rel='stylesheet' type='text/css' href='/forum/forum_styles.css' />
+	<script type='text/javascript'         src ='/forum/forum_scripts.js'></script>
+	</head>
+
+<body              class="mediawiki  ltr ns-0 ns-subject page-Main_Page">
+  <div id="globalWrapper">
+
+     <div id="top-section">
+	 <div id="p-logo">
+	    <a href="http://igem.org"
+	       title="Return to igem.org">
+	    <img src='http://ung.igem.org/images/wiki.png'>
+	    </a>
+	</div>  <!-- end p-logo -->
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+
+
+
+ 	<div id="menubar" class='left-menu noprint'>
+ 	  <ul>
+ 	                   <li 
+                class='selected' 	       ><a href="/Main_Page">Page               </a></li>
+               <li 
+                class='new' 	       ><a href="/wiki/index.php?title=Talk:Main_Page&amp;action=edit&amp;redlink=1">Discussion               </a></li>
+               <li 
+               	       ><a href="/wiki/index.php?title=Main_Page&amp;action=edit">View source               </a></li>
+               <li 
+               	       ><a href="/wiki/index.php?title=Main_Page&amp;action=history">History               </a></li>
+ 	  </ul>
+ 	</div> <!-- end menubar (left) -->
+
+	<div class="right-menu noprint" id="menubar">
+	    <ul>
+                				<li id="pt-login"><a href="/wiki/index.php?title=Special:UserLogin&amp;returnto=Main_Page" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li> 	    </ul>
+	</div><!-- end right menubar -->
+
+	<div id="search-controls" class="noprint">
+		<form action="/Special:Search" id="searchform">
+		<input id="searchInput" name="search" type="text" title="Search ung.igem.org [f]" accesskey="f" value="" />
+			 <input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" title="Go to a page with this exact name if exists" />&nbsp;
+		       <input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" title="Search the pages for this text" />
+		</form>
+	</div> <!-- close search controls -->
+    </div> <!-- close top-section-->
+    <div id="content">
+		<a name="top" id="top"></a>
+				<div id="bodyContent">
+			<h3 id="siteSub" class="noprint">From ung.igem.org</h3>
+			<div id="contentSub"></div>
+						<!--
+			<div id="jump-to-nav">Jump to:                        <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>-->
+			<!-- start content -->
+			<p>
+	<!-- The styling for the website is placed here -->
+
+		
+	<!-- start of css -->
+	<style type="text/css">
+		
+	/* WIKI SETTINGS */
+			
+		/* Remove footer, catlinks and logos */
+		#contentSub, #footer-box, #catlinks, #search-controls, #p-logo, .printfooter, .visualClear {
+			display: none;
+		}
+			
+
+		/* set up a white background #58585b*/
+		body { 
+			width: 100%; 
+			height: 100%; 
+  			background-color: #464646;
+		}
+
+			/*-- Make page full width and remove borders */
+		#globalWrapper, #content { 
+			width: 100%; 
+			height: 100%;
+			border: 0px;
+			background-color: transparent;
+			margin: 0px;
+			padding: 0px;
+		}
+	
+		/*Clear wiki default settings for the top part and create mock "black navigation bar" */
+		#top-section { 
+			background-color: #000000;
+			border: 0 none;
+			height: 14px;
+			z-index: 100;
+			top: 0;
+			position: fixed;
+			width: 100%; 
+			margin:auto;
+		}
+
+		#top_menu_inside { 
+			margin-left: 20px; 
+		}
+
+		.forum_footer_div {
+			display:none;	
+		}
+
+
+
+	/* STYLING AND LAYOUT */
+
+	/* General wrap for the pages*/
+    		#contentWrap{
+    			min-height: 300px;
+			width: 980px;
+			height: auto;
+			float:left;
+			margin-left: 20px;
+			margin-top: 10px;
+			background-color: #fff;	
+			overflow:hidden;
+    		}
+
+
+	/* STYLING AND LAYOUT - MAIN PAGE */
+
+	/*General Layout */
+	/*Main page right column, the on page menu will be placed here */
+		#menu_MainPage{
+			width: 155px;
+			float: left;
+			background-color: #f2f2f2;
+			height: 1780px;
+		}
+
+
+	/*Main page left column, content will be placed here */
+		#content_MainPage {
+			width: 825px;
+			float: left;
+			background-color: #fff;
+		}
+
+
+
+	/*Left Container (menu) elements */
+
+	/*Style the h4 headings in the menu container */
+		#menu_MainPage h4{
+			margin-left: -11px;
+			color: #6D6E70;
+			background-color: #d3d3d3;
+			padding-top:10px;
+			padding-bottom:10px;
+			margin-bottom: -4px;
+		}
+
+	/*Styling for the lists */
+		#menu_MainPage ul{
+			width: 100%;
+			margin-left:-20px;
+			margin-bottom: 40px;
+		}
+
+	/*Styling for the the list item */
+		#menu_MainPage ul li{
+
+			padding-left: 8px;
+			padding-top:10px;
+			margin-bottom: -1px;
+
+			border: 1px solid #ccc;
+			border-right: 0px solid white;
+			border-left: 0px solid white;
+
+			height:28px;
+			font-weight: bold;
+			color: #565656;
+			list-style: none;
+			cursor:pointer;
+
+			/*animate transition */
+			-webkit-transition: background 0.2s linear;
+			-moz-transition: background 0.2s linear;
+			-ms-transition: background 0.2s linear;
+			-o-transition: background 0.2s linear;
+			transition: background 0.2s linear;
+		}
+
+	/*For the list item, changes the color on hover.*/
+		#menu_MainPage ul li:hover{
+			background-color: #5da88a;
+			color: white;
+		}
+
+
+
+	/*Right Container (content) elements */
+	/*Class for creating a block 1/2 of the size of the content_MainPage*/
+		.twoColumns_MainPage {
+			width: 50%;
+			float:left;
+			padding:0px;
+		}
+
+	/*Class for creating a block 1/3 of the size of the content_MainPage*/
+		.highlights_MainPage{
+			float: left;
+			width: 33.333333%;
+		}
+
+	/*Styling for the images in twoColumns and highlights*/
+		.highlights_MainPage img, .twoColumns_MainPage img { 
+			margin-left: 20px;
+			margin-bottom:10px;
+		}
+
+	/*Class for creating announcements in the main page */
+		.announcementsMainPage {
+			width:775px;
+			margin:auto;
+			padding-left:10px;
+			margin-left:20px;
+			background-color:#f2f2f2; 
+			padding-top:5px; 
+			padding-bottom:5px;
+			border-radius:5px;
+			margin-top:10px;
+		}
+
+
+
+	/* STYLING AND LAYOUT - WIKI/CONTENT PAGES */
+	/*Container for the image part of the top banner*/
+		#topBanner{
+			float:left;
+			margin-left:20px;
+			margin-bottom:-11px;
+		}
+
+	/*Container for the text side of the top banner */
+		#topBannerText {
+			float:left; 
+			width:700px;
+			margin-left:30px;
+			margin-top:35px;
+			margin-bottom:-11px;
+		}
+
+	/*Styling for the text in topBannerText */
+		.topBanner_synbio{		
+			font-size:38px;
+		}
+		.topBanner_parts{		
+			font-size:22px;
+		}
+
+
+	/*CLASSES*/
+	/*Classes for creating a block 1/2 of the size of the page */
+		.twoColumnA, .twoColumnB {
+			float: left;
+			width: 490px;
+		}
+
+	/*Classes for creating a block 1/4 of the size of the page */
+		.smallBlock {
+    			float: left;
+    			width:225px;
+    			margin:10px;
+		}
+
+	/*Class for creating a right page submenu  */
+		.rightColumn_Submenu{
+			width: 220px;
+			float: left;
+		}
+
+	/*Styling the right page submenu list*/
+		.rightColumn_Submenu ul li{
+			margin-left: -15px;
+			padding-left: 5px;
+		}
+
+	/*For the right page submenu, change background hover  */
+		.rightColumn_Submenu ul li:hover {
+			background-color: #5da88a;
+			width: 180px;
+			border-radius: 5px;
+			color:white;
+		}
+
+	/*Creates a class to accompany the right submenu  */
+		.leftColumn_Text{
+			width: 760px;
+			float: left;
+		}
+
+	/*Container that centers images inside - declare as a div */
+		.centerImages {
+			text-align:center;
+			margin:auto;
+		}
+
+	/*For the centerImages div, adds padding to the images*/
+		.centerImages img {
+			padding: 15px;
+		}
+
+	/*Container that centers videos - declare as a div */
+		.centeredVideo {
+			margin:auto;
+			width:940px;
+			text-align:center;
+		}
+
+
+	/*Clear class for all the pages, adds spacing too*/
+    		.clear {
+    		    	clear: both;
+    		    	height:30px;
+    		}
+
+
+	/*Clear class for all the pages, no  spacing */
+		.clearNoHeight {clear:both;}
+
+
+	/*Alert message for important messages */
+		.alertMessage{ 
+			background-color: #f2f2f2;
+			padding: 10px 0px;	
+			width: 980px;
+			margin:auto;
+			text-align:center;
+			margin-bottom: 20px;
+			margin-top:10px;
+		}
+
+	/* highlight box for special messages, light green background*/
+		.highlightBoxA { 
+			background-color: #eef0c6;
+			padding: 10px 0px;	
+			width: 460px;
+			margin:auto;
+		}
+
+	/* highlight box for special messages, gray background*/
+		.highlightBoxB { 
+			background-color: #e9e8e7;
+			padding: 10px 0px;	
+			width: 440px;
+			margin:auto;
+		}
+
+	/*Buttons for all of the pages */
+    	    	.button {
+    	    	    	width: 130px;
+    			border: 2px solid #f58631;
+    			background-color: #FFF;
+    			height: 30px;
+    			text-align: center;
+        		border-radius: 5px;
+        		padding: 10px 5px 0px 5px;
+        		margin: auto;
+
+			/*animate transition */
+			-webkit-transition: background 0.2s linear;
+			-moz-transition: background 0.2s linear;
+			-ms-transition: background 0.2s linear;
+			-o-transition: background 0.2s linear;
+			transition: background 0.2s linear;
+    		}        
+
+	/*For the button class, change background on hover */
+    	    	.button:hover {
+    			background-color: #f58631;
+    			color: #fff;
+    		}
+
+
+       	/* Class for making images with links react on hover */
+    		img.imageHover:hover {
+    			opacity: 0.4;
+    			filter: alpha(opacity=40); /* For IE8 and earlier */
+    		}
+
+       	/* Class for button quotes - About page */
+		.quoteBlocks {
+			width: 43px;
+			height: 30px;
+			padding-top:15px;
+			float:left;
+
+			border: 2px solid #f58631;
+			
+
+			font-weight:bold;
+			text-align:center;
+			margin-left:20px;
+
+			/*animate transition */
+			-webkit-transition: background 0.2s linear;
+			-moz-transition: background 0.2s linear;
+			-ms-transition: background 0.2s linear;
+			-o-transition: background 0.2s linear;
+			transition: background 0.2s linear;
+		}
+
+
+       	/* hover state for button quotes - About page */
+		.quoteBlocks:hover{
+			background-color:#f58631;
+			border: 2px solid #f58631;
+			cursor:pointer;
+		}
+
+       	/* style for  quotes - About page */
+		.Font_quote {
+			font-weight:bold;
+			color: #4d5f6d;
+			margin-top: -10px;
+		}
+
+       	/* div with 1/3 width of the page - features important information */
+		.featureBlockC {
+			width: 33.33%;
+			float:left;
+			padding-top:10px;
+		}
+
+       	/* div with 1/3 width of the page - features important information */
+		.featureBlock {
+			width: 33.33%;
+			float:left;
+			padding-top:10px;
+			/*animate transition */
+			-webkit-transition: background 0.2s linear;
+			-moz-transition: background 0.2s linear;
+			-ms-transition: background 0.2s linear;
+			-o-transition: background 0.2s linear;
+			transition: background 0.2s linear;
+		}
+
+
+
+
+       	/* hover state for div with 1/3 width of the page - features important information */
+		.featureBlock:hover {
+			background-color:#ebeea9;
+			cursor:pointer;
+		}
+
+       	/* div with 1/4 width of the page - features important information */
+		.featureBlock_B{
+			width: 25%;
+			float:left;
+			padding-top:10px;
+			/*animate transition */
+			-webkit-transition: background 0.2s linear;
+			-moz-transition: background 0.2s linear;
+			-ms-transition: background 0.2s linear;
+			-o-transition: background 0.2s linear;
+			transition: background 0.2s linear;
+		}
+
+       	/* hover state for div with 1/4 width of the page - features important information */
+		.featureBlock_B:hover {
+			background-color:#ebeea9;
+			cursor:pointer;
+		}
+
+
+       	/* font style for div with 1/3 width of the page - features important information */
+		.Font_featureBlock {
+			font-weight:normal;
+			color:black;
+			font-size:11px;
+		}
+
+       	/* class for icon divs - competition page */
+		.iconBlocks {
+			width: 80px;
+			float:left;
+			cursor:pointer;
+		}
+
+       	/* hover state for icon divs - competition page */
+		.iconBlocks img:hover, .iconBlocks_program:hover {opacity: 0.4;
+			filter: alpha(opacity=40); /* For IE8 and earlier */}
+
+
+       	/* class for change month button - competition page */
+		.changeMonthButton { 
+			float:left; 
+			width:28px;
+			color:#f58631;
+			border: 2px solid white;
+			height: 21px;
+			font-size:large;
+			font-weight:bold;
+			padding-top:5px;
+			cursor:pointer;
+			text-align:center;
+			/*animate transition */
+			-webkit-transition: background 0.2s linear;
+			-moz-transition: background 0.2s linear;
+			-ms-transition: background 0.2s linear;
+			-o-transition: background 0.2s linear;
+			transition: background 0.2s linear;
+		}
+
+       	/* hover state for change month button - competition page */
+		.changeMonthButton:hover{ 
+			background-color: #f58631;
+			border: 2px solid #f58631;
+			color: white;
+		}
+			
+       	/* class for month name display - competition page */
+		.monthBlock{ 
+			float:left; 
+			width:208px; 
+			background-color:#ebeea9;
+			height:30px; 
+
+		}
+       	/* font style for class for month name display - competition page */
+		.calendarName{ 
+			text-align:right;
+			margin-top: 3px;
+			font-weight:bold;
+		}
+
+       	/* class for  displaying monthly activities - competition page */
+		.calendarContent {
+			margin-left: 32px;
+			width: 204px;
+			border: 2px solid #ccc;
+			height: 120px;
+		}
+	/*VISUAL STYLE (TABLES, FONTS, LINKS, IMAGES, UL) */
+
+	/*Styling the links - links are different in menus*/
+		 #contentWrap a {
+			color:#f58631;
+			font-weight: bold;
+			text-decoration: none;
+		}
+
+	 /* Styling links on hover- links are different in menus */
+		#contentWrap a:hover {
+			color: #fbceac;
+    		}
+
+
+	/* styling for all the headers in all the pages */
+		#contentWrap h1, h2, h3, h4, h5, h6 { 
+			font-family: "Arial", Gadget, sans-serif; border-bottom:none;
+			font-weight: bold;
+			padding: 0px 20px 0px 20px;
+		}
+
+	/*Define color for h1 h2 h3 titles */
+		#contentWrap h1, h2, h3 { 
+			color: #5da88a;
+		}
+
+	/*Define color for h4 titles */
+		#contentWrap  h4 { 
+			color: #4d5f6d;
+		}
+
+	/*Define color for h5 h6 titles */
+		#contentWrap h5, h6 { 
+			color: #000000;
+		}
+
+
+	/*Styling for all the tables */
+  	    	#contentWrap table {
+			border: 1px solid #ccc;
+			border-collapse: collapse;
+			width: 90%
+			margin: auto;
+			margin-bottom: 15px;
+			margin-top: 15px;
+			margin-right: 10px;
+			margin-left: 10px;
+		}
+
+	/*Styling cells inside all of the tables */
+		#contentWrap td {
+			padding:5px 10px;
+			border: 1px solid #ccc;
+			border-collapse: collapse;
+			vertical-align: text-top;
+		}
+
+	/*Styling table headers for all the tables */
+		#contentWrap th{
+			padding: 5px 10px;
+			border: 1px solid #ccc;
+			border-collapse: collapse;
+			vertical-align: text-top;
+			background-color: #e9ebc4;
+		}
+
+
+	/* Establish font size and family for all text */
+		#contentWrap p {
+			font-family: "Arial", Helvetica, sans-serif; 
+			font-size: 13px;
+			padding: 5px 20px 10px 20px;
+			text-align: justify;
+			text-justify: inter-word;
+		}
+		
+	/*Styles the lists */
+		#contentWrap ul {
+			padding: 0px 20px;
+			list-style:circle;
+		}
+
+	/*Styles the h1 that contains the first heading */
+		.firstHeading {
+			font-size: 25px;
+			margin-left: -20px;
+		}
+
+
+	</style>
+
+
+
+
+	<script ="text/javascript">
+		$(document).ready(function() {
+			// Places first heading on top part of the page, inside a h1(#placeFirstHeading) in #pageTitle
+			$('.firstHeading').prependTo('#placeFirstHeading');
+		});
+	</script>
+
+
+
+
+
+
+	<div id="contentWrap">
+
+		<div id="topBanner">
+			<a href="http://igem.org/Main_Page"><img class="imageHover" src="http://2015.igem.org/wiki/images/2/2a/Igemlogo_banner.jpg" height="120px"> </a>
+		</div>
+
+		<div id="topBannerText">
+			<span class="topBanner_synbio"> <b> Synthetic Biology </b> </span> 
+			<br><br>
+ 			<span class="topBanner_parts"> based on standard parts </span>
+		</div>
+
+
+		<div class="clear" style="height:1px;"></div>
+
+
+		<div class="alertMessage">
+			<h5>iGEM 2015</h5> 
+				The iGEM 2015 competition season is in progress!   Visit <a href="http://2015.igem.org/Main_Page">2015.igem.org </a>for more information.
+		</div>
+
+
+		<br>
+		<h1 id="placeFirstHeading"> </h1>
+
+
+
+<style type="text/css">
+#menuWrap,  .alertMessage, #menuContainer, .firstHeading {display:none;}
+
+		.alert{ 
+			background-color: #f2f2f2;
+			width: 785px;
+			margin: auto;
+			margin-bottom: 15px;
+			text-align: center;
+			padding: 15px;
+			font-weight: bold;
+			font-size: 110%;
+		}
+
+</style>
+
+
+<div class="clear_MainPage"></div>
+
+<div id="menu_MainPage">
+
+<h4> About</h4>
+<ul>
+<a href="http://igem.org/About"><li>What is iGEM?</li></a>
+<a href="http://igem.org/Values"><li> iGEM Values</li></a>
+<a href="http://igem.org/Previous_iGEM_Competitions"><li>Previous Competitions</li></a>
+<a href="http://igem.org/Board_of_Directors"><li>Leadership</li></a>
+<a href="http://igem.org/Staff"><li>Staff</li></a>
+<a href="http://igem.org/Financials"><li>Financials</li></a>
+<a href="http://igem.org/FAQ"><li>FAQ</li></a>
+<a href="http://igem.org/Contact"><li>Contact</li></a>
+
+</ul>
+
+<h4>Programs</h4>
+<ul>
+<a href="http://igem.org/Competition"><li>iGEM Competition</li></a>
+<a href="http://igem.org/Labs_Program"><li>Labs Program</li></a>
+<a href="http://igem.org/Registry"><li>Parts Registry</li></a>
+<a href="http://igem.org/Alumni"><li>Alumni</li></a>
+</ul>
+
+<h4>Impact</h4>
+<ul>
+<a href="http://igem.org/Facets"><li>Facets of iGEM</li></a>
+<a href="http://igem.org/Human_Practices"><li>Human Practices</li></a>
+<a href="http://igem.org/Safety"><li>Safety</li></a>
+<a href="http://igem.org/Security"><li>Security</li></a>
+<a href="http://igem.org/IGEM_Startups"><li>Startups</li></a>
+</ul>
+
+<h4>Community</h4>
+<ul>
+<a href="http://igem.org/Videos"><li>Videos</li></a>
+<a href="http://igem.org/Jobs"><li>Jobs</li></a>
+<a href="http://igem.org/Newsletters"><li>Newsletters</li></a>
+<a href="http://igem.org/Mailing_List"><li>Mailing List</li></a>
+</ul>
+
+
+<h4>Sponsor</h4>
+<ul>
+<a href="http://igem.org/Sponsors"><li>2015 Sponsors</li></a>
+<a href="http://igem.org/Sponsorship"><li>Sponsoring iGEM</li></a>
+</ul>
+
+<h4>Support iGEM</h4>
+<ul>
+<a href="http://igem.org/Donate"><li>Donate</li></a>
+</ul>
+
+<h4>Press</h4>
+<ul>
+<a href="http://igem.org/Press_Kit"><li>Press Kit</li></a>
+</ul>
+</div>
+
+
+<div id="content_MainPage">
+
+<div class="alert">
+In Memory of Austen Heinz<br>
+26 May 2015<br>
+<a href="http://igem.org/In_Memory_Of_Austen" style="font-size:60%;">[read more]</a>
+</div>
+
+<div class="twoColumns_MainPage">
+<img src="http://igem.org/wiki/images/6/63/Mainpage_frontimage.jpg">
+</div>
+
+<div class="twoColumns_MainPage">
+<h2>Welcome to iGEM</h2>
+<p>The iGEM Foundation is dedicated to education and competition, advancement of synthetic biology, and the development of open community and collaboration.</p>
+<p>The main program at the iGEM Foundation is the International Genetically Engineered Machine (iGEM) Competition.  The iGEM Competition is the premiere student competition in Synthetic Biology. Since 2004, participants of the competition have experienced education, teamwork, sharing, and more in a unique competition setting.</p>
+<p>iGEM is also much more than a competition; our community has a long history of involving students and the public in the development of the new field of synthetic biology.</p>
+
+</div>
+
+<div class="clear"></div>
+
+
+<div class="twoColumns_MainPage">
+<h3>iGEM 2015 Competition</h3>
+<p>We look forward to welcoming both newcomers and returning iGEM teams! For the most up-to-date information, keep an eye on <a href="http://2015.igem.org">2015.igem.org</a> for news and announcements throughout the iGEM 2015 season.<br>
+For details about Team Registration see the <a href="http://2015.igem.org/Registration">Registration page</a>.
+<br>
+For details about attending the Giant Jamboree see the <a href="http://2015.igem.org/Giant_Jamboree">Giant Jamboree page</a>. 
+</p>
+</div>
+
+<div class="twoColumns_MainPage">
+<h3>Giant Jamboree</h3>
+<p><span style="font-weight:bold;">September 24 - 28 --  Hynes Convention Center  -- Boston</span><br>
+With no regionals, all participants are invited to the Giant Jamboree to present their accomplishments and compete in front of a global audience.<br>
+See details about the event, including information on guest attendance, at <a href="http://2015.igem.org/Giant_Jamboree">2015.igem.org/Giant_Jamboree</a>.
+</p>
+</div>
+
+<p><a href="http://2015.igem.org/Main_Page"><img class="imageHover" src="http://2015.igem.org/wiki/images/8/8f/2015igembanner.jpg" WIDTH="790PX"></A></p>
+<br>
+<h4>iGEM 2015 Announcements</h4>
+
+<div class="announcementsMainPage">
+Recruit for your company, school, or program at the <a href="http://2015.igem.org/Giant_Jamboree/Career_Fair">Giant Jamboree Career Fair</a>! 
+</div>
+
+<div class="announcementsMainPage">
+Registration for the iGEM 2015 Giant Jamboree is now OPEN. See details at <a href="http://2015.igem.org/Giant_Jamboree/Registration">2015.igem.org/Giant_Jamboree/Registration</a>.
+</div>
+
+<div class="announcementsMainPage">
+<a href="http://2015.igem.org/Judging/Application_Form">Apply to be a judge</a> in the 2015 competition!
+</div>
+
+<div class="announcementsMainPage">
+IDT announces 20kb FREE DNA synthesis for every iGEM 2015 team! 
+</div>
+
+<div class="announcementsMainPage">
+Regular team registration closes on March 31, 2015. More information: <a href="http://2015.igem.org/Registration">http://2015.igem.org/Registration</a>
+</div>
+
+<span style="font-size:80%; float:right; padding-right:35px; padding-top:5px;"><a href="http://2015.igem.org">read all announcements</a></span>
+
+
+
+<div class="clear"></div>
+
+
+<h3>iGEM Programs</h3>
+<div class="highlights_MainPage">
+
+
+<h4>Competition</h4>
+<p> iGEM runs the premiere student competition in Synthetic Biology. Student teams are given a kit of biological parts and work over the summer to build biological systems and operate them in living cells. Read more about this year's competition at <a href="http://2015.igem.org">2015.igem.org</a>. Or, read more about previous years on the<a href=""> Previous Competitions </a>page.</p>
+</p>
+</div>
+
+<div class="highlights_MainPage">
+<h4>Academic Labs</h4>
+<p>Not competing? Academic labs have a place in the iGEM community as well. Labs can subscribe to the program to conduct their own research using synthetic biology based on parts, and have access to the same resources as competition teams. <br><br>
+Read more on the <a href="http://igem.org/Labs">Labs program </a>page.</p>
+</div>
+
+
+<div class="highlights_MainPage">
+<h4>Registry</h4>
+<p> iGEM Headquarters also operates and maintains the <a href="http://parts.igem.org">Registry of Standard Biological Parts</a>. The Registry has over 20,000 standard biological parts, with open access to all participating groups. Teams and labs contribute their parts in the spirit of the "Get &amp; Give" philosophy. <br><br>
+Visit the Registry at <a href="http://parts.igem.org">parts.igem.org</a>.</p>
+</div>
+
+
+
+
+<div class="clear"></div>
+
+
+
+<div class="twoColumns_MainPage">
+<h4> iGEM Videos </h4>
+<p>From video messages to teams, to videos showing the iGEM spirit, to the 100+ videos made by our community, experience iGEM in video format on our <a href="http://igem.org/Videos"> videos page</a>.</p>
+<br>
+<a href="http://igem.org/Videos/Chairmans_Award"><img class="imageHover" src="http://igem.org/wiki/images/9/9d/Charimansaward_video.jpg" width="175" height="102"></a>
+<a href="http://igem.org/Videos/Interlab_Measurement_Study"><img class="imageHover" src="http://igem.org/wiki/images/c/ce/Interlabmeasurement_video.jpg" width="175" height="102"></a>
+<a href="http://igem.org/Videos"><span style="font-size:75%; float:right; padding-right:25px;">More videos...</span></a>
+</div>
+
+<div class="twoColumns_MainPage">
+<iframe src="//player.vimeo.com/video/119981367"?portrait=0" width="417" height="240" frameborder="0"></iframe>
+</div>
+
+
+<div class="clear"></div>
+
+
+
+<div class="highlights_MainPage">
+<img src="http://igem.org/wiki/images/1/10/Mainpage_2015competition.jpg" width="236px">
+<h4>2015 Competition</h4>
+<p>The iGEM 2015 season is now in progress. <bR>Visit the <a href="2015.igem.org">2015.igem.org site</a> for more information.</p>
+</div>
+
+<div class="highlights_MainPage">
+<img src="http://igem.org/wiki/images/0/00/Mainpage_donate.jpg" width="236px">
+<h4>Donate</h4>
+<p>As a participant in iGEM, or just a friend, you have seen how astonishing iGEM has become. Now we need your help.
+Read how you can help on our <a href="http://igem.org/Donate">Donate page</a>.</p>
+</p>
+</div>
+
+<div class="highlights_MainPage">
+<img src="http://igem.org/wiki/images/d/d8/Mainpage_sponsor.jpg" width="236px">
+<h4>Sponsor</h4>
+<p>We are currently offering a variety of sponsor packages for the iGEM 2015 iGEM season. 
+<br>Read more on the <a href="http://igem.org/Sponsorship">Sponsorship page</a></p>
+</div>
+
+
+</div>
+<div class="clear"></div>
+
+	
+	<!--css: footer styling -->
+	<style type="text/css">
+
+
+	#footerWrap {
+		background-color: #f2f2f2;
+		width: 980px;
+		height: 220px;
+		margin:auto;
+	}
+
+
+	#footerWrap a {
+		color: black;
+	}
+
+
+	#footerWrap ul {
+		list-style:none;
+		margin-left: 0px;
+	}		
+
+	.insideFooter {
+		float:left;
+		width: 153px;
+		padding: 10px;
+		padding-left: 10px;
+		padding-right:0px;
+		margin: auto;
+		background-color: #f2f2f2;
+	}
+
+
+	.footerWrap ul li{
+		font-family: "Arial", Helvetica, sans-serif; 
+		font-size: 11px;
+		list-style:none;
+	}
+
+
+	.insideFooter img{
+		margin: auto;
+		text-align:center;
+		display:block;
+	}
+
+	.insideFooter h5{
+		color: #959485;
+	}
+
+	.footerWrap ul li a{
+		font-weight: bold;
+		color: #434343;
+		text-decoration:none;
+	}
+
+	.footerWrap ul li a:hover{
+		color:#3aa76c;
+		text-decoration:none;
+	}
+	
+	.upperFooter {
+		background-color: #656459; 
+		padding-left: 10px;
+		padding-top: 10px;
+		height:60px;
+		margin-top: -30px;
+	}
+	
+
+	</style>
+
+
+
+	<!-- footer links -->
+			<div id="footerWrap">
+				<div class="upperFooter">
+				<h3 style="color:#f2f2f2;">iGEM Foundation</h3>
+					<p style="color:#f2f2f2;"> Dedicated to education and competition, advancement of synthetic biology, and the development of open community and collaboration.</p>
+
+				</div>
+
+				<div style="clear:both;"></div>
+				<div class="insideFooter">
+					<ul>
+						<li><a href="http://igem.org/About">About</a></li>
+						<li><a href="http://igem.org/FAQ">FAQ</a></li>
+						<li><a href="http://igem.org/Contact"> Contact</a></li>
+						<li><a href="http://2015.igem.org/Main_Page">iGEM 2015</a></li>
+						<li><a href="http://2015.igem.org/Giant_Jamboree">Giant Jamboree</a></li>
+						<li><a href=""http://igem.org/Sponsorship">Sponsor</a></li>
+					</ul>
+				</div>
+
+
+				<div class="insideFooter">
+					<ul>
+						<li><a href="http://igem.org/Labs">Labs Program</a></li>
+						<li><a href="http://parts.igem.org/Main_Page">Registry</a></li>
+						<li><a href="http://igem.org/Alumni">Alumni</a></li>
+						<li><a href="http://igem.org/Resources">Resources</a><li>
+						<li><a href="http://igem.org/HQ_Tools"> HQ Tools</a></li>
+
+					</ul>
+				</div>
+
+				<div class="insideFooter">
+					<ul>
+						<li><a href="http://igem.org/Safety">Safety</a></li>
+						<li><a href="http://igem.org/Security">Security</a></li>
+						<li><a href="http://igem.org/IGEM_Startups">Startups</a></li>
+					</ul>
+				</div>
+
+
+				<div class="insideFooter">
+					<ul>
+						<li><a href="http://igem.org/Videos">Videos</a></li>
+						<li><a href="http://igem.org/Newsletters">Newsletters</a></li>
+						<li><a href="http://igem.org/Jobs">Jobs</a></li>
+						<li><a href="http://igem.org/Press_Kit">Press Kit</a></li>
+						<li><a href="http://igem.org/Mailing_List">Mailing List</a></li>
+					</ul>
+				</div>
+
+				<div class="insideFooter">
+					<ul>
+						<li><a href="http://twitter.com/igem">Twitter</a></li>
+						<li><a href="http://www.facebook.com/groups/igemmers/">Facebook</a></li>
+						<li><a href="http://bit.ly/18coAWD">Flickr</a></li>
+						<li><a href="http://bit.ly/1EYEK2y">Vimeo</a></li>
+					</ul>
+				</div>
+
+
+
+
+
+				<div class="insideFooter" style="border-right: none;">
+					<img src="http://i.creativecommons.org/l/by/3.0/88x31.png" width="70px" >
+
+				</div>
+
+			</div>
+
+
+</div>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 17/1000000
+Post-expand include size: 80/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key ung_igem_org:pcache:idhash:1-0!1!0!!en!2!edit=0 and timestamp 20150608200933 -->
+<div class="printfooter">
+Retrieved from "<a href="http://www.igem.org/Main_Page">http://www.igem.org/Main_Page</a>"</div>
+			<div id="catlinks"><div id='catlinks' class='catlinks catlinks-allhidden'></div></div>			<!-- end content -->
+			<div class="visualClear"></div>
+		</div>
+	  <script>if ( wgIsArticle ) { forum_footer('','subtle'); }</script>
+    </div>
+<!-- PAGE FOOTER -- ITEMS FROM COLUMN ! HAVE BEEN MOVED HERE  -- RDR  -->
+<div class="visualClear"></div>
+    <div id='footer-box' class='noprint'>
+        <div id="footer">
+              <div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/wiki/skins/common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div> 	      <div id="f-copyrightico"><a href="http://creativecommons.org/licenses/by/3.0/"><img src="http://i.creativecommons.org/l/by/3.0/88x31.png" alt="Attribution 3.0 Unported" width="88" height="31" /></a></div> 	     <ul id="f-list">
+		
+
+	   <!-- Recentchanges is not handled well DEBUG -->
+		     <li id="t-recentchanges"><a href="/Special:RecentChanges"
+		      title='Recent changes'>Recent changes</a></li>
+
+		     <li id="t-whatlinkshere"><a href="/Special:WhatLinksHere/Main_Page"
+		      title="List of all wiki pages that link here [j]" accesskey="j">What links here</a></li>
+
+                         <li id="t-recentchangeslinked"><a href="/Special:RecentChangesLinked/Main_Page"
+                          title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+
+
+
+	                 <li id="t-specialpages"><a href="/Special:SpecialPages"
+	                  title="List of all special pages [q]" accesskey="q">Special pages</a>
+	                 </li>
+                 <li><a href='/Special:Preferences'>My preferences</a></li>
+             </ul>
+        </div> <!-- close footer -->
+        <div id='footer'>
+	     <ul id="f-list">
+
+	             <li id="t-print"><a href="/wiki/index.php?title=Main_Page&amp;printable=yes"
+	              title="Printable version of this page [p]" accesskey="p">Printable version</a>
+	             </li>
+
+	             <li id="t-permalink"><a href="/wiki/index.php?title=Main_Page&amp;oldid=24080"
+	              title="Permanent link to this revision of the page">Permanent link</a>
+	             </li>
+
+
+ 		        <li id="privacy"><a href="/ung.igem.org:Privacy_policy" title="ung.igem.org:Privacy policy">Privacy policy</a></li>
+		        <li id="disclaimer"><a href="/ung.igem.org:General_disclaimer" title="ung.igem.org:General disclaimer">Disclaimers</a></li>
+	     </ul>
+	 </div> <!-- close footer -->
+    </div> <!-- close footer-box -->		
+	 
+<script>if (window.runOnloadHook) runOnloadHook();</script>
+</div>
+<!-- Served in 0.114 secs. --></body>
+
+</html>

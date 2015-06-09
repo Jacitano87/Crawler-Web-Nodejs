@@ -1,0 +1,336 @@
+
+<!DOCTYPE html> 
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+
+	<head>
+	
+		<meta charset="UTF-8">
+		<meta name="google-site-verification" content="ciK6Udk5rMffH4TjRmgVoyfSvgzruAz-LYvuU7WP_lg" />
+		<meta name="HandheldFriendly" content="true" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+		<meta property="og:title" content="LEAP - Synthetic Biology Leadership Excellence Accelerator Program" />
+		<meta property="og:type" content="website" />
+		<meta property="og:url" content="http://synbioleap.org/" />
+		<meta property="og:image" content="http://synbioleap.org/wp-content/themes/leap/images/buttons/logo-menu.png" />
+		<meta property="og:site_name" content="LEAP" />
+		<meta property="og:description" content="Check out the Syn BioLEAP Initiative and sign up to join! #synbioleap @synbioleap" />
+		
+		<title>Past Action Plans - LEAP</title>		
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="pingback" href="http://synbioleap.org/xmlrpc.php" />
+		
+		
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://synbioleap.org/action-plans/visions-and-plans/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Past Action Plans - LEAP" />
+<meta property="og:description" content="The 2012 Strategic Action Plans The first class of twenty LEAP Fellows developed thirteen co-authored white papers describing their vision and plans in development. Topics included educational models, risk research funding, global health approaches, standards development, and much more. Many LEAP Fellows have already begun implementing and refining their plans. We’ve helped catalyze new courses &hellip;" />
+<meta property="og:url" content="http://synbioleap.org/action-plans/visions-and-plans/" />
+<meta property="og:site_name" content="LEAP" />
+<meta property="og:image" content="http://synbioleap.org/wp-content/uploads/2013/05/vision-and-plans.jpg" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="The 2012 Strategic Action Plans The first class of twenty LEAP Fellows developed thirteen co-authored white papers describing their vision and plans in development. Topics included educational models, risk research funding, global health approaches, standards development, and much more. Many LEAP Fellows have already begun implementing and refining their plans. We’ve helped catalyze new courses [&hellip;]"/>
+<meta name="twitter:title" content="Past Action Plans - LEAP"/>
+<meta name="twitter:domain" content="LEAP"/>
+<meta name="twitter:image:src" content="http://synbioleap.org/wp-content/uploads/2013/05/vision-and-plans.jpg"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/synbioleap.org\/","name":"Synbio LEAP","alternateName":"Synthetic Biology Leadership Excellence Accelerator Program"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/synbioleap.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f;c.supports={simple:d("simple"),flag:d("flag")},c.supports.simple&&c.supports.flag||(f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='noakes-framework-css'  href='http://synbioleap.org/wp-content/themes/noakes-framework/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='http://synbioleap.org/wp-content/themes/leap/style.css?ver=20150527' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://synbioleap.org/wp-content/themes/leap/css/responsive.css?ver=20150527' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css'  href='http://synbioleap.org/wp-content/plugins/tablepress/css/default.min.css?ver=1.5.1' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by Yoast plugin v5.4.2 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-45232401-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview']);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Google Analytics by Yoast -->
+<script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/webfont/1.5.10/webfont.js?ver=1.5.10'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/jquery.validate.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/additional-methods.min.js?ver=4.2.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/noakes-framework/js/noakes.min.js?ver=1.0.1'></script>
+<script type='text/javascript' src='http://synbioleap.org/wp-content/themes/leap/js/main.js?ver=20150312'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://synbioleap.org/xmlrpc.php?rsd" />
+<link rel='shortlink' href='http://synbioleap.org/?p=14' />
+<!-- All in one Favicon 4.3 --><link rel="shortcut icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.ico" />
+<link rel="icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.gif" type="image/gif"/>
+<link rel="icon" href="http://synbioleap.org/wp-content/uploads/2013/05/favicon.png" type="image/png"/>
+<link rel="apple-touch-icon" href="http://synbioleap.org/wp-content/uploads/2013/05/apple-touch.png" />
+		
+		<script type="text/javascript">
+		
+			(function ($)
+			{
+				$.leap.theme_prefix = "leap";
+				$.leap.logo_menu = "logo-menu";
+				$.leap.main_menu = "main-menu";
+			})
+			(jQuery);
+			
+		</script>
+		
+	</head>
+	
+	<body id="leap-visions-and-plans" class="page page-id-14 page-parent page-child parent-pageid-799 page-template-default default">
+	
+		<div id="outer-wrapper">
+		
+			<div id="wrapper">
+			
+				<header>
+				
+					<div id="header-logos">
+					
+						<ul id="logo-menu" class="menu"><li id="logo-menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21 menu-object-2"><a title="LEAP &#8211; Synthetic Biology Leadership Excellence Accelerator Program" href="http://synbioleap.org/">LEAP &#8211; Synthetic Biology Leadership Excellence Accelerator Program</a></li></ul>						
+						<a href="http://synbioleap.org/community/sponsors/"><img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-header-201411.jpg" height="59" width="463" alt="" /></a>
+						
+					</div>
+					
+					
+<div id="search-wrapper">
+
+	<a href="javascript:void(0);" id="search-closed"><img src="http://synbioleap.org/wp-content/themes/leap/images/buttons/search-closed.png" height="23" width="28" alt="" /></a>
+	
+	<div id="search-form-wrapper">
+	
+		<form id="search-form" name="search-form" role="search" method="get" action="http://synbioleap.org/">
+		
+			<img src="http://synbioleap.org/wp-content/themes/leap/images/search-left.png" height="23" width="1" alt="" id="search-left" />
+			<input id="search" name="search" type="submit" value="Search" />
+			<input id="s" name="s" type="text" value="search" class="noakes-watermarked" />
+			
+		</form>
+		
+	</div>
+	
+</div>
+<nav class="menu-main-menu-container"><ul id="main-menu" class="menu"><li id="main-menu-item-22" class="home menu-item menu-item-type-post_type menu-item-object-page menu-item-22 menu-object-2"><a href="http://synbioleap.org/">Excellence in Biotechnology Leadership</a></li><li id="main-menu-item-819" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-819 menu-object-810"><a href="http://synbioleap.org/about/">About</a><ul class="sub-menu"><li id="main-menu-item-1152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1152 menu-object-1132"><a href="http://synbioleap.org/about/mission-2/">Principles</a></li><li id="main-menu-item-887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-887 menu-object-640"><a href="http://synbioleap.org/activities/leadership-workshops/history/">History</a></li></ul></li><li id="main-menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-922 menu-object-546"><a href="http://synbioleap.org/overview/program/">Fellowship</a><ul class="sub-menu"><li id="main-menu-item-1335" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1335 menu-object-1269"><a href="http://synbioleap.org/overview/program/2015-fellowship/">2015 Fellowship</a></li></ul></li><li id="main-menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-801 menu-object-799 first-parent"><a href="http://synbioleap.org/action-plans/">Fellow Plans &#038; Insights</a><ul class="sub-menu"><li id="main-menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14 current_page_item menu-item-26 menu-object-14"><a href="http://synbioleap.org/action-plans/visions-and-plans/">2012 Strategic Action Plans</a></li><li id="main-menu-item-1499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1499 menu-object-1383"><a href="http://synbioleap.org/insight-papers/">Insight Papers</a></li></ul></li><li id="main-menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24 menu-object-10"><a href="http://synbioleap.org/community/">Community</a><ul class="sub-menu"><li id="main-menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55 menu-object-50"><a href="http://synbioleap.org/community/advisoryboard/">Advisory Board</a></li><li id="main-menu-item-240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240 menu-object-236"><a href="http://synbioleap.org/community/sponsors/">Sponsors</a></li><li id="main-menu-item-1183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1183 menu-object-1029"><a href="http://synbioleap.org/community/fellows/">Fellows</a><ul class="sub-menu"><li id="main-menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54 menu-object-48"><a href="http://synbioleap.org/community/fellows/past/">Past Fellows</a></li></ul></li><li id="main-menu-item-1212" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1212 menu-object-52"><a href="http://synbioleap.org/community/mentors/">Mentors</a></li><li id="main-menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235 menu-object-227"><a href="http://synbioleap.org/community/organizers/">Team</a></li></ul></li><li id="main-menu-item-1253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1253 menu-object-1178"><a href="http://synbioleap.org/news-2/">News</a></li><li id="main-menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28 menu-object-18"><a href="http://synbioleap.org/about/contact/">Contact</a></li></ul></nav>					
+				</header>
+				
+				<script type="text/javascript">jQuery.leap.prepare_header();</script>
+				
+				<img width="958" height="257" src="http://synbioleap.org/wp-content/uploads/2013/05/vision-and-plans.jpg" class="attachment-header wp-post-image" alt="Vision &amp; Plans" id="header-graphic" />				
+				<div id="content-wrapper">
+				
+					<div id="content">
+					
+						<h1>The 2012 Strategic Action Plans</h1>
+<p>The first class of twenty LEAP Fellows developed thirteen co-authored white papers describing their vision and plans in development. Topics included educational models, risk research funding, global health approaches, standards development, and much more. Many LEAP Fellows have already begun implementing and refining their plans. We’ve helped catalyze new courses and workshops, engaged with funding and policy leaders, and much more.</p>
+<h5>Topics Included</h5>
+<p><a href="#leap-education-and-community">Education and Community</a> | <a href="#leap-organization-and-collaboration">Organization and Collaboration</a> | <a href="#leap-governance-and-responsibility">Governance and Responsibility</a> | <a href="#leap-risk-research-and-practice">Risk Research and Practice</a> | <a href="#leap-standards-and-sharing">Standards and Sharing</a> | <a href="#leap-identifying-needs">Identifying Needs</a></p>
+<div id="leap-education-and-community" class="child child-education-and-community">
+<h6>Education and Community</h6>
+<div class="noakes-accordion paper" rel="leap" data-keep-centered="true" data-include-close-button="true" data-include-arrow="true">
+<div id="leap-enhancing-undergraduate-education-to-drive-responsible-growth-of-the-bioeconomy" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Enhancing Undergraduate Education to Drive Responsible Growth of the Bioeconomy<br /><span>Marc Facciotti</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Enhancing Undergraduate Education to Drive Responsible Growth of the Bioeconomy<br /><a href="http://synbioleap.org/community-member/marc-facciotti/">Marc Facciotti</a></strong></p>
+<p>The US bioeconomy generated an estimated $300 billion of revenue in 2011. Advances in foundational technologies, such as synthetic biology, are lowering barriers to biotechnology, enabling a growing number of people to participate. Technological advances and the democratization of biotechnology present opportunities for economic growth, particularly in areas like small-scale, distributed biomanufacturing. In addition to growth, technical advances springing from the bioeconomy also present great hope for reducing the severity of some of our nation’s most pressing financial challenges, particularly those related to the increasing costs of healthcare delivery and energy. These opportunities challenge educational institutions to enhance training programs, foster innovation and entrepreneurship, and to promote the responsible/ethical use of biotechnology. We identify new opportunities for research universities to help drive growth in the bioeconomy, highlight existing efforts and propose new opportunities, and describe some of the associated “boots-on-the-ground” challenges that must be addressed before widespread implementation can succeed.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/enhancing-undergraduate-education-to-drive-responsible-growth-of-the-bioeconomy.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/enhancing-undergraduate-education-to-drive-responsible-growth-of-the-bioeconomy.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-worldwide-network-of-community-labs" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Worldwide Network of Community Labs<br /><span>Ellen Jorgensen</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Worldwide Network of Community Labs<br /><a href="http://synbioleap.org/community-member/ellen-jorgensen/">Ellen Jorgensen</a></strong></p>
+<p>Community biolabs are a natural environment for thoughtful examination and discussion of the implications and ethics surrounding cutting-edge DNA-based technologies. Creating a network of such spaces could have a profound effect at the grassroots level on both science education and the public perception of synthetic biology. Organizations such as Genspace have demonstrated that reframing the synthetic biology laboratory facility as a neighborhood resource can demystify and democratize biotechnology, allowing it to have a more open relationship with the eventual end user. Here, anyone can become an innovator or inspire others through peer-to-peer teaching. Community labs supplement existing educational programs and encourage the next generation of young researchers by providing hands-on lab training and mentoring. Identifying and distributing best practices for community lab startup and making them freely available would accelerate the development of a network of these resources both nationwide and worldwide.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/worldwide-network-of-community-labs.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/worldwide-network-of-community-labs.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+</div>
+</div>
+<div id="leap-organization-and-collaboration" class="child child-organization-and-collaboration">
+<h6>Organization and Collaboration</h6>
+<div class="noakes-accordion paper" rel="leap" data-keep-centered="true" data-include-close-button="true" data-include-arrow="true">
+<div id="leap-love-our-monsters-radical-collaboration-in-a-post-disciplinary-age" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Love Our Monsters &#8211; Radical Collaboration in a Post-Disciplinary Age<br /><span>Christina Agapakis</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Love Our Monsters &#8211; Radical Collaboration in a Post-Disciplinary Age<br /><a href="http://synbioleap.org/community-member/christina-agapakis/">Christina Agapakis</a></strong></p>
+<p>Over the past decade, synthetic biology has disciplined itself. Synthetic biology aims to make biotechnology a “true engineering discipline,” through the application and adoption of engineering design principles. As biology and engineering have merged in synthetic biology, the blurring of the boundary between science and technology has created a new discipline, complete with its own boundaries and its own discursive methods for creating, reinforcing, and enforcing those boundaries. While these boundaries serve to define useful goals and productive challenges for the field, the applied research of synthetic biology often benefits from the input of many more disciplines, fields that remain as outsiders even in the dynamic and interdisciplinary field of synthetic biology. This strategic plan describes how recent partnerships between synthetic biology and art, bioethics, policy, and law show the potential for a new model of post-disciplinary research, one where biological designs are conceived and deployed through active collaboration to create technology that functions effectively, safety, sustainability at the human scale.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/love-our-monsters-radical-collaboration-in-a-post-disciplinary-age.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/love-our-monsters-radical-collaboration-in-a-post-disciplinary-age.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-international-synthetic-biology-society" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">International Synthetic Biology Society<br /><span>Andrew Chang, Anne Cheever, Michael Fisher, Jeff Ubersax, Louise Horsfall</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>International Synthetic Biology Society<br /><a href="http://synbioleap.org/community-member/andrew-chang/">Andrew Chang</a>, <a href="http://synbioleap.org/community-member/anne-cheever/">Anne Cheever</a>, <a href="http://synbioleap.org/community-member/michael-fisher/">Michael Fisher</a>, <a href="http://synbioleap.org/community-member/jeff-ubersax/">Jeff Ubersax</a>, <a href="http://synbioleap.org/community-member/louise-horsfall/">Louise Horsfall</a></strong></p>
+<p>Synthetic biology offers significant promise for advances in health and medicine, food and energy production, and environmental sustainability. Realizing this potential requires continued commitment to driving bio-innovation, ensuring biosafety and biosecurity, and building a robust bioeconomy. This strategic action plan proposes the formation of an International Synthetic Biology Society to support the responsible development and deployment of synthetic biology in the public interest. While many disparate organizations are working in synthetic biology, there is currently no primary organization supporting the needs of diverse synthetic biologists seeking to steer and propel the broader trajectory of the field. A synthetic biology society could provide accurate and timely information about the state of the field to practitioners, policymakers, and the public. It would serve as a community forum to foster discussion, debate, and collaboration among diverse stakeholders and engage the public in learning about, and informing, members’ research. We aim to increase awareness and understanding of technical advancements to illustrate how synthetic biology affects, interacts with, and enriches our lives.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/international-synthetic-biology-society.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/international-synthetic-biology-society.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-opening-new-channels-for-industry-academic-relations" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Opening New Channels for Industry-Academic Relations<br /><span>Derek Lindstrom and Nathan Hillson</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Opening New Channels for Industry-Academic Relations<br /><a href="http://synbioleap.org/community-member/derek-lindstrom/">Derek Lindstrom</a> and <a href="http://synbioleap.org/community-member/nathan-hillson/">Nathan Hillson</a></strong></p>
+<p>An effective approach to building relationships between culturally distinct organizations is through immersive experience. This strategic plan proposes to create an opportunity to place academic scientists into an industry-based postdoctoral position without jeopardizing their ability to compete effectively for tenure-track academic positions. In essence, we are offering a return ticket to academics interested in gaining industrial experience. The mechanism that we present is a modification of the NIH K99/R00 Pathway to Independence award (the K99). This is an extremely effective award mechanism that promotes the transition from an academic postdoctoral position into a tenure-track faculty position by providing funding for both career stages. By broadening the K99 model to allow awardees to select an industrial position as part of their career path, we can leverage the advantages that make current K99 awardees highly competitive when they search for tenure-track positions. We believe that synthetic biologists would be particularly drawn to activating this award option and in doing so will catalyze a broader collaboration between industrial and academic biology.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/opening-new-channels-for-industry-academic-relations.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/opening-new-channels-for-industry-academic-relations.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+</div>
+</div>
+<div id="leap-governance-and-responsibility" class="child child-governance-and-responsibility">
+<h6>Governance and Responsibility</h6>
+<div class="noakes-accordion paper" rel="leap" data-keep-centered="true" data-include-close-button="true" data-include-arrow="true">
+<div id="leap-a-call-for-a-public-democratically-deliberative-facet-in-synthetic-biology-policymaking" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">A Call for a Public, Democratically Deliberative Facet in Synthetic Biology Policymaking<br /><span>Ryan Ritterson</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>A Call for a Public, Democratically Deliberative Facet in Synthetic Biology Policymaking<br /><a href="http://synbioleap.org/community-member/ryan-ritterson/">Ryan Ritterson</a></strong></p>
+<p>While the synthetic biology community enjoys support from a majority of people aware of its activities, it remains unknown to most of the nation. Further, policy makers do not rely on a coherent vision of synthetic biology in order to make regulatory decisions. This leaves a partial vacuum in the public decision making capacity for these new technologies that could stunt their development. Creating a unified vision for synthetic biology will require many new approaches and tools, and, because synthetic biology has the potential to change many lives in direct and profound ways, one facet of the vision must be an incorporation of public ideas. To accomplish this, this action plan proposes a public dialogue in the style of a Deliberative Poll, a model used successfully in many nations. The UK held a similar discussion and successfully incorporated its suggestions into its synthetic biology roadmap.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/a-call-for-a-public-democratically-deliberative-facet-in-synthetic-biology-policymaking.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/a-call-for-a-public-democratically-deliberative-facet-in-synthetic-biology-policymaking.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-circumventing-the-paradox-of-regulating-emerging-technologies" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Circumventing the Paradox of Regulating Emerging Technologies<br /><span>Walter Valdivia</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Circumventing the Paradox of Regulating Emerging Technologies<br /><a href="http://synbioleap.org/community-member/walter-valdivia/">Walter Valdivia</a></strong></p>
+<p>New technologies create, at once, the need for regulation and resistance to it within regulatory agencies. Each bureaucracy is bound by law to protect public health and the environment but also seeks to avoid the risks of expanding the scope of its authority and having to mediate the concomitant political controversies. Hence, the paradox of regulating emerging technologies.</p>
+<p>As part of a set of measures to address this paradox, we propose an advisory board for the regulation of emerging technologies, fashioned after boundary organization such as the National Science Advisory Board for Biosafety and Biosecurity. The regulatory Board, composed by distinguished experts in the relevant disciplines, would issue non-binding authoritative recommendations for regulating specific aspects or functions of the new technologies and assign them to specific agencies. Being non-compulsory and having an inclusive membership, its recommendations could help to legitimize administrative action and reconcile the political tensions inherent to regulation.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/circumventing-the-paradox-of-regulating-emerging-technologies.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/circumventing-the-paradox-of-regulating-emerging-technologies.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+</div>
+</div>
+<div id="leap-risk-research-and-practice" class="child child-risk-research-and-practice">
+<h6>Risk Research and Practice</h6>
+<div class="noakes-accordion paper" rel="leap" data-keep-centered="true" data-include-close-button="true" data-include-arrow="true">
+<div id="leap-coherent-block-funding-for-microbial-environmental-risk-assessment-and-mitigation-strategy-development" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Coherent Block Funding for Microbial Environmental Risk Assessment and Mitigation Strategy Development<br /><span>Nathan Hillson</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Coherent Block Funding for Microbial Environmental Risk Assessment and Mitigation Strategy Development<br /><a href="http://synbioleap.org/community-member/nathan-hillson/">Nathan Hillson</a></strong></p>
+<p>Coherent Block Funding is a mechanism for government, industry, and institutional agencies to support and coordinate the assessment of environmental risks posed by genetically engineered microbes, and the development of strategies to mitigate these risks. In short, a single block of funding would support several testing facilities in addition to multiple individual investigators developing mitigation strategies. Unlike current funding mechanisms which distribute funding piecemeal at 5% or less of larger science projects, do not align the incentives of separate investigators, and make it difficult to accomplish meaningful outcomes, Coherent Block Funding can sustain real-world test-bed infrastructure and provide return on investment through establishing which mitigation strategies are actually effective. This strategic action plan aims to garner high-level support within federal and institutional agencies to prioritize Coherent Block Funding as a support mechanism for genetically engineered microbe environmental risk assessment and mitigation strategy development.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/coherent-block-funding-for-microbial-environmental-risk-assessment-and-mitigation-strategy-development.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/coherent-block-funding-for-microbial-environmental-risk-assessment-and-mitigation-strategy-development.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-synthetic-biology-biosecurity-tabletop-and-corresponding-educational-tools" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Synthetic Biology Biosecurity Tabletop and Corresponding Educational Tools<br /><span>Ryan Morhard</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Synthetic Biology Biosecurity Tabletop and Corresponding Educational Tools<br /><a href="http://synbioleap.org/community-member/ryan-morhard/">Ryan Morhard</a></strong></p>
+<p>This Strategic Action Plan proposes convening essential stakeholders within the synthetic biology and biosecurity community to participate in a biosecurity tabletop exercise meant to form the basis for a high-production web-based learning tool designed to enhance learning by enabling students, scientists, policymakers, and emergency professionals to virtually simulate participation in such an exercise. The in-person exercise, as well as the web-based simulation, would aid in establishing norms for researchers to follow during their research activities, and increase understanding between the research community and federal entities responsible for biosecurity, by exercising illustrative scenarios meant to provide education on respective roles in ensuring safe practice of synthetic biology and in evaluating and managing risks and consequences of a biosecurity emergency. Creating a shared understanding and facilitating communication between those that practice synthetic biology and policymakers leading government programs responsible for biosecurity risk and consequence management creates opportunities for improved coordination and comprehension and sets the foundation for policies and regulations that both preserve security and inspire innovation.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/synthetic-biology-biosecurity-tabletop-and-corresponding-educational-tools.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/synthetic-biology-biosecurity-tabletop-and-corresponding-educational-tools.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+</div>
+</div>
+<div id="leap-standards-and-sharing" class="child child-standards-and-sharing">
+<h6>Standards and Sharing</h6>
+<div class="noakes-accordion paper" rel="leap" data-keep-centered="true" data-include-close-button="true" data-include-arrow="true">
+<div id="leap-a-vision-for-a-synthetic-biology-standards-consortium" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">A Vision for a Synthetic Biology Standards Consortium<br /><span>Michal Galdzicki, Sarah Munro, Patrick Boyle, Jeff Ubersax</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>A Vision for a Synthetic Biology Standards Consortium<br /><a href="http://synbioleap.org/community-member/michal-galdzicki/">Michal Galdzicki</a>, <a href="http://synbioleap.org/community-member/sarah-munro/">Sarah Munro</a>, <a href="http://synbioleap.org/community-member/patrick-boyle/">Patrick Boyle</a>, <a href="http://synbioleap.org/community-member/jeff-ubersax/">Jeff Ubersax</a></strong></p>
+<p>The promise of synthetic biology to be instrumental in improving global quality of life and economic security can not be realized if there is not a concerted effort to transform synthetic biology innovations into useful, safe, and affordable products. As synthetic biology continues to develop, growing numbers of government and non-government organizations have focused on how synthetic biology could be used to responsibly improve global quality of life while considering environmental and health safety issues. This action plan proposes the development of measurement, performance, and safety standards for synthetic biology by a multi-stakeholder consortium as an effective way of ensuring the responsible development and wide acceptance of this technology.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/a-vision-for-a-synthetic-biology-standards-consortium.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/a-vision-for-a-synthetic-biology-standards-consortium.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-incentive-driven-information-sharing-for-engineering-biology" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Incentive-Driven Information Sharing for Engineering Biology<br /><span>Karmella Haynes</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Incentive-Driven Information Sharing for Engineering Biology<br /><a href="http://synbioleap.org/community-member/karmella-haynes/">Karmella Haynes</a></strong></p>
+<p>The public supports synthetic biology endeavors through tax dollars and private funding. The social mission of this action plan is to optimize the return on this public investment by facilitating the transformation of synthetic biology research into widely accessible information to support the development of new technologies. It describes development of an incentive-driven platform to stimulate and sustain crowd-sourced data sharing. This information will support future synthetic biology endeavors and the livelihoods of students and trainees in the field. Biosafety and biosecurity specialists will use this platform for interrogation and regulation of synthetic biology practices in order to mitigate potential harm. The scientific mission of this plan is to overcome barriers in the path toward the design of living systems by enabling cooperative, community-driven characterization of compatible (or incompatible) biological components.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/incentive-driven-information-sharing-for-engineering-biology.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/incentive-driven-information-sharing-for-engineering-biology.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-metafluidics" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Metafluidics<br /><span>David Kong</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Metafluidics<br /><a href="http://synbioleap.org/community-member/david-kong/">David Kong</a></strong></p>
+<p>Synthetic biologists need great tools to realize their creative visions. Microfluidic, or “lab-on-a-chip” instrumentation has the potential to be such a foundational tool for synthetic biology. Despite numerous examples of microfluidic devices performing complex processes central to synthetic biology, ranging from automating and miniaturizing DNA synthesis to performing single cell analyses, they are not commonly used. Microfluidics are not easy to make or use, and researchers are typically unable to leverage the designs and hardware of other groups. To help address these issues I propose in this action plan to develop metafluidics, a toolkit for microfluidics. The metafluidic toolkit leverages digital fabrication to make devices easy to manufacture, abstraction hierarchies for enabling intuitive interfaces to make them easy to use, and finally an open repository of device and hardware designs to make them easier to share and reproduce. Through metafluidics, microfluidics will hopefully become more accessible to synthetic biologists of all types, from students just learning about biology to cutting-edge innovators re-engineering organisms.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/metafluidics.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/metafluidics.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+</div>
+</div>
+<div id="leap-identifying-needs" class="child child-identifying-needs">
+<h6>Identifying Needs</h6>
+<div class="noakes-accordion paper" rel="leap" data-keep-centered="true" data-include-close-button="true" data-include-arrow="true">
+<div id="leap-sbice-synthetic-biology-integrated-concurrent-engineering-framework" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">SBICE: Synthetic Biology Integrated Concurrent Engineering Framework<br /><span>John Cumbers</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>SBICE: Synthetic Biology Integrated Concurrent Engineering Framework<br /><a href="http://synbioleap.org/community-member/john-cumbers/">John Cumbers</a></strong></p>
+<p>Despite ongoing scientific and technological advancements in the field of synthetic biology, there is a major bottleneck in the development of applications: design. The process of identifying the necessary components that need to be stitched together remains a laborious and time consuming task. This strategic action plan discusses the implementation of an accelerated design methodology for synthetic biology. This methodology, known as Integrated Concurrent Engineering (ICE) in the aerospace industry has cut preliminary design time at NASA from nine months to three weeks. Applying Integrated Concurrent Engineering to synthetic biology (SBICE) could significantly speed up the design, build and test cycles and could reshape the way we design genetic circuits, genomes and organisms.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/sbice-synthetic-biology-integrated-concurrent-engineering-framework.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/sbice-synthetic-biology-integrated-concurrent-engineering-framework.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+<div id="leap-synthetic-biology-for-global-health-a-problem-driven-approach-to-healthcare-innovation" class="noakes-accordion-item paper">
+<div><a href="javascript:void(0);" class="noakes-accordion-item-button">Synthetic Biology for Global Health: A Problem-Driven Approach to Healthcare Innovation<br /><span>Keith Tyo</span></a></div>
+<div class="noakes-accordion-item-content">
+<p><strong>Synthetic Biology for Global Health: A Problem-Driven Approach to Healthcare Innovation<br /><a href="http://synbioleap.org/community-member/keith-tyo/">Keith Tyo</a></strong></p>
+<p>Synthetic Biology is a powerful technology, capable of creating low cost, effective healthcare solutions (e.g. drugs and molecular diagnostics) that could be used in extremely impoverished regions of the world. While the potential impact of Synthetic Biology, in general, is compelling, two challenges have limited this impact to date: (1) the identification of specific opportunities remains challenging, as the vast majority of Synthetic Biology practitioners live far away from the resource-poor and are not intimately aware of the problems, and (2) adequate early and mid-stage funding to pursue problem-specific technologies. Significant advancement could be made by sending Synthetic Biology observational teams to resource-poor locations, and based on their observational research and Synthetic Biology expertise, develop problem-specific research plans that can be executed with in-country collaborators. The problem-first approach described in this plan aims to maximize impact by focusing resources on well-formulated matches between healthcare problems and appropriate Synthetic Biology technologies.</p>
+<p><a href="http://synbioleap.org/wp-content/uploads/2013/05/synthetic-biology-for-global-health-a-problem-driven-approach-to-healthcare-innovation.pdf" onclick="_gaq.push(['_trackEvent','download','http://synbioleap.org/wp-content/uploads/2013/05/synthetic-biology-for-global-health-a-problem-driven-approach-to-healthcare-innovation.pdf']);" target="_blank">Download PDF &raquo;</a></div>
+</div>
+</div>
+</div>
+						
+					</div>
+					
+					<script type="text/javascript">jQuery.leap.prepare_content();</script>
+					
+										
+						<div id="right-bar">
+						
+							<div id="leap_community_widget-2" class="leap-widget right-bar-widget widget_leap_community_widget"><div id="community-widget-wrapper"><div id="community-widget-form"><h2>Keep In Touch</h2><p>Sign up for Program Updates and Event Announcements</p>
+<form id="sign-up" name="sign-up" method="get" action="http://synbioleap.us5.list-manage.com/subscribe" target="_blank">
+
+	<input id="u" name="u" type="hidden" value="8eaae4fe0e73ccf861da3b4b7" />
+	<input id="id" name="id" type="hidden" value="00b9245ae5" />
+	
+	<div id="sign-up-wrapper">
+	
+		<input id="MERGE0" name="MERGE0" type="text" value="enter your email address" class="email required noakes-watermarked" />
+		<input id="submit-button" name="submit-button" type="submit" value="Submit" />
+		
+	</div>
+	
+</form>
+</div></div></div><div id="noakes_html_widget-3" class="leap-widget default-right-bar-widget widget_noakes_html_widget"><div class="noakes-html-widget"><h2><img class="alignright size-full wp-image-754" alt="Leap 2012 Annual Report" src="http://synbioleap.org/wp-content/uploads/2013/09/leap-2012-annual-report.jpg" width="120" height="98" />Look Before LEAPing</h2>
+<p>Learn about the LEAP initiative, the 2012 Inaugural Workshop and New Visions and Plans for Leading the Future of Synthetic Biology in our informative eBook.</p>
+<p><a class="button arrow-small" href="http://issuu.com/synbioleap/docs/leap_2012_ebook_bypage?e=0/5312249" target="_blank">Download eBook</a></p>
+</div></div>							
+						</div>
+						
+										
+				</div>
+				
+				<footer>
+				
+					<a href="http://synbioleap.org/community/sponsors/"><img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-201506.jpg" height="119" width="957" alt="" class="phone-hide" />
+					<img src="http://synbioleap.org/wp-content/themes/leap/images/logos/logos-phone-201506.jpg" height="133" width="320" alt="" class="phone-only" /></a>
+					
+				</footer>
+			
+			</div>
+			
+		</div>
+		
+		<div id="wp-footer">
+		
+			<div id="breakpoint"></div>
+			
+						
+		</div>
+	
+	</body>
+	
+</html>

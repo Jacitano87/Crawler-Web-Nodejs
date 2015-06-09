@@ -1,0 +1,277 @@
+<!doctype html> <!--[if lt IE 7]><html
+class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]--> <!--[if IE 7]><html
+class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]--> <!--[if IE 8]><html
+class="no-js lt-ie9" lang="en"> <![endif]--> <!--[if gt IE 8]><!--><html
+class="no-js" lang="en"> <!--<![endif]--><head><link
+rel="stylesheet" type="text/css" href="http://www.neworleansbio.com/blog/wp-content/cache/minify/000000/5f62b/default.include.a8b742.css" media="all" /><script type="text/javascript" src="http://www.neworleansbio.com/blog/wp-content/cache/minify/000000/5f62b/default.include.d287a1.js"></script><meta
+charset="utf-8"><meta
+name="viewport" content="width=1200"><link
+rel="shortcut icon" href="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/images/favicon.ico" /><title>The New Orleans BioInnovation Center is a technology business incubator with aims to stimulate bioscience entrepreneurship in the New Orleans area New Orleans BioInnovation Center</title><link
+rel="pingback" href="http://www.neworleansbio.com/blog/xmlrpc.php" /><meta
+name="description" content="The New Orleans BioInnovation Center, part of a new wave of advancements in Louisiana, is at the forefront of today&#039;s biotechnology surge. As a cornerstone of Louisiana&#039;s commitment to nurturing biotechnology within the state, the Center is a technology business incubator that aims to stimulate bioscience entrepreneurship in the New Orleans area. Our mission is to assist in the development of biotechnology-related companies looking to commercialize technologies from the Greater New Orleans Area universities, including LSU Health Services Center, Tulane Health Services Center, the University of New Orleans, and Xavier University."/><link
+rel="canonical" href="http://www.neworleansbio.com/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="website" /><meta
+property="og:title" content="The New Orleans BioInnovation Center is a technology business incubator with aims to stimulate bioscience entrepreneurship in the New Orleans area" /><meta
+property="og:description" content="The New Orleans BioInnovation Center, part of a new wave of advancements in Louisiana, is at the forefront of today&#039;s biotechnology surge. As a cornerstone of Louisiana&#039;s commitment to nurturing biotechnology within the state, the Center is a technology business incubator that aims to stimulate bioscience entrepreneurship in the New Orleans area. Our mission is to assist in the development of biotechnology-related companies looking to commercialize technologies from the Greater New Orleans Area universities, including LSU Health Services Center, Tulane Health Services Center, the University of New Orleans, and Xavier University." /><meta
+property="og:url" content="http://www.neworleansbio.com/" /><meta
+property="og:site_name" content="New Orleans BioInnovation Center" /><meta
+property="og:image" content="http://www.neworleansbio.com/blog/wp-content/uploads/2014/01/110822_4966.jpg" /><meta
+name="google-site-verification" content="PiRLLXZRvACHOB_GBGVTI7q7dvrBlrCiJaC_DIZWZK0" /><script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"http://www.neworleansbio.com/","potentialAction":{"@type":"SearchAction","target":"http://www.neworleansbio.com/?s={search_term}","query-input":"required name=search_term"}}</script><link
+rel="alternate" type="application/rss+xml" title="New Orleans BioInnovation Center &raquo; Home Comments Feed" href="http://www.neworleansbio.com/home/feed/" /><link
+rel='stylesheet' id='new-royalslider-core-css-css'  href='http://www.neworleansbio.com/blog/wp-content/plugins/new-royalslider/lib/royalslider/royalslider.css?ver=3.2.1' type='text/css' media='all' /><link
+rel='stylesheet' id='rsUni-css-css'  href='http://www.neworleansbio.com/blog/wp-content/plugins/new-royalslider/lib/royalslider/skins/universal/rs-universal.css?ver=3.2.1' type='text/css' media='all' /><script>var jquery_placeholder_url='http://www.neworleansbio.com/blog/wp-content/plugins/gravity-forms-placeholders/jquery.placeholder-1.0.1.js';</script><script type='text/javascript' src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js?ver=3.9.6'></script><script type='text/javascript' src='http://www.neworleansbio.com/blog/wp-content/plugins/lizatom-shortcodes/js/init.js?ver=1.4.1'></script><script type='text/javascript' src='http://www.neworleansbio.com/blog/wp-content/plugins/gravity-forms-placeholders/gf.placeholders.js?ver=1.0'></script><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.neworleansbio.com/blog/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.neworleansbio.com/blog/wp-includes/wlwmanifest.xml" /><link
+rel='shortlink' href='http://www.neworleansbio.com/' /><script type="text/javascript">/*<![CDATA[*/function bb2_addLoadEvent(func){var oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}
+bb2_addLoadEvent(function(){for(i=0;i<document.forms.length;i++){if(document.forms[i].method=='post'){var myElement=document.createElement('input');myElement.setAttribute('type','hidden');myElement.name='bb2_screener_';myElement.value='1433843499 62.210.207.74';document.forms[i].appendChild(myElement);}}});/*]]>*/</script><script type="text/javascript">/*<![CDATA[*/(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}
+var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);})('//www.neworleansbio.com/blog/wp-admin/admin-ajax.php?action=wordfence_logHuman&hid=AEE00E7A5B0DDBB0C1F458BA4404461C');/*]]>*/</script><script src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/libs/modernizr-2.5.0.min.js"></script><script type="text/javascript" src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/hoverIntent.js"></script><script type="text/javascript" src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/superfish.min.js"></script><script type="text/javascript" src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/supersubs.js"></script><script type="text/javascript" src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/jquery.simplyscroll.min.js"></script><script>(function($){$(document).ready(function(){var example=$('ul.sf-menu').superfish({});$('.destroy').on('click',function(){example.superfish('destroy');});$('.init').on('click',function(){example.superfish();});$('.open').on('click',function(){example.children('li:first').superfish('show');});$('.close').on('click',function(){example.children('li:first').superfish('hide');});});})(jQuery);</script><script type="text/javascript">(function($){$(function(){$("#scroller").simplyScroll();});})(jQuery);</script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-37351010-8','neworleansbio.com');ga('send','pageview');</script><script>var _gaq=[['_setAccount','UA-17666273-1'],['_trackPageview']];(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s)}(document,'script'));</script></head><body
+class="home page page-id-4 page-template-default"><div
+class="page-wrap"> <header><h1 id="logo"><a
+href="http://www.neworleansbio.com"><img
+src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/images/bio-logo3.png" alt="New Orlean BioInnovation Center" /> </a></h1><div
+id="contact"><ul><li><a
+href="/contact/">Contact</a></li><li>|</li><li><a
+href="mailto:info@neworleansbio.com"><img
+src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/images/mail-icon.png" alt="Sign Up" height="16" style="margin-top:-1px;margin-right:-5px;" /></a></li><li><a
+href="/sign-up/">Sign Up</a></li></ul><form
+method="get" id="searchform" action="http://www.neworleansbio.com"> <input
+type="text" class="field" name="s" id="s"  placeholder="Search" /> <input
+type="submit" class="submit" name="submit" value="" /></form><div
+id="social"> <a
+href="http://www.facebook.com/neworleansbio" id="facebook" target="_blank">Facebook</a> <a
+href="http://twitter.com/neworleansbio" id="twitter" target="_blank">Twitter</a></div></div><div
+class="menu-main-navigation-container"><ul
+id="menu-main-navigation" class="sf-menu"><li
+id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-27"><a
+href="http://www.neworleansbio.com/about/">About</a><ul
+class="sub-menu"><li
+id="menu-item-152" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-152"><a
+href="http://www.neworleansbio.com/about/our-team/">Our Team</a></li><li
+id="menu-item-153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-153"><a
+href="http://www.neworleansbio.com/about/the-board/">The Board</a></li><li
+id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a
+href="http://www.neworleansbio.com/about/jobs/">Jobs</a></li><li
+id="menu-item-675" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-675"><a
+href="http://www.neworleansbio.com/about/news/">News</a></li></ul></li><li
+id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23"><a
+href="http://www.neworleansbio.com/programs/">Programs</a><ul
+class="sub-menu"><li
+id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-164"><a
+href="http://www.neworleansbio.com/programs/business-assistance/">Business Assistance</a></li><li
+id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a
+href="http://www.neworleansbio.com/programs/biofund/">BioFund</a></li><li
+id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a
+href="http://www.neworleansbio.com/programs/startup-resources/">Startup Resources</a></li><li
+id="menu-item-228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-228"><a
+href="http://www.neworleansbio.com/programs/events/">Events</a><ul
+class="sub-menu"><li
+id="menu-item-1476" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1476"><a
+href="http://www.neworleansbio.com/events/event/louisiana-university-technology-showcase/">University Technology Showcase</a></li><li
+id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a
+href="http://www.neworleansbio.com/past-events/">Past Events</a></li></ul></li></ul></li><li
+id="menu-item-673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-673"><a
+href="http://www.neworleansbio.com/impact/">Impact</a></li><li
+id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26"><a
+href="http://www.neworleansbio.com/facilities/">Facilities</a><ul
+class="sub-menu"><li
+id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a
+href="http://www.neworleansbio.com/facilities/leasing/">Leasing</a></li><li
+id="menu-item-155" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-155"><a
+href="http://www.neworleansbio.com/facilities/core-facilities/">Core Facilities</a></li><li
+id="menu-item-156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-156"><a
+href="http://www.neworleansbio.com/facilities/event-space/">Event Space</a></li></ul></li><li
+id="menu-item-674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-674"><a
+href="http://www.neworleansbio.com/community/clients/">Startups</a><ul
+class="sub-menu"><li
+id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a
+href="http://www.neworleansbio.com/community/clients/">Clients &#038; Tenants</a></li></ul></li><li
+id="menu-item-1145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1145"><a
+href="http://www.neworleansbio.com/support/">Support</a><ul
+class="sub-menu"><li
+id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a
+href="http://www.neworleansbio.com/support/partners/">Partners</a></li></ul></li><li
+id="menu-item-1309" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1309"><a
+href="http://www.neworleansbio.com/innovationla/">Conference</a></li><li
+id="menu-item-1524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1524"><a
+href="http://www.neworleansbio.com/programs/events/">Events</a></li></ul></div> </header><div
+id="slider"><div
+id="new-royalslider-2" class="royalSlider new-royalslider-2 rsUni rs-default-template" style="width:2000px;height:500px;;"><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/homeslide_1-1024x256.png" alt="Community"/><div
+class="rsABlock" style="width: 639px; height: 37px; left: 0px; top: 209px;" data-speed="600" data-move-offset="1050" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/1.png"></div><div
+class="rsABlock" style="width: 621px; height: 20px; left: 0px; top: 330px;" data-speed="600" data-move-offset="1200" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/3.png"></div><div
+class="rsABlock" style="width: 632px; height: 27px; left: -7px; top: 272px;" data-move-offset="1020" data-speed="800" data-fade-effect="false" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/2.png"></div><div
+class="rsABlock" style="width: 375px; height: auto; left: 875px; top: 193px;" data-move-offset="0"><p>NOBIC is a technology business incubator dedicated to supporting life science entrepreneurs, creating a knowledge-based regional economy, and improving health one innovation at a time.</p></div><div
+class="rsSBlock" style="width: auto; height: auto; left: 0px; top: 0px;"><h2 class="slide-title">Community</h2></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 325px;" data-move-effect="right" data-move-offset="1220"><h3 class="slide-links"><a
+href="/community/clients/">Meet the Startups</a></h3></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 385px;" data-move-effect="right" data-move-offset="1520" data-fade-effect="false"><h3 class="slide-links"><a
+href="/facilities/">Take a Tour</a></h3><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/plus-sign.png" style="float:left;"></div></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/homeslide_2-1024x256.png" alt="Programs"/><div
+class="rsABlock" style="width: 639px; height: 37px; left: 0px; top: 209px;" data-speed="600" data-move-offset="1050" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/1.png"></div><div
+class="rsABlock" style="width: 621px; height: 20px; left: 0px; top: 330px;" data-speed="600" data-move-offset="1200" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/3.png"></div><div
+class="rsABlock" style="width: 632px; height: 27px; left: -7px; top: 272px;" data-move-offset="1020" data-speed="800" data-fade-effect="false" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/2.png"></div><div
+class="rsABlock" style="width: 375px; height: auto; left: 875px; top: 193px;" data-move-offset="0"><p>We give support to startups that are commercializing cutting-edge research and ideas through world-class facilities, subsidized and often free business assistance, public educational events, and a low-cost loan program.</p></div><div
+class="rsSBlock" style="width: auto; height: auto; left: 0px; top: 0px;"><h2 class="slide-title">Programs</h2></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 325px;" data-move-effect="right" data-move-offset="1220"><h3 class="slide-links"><a
+href="/programs/business-assistance/">Request Business Assistance</a></h3></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 385px;" data-move-effect="right" data-move-offset="1520" data-fade-effect="false"><h3 class="slide-links"><a
+href="/programs/biofund/">Learn About BioFund Loans</a></h3><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/plus-sign.png" style="float:left;"></div></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/community-1024x347.png" alt="Impact"/><div
+class="rsABlock" style="width: 639px; height: 37px; left: 0px; top: 209px;" data-speed="600" data-move-offset="1050" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/1.png"></div><div
+class="rsABlock" style="width: 621px; height: 20px; left: 0px; top: 330px;" data-speed="600" data-move-offset="1200" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/3.png"></div><div
+class="rsABlock" style="width: 632px; height: 27px; left: -7px; top: 272px;" data-move-offset="1020" data-speed="800" data-fade-effect="false" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/2.png"></div><div
+class="rsABlock" style="width: 375px; height: auto; left: 875px; top: 215px;" data-move-offset="0"><p>Our startup clients have created more than 275 jobs in Greater New Orleans and raised over $82 million to develop their life-changing healthcare technologies.</p></div><div
+class="rsSBlock" style="width: auto; height: auto; left: 0px; top: 0px;"><h2 class="slide-title">Impact</h2></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 325px;" data-move-effect="right" data-move-offset="1220"><h3 class="slide-links"><a
+href="/impact/">See Our Results</a></h3></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 385px;" data-move-effect="right" data-move-offset="1520" data-fade-effect="false"><h3 class="slide-links"><a
+href="/support/">How You Can Help</a></h3><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/plus-sign.png" style="float:left;"></div></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/homeslide_3-1024x256.png" alt="Partners"/><div
+class="rsABlock" style="width: 639px; height: 37px; left: 0px; top: 209px;" data-speed="600" data-move-offset="1050" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/1.png"></div><div
+class="rsABlock" style="width: 621px; height: 20px; left: 0px; top: 330px;" data-speed="600" data-move-offset="1200" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/3.png"></div><div
+class="rsABlock" style="width: 632px; height: 27px; left: -7px; top: 272px;" data-move-offset="1020" data-speed="800" data-fade-effect="false" data-move-effect="left"><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/2.png"></div><div
+class="rsABlock" style="width: 375px; height: auto; left: 875px; top: 215px;" data-move-offset="0"><p>Along with our partners and sponsors, NOBIC is building a network of innovators and business leaders to sustain economic growth and bioscience innovation in Louisiana.</p></div><div
+class="rsSBlock" style="width: auto; height: auto; left: 0px; top: 0px;"><h2 class="slide-title">Partners</h2></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 325px;" data-move-effect="right" data-move-offset="1220"><h3 class="slide-links"><a
+href="/support/partners/">Meet Our Partners</a></h3></div><div
+class="rsABlock" style="width: auto; height: auto; left: 875px; top: 385px;" data-move-effect="right" data-move-offset="1520" data-fade-effect="false"><h3 class="slide-links"><a
+href="/support/">Join Our Community</a></h3><img
+src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/08/plus-sign.png" style="float:left;"></div></div></div></div><div
+class="container"> <aside><div
+class="front"><div><div
+id="new-royalslider-4" class="royalSlider new-royalslider-4 rsUni rs-default-template" style="width:145px;height:145px;;"><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2014/08/JPMC.jpg" alt="DDD"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/LED-1024x196.jpg" alt="LED"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/Jones-Walker.jpg" alt="JW_RGB"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/IBERIABANK.jpg" alt="IBERIABANK"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/Cox-Business.jpg" alt="Cox Business"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/DDD.png" alt="DDD"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/DRA.jpg" alt="DRA"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/EDA-e1388792612286.png" alt="EDA"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/Graffagnini-+-Associates-1024x540.jpeg" alt="Graffagnini_logo_final"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/LBIA.jpeg" alt="LBIA"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/PandN-1024x429.png" alt="PandN"/></div><div
+class="rsContent"> <img
+class="rsImg" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/11/State-of-LA-DRU.jpg" alt="State of LA DRU"/></div></div></div><div
+class=clear></div><div><h2 style="display:none;">Jobs and Tenants</h2><div
+class="textwidget"><h5><span>275</span></h5><h4><a
+href="http://www.neworleansbio.com/impact/" title="Impact">New Jobs<br
+/>Created</a></h4><h5><span>34</span></h5><h4><a
+href="http://www.neworleansbio.com/client/nobic-tenants/" title="Tenants &#038; Clients">Tenants in<br
+/>Residence</a></h4><h5><span>72</span></h5><h4><a
+href="http://www.neworleansbio.com/programs/events/" title="Events">Educational<br
+/>Events Hosted</a></h4></div></div><div
+class=clear></div><div><h2 style="display:none;">Goal Raised</h2><div
+class="textwidget"><h6>$82,076,000</h6><p
+class="grants">IN FINANCING<BR
+/>RAISED TO DATE</p></div></div><div
+class=clear></div><div><h2 style="display:none;">Tenants/Space/Floorplans</h2><div
+class="textwidget"></div></div><div
+class=clear></div></div></aside><div
+id="content"> <section
+id="news" class=""><h2 class="section-title news">News</h2> <article
+class="news-post"><div
+class="news-thumb"> <a
+href="http://www.neworleansbio.com/esophagus-regeneration-startup-wins-tulane-novel-tech-challenge/" title="Esophagus Regeneration Startup Wins Tulane Novel Tech Challenge"><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.neworleansbio.com/blog/wp-content/uploads/2015/04/Screen-Shot-2015-04-23-at-10.12.22-AM-160x147.png" class=" wp-post-image" alt="D&amp;P Bioinnovations wins Challenge" /><noscript><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/uploads/2015/04/Screen-Shot-2015-04-23-at-10.12.22-AM-160x147.png" class=" wp-post-image" alt="D&amp;P Bioinnovations wins Challenge" /></noscript></a></div><h3><a
+href="http://www.neworleansbio.com/esophagus-regeneration-startup-wins-tulane-novel-tech-challenge/" title="Esophagus Regeneration Startup Wins Tulane Novel Tech Challenge">Esophagus Regeneration Startup Wins Tulane Novel Tech Challenge</a></h3><p
+class="date">04/21/2015</p><p>PhD student Derek Dashti won top prize and $5,000 in the first ever Novel Tech...</p> <a
+href="http://www.neworleansbio.com/esophagus-regeneration-startup-wins-tulane-novel-tech-challenge/" title="Esophagus Regeneration Startup Wins Tulane Novel Tech Challenge" class="full-article">Full Article</a> </article> <article
+class="news-post"><div
+class="news-thumb"> <a
+href="http://www.neworleansbio.com/iconic-debuts-new-flavor-and-packaging/" title="ICONIC Debuts New Flavor and Packaging"><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.neworleansbio.com/blog/wp-content/uploads/2015/04/CafeAuLaitICONIC-160x147.jpg" class=" wp-post-image" alt="Cafe au Lait ICONIC" /><noscript><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/uploads/2015/04/CafeAuLaitICONIC-160x147.jpg" class=" wp-post-image" alt="Cafe au Lait ICONIC" /></noscript></a></div><h3><a
+href="http://www.neworleansbio.com/iconic-debuts-new-flavor-and-packaging/" title="ICONIC Debuts New Flavor and Packaging">ICONIC Debuts New Flavor and Packaging</a></h3><p
+class="date">04/10/2015</p><p>Be Well Nutrition, makers of the healthy protein drink line ICONIC, have announced a packaging...</p> <a
+href="http://www.neworleansbio.com/iconic-debuts-new-flavor-and-packaging/" title="ICONIC Debuts New Flavor and Packaging" class="full-article">Full Article</a> </article> <article
+class="news-post"><div
+class="news-thumb"> <img
+src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/images/featured.png" alt="#" class="featured" /> <a
+href="http://www.neworleansbio.com/nobic-awarded-500000-grant-to-expand-assistance-statewide/" title="NOBIC Awarded $500,000 Grant to Expand Assistance Statewide"><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/10/110822_4905-160x147.jpg" class=" wp-post-image" alt="Meeting" /><noscript><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/10/110822_4905-160x147.jpg" class=" wp-post-image" alt="Meeting" /></noscript></a></div><h3><a
+href="http://www.neworleansbio.com/nobic-awarded-500000-grant-to-expand-assistance-statewide/" title="NOBIC Awarded $500,000 Grant to Expand Assistance Statewide">NOBIC Awarded $500,000 Grant to Expand Assistance Statewide</a></h3><p
+class="date">04/02/2015</p><p>The BioInnovation Center has been awarded a 3-year, $500,000 grant from the U.S. Economic Development...</p> <a
+href="http://www.neworleansbio.com/nobic-awarded-500000-grant-to-expand-assistance-statewide/" title="NOBIC Awarded $500,000 Grant to Expand Assistance Statewide" class="full-article">Full Article</a> </article><h3 class="newsletter"><a
+href="/sign-up/">SIGN UP FOR NEWS AND UPDATES</a></h3> </section><section
+id="featured-tenant"><h2 class="section-title featured-tenant">Featured Startup</h2> <article
+class="featured-tenant"><h3><a
+href="http://www.innogenomics.com/" title="InnoGenomics Technologies">InnoGenomics Technologies</a></h3><p
+class="featured-goals"></p><div
+class="featured-thumb"> <a
+href="http://www.innogenomics.com/" title="InnoGenomics Technologies"><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/plugins/lazy-load/images/1x1.trans.gif" data-lazy-src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/10/InnoGenomics-New1-160x147.png" class=" wp-post-image" alt="InnoGenomics" /><noscript><img
+width="160" height="147" src="http://www.neworleansbio.com/blog/wp-content/uploads/2013/10/InnoGenomics-New1-160x147.png" class=" wp-post-image" alt="InnoGenomics" /></noscript></a></div><div
+class="featured-content"><p>InnoGenomics Technologies is dedicated to the development of innovative genetic testing solutions that solve crimes and save lives. The company’s patented technology enables forensic scientists to unlock answers from the...</p> <a
+href="http://www.innogenomics.com/" title="InnoGenomics Technologies" class="learn-more">Learn More</a></div> </article> </section><div
+class="clear"></div></div></div><div
+class="clear"></div></div> <footer
+class="site-footer"><div
+class="container-footer"> <a
+href="http://www.neworleansbio.com"><img
+src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/images/logo-white.png" alt="New Orleans BioInnovation Center" id="footer-logo" /> </a><div
+class="menu-footer-menu-container"><ul
+id="footer-menu" class=""><li
+id="menu-item-1015" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1015"><a
+href="http://www.neworleansbio.com/about/">About</a></li><li
+id="menu-item-1019" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1019"><a
+href="http://www.neworleansbio.com/programs/">Programs</a></li><li
+id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a
+href="http://www.neworleansbio.com/impact/">Impact</a></li></ul></div><div
+class="menu-footer-menu-2-container"><ul
+id="footer-menu2" class=""><li
+id="menu-item-1022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1022"><a
+href="http://www.neworleansbio.com/facilities/">Facilities</a></li><li
+id="menu-item-1021" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1021"><a
+href="http://www.neworleansbio.com/community/clients/">Community</a></li><li
+id="menu-item-1144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1144"><a
+href="http://www.neworleansbio.com/support/">Support</a></li></ul></div><div
+class="contact"><div
+class="textwidget"><p>1441 Canal St. <br
+/>New Orleans LA 70112</p><p>504.680.2973</p><p><a
+href="mailto:info@neworleansbio.com">info@neworleansbio.com</a></p></div></div><div
+class="bkg"></div><ul><li><a
+href="/career-network/">CAREER NETWORK</a></li><li>|</li><li
+class="biofund"><a
+href="/biofund/">BIOFUND</a></li></ul><p
+class="copyright">&copy; 2015 New Orleans BioInnovation Center<br
+/>Website by <a
+href="http://www.designtheplanet.com" rel="nofollow" target="_blank">Design the Planet</a></p><div
+class="clear"></div></div></footer><script src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/plugins.js"></script><script src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/script.js"></script><script type="text/javascript" src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/jquery.masonry.min.js"></script><script type="text/javascript" src="http://www.neworleansbio.com/blog/wp-content/themes/BioInnovation/js/jquery.isotope.min.js"></script><script>$(function(){var $container=$('#container');$container.isotope({itemSelector:'.tenant'});});</script><!--[if lt IE 8 ]><script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script><script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script><![endif]--><script>jQuery(document).ready(function($){$('#boxes').masonry({itemSelector:'.tenant',columnWidth:210,gutterWidth:40});});</script><link
+rel='stylesheet' id='gforms_reset_css-css'  href='http://www.neworleansbio.com/blog/wp-content/plugins/gravityforms/css/formreset.css?ver=1.8.11' type='text/css' media='all' /><link
+rel='stylesheet' id='gforms_formsmain_css-css'  href='http://www.neworleansbio.com/blog/wp-content/plugins/gravityforms/css/formsmain.css?ver=1.8.11' type='text/css' media='all' /><link
+rel='stylesheet' id='gforms_ready_class_css-css'  href='http://www.neworleansbio.com/blog/wp-content/plugins/gravityforms/css/readyclass.css?ver=1.8.11' type='text/css' media='all' /><link
+rel='stylesheet' id='gforms_browsers_css-css'  href='http://www.neworleansbio.com/blog/wp-content/plugins/gravityforms/css/browsers.css?ver=1.8.11' type='text/css' media='all' /><script type='text/javascript' src='http://www.neworleansbio.com/blog/wp-includes/js/comment-reply.min.js?ver=3.9.6'></script><script type='text/javascript' src='http://www.neworleansbio.com/blog/wp-content/plugins/lazy-load/js/jquery.sonar.min.js?ver=0.5'></script><script type='text/javascript' src='http://www.neworleansbio.com/blog/wp-content/plugins/lazy-load/js/lazy-load.js?ver=0.5'></script><script type='text/javascript' src='http://www.neworleansbio.com/blog/wp-content/plugins/new-royalslider/lib/royalslider/jquery.royalslider.min.js?ver=3.2.1'></script><script id="new-royalslider-init-code" type="text/javascript">jQuery(document).ready(function($){$('.new-royalslider-2').royalSlider({template:'default',image_generation:{imageWidth:'',imageHeight:'',thumbImageWidth:'',thumbImageHeight:''},thumbs:{thumbWidth:96,thumbHeight:72},autoPlay:{enabled:!0,delay:7000,pauseOnHover:!1},block:{moveOffset:20,speed:400,delay:200},width:'2000px',height:'500px',imageScaleMode:'fill',controlNavigation:'none',arrowsNavAutoHide:!1,transitionSpeed:900,loop:!0});$('.new-royalslider-4').royalSlider({template:'default',image_generation:{imageWidth:'',imageHeight:'',thumbImageWidth:'',thumbImageHeight:''},thumbs:{thumbWidth:96,thumbHeight:72},autoPlay:{enabled:!0,delay:5000,stopAtAction:!1,pauseOnHover:!1},block:{moveOffset:20,speed:400,delay:200},width:'145px',height:'145px',imageScaleMode:'fit',controlNavigation:'none',transitionType:'fade',transitionSpeed:800,loop:!0});});</script></body></html>

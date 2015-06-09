@@ -1,0 +1,1062 @@
+<!DOCTYPE html>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!-- Consider adding an manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+
+<head>
+<meta name="google-site-verification" content="IZ-2KmD6tijoiKg9ibj1CypvvEapcRQ8mZu18r9gA6A" />
+<meta charset="UTF-8">
+
+<!-- Mobile View -->
+<meta name="viewport" content="width=device-width">
+
+<title>Molecular Me | Our Science. Your Wellness.</title>
+<link rel="Shortcut Icon" href="http://isbmolecularme.com/wp-content/themes/organic_natural2/images/favicon.ico" type="image/x-icon">
+
+<style type="text/css" media="screen">
+		
+	body {
+		-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;	}
+	
+	.container #navigation, .container .menu ul.sub-menu, .container .menu ul.children {
+		background-color: #242424;	}
+	
+	.container a, .container a:link, .container a:visited, #wrap .widget ul.menu li a {
+		color: #ff9933;	}
+	
+	.container a:hover, .container a:focus, .container a:active,
+	#wrap .widget ul.menu li a:hover, #wrap .widget ul.menu li ul.sub-menu li a:hover,
+	#wrap .widget ul.menu .current_page_item a, #wrap .widget ul.menu .current-menu-item a {
+		color: #bbdf36;	}
+	
+	.container h1 a, .container h2 a, .container h3 a, .container h4 a, .container h5 a, .container h6 a,
+	.container h1 a:link, .container h2 a:link, .container h3 a:link, .container h4 a:link, .container h5 a:link, .container h6 a:link,
+	.container h1 a:visited, .container h2 a:visited, .container h3 a:visited, .container h4 a:visited, .container h5 a:visited, .container h6 a:visited {
+		color: #003f72;	}
+	
+	.container h1 a:hover, .container h2 a:hover, .container h3 a:hover, .container h4 a:hover, .container h5 a:hover, .container h6 a:hover,
+	.container h1 a:focus, .container h2 a:focus, .container h3 a:focus, .container h4 a:focus, .container h5 a:focus, .container h6 a:focus,
+	.container h1 a:active, .container h2 a:active, .container h3 a:active, .container h4 a:active, .container h5 a:active, .container h6 a:active,
+	#slideshow .headline a:hover,#slideshow .headline a:focus, #slideshow .headline a:active {
+		color: #bbdf36;	}
+	
+	#submit:hover, #searchsubmit:hover, .reply a:hover, .gallery a:hover, a.button:hover, .more-link:hover,
+	#comments #respond input#submit:hover, .container .gform_wrapper input.button:hover {
+		background-color: #ff9933 !important;	}
+	
+	.container .flex-control-nav li.flex-active a, .container .flex-control-nav li a.flex-active {
+		border-color: #ff9933;	}
+</style>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://isbmolecularme.com/xmlrpc.php">
+
+<!-- Social Buttons -->
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Molecular Me &raquo; Feed" href="http://isbmolecularme.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Molecular Me &raquo; Comments Feed" href="http://isbmolecularme.com/comments/feed/" />
+<link rel='stylesheet' id='photomosaic_base_css-css'  href='http://isbmolecularme.com/wp-content/plugins/photomosaic-for-wordpress/css/photomosaic.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='photomosaic_prettyphoto_css-css'  href='http://isbmolecularme.com/wp-content/plugins/photomosaic-for-wordpress/includes/vendor/prettyphoto/prettyphoto.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='justifiedGalleryCSS-css'  href='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/justifiedgallery/css/justifiedGallery.min.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='swipeboxCSS-css'  href='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/swipebox/css/swipebox.min.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='natural-style-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/style.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='natural-style-mobile-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/style-mobile.css?ver=1.0' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='natural-style-ie8-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/style-ie8.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='organic-shortcodes-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/shortcodes/organic-shortcodes.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='organic-shortcodes-ie8-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/shortcodes/organic-shortcodes-ie8.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/font-awesome.css?ver=1.0' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='font-awesome-ie7-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/font-awesome-ie7.css?ver=1.0' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='organicons-css'  href='http://isbmolecularme.com/wp-content/themes/organic_natural2/css/organicons.css?ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='montserrat-css'  href='http://fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='roboto-css'  href='http://fonts.googleapis.com/css?family=Roboto%3A400%2C300italic%2C300%2C500%2C400italic%2C500italic%2C700%2C700italic&#038;ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='merriweather-css'  href='http://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C300%2C900&#038;ver=4.1.5' type='text/css' media='all' />
+<link rel='stylesheet' id='milonga-css'  href='http://fonts.googleapis.com/css?family=Milonga&#038;ver=4.1.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/plugins/photomosaic-for-wordpress/js/photomosaic.min.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/justifiedgallery/js/jquery.justifiedGallery.min.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/plugins/flickr-photostream/swipebox/js/jquery.swipebox.min.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/html5shiv.js?ver=4.1.5'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/hoverIntent.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/superfish.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/imagesloaded.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.fitVids.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.isotope.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/retina.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.modal.min.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.flexslider.js?ver=20130729'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://isbmolecularme.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://isbmolecularme.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.5" />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-37898752-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://rp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://isbmolecularme.com/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.5.4';
+	window._wp_rp_post_id = '3759';
+	window._wp_rp_num_rel_posts = '6';
+	window._wp_rp_thumbnails = true;
+	window._wp_rp_post_title = 'ISB+Q%26A%3A+On+the+Systems+Biology+Summer+Course';
+	window._wp_rp_post_tags = ['isb+q%26amp%3Ba', 'systems+biology+course', 'dr.+chris+plaisier', 'cancer+research+and+systems+bi', 'isb+q%26amp%3Ba', 'technolog', 'signatur', 'system', 'foundat', 'event', 'scienc', 'summer', 'mini', 'postdoctor', 'chri', 'lightn', 'lab', 'biologi', 'research', 'gear'];
+</script>
+<link rel="stylesheet" href="http://isbmolecularme.com/wp-content/plugins/related-posts/static/themes/vertical-m.css?version=3.5.4" />
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Vipers Video Quicktags v6.5.2 | http://www.viper007bond.com/wordpress-plugins/vipers-video-quicktags/ -->
+<style type="text/css">
+.vvqbox { display: block; max-width: 100%; visibility: visible !important; margin: 10px auto; } .vvqbox img { max-width: 100%; height: 100%; } .vvqbox object { max-width: 100%; } 
+</style>
+<script type="text/javascript">
+// <![CDATA[
+	var vvqflashvars = {};
+	var vvqparams = { wmode: "opaque", allowfullscreen: "true", allowscriptaccess: "always" };
+	var vvqattributes = {};
+	var vvqexpressinstall = "http://isbmolecularme.com/wp-content/plugins/vipers-video-quicktags/resources/expressinstall.swf";
+// ]]>
+</script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+</head>
+
+<body class="home blog custom-background natural-relative-text">
+
+<!-- BEGIN #wrap -->
+<div id="wrap">
+
+	<!-- BEGIN .container -->
+	<div class="container">
+	
+		<!-- BEGIN #header -->
+		<div id="header">
+		
+			<!-- BEGIN .row -->
+			<div class="row">
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+				
+															<h1 id="logo"><a href="http://isbmolecularme.com/"><img src="http://isbmolecularme.com/wp-content/uploads/logo2.png?w=460&#038;h=120&#038;crop=1" alt="Molecular Me" />Molecular Me</a></h1>
+													
+								
+				<!-- END .sixteen columns -->
+				</div>
+			
+			<!-- END .row -->
+			</div>
+		
+		<!-- END #header -->
+		</div>
+		
+		<!-- BEGIN #navigation -->
+		<nav id="navigation" class="navigation-main shadow radius-top home-nav" role="navigation">
+		
+			<!-- BEGIN .row -->
+			<div class="row">
+				
+				<h1 class="menu-toggle">Menu</h1>
+	
+				<div class="menu-main-container"><ul id="menu-main" class="menu"><li id="menu-item-6" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-6"><a href="http://isbmolecularme.com/category/isb-news/">ISB News</a>
+<ul class="sub-menu">
+	<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://isbmolecularme.com/category/isb-news/awards/">Awards</a></li>
+	<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://isbmolecularme.com/category/isb-news/collaborations/">Collaborations</a></li>
+	<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://isbmolecularme.com/category/isb-news/communityphilanthropy/">Community/Philanthropy</a></li>
+	<li id="menu-item-1687" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1687"><a href="http://isbmolecularme.com/category/isb-news/education/">Education</a></li>
+	<li id="menu-item-10" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-10"><a href="http://isbmolecularme.com/category/isb-news/events/">Events</a></li>
+	<li id="menu-item-11" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-11"><a href="http://isbmolecularme.com/category/isb-news/impact/">Impact</a></li>
+	<li id="menu-item-12" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-12"><a href="http://isbmolecularme.com/category/isb-news/people/">People</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13"><a href="http://isbmolecularme.com/category/isb-news/press/">Press</a></li>
+	<li id="menu-item-14" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14"><a href="http://isbmolecularme.com/category/isb-news/publications/">Publications</a></li>
+</ul>
+</li>
+<li id="menu-item-4" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4"><a href="http://isbmolecularme.com/category/connecting-the-dots/">Connecting the Dots</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://isbmolecularme.com/category/isb-science-report/">ISB Science Report</a></li>
+<li id="menu-item-5" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-5"><a href="http://isbmolecularme.com/category/greater-good/">Greater Good</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-16"><a href="http://isbmolecularme.com/category/lab-notebook/">Lab Notebook</a></li>
+<li id="menu-item-3273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3273"><a href="http://isbmolecularme.com/headlines/">Timeline</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="https://www.systemsbiology.org/support">Support ISB</a></li>
+</ul></div>				
+			<!-- END .row -->
+			</div>
+		
+		<!-- END #navigation -->
+		</nav>
+<!-- BEGIN .row -->
+<div class="row">
+
+	<!-- BEGIN .sixteen columns -->
+	<div class="sixteen columns">
+		
+		<!-- BEGIN .home-slider -->
+		<div class="home-slider shadow">
+		
+			<!-- BEGIN .slideshow -->
+<div class="slideshow radius-full">
+
+	<!-- BEGIN .flexslider -->
+	<div class="flexslider radius-full loading" data-speed="10000" data-transition="fade">
+		
+		<!-- BEGIN .slides -->
+		<ul class="slides">
+		
+															
+			<li>
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+																		<a class="feature-img" href="http://isbmolecularme.com/symposium-on-taoism-biology-life/" rel="bookmark" title="Permalink to Symposium on &#8220;Taoism, Biology &amp; Life&#8221; at ISB on May 18, 2015"><img src="http://isbmolecularme.com/wp-content/uploads/tao.jpg" class="attachment-featured-large wp-post-image" alt="tao" /></a>
+															<!-- END .sixteen columns -->
+				</div>
+				
+			</li>
+			
+												
+			<li>
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+																		<a class="feature-img" href="http://isbmolecularme.com/the-most-powerful-tool-for-reconstructing-a-gene-network/" rel="bookmark" title="Permalink to The Most Powerful Tool for Reconstructing a Gene Network"><img src="http://isbmolecularme.com/wp-content/uploads/cmonkeyMM.jpg" class="attachment-featured-large wp-post-image" alt="cmonkeyMM" /></a>
+															<!-- END .sixteen columns -->
+				</div>
+				
+			</li>
+			
+												
+			<li>
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+																		<a class="feature-img" href="http://isbmolecularme.com/for-the-first-time-in-the-u-s-join-isb-for-bio-fiction/" rel="bookmark" title="Permalink to For the first time in the U.S.: Join ISB for BIO-FICTION"><img src="http://isbmolecularme.com/wp-content/uploads/bio-fiction-banner.jpg" class="attachment-featured-large wp-post-image" alt="bio-fiction-banner" /></a>
+															<!-- END .sixteen columns -->
+				</div>
+				
+			</li>
+			
+												
+			<li>
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+																		<a class="feature-img" href="http://isbmolecularme.com/givebig-2015/" rel="bookmark" title="Permalink to GiveBIG 2015"><img src="http://isbmolecularme.com/wp-content/uploads/giveBIGMM.jpg" class="attachment-featured-large wp-post-image" alt="giveBIGMM" /></a>
+															<!-- END .sixteen columns -->
+				</div>
+				
+			</li>
+			
+												
+			<li>
+				
+				<!-- BEGIN .sixteen columns -->
+				<div class="sixteen columns">
+																		<a class="feature-img" href="http://isbmolecularme.com/nih-led-effort-including-isb-launches-big-data-portal-for-alzheimers-drug-discover/" rel="bookmark" title="Permalink to NIH-Led Effort – Including ISB – Launches Big Data Portal for Alzheimer&#8217;s Drug Discovery"><img src="http://isbmolecularme.com/wp-content/uploads/NIH_ALZ_Portal_MM.jpg" class="attachment-featured-large wp-post-image" alt="NIH_ALZ_Portal_MM" /></a>
+															<!-- END .sixteen columns -->
+				</div>
+				
+			</li>
+			
+												
+		<!-- END .slides -->
+		</ul>
+		
+	<!-- END .flexslider -->
+	</div>
+	
+	<ul class="flex-control-nav radius-bottom">
+		
+				
+						
+		<li><a>Symposium on &#8220;Taoism, Biology...</a></li>
+		
+				
+						
+		<li><a>The Most Powerful Tool...</a></li>
+		
+				
+						
+		<li><a>For the first time...</a></li>
+		
+				
+						
+		<li><a>GiveBIG 2015</a></li>
+		
+				
+						
+		<li><a>NIH-Led Effort – Including...</a></li>
+		
+				
+	</ul>
+
+<!-- END .slideshow -->
+</div>			
+		<!-- END .home-slider -->
+		</div>
+
+	<!-- END .sixteen columns -->
+	</div>
+
+<!-- END .row -->
+</div>
+
+<!-- BEGIN .row -->
+<div class="row">
+	
+	<!-- BEGIN .homepage -->
+	<div class="homepage">
+	
+		
+				
+		<!-- BEGIN .featured-posts -->
+		<div class="featured-posts">
+	
+			<!-- BEGIN .eight columns -->
+			<div class="eleven columns">
+			
+				<!-- BEGIN .home-news -->
+				<div class="home-news radius-full shadow">
+				
+					
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/CP_mm_web.jpg);" href="http://isbmolecularme.com/isb-qa-on-the-systems-biology-summer-course/" rel="bookmark" title="Permalink to ISB Q&amp;A: On the Systems Biology Summer Course"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/isb-qa-on-the-systems-biology-summer-course/" rel="bookmark">ISB Q&#038;A: On the Systems Biology Summer Course</a></h2>
+			
+			<div class="excerpt">
+				<p>From our inception, we at ISB have been committed to knowledge transfer. This profound sense of responsibility to share what we learn serves as the foundation for our signature professional course on systems biology. This year’s course, which takes place July 27-31 in ISB’s&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 19, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/isb-qa-on-the-systems-biology-summer-course/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/DSC_0273-980x720.jpg);" href="http://isbmolecularme.com/systems-biology-101-understanding-proteomics/" rel="bookmark" title="Permalink to Systems Biology 101: Understanding Proteomics"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/systems-biology-101-understanding-proteomics/" rel="bookmark">Systems Biology 101: Understanding Proteomics</a></h2>
+			
+			<div class="excerpt">
+				<p>If DNA is the blueprint for life, then proteins are the bricks. The genes in DNA are translated into proteins, strings of amino acids that fold into three-dimensional structures. The type and order of the amino acids in a protein will change its shape&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 18, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/systems-biology-101-understanding-proteomics/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/17243538270_c130fb2b84_k-980x720.jpg);" href="http://isbmolecularme.com/bio-fiction-recap/" rel="bookmark" title="Permalink to Bio-Fiction Recap"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/bio-fiction-recap/" rel="bookmark">Bio-Fiction Recap</a></h2>
+			
+			<div class="excerpt">
+				<p>On May 7, ISB hosted the first-ever screening of BIO·FICTION in North America. More than 120 people attended the event, which took place as part of the South Lake Union Art Walk. BIO·FICTION explores the emerging field of synthetic biology from different disciplinary angles&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 8, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/bio-fiction-recap/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/Screen-Shot-2015-05-05-at-8.21.15-AM.png);" href="http://isbmolecularme.com/7-reasons-to-givebig-to-isb/" rel="bookmark" title="Permalink to 7 Reasons to GiveBIG to ISB"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/7-reasons-to-givebig-to-isb/" rel="bookmark">7 Reasons to GiveBIG to ISB</a></h2>
+			
+			<div class="excerpt">
+				<p>Today is May 5, which many people associate with Cinco de Mayo revelry. But for ISB, today is GiveBIG, Seattle Foundation&#8217;s day of community giving. When you give to ISB today, Seattle Foundation will match a percentage of your gift. You can go directly&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 5, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/7-reasons-to-givebig-to-isb/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/PD5A4182-980x720.jpg);" href="http://isbmolecularme.com/new-500k-ospi-award-aids-isbs-work-with-marysville-school-district/" rel="bookmark" title="Permalink to New $500K OSPI Award Aids ISB&#8217;s Work with Marysville School District"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/new-500k-ospi-award-aids-isbs-work-with-marysville-school-district/" rel="bookmark">New $500K OSPI Award Aids ISB&#8217;s Work with Marysville School District</a></h2>
+			
+			<div class="excerpt">
+				<p>Above: Dr. Dana Riley Black, Director for ISB&#8217;s Logan Center for Education, speaks to educators about how her team and other ISB researchers work with school districts. FOR IMMEDIATE RELEASE Marysville School District Scores $500,000 OSPI Funding for Science &amp; Engineering Workshops for Teachers&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on May 1, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/new-500k-ospi-award-aids-isbs-work-with-marysville-school-district/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/manyschools.jpg);" href="http://isbmolecularme.com/systems-biology-101-on-being-interdisciplinary/" rel="bookmark" title="Permalink to SYSTEMS BIOLOGY 101: On Being Interdisciplinary"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/systems-biology-101-on-being-interdisciplinary/" rel="bookmark">SYSTEMS BIOLOGY 101: On Being Interdisciplinary</a></h2>
+			
+			<div class="excerpt">
+				<p>In describing systems biology and the distinguishing characteristics of ISB’s approach, we always emphasize how our lab groups are intentionally and necessarily interdisciplinary. One of our labs, for example, includes molecular biologists, microbiologists, geneticists, engineers, oceanographers, and even an astrophysicist. The complexity of biology&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 22, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/systems-biology-101-on-being-interdisciplinary/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/tao-980x480.jpg);" href="http://isbmolecularme.com/symposium-on-taoism-biology-life/" rel="bookmark" title="Permalink to Symposium on &#8220;Taoism, Biology &amp; Life&#8221; at ISB on May 18, 2015"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/symposium-on-taoism-biology-life/" rel="bookmark">Symposium on &#8220;Taoism, Biology &#038; Life&#8221; at ISB on May 18, 2015</a></h2>
+			
+			<div class="excerpt">
+				<p>Painting copyright Feng Xiaodong. Institute for Systems Biology presents: Taoism, Biology and Life Please join ISB in welcoming Xiao Dong Feng and Dr. Stephen Little for a symposium on Taoism, Biology and Life. Opening remarks by Dr. Lee Hood. This event is free and&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 21, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/symposium-on-taoism-biology-life/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/PD5A3122-980x720.jpg);" href="http://isbmolecularme.com/isbs-impact-on-college-science-courses/" rel="bookmark" title="Permalink to ISB&#8217;s Impact on College Science Courses"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/isbs-impact-on-college-science-courses/" rel="bookmark">ISB&#8217;s Impact on College Science Courses</a></h2>
+			
+			<div class="excerpt">
+				<p>By Dana Riley Black Director for Logan Center for Education Recognizing that systems biology has fostered a paradigm shift in the practice of biology, ISB has interest in supporting educators in advancing science-related course offerings to better reflect contemporary practices of biology. With leadership&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 21, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/isbs-impact-on-college-science-courses/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/PD5A2145-980x720.jpg);" href="http://isbmolecularme.com/isb-qa-high-school-science-teachers/" rel="bookmark" title="Permalink to ISB Q&amp;A: High School Science Teachers"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/isb-qa-high-school-science-teachers/" rel="bookmark">ISB Q&#038;A: High School Science Teachers</a></h2>
+			
+			<div class="excerpt">
+				<p>From left to right: High school teachers Tami Caraballo and Jennifer Duncan-Taylor work with ISB’s Claudia Ludwig, Baliga Lab Education Program Manager, to learn about ocean acidification, cancer cells, and biofuel. Through the MJ Murdock Charitable Trust’s Partners in Science program, ISB has been&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 21, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/isb-qa-high-school-science-teachers/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/cmonkeyMM-980x480.jpg);" href="http://isbmolecularme.com/the-most-powerful-tool-for-reconstructing-a-gene-network/" rel="bookmark" title="Permalink to The Most Powerful Tool for Reconstructing a Gene Network"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/the-most-powerful-tool-for-reconstructing-a-gene-network/" rel="bookmark">The Most Powerful Tool for Reconstructing a Gene Network</a></h2>
+			
+			<div class="excerpt">
+				<p>Scanning EM of bacteria being eaten by white blood cell Photo Credit: Adrian Ozinsky 3 Bullets: Nearly a decade ago, ISB’s Baliga Lab published a landmark paper describing cMonkey, an innovative method to accurately map gene networks within any organism from microbes to humans&#8230;.</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 17, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/the-most-powerful-tool-for-reconstructing-a-gene-network/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/bio-fiction-banner-980x480.jpg);" href="http://isbmolecularme.com/for-the-first-time-in-the-u-s-join-isb-for-bio-fiction/" rel="bookmark" title="Permalink to For the first time in the U.S.: Join ISB for BIO-FICTION"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/for-the-first-time-in-the-u-s-join-isb-for-bio-fiction/" rel="bookmark">For the first time in the U.S.: Join ISB for BIO-FICTION</a></h2>
+			
+			<div class="excerpt">
+				<p>Join us on Thursday, May 7 at Institute for Systems Biology  in South Lake Union Doors open at 4:30pm. Screening begins at 5:00pm, followed by a panel discussion. BIO·FICTION explores the emerging field of synthetic biology from different disciplinary angles including science and engineering,&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 14, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/for-the-first-time-in-the-u-s-join-isb-for-bio-fiction/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+<!-- BEGIN .information -->
+<div class="information">
+	
+	
+	<!-- BEGIN .six columns -->
+	<div class="six columns">
+		
+					<a class="feature-img background-cover" style="background-image: url(http://isbmolecularme.com/wp-content/uploads/giveBIGMM-980x480.jpg);" href="http://isbmolecularme.com/givebig-2015/" rel="bookmark" title="Permalink to GiveBIG 2015"></a>
+		
+	<!-- END .six columns -->
+	</div>
+
+	<!-- BEGIN .twelve columns -->
+	<div class="ten columns">
+	
+		<div class="holder">
+	
+		<!-- BEGIN .article -->
+		<div class="article">
+		
+			<h2 class="title"><a href="http://isbmolecularme.com/givebig-2015/" rel="bookmark">GiveBIG 2015</a></h2>
+			
+			<div class="excerpt">
+				<p>Date: Tuesday, May 5th, 2015 Time: 12:00 AM to 12:00 AM PST Where: The Seattle Foundation website Get Involved: Visit ISB&#8217;s profile page GiveBIG is an annual, community-wide day of giving hosted by The Seattle Foundation that aims to inspire regional philanthropy. Between midnight&#8230;</p>
+			</div>
+			
+			<div class="post-author">
+				<p class="align-left"><i class="icon-time"></i> &nbsp;Posted on April 10, 2015</p>
+				<p class="align-right"><i class="icon-comment"></i> &nbsp;<a href="http://isbmolecularme.com/givebig-2015/#comments">Comment</a></p>
+			</div>
+		
+		<!-- END .article -->
+		</div>
+		
+		</div>
+	
+	<!-- END .twelve columns -->
+	</div>
+
+
+<!-- END .information -->
+</div>
+
+
+	<!-- BEGIN .pagination -->
+	<div class="pagination">
+		<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://isbmolecularme.com/page/2/'>2</a>
+<a class='page-numbers' href='http://isbmolecularme.com/page/3/'>3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://isbmolecularme.com/page/26/'>26</a>
+<a class="next page-numbers" href="http://isbmolecularme.com/page/2/">&raquo;</a>	<!-- END .pagination -->
+	</div>
+
+				
+				<!-- END .home-news -->
+				</div>
+			
+			<!-- END .eight columns -->
+			</div>
+			
+			<!-- BEGIN .five columns -->
+			<div class="five columns">
+			
+				
+
+	<div class="sidebar">
+		<div id="text-3" class="widget widget_text">			<div class="textwidget"><p><a href = "http://systemsbiology.org" target="_blank" ><img src= "http://www.systemsbiology.org/sites/default/files/ISB_logo2012color.png" width = "280"></a><br />
+Molecular Me is the news site for ISB. </p>
+<div class="su-button-center"><a href="http://systemsbiology.org/donate-online" class="su-button su-button-style-3d" style="color:#FFFFFF;background-color:#ff9933;border-color:#cc7a29;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px" target="_self"><span style="color:#FFFFFF;padding:0px 22px;font-size:17px;line-height:34px;border-color:#ffb870;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;text-shadow:none;-moz-text-shadow:none;-webkit-text-shadow:none"> Donate Now</span></a></div>
+</div>
+		</div><div id="rsgwidget-2" class="widget widget_rsg"><h6>The Minds of ISB</h6>
+	<dl class="rsgallery">
+		<dt class="rsg_item">
+			<a href="http://isbmolecularme.com/isb-minds/" title="Click to learn more about the Minds of ISB who infuse this place with a vibrant, collaborative, entrepreneurial and driven spirit.  Nina Arens"><img src="http://isbmolecularme.com/wp-content/uploads/PD5A2443-300x200.jpg" alt="Click to learn more about the Minds of ISB who infuse this place with a vibrant, collaborative, entrepreneurial and driven spirit.  Nina Arens" title="Click to learn more about the Minds of ISB who infuse this place with a vibrant, collaborative, entrepreneurial and driven spirit.  Nina Arens" width="300" height="200" class="rsg_image" /></a>
+		</dt>
+		<dd class="rsg_caption">"Advice for aspiring biologists? Learn a programming language. When I was in college getting my B.S. in biology, computer science was never a required course. But after seeing what working in the life sciences today means, most funded research projects deal with large datasets and big, complicated pictures. When you know how to code, you become a valuable player for those labs which dive deep into genomics, proteomics, regulation—and you build the skills to sort and dissect biological problems down to the last detail. Learn how to code, and you’ll not only be able to work on cooler projects, but you’ll carry yourself to cooler places to work."  - NINA ARENS, Research Associate 1, Baliga Lab</dd>
+	</dl></div><div id="dpe_fp_widget-2" class="widget widget_dpe_fp_widget"><h6>Recent Publications</h6>	<ul class="dpe-flexible-posts">
+			<li id="post-3650" class="post-3650 post type-post status-publish format-standard has-post-thumbnail hentry category-isb-science-report category-lobby category-publications category-slider tag-arjun-raman tag-baliga-publications tag-cmonkey tag-cmonkey2 tag-dr-nitin-baliga tag-software">
+			<a href="http://isbmolecularme.com/the-most-powerful-tool-for-reconstructing-a-gene-network/">
+				<img src="http://isbmolecularme.com/wp-content/uploads/cmonkeyMM-800x356.jpg" class="attachment-large wp-post-image" alt="cmonkeyMM" />				<h4 class="title">The Most Powerful Tool for Reconstructing a Gene Network</h4>
+			</a>
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+</div><div id="dpe_fp_widget-3" class="widget widget_dpe_fp_widget"><h6>Latest in Education</h6>	<ul class="dpe-flexible-posts">
+			<li id="post-3707" class="post-3707 post type-post status-publish format-standard has-post-thumbnail hentry category-education category-grants-isb-news category-lobby tag-awards tag-dr-dana-riley-black tag-isb-education tag-lce tag-logan-center-for-education tag-marysville-school-district tag-ospi">
+			<a href="http://isbmolecularme.com/new-500k-ospi-award-aids-isbs-work-with-marysville-school-district/">
+				<img src="http://isbmolecularme.com/wp-content/uploads/PD5A4182-800x533.jpg" class="attachment-large wp-post-image" alt="PD5A4182" />				<h4 class="title">New $500K OSPI Award Aids ISB&#8217;s Work with Marysville School District</h4>
+			</a>
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+</div><div id="dpe_fp_widget-8" class="widget widget_dpe_fp_widget"><h6>What&#8217;s new with Lee?</h6>	<ul class="dpe-flexible-posts">
+			<li id="post-3730" class="post-3730 post type-post status-publish format-standard has-post-thumbnail hentry category-dr-lee-hood category-events category-isb-news tag-aron-m-thompson tag-art tag-art-and-science tag-artscience tag-bio-fiction tag-dr-allison-kudla tag-dr-lee-hood tag-dr-nitin-baliga tag-dr-phillip-thurtle tag-dr-sui-huang tag-film tag-lee-hood tag-nick-newcombe tag-nitin-baliga tag-sui-huang tag-symposium tag-synthetic-biology tag-tom-skerritt">
+			<a href="http://isbmolecularme.com/bio-fiction-recap/">
+								<h4 class="title">Bio-Fiction Recap</h4>
+			</a>
+		</li>
+		</ul><!-- .dpe-flexible-posts -->
+</div><div id="recent-comments-3" class="widget widget_recent_comments"><h6>Recent Comments</h6><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Karen</span> on <a href="http://isbmolecularme.com/isb-launches-3-year-wilke-lyme-disease-project-with-2-13m-funding-2/#comment-11534">ISB Launches 3-Year Wilke Lyme Disease Project with $2.13M Funding</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://www.bayarealyme.org/blog/wilke-lyme-disease-project-to-focus-on-chronic-lyme/' rel='external nofollow' class='url'>Wilke Lyme Disease Project to Focus on Chronic Lyme | Bay Area Lyme Foundation</a></span> on <a href="http://isbmolecularme.com/isb-launches-3-year-wilke-lyme-disease-project-with-2-13m-funding-2/#comment-11531">ISB Launches 3-Year Wilke Lyme Disease Project with $2.13M Funding</a></li><li class="recentcomments"><span class="comment-author-link">Beth S</span> on <a href="http://isbmolecularme.com/isb-launches-3-year-wilke-lyme-disease-project-with-2-13m-funding-2/#comment-11528">ISB Launches 3-Year Wilke Lyme Disease Project with $2.13M Funding</a></li><li class="recentcomments"><span class="comment-author-link"><a href='http://badlymeattitude.com' rel='external nofollow' class='url'>Beaux Reliosis</a></span> on <a href="http://isbmolecularme.com/isb-launches-3-year-wilke-lyme-disease-project-with-2-13m-funding-2/#comment-11510">ISB Launches 3-Year Wilke Lyme Disease Project with $2.13M Funding</a></li><li class="recentcomments"><span class="comment-author-link">ISBUSA</span> on <a href="http://isbmolecularme.com/isb-launches-3-year-wilke-lyme-disease-project-with-2-13m-funding-2/#comment-11509">ISB Launches 3-Year Wilke Lyme Disease Project with $2.13M Funding</a></li></ul></div><div id="rssblogroll-3" class="widget RSSBlogroll"><h6>ISBers Blogs</h6><ul><li><a href="http://antarcticallison.blogspot.com/2015/03/two-month-antarctica-trip-in-under-five.html" title="This beautiful time-lapse video created and narrated by Cassandra Brooks sums up the trip well:&hellip;  Antarctica  via New Zealand and Chile March 7, 2015" target="_blank">Two Month Antarctica Trip in Under Five Minutes</a> <span class="rssblogroll-feedname">Antarctica  via New Zealand and Chile</span>, <span class="rssblogroll-date">March 7, 2015</span>  <cite>Allison Lee</cite></li><li><a href="http://biofabric.blogspot.com/2014/12/the-unquestionable-usefulness-of-memory.html" title="So, almost two years ago I blogged about The Shape of Things to Come, which discussed how BioFabric could handle the Stanford Web Graph, from the Stanford Large Network Dataset Collection. Here is wha&hellip;  Combing the Hairball December 14, 2014" target="_blank">The Unquestionable Usefulness of Memory</a> <span class="rssblogroll-feedname">Combing the Hairball</span>, <span class="rssblogroll-date">December 14, 2014</span>  <cite>William Longabaugh</cite></li><li><a href="http://biofabric.blogspot.com/2014/09/d3-or-not-d3-that-is-question.html" title="The Super-Quick BioFabric demo has been around now for 16 months, and I&#039;ve found it to be a great way to introduce the nodes-as-lines idea behind BioFabric. It uses Mike Bostock&#039;s D3.js Java&hellip;  Combing the Hairball September 13, 2014" target="_blank">D3 or Not D3? That is The Question...</a> <span class="rssblogroll-feedname">Combing the Hairball</span>, <span class="rssblogroll-date">September 13, 2014</span>  <cite>William Longabaugh</cite></li><li><a href="https://epigeneticlandscape.wordpress.com/2014/08/29/bacteria-parallel-with-cancer-drug-reistance/" title="PLoS Biology published a paper recently about nongenetic drug resistance of bacteria “Salmonella“. Arnoldini M, Vizcarra IA, Peña-Miller R, Stocker N, Diard M, et al. (2014) Bistable Expression of Vir&hellip;  Epigenetic Landscape August 29, 2014" target="_blank">Bacteria parallel with cancer drug reistance</a> <span class="rssblogroll-feedname">Epigenetic Landscape</span>, <span class="rssblogroll-date">August 29, 2014</span>  <cite>suilabisb</cite></li><li><a href="https://karlynsandiego.wordpress.com/2014/07/21/turkey-the-final-episode/" title="I did exactly what I swore I wouldn’t do!!  This post should’ve been written in Turkey, amidst the moments as they happened, but now I’m back.  I’m learning that it’s easy to just jump right back into&hellip;  Where in the world is...? July 22, 2014" target="_blank">Turkey: The final episode</a> <span class="rssblogroll-feedname">Where in the world is...?</span>, <span class="rssblogroll-date">July 22, 2014</span>  <cite>karlynb23</cite></li></ul></div><div id="archives-4" class="widget widget_archive"><h6>Archives</h6>		<select name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			<option value="">Select Month</option>
+
+				<option value='http://isbmolecularme.com/2015/05/'> May 2015 </option>
+	<option value='http://isbmolecularme.com/2015/04/'> April 2015 </option>
+	<option value='http://isbmolecularme.com/2015/03/'> March 2015 </option>
+	<option value='http://isbmolecularme.com/2015/02/'> February 2015 </option>
+	<option value='http://isbmolecularme.com/2015/01/'> January 2015 </option>
+	<option value='http://isbmolecularme.com/2014/12/'> December 2014 </option>
+	<option value='http://isbmolecularme.com/2014/11/'> November 2014 </option>
+	<option value='http://isbmolecularme.com/2014/10/'> October 2014 </option>
+	<option value='http://isbmolecularme.com/2014/09/'> September 2014 </option>
+	<option value='http://isbmolecularme.com/2014/08/'> August 2014 </option>
+	<option value='http://isbmolecularme.com/2014/07/'> July 2014 </option>
+	<option value='http://isbmolecularme.com/2014/06/'> June 2014 </option>
+	<option value='http://isbmolecularme.com/2014/05/'> May 2014 </option>
+	<option value='http://isbmolecularme.com/2014/04/'> April 2014 </option>
+	<option value='http://isbmolecularme.com/2014/03/'> March 2014 </option>
+	<option value='http://isbmolecularme.com/2014/02/'> February 2014 </option>
+	<option value='http://isbmolecularme.com/2014/01/'> January 2014 </option>
+	<option value='http://isbmolecularme.com/2013/12/'> December 2013 </option>
+	<option value='http://isbmolecularme.com/2013/11/'> November 2013 </option>
+	<option value='http://isbmolecularme.com/2013/10/'> October 2013 </option>
+	<option value='http://isbmolecularme.com/2013/09/'> September 2013 </option>
+	<option value='http://isbmolecularme.com/2013/08/'> August 2013 </option>
+	<option value='http://isbmolecularme.com/2013/07/'> July 2013 </option>
+	<option value='http://isbmolecularme.com/2013/06/'> June 2013 </option>
+	<option value='http://isbmolecularme.com/2013/05/'> May 2013 </option>
+	<option value='http://isbmolecularme.com/2013/04/'> April 2013 </option>
+	<option value='http://isbmolecularme.com/2013/03/'> March 2013 </option>
+	<option value='http://isbmolecularme.com/2013/02/'> February 2013 </option>
+	<option value='http://isbmolecularme.com/2013/01/'> January 2013 </option>
+	<option value='http://isbmolecularme.com/2012/12/'> December 2012 </option>
+	<option value='http://isbmolecularme.com/2012/11/'> November 2012 </option>
+	<option value='http://isbmolecularme.com/2012/10/'> October 2012 </option>
+	<option value='http://isbmolecularme.com/2012/08/'> August 2012 </option>
+	<option value='http://isbmolecularme.com/2012/07/'> July 2012 </option>
+	<option value='http://isbmolecularme.com/2012/06/'> June 2012 </option>
+	<option value='http://isbmolecularme.com/2012/05/'> May 2012 </option>
+	<option value='http://isbmolecularme.com/2012/04/'> April 2012 </option>
+	<option value='http://isbmolecularme.com/2012/03/'> March 2012 </option>
+	<option value='http://isbmolecularme.com/2012/02/'> February 2012 </option>
+	<option value='http://isbmolecularme.com/2012/01/'> January 2012 </option>
+	<option value='http://isbmolecularme.com/2011/11/'> November 2011 </option>
+	<option value='http://isbmolecularme.com/2011/10/'> October 2011 </option>
+	<option value='http://isbmolecularme.com/2011/09/'> September 2011 </option>
+	<option value='http://isbmolecularme.com/2011/08/'> August 2011 </option>
+		</select>
+</div><div id="search-4" class="widget widget_search"><h6>Search</h6><form method="get" id="searchform" action="http://isbmolecularme.com//" >
+		<label for="s">Search</label>
+		<div class="search-holder"><input type="search" class="search-field" placeholder="Search Here" value="" name="s"><input type="submit" id="searchsubmit" value="Go" />
+		</div>
+		</form></div><div id="text-9" class="widget widget_text">			<div class="textwidget"><div align="center"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.</div></div>
+		</div>	</div>
+
+				
+			<!-- END .five columns -->
+			</div>
+	
+		<!-- END .featured-posts -->
+		</div>
+	
+			
+	<!-- END .homepage -->
+	</div>
+
+<!-- END .row -->
+</div>
+
+
+<div class="clear"></div>
+
+<!-- END .container -->
+</div>
+
+<!-- BEGIN .footer -->
+<div class="footer radius-top">
+
+		
+	<!-- BEGIN .row -->
+	<div class="row">
+		
+		<!-- BEGIN .footer-information -->
+		<div class="footer-information">
+		
+			<!-- BEGIN .footer-content -->
+			<div class="footer-content">
+		
+				<div class="align-left">
+					</div>
+				
+				<div class="align-right">
+					<ul class="social-icons">
+													<li><a class="link-facebook" href="http://www.facebook.com/ISB.USA" target="_blank"><span aria-hidden="true" class="organicon-facebook"></span></a></li>
+																			<li><a class="link-twitter" href="https://twitter.com/ISBUSA" target="_blank"><span aria-hidden="true" class="organicon-twitter"></span></a></li>
+																																					<li><a class="link-google" href="https://plus.google.com/u/0/106111321817874683497" target="_blank"><span aria-hidden="true" class="organicon-googleplus"></span></a></li>
+																															<li><a class="link-instagram" href="http://www.flickr.com/photos/90930918@N08/" target="_blank"><span aria-hidden="true" class="organicon-instagram-2"></span></a></li>
+																			<li><a class="link-youtube" href="http://www.youtube.com/user/ISBSystemsBiology" target="_blank"><span aria-hidden="true" class="organicon-youtube"></span></a></li>
+						                        							<li><a class="link-rss" href="http://isbmolecularme.com/feed/" target="_blank"><span aria-hidden="true" class="organicon-feed"></span></a></li>
+																			<li><a class="link-email" href="mailto:communications@systemsbiology.org" target="_blank"><span aria-hidden="true" class="organicon-envelop"></span></a></li>
+											</ul>
+				</div>
+		
+			<!-- END .footer-content -->
+			</div>
+		
+		<!-- END .footer-information -->
+		</div>
+	
+	<!-- END .row -->
+	</div>
+
+<!-- END .footer -->
+</div>
+
+<!-- END #wrap -->
+</div>
+
+<link rel='stylesheet' id='su-content-shortcodes-css'  href='http://isbmolecularme.com/wp-content/plugins/shortcodes-ultimate/assets/css/content-shortcodes.css?ver=4.9.6' type='text/css' media='all' />
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/button.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/jquery.custom.js?ver=20130729'></script>
+<script type='text/javascript' src='http://isbmolecularme.com/wp-content/themes/organic_natural2/js/navigation.js?ver=20130729'></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=246727095428680";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+</body>
+</html>

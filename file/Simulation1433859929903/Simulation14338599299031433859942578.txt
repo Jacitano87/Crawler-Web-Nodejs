@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+		<title> Synthetic Biology Project</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="Ensuring benefits of synthetic biology are realized through responsible development. Synthetic biology specific news, events, publications and more." />
+	<link rel="stylesheet" type="text/css" href="/site/templates/styles/main.css" />
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
+
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="/process/templates/styles/ie.css" />
+	<![endif]-->	
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/process/templates/styles/ie7.css" />
+	<![endif]-->	
+
+	<!--[if lt IE 7]>
+	<link rel="stylesheet" type="text/css" href="/process/templates/styles/ie6.css" />
+	<![endif]-->
+
+	<!--
+	<link rel="alternate" type="application/rss+xml" title="Project News Feed" href="/news/project_rss/" />
+	<link rel="alternate" type="application/rss+xml" title="Synbio News Feed" href="/news/synbio_rss/" />
+	<link rel="alternate" type="application/rss+xml" title="Events Feed" href="/events/rss/" />
+	-->
+
+</head>
+<body id="body_home" class="ProCache page-1 section-home"><!-- ProCache v200 / 2015-06-09 09:59:36 / 0.2698s -->
+
+<div class="container">
+
+	<div id="masthead" class="cf">
+
+		<a id="logo" href="/">Synthetic Biology Project</a>
+
+		<ul id="topnav">
+		<li class='page-1006'><a href='/news/'>News</a></li><li class='page-1010'><a href='/events/'>Events</a></li><li class='page-1009'><a href='/topics/'>Topics</a></li><li class='page-1011'><a href='/publications/'>Publications</a></li><li class='page-1012'><a href='/inventories/'>Inventories</a></li><li class='page-1013'><a href='/about/'>About</a></li>		</ul>
+
+		<form id="search" action="/search/">
+			<input type="text" placeholder="search" id="search_query" name="q" value="" />	
+			<button type="submit" id="search_submit" name="search_submit" value="1"><i class="fa fa-search"></i></button>
+		</form>
+
+			
+	</div><!--/masthead-->
+
+
+
+
+
+	<div class="content cf">
+
+		<div class="module what_module">
+	<h2>What is Synthetic Biology?</h2>
+	<p>Good question! It's building as we speak. We'll give you a bird's eye view of what all the excitement and uncertainty is about. <a href="topics/synbio101/">More</a></p>
+</div>
+
+<div class="module image_module">
+<img src='/site/assets/files/1/home_module_final.jpg' alt='' />
+</div>
+
+<div class='module news-item_module parent_project' style='background-color: #FFE896;' ><div class='icons'><i class='fa fa-star'></i></div><div class='module_container'><span class='module_label'><a href='/news/project/'>Project news</a> • 05/21/15</span><a class='name' href='/news/project/public-mixed-on-new-technology-to-edit-dna-but-urge-caution-for-researchers/'>Public Reaction Mixed on New Technology to Edit DNA, But Caution Urged for Researchers</a><p>Respondents to national online poll from the Synthetic Biology Project are uncertain about potential of gene-editing technology, but a majority support a ban on human-based research.</p></div><a class='more' href='/news/project/'>Project news &gt;</a></div><div class='module news-item_module parent_project' style='background-color: #FFE896;' ><div class='icons'><i class='fa fa-star'></i></div><div class='module_container'><span class='module_label'><a href='/news/project/'>Project news</a> • 04/29/15</span><a class='name' href='/news/project/new-inventory-tracks-growth-of-synthetic-biology-products-and-applications/'>New Inventory Tracks Growth of Synthetic Biology Products and Applications</a><p>The Wilson Center’s Synthetic Biology Project today has developed a first-of-its-kind inventory to track products and applications using the emerging technology of synthetic biology.</p></div><a class='more' href='/news/project/'>Project news &gt;</a></div><div class='module news-item_module parent_project' style='background-color: #FFE896;' ><div class='icons'><i class='fa fa-star'></i></div><div class='module_container'><span class='module_label'><a href='/news/project/'>Project news</a> • 03/26/15</span><a class='name' target='_blank' href='http://blogs.scientificamerican.com/guest-blog/2015/03/13/how-identity-evolves-in-the-age-of-genetic-imperialism/'><i class='fa fa-external-link'></i> Scientific American Op-ed Looks at &quot;Genetic Determinism&quot;</a><p>In a new op-ed, Eleonore Pauwels of the Synthetic Biology Projects and Jim Dratwa explore the limits of what DNA can tell us.</p></div><a class='more' href='/news/project/'>Project news &gt;</a></div><div class='module news-item_module parent_project' style='background-color: #FFE896;' ><div class='icons'><i class='fa fa-star'></i></div><div class='module_container'><span class='module_label'><a href='/news/project/'>Project news</a> • 10/29/14</span><a class='name' href='/news/project/plos-looks-at-the-importance-of-synthetic-biology-communication/'>PLOS Looks at the Importance of Synthetic Biology Communication</a><p>David Shifrin of the Public Library of Science (PLOS) speaks with David Rejeski about the importance of properly communicating synthetic biology concepts.</p></div><a class='more' href='/news/project/'>Project news &gt;</a></div><div class='module publication_module parent_publications'  ><div class='icons'></div><a class='imagelink' href='/publications/6684/'><img src='/site/assets/files/1293/focus_cover.122x0.png' alt='Perceptions of Synthetic Biology and Neural Engineering' /></a><div class='module_container'><span class='module_label'><a href='/publications/'>Publications</a> • 05/15/14</span><a class='name' href='/publications/6684/'>Perceptions of Synthetic Biology and Neural Engineering</a><p>This report summarizes key findings from two focus groups held in April 2014, which sought to gauge awareness of synthetic biology and neural engineering.</p></div><a class='more' href='/publications/'>Publications &gt;</a></div><div class='module publication_module parent_publications'  ><div class='icons'><i class='fa fa-star'></i></div><a class='imagelink' href='/publications/a-guide-for-communicating-synthetic-biology/'><img src='/site/assets/files/1375/guide_cover.122x0.png' alt='A Guide for Communicating Synthetic Biology' /></a><div class='module_container'><span class='module_label'><a href='/publications/'>Publications</a> • 09/29/14</span><a class='name' href='/publications/a-guide-for-communicating-synthetic-biology/'>A Guide for Communicating Synthetic Biology</a><p>This document provides a set of guidelines to help organizations, institutions, journalists, and others discuss the emerging field of synthetic biology with a variety of audiences.</p></div><a class='more' href='/publications/'>Publications &gt;</a></div><div class='module news-item_module parent_project' style='background-color: #FFE896;' ><div class='icons'></div><div class='module_container'><span class='module_label'><a href='/news/project/'>Project news</a> • 05/29/14</span><a class='name' href='/news/project/an-ecological-risk-research-agenda-for-synthetic-biology/'>An Ecological Risk Research Agenda for Synthetic Biology</a><p>Environmental scientists and synthetic biologists have for the first time developed a set of key research areas to study the potential ecological impacts of synthetic biology.</p></div><a class='more' href='/news/project/'>Project news &gt;</a></div><div class='module news-item_module parent_synbio' style='background-color: #FACFA5;' ><div class='icons'><i class='fa fa-star'></i></div><div class='module_container'><span class='module_label'><a href='/news/synbio/'>Synbio news</a> • 01/28/15</span><a class='name' target='_blank' href='http://synbioleap.org/news-2/'><i class='fa fa-external-link'></i> LEAP Announces 2015 Fellows</a><p>The Synthetic Biology Leadership Excellence Accelerator Program (SynBio LEAP) has awarded 23 fellowships to a wide variety of professionals to explore the future of synthetic biology. The fellows will convene their first meeting in early February, hosted by the Synthetic Biology Project at the Wilson Center.</p></div><a class='more' href='/news/synbio/'>Synbio news &gt;</a></div><div class='module news-item_module parent_project' style='background-color: #FFE896;' ><div class='icons'><i class='fa fa-star'></i></div><div class='module_container'><span class='module_label'><a href='/news/project/'>Project news</a> • 07/18/14</span><a class='name' href='/news/project/gene-drives-offer-potential-benefits-but-raise-regulatory-and-ecological-questions/'>“Gene Drives” Offer Potential Benefits, But Raise Regulatory and Ecological Questions</a><p>A cross-disciplinary team is calling for public discussion about a potential new way to solve longstanding global ecological problems by using an emerging technology called “gene drives.”</p></div><a class='more' href='/news/project/'>Project news &gt;</a></div><div class='module inventory_module parent_inventories' style='background: url(/site/assets/files/1379/cpi2.jpg);' ><div class='icons'></div><div class='module_container'><span class='module_label'><a href='/inventories/'>Inventories</a> </span><a class='name' target='_blank' href='http://www.synbioproject.org/cpi/'><i class='fa fa-external-link'></i> Products &amp; Applications Inventory</a><p>This inventory of synthetic biology-based products and applications gives the public the best available look at the many manufacturer-identified products using this emerging technology. Registered users are encouraged to submit relevant data pertaining to synthetic biology applications, their function, properties, and producer(s).</p></div><a class='more' href='/inventories/'>Inventories &gt;</a></div>
+<div class="module twitter_module">
+	<a href='https://twitter.com/synbioproject'><i style='font-size: 20px; float: right;' class='fa fa-twitter'></i></a>
+	<span class='module_label'>Twitter Updates</span>
+	 <p style='margin:0.5em 0;'>New poll finds public mixed on #CRISPR tech to edit DNA, but 72% support a temp ban on human experiments <a href='http://bit.ly/1AniShB'>bit.ly/1AniShB</a>  #synbio<br /><small style='color:#777;'>2 weeks ago</small></p><p style='margin:0.5em 0;'>New poll finds public mixed on new #CRISPR tech to edit DNA, but support a temporary ban on human experiments <a href='http://bit.ly/1AniShB'>bit.ly/1AniShB</a> #synbio<br /><small style='color:#777;'>2 weeks ago</small></p> 	<a class='more' href='https://twitter.com/synbioproject'>Follow us on Twitter &gt;</a> 
+	
+</div><div class="module tools_module">
+	<a class="tool tool_rss" href="/tools/rss/synbio/">Synbio News Feed</a>
+	<a class="tool tool_rss" href="/tools/rss/project/">Project News Feed</a>
+	<a class="tool tool_rss" href="/tools/rss/events/">Events Feed</a>
+	<div style="margin: 0.5em 0 0 0;">
+	<script type="text/javascript">
+		addthis_pub  = 'ryancramer';
+		addthis_brand = 'SynBio Project';
+		addthis_options = 'delicious, digg, email, favorites, facebook, fark, furl, google, live, myweb, myspace, newsvine, reddit, slashdot, stumbleupon, technorati, twitter, more';
+	</script>
+	</div>
+	<a rel="nofollow" href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/button0-share.gif" width="83" height="16" border="0" alt=""></a><script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script><div id="_atssh" style="visibility: hidden; height: 1px; width: 1px; position: absolute; z-index: 100000;"><iframe id="_atssh715" title="AddThis utility frame" src="//ct1.addthis.com/static/r07/sh162.html#iit=1402144369803&amp;tmr=load%3D1402144368936%26core%3D1402144369278%26main%3D1402144369792%26ifr%3D1402144369815&amp;cb=0&amp;cdn=1&amp;chr=UTF-8&amp;kw=&amp;ab=-&amp;dh=www.synbioproject.org&amp;dr=http%3A%2F%2Fwww.synbioproject.org%2Fnews%2Fproject%2F6686%2F&amp;du=http%3A%2F%2Fwww.synbioproject.org%2F&amp;dt=Synthetic%20Biology%20Project&amp;dbg=0&amp;md=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;vcl=1&amp;jsl=33&amp;prod=undefined&amp;lng=fi&amp;ogt=&amp;pc=men&amp;pub=ryancramer&amp;ssl=0&amp;sid=53930671d562e23a&amp;srpl=1&amp;srcs=1&amp;srd=1&amp;srf=1&amp;srx=1&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=&amp;aa=0&amp;csi=undefined&amp;rev=1401990517&amp;ct=1&amp;xld=1&amp;xd=1" style="height: 1px; width: 1px; position: absolute; z-index: 100000; border: 0px; left: 0px; top: 0px;"></iframe></div><script type="text/javascript" src="http://ct1.addthis.com/static/r07/core139.js"></script>
+	<a class="tool_what" href="/tools/what/">what are these?</a>
+</div>
+
+<div class="module footer_module">
+		<a id="sloan" href="http://www.sloan.org" target="_blank">Alfred P. Sloan Foundation</a>
+		<a id="wwics" href="http://www.wilsoncenter.org" target="_blank">Woodrow Wilson Center</a>
+</div>
+		
+
+	</div><!--/content-->
+
+	
+
+</div><!--/container-->
+
+<div id="footer" class="cf">
+	<div class="container">
+		
+		
+		<p class="footer_text">
+		&copy; 2015, Synthetic Biology Project &bull; 
+		<a href='/about'>about</a> &bull;
+		<a href='/about/contact/'>contact</a><br />
+		<a target="_blank" href="http://processwire.com"><img src="/site/templates/styles/images/rcd_processwire.gif" alt="ProcessWire open source CMS powers the Synbio Project website" width="127" height="15" /></a>
+		</p>
+	</div>
+</div>
+<script>
+// Simple script to make sure bodycopy is at least the height of a sidebar
+var side = document.querySelector(".sidebar");
+var body = document.querySelector(".bodycopy");
+if (side && body) {
+	if (side.offsetHeight > body.offsetHeight) {
+		body.style.height = side.offsetHeight + "px";
+	}	
+}
+
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4222775-2");
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
