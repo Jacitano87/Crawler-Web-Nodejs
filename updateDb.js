@@ -9,6 +9,7 @@ The project is released by GPL3 licence 2015.
 var mongoose  = require('../Crawler/connectdb/connectMongoDb');
 var UrlParsing = require('../Crawler/model/dataModel');
 
+//Update Db changing Path
    
  function updateDb(url,numSim,pathCreated)
 {

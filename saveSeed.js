@@ -9,7 +9,8 @@ The project is released by GPL3 licence 2015.
 var mongoose  = require('../Crawler/connectdb/connectMongoDb');
 var UrlParsing = require('../Crawler/model/dataModel');
 
-   
+//Save initial Seeds   
+
  function save(url,numSim)
 {
  

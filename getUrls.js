@@ -11,11 +11,13 @@ var UrlParsing = require('../Crawler/model/dataModel');
 var _crawler = require('../Crawler/crawler');
 var _url = require('../Crawler/getUrls');   
 
+//Get Url from MongoDb
+
  function get(numSimul,callback)
 {
  var resultUrl = [];
    UrlParsing.findOneAndUpdate( {$and: [{ visited:false , simulation:numSimul }]},{$set :{visited:true}},{sort: {_id: 1 }}, function (err, result) {
-  if (err) return handleError(err);
+  if (err){ callback(resultUrl)}
    else
    {
     if(result != null ){  

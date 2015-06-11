@@ -17,11 +17,12 @@ var _updateDb = require('../Crawler/updateDb');
    
 
 
-
+//Crawler function... heart of this project
 
 function crawler(url,numSim,arrayKeys,profondita,path_simulazione,callback)
 {
-    var contatore = 0;
+     //Request to url
+    
    var arrayUrlTrovate = [];   
  var options = {maxRedirects:1 , timeout: 3000 };
 var request = require('request');
@@ -36,9 +37,12 @@ var request = require('request');
         if( response && response.statusCode == 200) 
         { 
             var cheerio = require('cheerio');
-            var $ = cheerio.load(html); //Parsing della url
+            var $ = cheerio.load(html); 
+            
+            //Parsing url with cheerio framework
            
    
+            //Ceck keys into HTML variable
             
              var trovataKey = 0;
             for(var i=0 ; i< arrayKeys.length ; i++)
@@ -50,10 +54,12 @@ var request = require('request');
                 
                 }
      
-            } // chiusura for
+            } // close for
             
             if(trovataKey == 1)
             {
+                //If founded it save into file and update DB with Corrispondent Path
+                
                 var timeInMs = Date.now();
                   var idFile = numSim+""+timeInMs;
                 var tempPath = path_simulazione+"/"+idFile+".txt";
@@ -61,7 +67,7 @@ var request = require('request');
                 
                 fs.writeFile(tempPath, html, function (err) {
                                     if (err) return console.log(err);
-                             //   console.log("File Salvato url:"+url);
+                                console.log("File Salvato url:"+url);
                                 _updateDb.update(url,numSim,tempPath);
                             }); //closeWriteFile  
                             
@@ -77,12 +83,12 @@ var request = require('request');
             
        var temporaneoUrl = [];      
             
-            if($('a').length != 0) // se vi sono a a href
+            if($('a').length != 0) // a href
             {
              
                 $('a').map(function(i, el) {
   
-                    
+                    // Ceck for each 'a href' tag if there are valid Urls
                    
                    
               var urlTrovata =  $(this).attr('href');
@@ -138,13 +144,13 @@ var request = require('request');
                     
               } // close test regex
                             
-             } // close if http e non https
+             } // close if http 
                 
                     
                 }// !undefined
                       
                     
-}) //close map
+}) //close map.each loop
                 
             $ = null;
                 
@@ -171,5 +177,10 @@ var request = require('request');
      
     callback(arrayUrlTrovate); 
 }
+
+
+
+ 
+
 
 module.exports.CrawlingUrl = crawler;

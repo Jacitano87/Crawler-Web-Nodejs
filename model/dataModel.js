@@ -9,6 +9,8 @@ The project is released by GPL3 licence 2015.
 var mongoose = require('mongoose');
 
 
+//Model of MongoDb database
+
 var urlData = require('../schemas/schemaData');
 
 

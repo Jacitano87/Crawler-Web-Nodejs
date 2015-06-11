@@ -6,6 +6,9 @@ Writen by
     
 The project is released by GPL3 licence 2015.
 */
+
+// Schema of mongoDb database
+
 var mongoose = require('mongoose');
 
 var data = new  mongoose.Schema({

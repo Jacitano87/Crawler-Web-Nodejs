@@ -9,6 +9,7 @@ The project is released by GPL3 licence 2015.
 var mongoose  = require('../Crawler/connectdb/connectMongoDb');
 var UrlParsing = require('../Crawler/model/dataModel');
 
+//Save in MongoDB new Urls
    
  function saveUrl(url,urlFather,profondita,numSim,callback)
 {
@@ -16,7 +17,7 @@ var UrlParsing = require('../Crawler/model/dataModel');
     
     
     
-     UrlParsing.findOne({  $and: [ {urlParse: url , simulation:numSim }] }, 'urlCrawler',function (err, elem) {
+     UrlParsing.findOne({  $and: [ {urlParse: url , simulation:numSim }] },function (err, elem) {
                 
                 if(err){console.log('errore'+err)}
 	 
