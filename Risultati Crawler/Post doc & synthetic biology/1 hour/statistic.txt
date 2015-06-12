@@ -1,0 +1,25 @@
+CrawlerNodeJS ANTONIO FISCHETTI
+Test 24 hours - Keywords “Post doc” - “synthetic biology“
+Number of HTML file saved is 302.
+Number of Mail/Url founded is 40.
+
+Start Simulation at:Fri Jun 12 2015 07:48:36 GMT-0400 (EDT)
+Stop  Simulation at:Fri Jun 12 2015 08:48:36 GMT-0400 (EDT)
+
+
+Domain Found in : Simulation1434109711544
+
+Number of Url:1672
+Domain (.org): 313
+Domain (.com): 914
+Domain (.edu): 127
+Domain (.it): 39
+Domain (.uk): 12
+Domain (.gov): 209
+Domain (.net): 20
+Domain (.eu): 10
+Domain (.info): 1
+
+
+MONGODB NAME:
+-Crawler_June_2015_0001
