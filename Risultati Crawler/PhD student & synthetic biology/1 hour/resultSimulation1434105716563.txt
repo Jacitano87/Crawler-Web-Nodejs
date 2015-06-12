@@ -1,0 +1,58 @@
+CrawlerNodeJS ANTONIO FISCHETTI
+Test 24 hours - Keywords “PhD student” - “synthetic biology“
+Number of HTML file saved is 343.
+Number of Mail/Url founded is 50.
+
+Start Simulation at:Fri Jun 12 2015 06:43:56 GMT-0400 (EDT)
+Stop  Simulation at:Fri Jun 12 2015 06:48:56 GMT-0400 (EDT)
+
+
+Mail: toxop@mit.edu 			Url:https://synbio.mit.edu/
+Mail: evanf@aiche.org 			Url:http://synbioconference.org/2014
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/lee-hood/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/events/ 
+Mail: hchou@systemsbiology.orgology.org Url:http://isbmolecularme.com/feed/ 
+Mail: cpi@synbioproject.org 		Url:http://www.synbioproject.org/cpi/account/request/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com 
+Mail: ssbss2014@dmi.unict.it 		Url:http://www.taosciences.it/ssbss2014/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/newsapril15/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/slider/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/events/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/for-the-first-time-in-the-u-s-join-isb-for-bio-fiction/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/nitin-baliga/ 
+Mail: kate.wildauer@synbiobeta.com 	Url:http://synbiobeta.com/conferences/synbiobeta-london-2015/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/events/ 
+Mail: info@evolva.com 			Url:http://www.evolva.com/ 
+Mail: slee@sfchronicle.com 		Url:http://www.sfgate.com/business/article/Controversial-DNA-startup-wants-to-let-customers-5992426.php 
+Mail: contact@biobricks.org 		Url:http://biobricks.org/about-foundation/contact/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/nitin-baliga/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/for-the-first-time-in-the-u-s-join-isb-for-bio-fiction/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/nitin-baliga/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/lee-hood/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/ 
+Mail: webmaster@lbl.govgov 		Url:http://pbd.lbl.gov/featured-news/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/ 
+Mail: ssbss.school@gmail.com 		Url:http://www.taosciences.it/ssbss2015/ 
+Mail: kate.wildauer@synbiobeta.com 	Url:http://synbiobeta.com/conferences/ 
+Mail: ssbss.school@gmail.com 		Url:http://taosciences.it/ssbss2015/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/nitin-baliga/ 
+Mail: synbio@wilsoncenter.org 		Url:http://www.synbioproject.org/cpi/ 
+Mail: aaron.lovell@wilsoncenter.org 	Url:http://www.synbioproject.org/about/contact/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/lee-hood/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/events/ 
+Mail: cdevine@ibe.org 			Url:http://www.ibe.org 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/dr-lee-hood/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/ 
+Mail: info@biomedcentral.com	        Url:http://www.jbioleng.org 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/dr-lee-hood/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/feed/ 
+Mail: dperlman@sfchonicle.com 		Url:http://www.sfgate.com/science/article/Berkeley-scientist-wins-250-000-prize-3861384.php 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/events/ 
+Mail: sb6-info@biobricks.org 		Url:http://sb6.biobricks.org/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/dr-lee-hood/ 
+Mail: sb6-info@biobricks.org 		Url:http://sb6.biobricks.org/ 
+Mail: thi@biobricks.orgicks.org 	Url:http://feedproxy.google.com/~r/Openwetware/~3/ijsRpfPadB8/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/lee-hood/ 
+Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/ 

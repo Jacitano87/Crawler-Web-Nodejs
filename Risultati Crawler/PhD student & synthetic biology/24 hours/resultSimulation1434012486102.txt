@@ -1,7 +1,7 @@
 CrawlerNodeJS ANTONIO FISCHETTI
 Test 24 hours - Keywords “PhD student” - “synthetic biology“
 Number of HTML file saved is 2153.
-Number of Mail founded is 190.
+Number of Mail/Url founded is 190.
 
 Start Simulation at:Thu Jun 11 2015 04:48:06 GMT-0400 (EDT)
 Stop  Simulation at:Fri Jun 12 2015 04:48:06 GMT-0400 (EDT)
