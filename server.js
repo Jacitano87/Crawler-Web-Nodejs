@@ -7,6 +7,22 @@ Writen by
 The project is released by GPL3 licence 2015.
 */
 
+var Rotator = require('mongo-log-rotator');
+
+// Every 1 hour seconds.
+var schedule = '0 0 * * * *';
+
+var rotator = new Rotator(schedule, { 
+  mongoURL: 'mongodb://localhost/database', 
+  /* other options */ 
+});
+
+rotator.on('rotate', function(newFile) {
+  // A rotation has been completed.
+  // newFile is the path to the rotated log file.
+});
+
+rotator.start();
 
 var express = require('express');
 
@@ -207,17 +223,19 @@ var S = require('string');
     var contEu = 0;
     var contInfo = 0;
     
-  var numSim =  req.body.sim;
+var numSim =  req.body.sim;
+console.log("Wait..");
+UrlParsing.find({$and: [{ visited:true , simulation:numSim }]},function (err, urls) {
 
-UrlParsing.find({ simulation:numSim },function (err, urls) {
-                
                 if(err){console.log('errore'+err)}
-    
-	 
+
+console.log("Number of Url:"+urls.length);
+
     urls.forEach(function(urlTemp) {
-     
+
         if(urlTemp.urlParse != null)
         {
+
             
       if(S(urlTemp.urlParse).contains('.org')){  contOrg++;}
       if(S(urlTemp.urlParse).contains('.com')){ contCom++}
