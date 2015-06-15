@@ -32,7 +32,7 @@ Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/for-the-fi
 Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/nitin-baliga/ 
 Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/tag/lee-hood/ 
 Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/ 
-Mail: webmaster@lbl.govgov 		Url:http://pbd.lbl.gov/featured-news/ 
+Mail: webmaster@lbl.gov		Url:http://pbd.lbl.gov/featured-news/ 
 Mail: communications@systemsbiology.org Url:http://isbmolecularme.com/category/isb-news/ 
 Mail: ssbss.school@gmail.com 		Url:http://www.taosciences.it/ssbss2015/ 
 Mail: kate.wildauer@synbiobeta.com 	Url:http://synbiobeta.com/conferences/ 
