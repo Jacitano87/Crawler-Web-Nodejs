@@ -58,12 +58,19 @@ q.saturated = function() {
 //    console.log('Coda saturata');
 }
 
+arraySeed = [];
+arrayKey = [];
+var duration;
+var startSimulation;
+var num_simulazione;
+var string_simulazione;
+var path_simulazione;
+
 app.use('/crawler' , urlencodedParser , function(req, res ,next){
   
     // Express js - Create middleware that listen /crawler
     
-    arraySeed = [];
-    arrayKey = [];
+   
     arraySeed[0] = req.body.url1;
     arraySeed[1] = req.body.url2;
     arraySeed[2] = req.body.url3;
@@ -84,14 +91,14 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
     
     // Setting simulation parameter like duration
     
-    var duration = 1000 * 60 * req.body.durata;
-    var startSimulation = new Date();
-    var num_simulazione =  Date.now();
-    var string_simulazione ="Simulation"+num_simulazione;
+    duration = 1000 * 60 * req.body.durata;
+    startSimulation = new Date();
+    num_simulazione =  Date.now();
+    string_simulazione ="Simulation"+num_simulazione;
     
     //Create subDirectory for each simulation
     
-    var path_simulazione = "./file/"+string_simulazione;
+    path_simulazione = "./file/"+string_simulazione;
     mkdirp(path_simulazione, function(err) { 
 
 });
@@ -104,35 +111,14 @@ app.use('/crawler' , urlencodedParser , function(req, res ,next){
     for ( var i = 0 ; i < arraySeed.length ; i++)
     _seed.saveSeed(arraySeed[i],string_simulazione);
 
-   
-   
-
-var timers =setInterval(function(){
-    
-    //Ceck to finish process after time duration
-    
-    var attualeSimulazione = new Date();
-    var difference = attualeSimulazione - startSimulation;
-    var noUrl = 0;
-    if(difference > duration) 
-    {
+    setTimeout(function(){
        
-         console.log("Simulazione Finita at:"+attualeSimulazione);
-         clearInterval(timers);
-    }    
-    else
-    {
-        //Pushing data on queue and itself call worker
-        
         q.push({simulazione : string_simulazione , arrayChiavi :arrayKey , path : path_simulazione },function (err) {
  
 });  
-
-       
-    }
- 
-
-    },1000);
+        
+    },2000); 
+   
 
 res.end();
 });
@@ -146,7 +132,35 @@ res.end();
 
 function worker(task, nextCall){
 
+     //Ceck to finish process after time duration
     
+    var attualeSimulazione = new Date();
+    var difference = attualeSimulazione - startSimulation;
+    var noUrl = 0;
+    if(difference > duration) 
+    {
+       
+         console.log("Simulazione Finita at:"+attualeSimulazione);
+         
+    }    
+    else
+    {
+        //Pushing data on queue and itself call worker
+        
+       setTimeout(function(){
+       
+        q.push({simulazione : string_simulazione , arrayChiavi :arrayKey , path : path_simulazione },function (err) {
+ 
+});  
+        
+    },2000); 
+
+       
+    }
+        
+    
+    
+       
     
         var urlTemp =[];
         async.series([
