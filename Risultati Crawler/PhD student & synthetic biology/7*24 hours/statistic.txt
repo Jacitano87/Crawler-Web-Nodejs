@@ -1,0 +1,27 @@
+CrawlerNodeJS ANTONIO FISCHETTI
+Test 24 hours - Keywords “PhD student” - “synthetic biology“
+Number of HTML file saved is 3047.
+Number of Mail/Url founded is 570.
+
+Start Simulation at:Mon Jun 15 2015 14:44:02 GMT-0400 (EDT)
+Stop  Simulation at:Mon Jun 22 2015 14:44:02 GMT-0400 (EDT)
+
+Domain Found in : Simulation1434551604740
+Number of Url: 209.051
+Domain (.org): 25998
+Domain (.com): 136606
+Domain (.edu): 9458
+Domain (.it):  5974
+Domain (.uk):  4486
+Domain (.gov): 16822
+Domain (.net): 6107
+Domain (.eu):  360
+Domain (.info): 267
+
+
+MONGODB NAME:
+-Crawler_June_2015_SevenDays_phd_0004
+
+
+
+

@@ -8,7 +8,7 @@ Stop  Simulation at:Sat Jun 13 2015 10:28:16 GMT-0400 (EDT)
 
 
 Domain Found in : Simulation1434119294855
-Number of Url Visited: 67594
+Number of Url Visited: 67.594
 Domain (.org): 9848
 Domain (.com): 40042
 Domain (.edu): 7927
