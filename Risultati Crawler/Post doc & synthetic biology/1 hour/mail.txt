@@ -1,0 +1,48 @@
+CrawlerNodeJS ANTONIO FISCHETTI
+Test 24 hours - Keywords “Post doc” - “synthetic biology“
+Number of HTML file saved is 302.
+Number of Mail/Url founded is 40.
+
+Start Simulation at:Fri Jun 12 2015 07:48:36 GMT-0400 (EDT)
+Stop  Simulation at:Fri Jun 12 2015 08:48:36 GMT-0400 (EDT)
+
+kate.wildauer@synbiobeta.com , 
+communications@systemsbiology.org , 
+cdevine@ibe.org , 
+dperlman@sfchonicle.com , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+aaron.lovell@wilsoncenter.org , 
+tpray@lbl.govoml.gov ,
+info@evolva.com , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+sb6-info@biobricks.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+slee@sfchronicle.com , 
+toxop@mit.edu ,
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+nicosia@dmi.unict.it , 
+communications@systemsbiology.org , 
+diodoro@gaishotels.com , 
+communications@systemsbiology.org , 
+diodoro@gaishotels.com , 
+contact@biobricks.org , 
+communications@systemsbiology.org , 
+contact@biobricks.org , 
+communications@systemsbiology.org , 
+ssbss.school@gmail.com 	, 
+communications@systemsbiology.org , 
+synbio@wilsoncenter.org ,
+hchou@systemsbiology.orgology.org , 
+communications@systemsbiology.org , 
+communications@systemsbiology.org , 
+kate.wildauer@synbiobeta.com ,
