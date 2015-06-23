@@ -7,8 +7,9 @@ Start Simulation at:Fri Jun 12 2015 06:43:56 GMT-0400 (EDT)
 Stop  Simulation at:Fri Jun 12 2015 06:48:56 GMT-0400 (EDT)
 
 Domain Found in : Simulation1434105716563
-
+——————————————————————————————
 Number of Url Visited:1.762
+——————————————————————————————
 Domain (.org): 319
 Domain (.com): 1134
 Domain (.edu): 147
@@ -18,6 +19,7 @@ Domain (.gov): 68
 Domain (.net): 5
 Domain (.eu): 8
 Domain (.info): 1
+——————————————————————————————
 
 
 MONGO DB NAME:

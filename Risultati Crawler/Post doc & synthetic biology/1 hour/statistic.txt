@@ -8,8 +8,9 @@ Stop  Simulation at:Fri Jun 12 2015 08:48:36 GMT-0400 (EDT)
 
 
 Domain Found in : Simulation1434109711544
-
+——————————————————————————————
 Number of Url Visited:1.672
+——————————————————————————————
 Domain (.org): 313
 Domain (.com): 914
 Domain (.edu): 127
@@ -19,7 +20,7 @@ Domain (.gov): 209
 Domain (.net): 20
 Domain (.eu): 10
 Domain (.info): 1
-
+——————————————————————————————
 
 MONGODB NAME:
 -Crawler_June_2015_0001

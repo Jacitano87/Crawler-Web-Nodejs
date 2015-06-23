@@ -7,17 +7,19 @@ Start Simulation at:Mon Jun 15 2015 18:28:16 GMT-0400 (EDT)
 Stop  Simulation at:Mon Jun 22 2015 18:28:16 GMT-0400 (EDT)
 
 Domain Found in : Simulation1434551722493
+——————————————————————————————
 Number of Url: 21.0793
-Domain (.org): 19234
-Domain (.com): 150337
-Domain (.edu): 10199
-Domain (.it):  6007
-Domain (.uk):  3953
-Domain (.gov): 12330
-Domain (.net): 5864
+——————————————————————————————
+Domain (.org): 19.234
+Domain (.com): 15.0337
+Domain (.edu): 10.199
+Domain (.it):  6.007
+Domain (.uk):  3.953
+Domain (.gov): 12.330
+Domain (.net): 5.864
 Domain (.eu):  352
 Domain (.info): 189
-
+——————————————————————————————
 
 MONGODB NAME:
 -Crawler_June_2015_SevenDays_doc_0004
