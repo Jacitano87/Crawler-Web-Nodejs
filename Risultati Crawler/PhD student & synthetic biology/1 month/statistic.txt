@@ -10,19 +10,19 @@ Domain Found in : Simulation1435046993906
 ——————————————————————————————
 Number of Url Visited: 355.208
 ——————————————————————————————
-Domain (.org): 60.515
-Domain (.com): 216.087
+Domain (.org): 61.515
+Domain (.com): 218.087
 Domain (.edu): 23.121
-Domain (.it): 6.345
-Domain (.uk): 8.718
-Domain (.gov): 11.492
-Domain (.net): 23.618
-Domain (.eu): 1.027
+Domain (.it): 6.365
+Domain (.uk): 8.794
+Domain (.gov): 11.592
+Domain (.net): 23.918
+Domain (.eu): 1.327
 Domain (.info): 489
 ——————————————————————————————
 
 MONGODB NAME:
--Crawler_June_2015_SevenDays_phd_0004
+-Crawler_June_2015_Mese_0002
 
 
 
