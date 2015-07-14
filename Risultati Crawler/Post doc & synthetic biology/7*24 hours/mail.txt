@@ -1,11 +1,3 @@
-CrawlerNodeJS ANTONIO FISCHETTI
-Test 7*24 hours - Keywords “Post doc” - “synthetic biology“
-Number of HTML file saved is 2.306.
-Number of Mail/Url founded is 376.
-
-Start Simulation at:Mon Jun 15 2015 18:28:16 GMT-0400 (EDT)
-Stop  Simulation at:Mon Jun 22 2015 18:28:16 GMT-0400 (EDT)
-
 skumar@berkeley.edu , 
 evanf@aiche.org ,
 communications@systemsbiology.org , 
